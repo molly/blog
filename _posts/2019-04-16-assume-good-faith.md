@@ -43,7 +43,7 @@ I acknowledge that it's a tough line to walk: most people are not knowingly perp
 Even while writing this post I feel that familiar twinge, that deeply-ingrained habit to reassure you that no, this post isn't about you. You're one of the good ones, sweetie. I'm writing about those other times that someone has played the devil's advocate. No specific time or person, of course, just in general. I'm assuming good faith.
 
 [^fn1]: "Snow keep" (or "speedy keep") is the outcome of a deletion discussion on Wikipedia where the discussion has been so overwhelmingly in favor of keeping the article that it is closed before the standard seven days of discussion has passed.
-[^fn2]: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red
-[^fn3]: https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Katie_Bouman
-[^fn4]: https://www.dreamhost.com/blog/state-of-women-in-tech/
-[^fn5]: https://en.wikipedia.org/wiki/Wikipedia:Systemic_bias#Women_are_underrepresented
+[^fn2]: [Women in Red](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red)
+[^fn3]: [Katie Bouman deletion discussion](https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Katie_Bouman)
+[^fn4]: [Dreamhost: The State of Women in Tech 2019](https://www.dreamhost.com/blog/state-of-women-in-tech/)
+[^fn5]: [Systemic bias on Wikipedia: Women are underrepresented](https://en.wikipedia.org/wiki/Wikipedia:Systemic_bias#Women_are_underrepresented)
