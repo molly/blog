@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "The use of 'Assume Good Faith' to shut down discussions about sexism on Wikipedia"
+title: "The use of &quot;Assume Good Faith&quot; to shut down discussions about sexism on Wikipedia"
 author: Molly White
 publication-date: 2019-04-16
 comments: true
