@@ -257,16 +257,17 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title a {
-  color: $link-color;
+  font-family: "Playfair Display", serif;
+  color: #96B78A;
+  text-decoration: none;
 }
 
 .masthead-title small {
-  font-family: $main-font;
+  font-family: $heading-font;
   font-size: .88rem;
   font-weight: 300;
-  color: $text-color;
+  color: #666;
   letter-spacing: .05rem;
-  font-family: $heading-font;
 }
 
 h3.masthead-title {
@@ -348,7 +349,7 @@ h3.masthead-title {
 
 /* Sidebar content*/
 .sidebar {
-  background-color: $link-color;
+  background-color: #96B78A;
 }
 
 .sidebar a {
@@ -556,6 +557,18 @@ a.sidebar-nav-item:focus {
   Applies custom color schemes by adding the appropriate class to the `body`. Based on colors from
   Base16: http://chriskempson.github.io/base16/#default.
 */
+/* Molly */
+.theme-base-molly .sidebar,
+.theme-base-molly .sidebar-toggle:active,
+.theme-base-molly #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #96B78A;
+}
+
+.theme-base-molly .container a,
+.theme-base-molly .sidebar-toggle,
+.theme-base-molly .related-posts li a:hover {
+  color: #96B78A;
+}
 
 /* Red*/
 .theme-base-red .sidebar,

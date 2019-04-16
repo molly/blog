@@ -10,9 +10,9 @@ sitemap: false
 */
 
 /* FONTS */
-$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$heading-font: sans-serif;
-$regular-font-size: 20px;
+$main-font: "PT Serif", serif; 
+$heading-font: "Lato", sans-serif;
+$regular-font-size: 18px;
 
 
 /*
@@ -21,9 +21,9 @@ $regular-font-size: 20px;
   Make sure to leave color-scheme in config file empty for granular control
 */
 
-$text-color: #454545;
-$heading-color: #404040;
-$link-color: #841212;
+$text-color: #000000;
+$heading-color: #000000;
+$link-color: #000000;
 
 @import "ed";
 @import "syntax";
