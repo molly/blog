@@ -1,4 +1,3 @@
-
 ---
 layout: narrative
 title: "What is a Twitter bot?"
