@@ -17,7 +17,7 @@ author:
 color-scheme: molly
 
 # Permalinks
-permalink: /:categories/:title/
+permalink: /:title/
 
 # Set encoding to UTF-8
 encoding: utf-8
