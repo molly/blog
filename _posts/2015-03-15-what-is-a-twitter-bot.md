@@ -5,7 +5,7 @@ author: Molly White
 publication-date: 2015-03-15
 comments: true
 ---
-<em>This is the first of a two-part series on Twitter bots. This covers what they are and some examples. The [next post]({{ site.baseurl }}{% post_url 2015-03-18-how-to-create-a-twitter-bot %})discusses how to create them.</em>
+<em>This is the first of a two-part series on Twitter bots. This covers what they are and some examples. The [next post]({{ site.baseurl }}{% post_url 2015-03-18-how-to-create-a-twitter-bot %}) discusses how to create them.</em>
 
 Those of you who know me personally probably know about my fascination with bots: Wikipedia bots, IRC bots, Tumblr bots... and especially Twitter bots. My first exposure to a Twitter bot was probably <a href="http://tinysubversions.com/">Darius Kazemi's</a> <a href="https://twitter.com/twoheadlines">@TwoHeadlines</a>, a Twitter bot that takes two unrelated news headlines and combines them:
 
