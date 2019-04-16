@@ -17,8 +17,7 @@ author:
 color-scheme: molly
 
 # Permalinks
-permalink: pretty
-permalink: /:title/
+permalink: /:categories/:title/
 
 # Set encoding to UTF-8
 encoding: utf-8
@@ -27,9 +26,6 @@ encoding: utf-8
 collections:
   texts:
     output: true
-  archives:
-    output: true
-    permalink: /archive/:title/
 
 # Markdown specs
 markdown: kramdown

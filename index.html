@@ -5,12 +5,14 @@ title: "Molly White"
 <div class="toc">
   <ul class="texts">
   {% for item in site.posts %}
-  
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
+  	{% unless item.categories contains 'archive' %}
+	  
+	    <li class="text-title">
+	      <a href="{{ site.baseurl }}{{ item.url }}">
+	        {{ item.title }}
+	      </a>
+	    </li>
+    {% endif %}
   {% endfor %}
   </ul>
 </div>
