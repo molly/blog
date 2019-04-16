@@ -101,7 +101,7 @@ body {
 /* Links*/
 a, .text-title a {
   color: $link-color;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility*/
@@ -567,7 +567,7 @@ a.sidebar-nav-item:focus {
 .theme-base-molly .container a,
 .theme-base-molly .sidebar-toggle,
 .theme-base-molly .related-posts li a:hover {
-  color: #96B78A;
+  color: #000000;
 }
 
 /* Red*/
