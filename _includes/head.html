@@ -20,7 +20,11 @@
 
     <!-- Open Graph metadata -->
     <meta property="og:title" content="{{page.title}}" />
-    <meta property="og:description" content="Blog posts by Molly White, a software developer, tech lead, and Wikipedian based in Boston, Massachusetts.">
+    {% if page.layout == "narrative" and page.custom_excerpt %}
+      <meta property="og:description" content="{{ page.custom_excerpt }}">
+    {% else %}
+      <meta property="og:description" content="Blog posts by Molly White, a software developer, tech lead, and Wikipedian based in Boston, Massachusetts.">
+    { % endif %}
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
     <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/mollyandmax.png" />
