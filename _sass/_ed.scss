@@ -857,8 +857,13 @@ li.prose-indent {
   text-indent: 2rem;
 }
 
+.post-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+}
+
 h2.title-text {
-  margin-bottom: 0;
+  margin: 0 20px 0 0;
   display: inline;
 }
 
@@ -867,7 +872,16 @@ h2.title-text a {
   text-decoration: none;
 }
 
+.post-info {
+  display: flex;
+}
+
 .post-date {
+  display: flex;
+  flex-shrink: 0;
   font-size: smaller;
-  float: right;
+}
+
+.post-excerpt {
+  font-family: $heading-font;
 }
