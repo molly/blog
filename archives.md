@@ -3,16 +3,19 @@ layout: default
 title: "Molly White – Archives"
 ---
 <div class="toc">
-  <ul class="texts">
+  <div class="post-list"> 
   {% for item in site.posts %}
-  	{% if item.categories contains 'archive' %}
-	  
-	    <li class="text-title">
-	      <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>, <time datetime="{{item.date}}">{{ page.date | date: "%B %e, %Y" }}</time>
-	    </li>
+    {% if item.categories contains 'archive' %}
+      <article class="post-item">
+        <h2 class="title-text"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
+        <div class="post-data">
+          <small><time datetime="{{item.date}}">{{ item.date | date: "%B %e, %Y" }}</time></small>
+          <p>{{ item.excerpt | remove: '<p>' | remove: '</p>' }}...</p>
+        </div>
+      </article>
     {% endif %}
   {% endfor %}
-  </ul>
+  </div>
 </div>
 
 
