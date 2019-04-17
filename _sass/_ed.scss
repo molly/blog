@@ -865,23 +865,26 @@ li.prose-indent {
 h2.title-text {
   margin: 0 20px 0 0;
   display: inline;
+  font-size: 1rem;
 }
 
 h2.title-text a {
-  font-family: $main-font;
   text-decoration: none;
 }
 
 .post-info {
   display: flex;
+  align-items: baseline;
+  justify-content: space-between;
 }
 
 .post-date {
   display: flex;
   flex-shrink: 0;
-  font-size: smaller;
+  font-size: 0.8rem;
 }
 
 .post-excerpt {
-  font-family: $heading-font;
+  font-family: $main-font;
+  font-size: 0.8rem;
 }
