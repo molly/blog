@@ -9,7 +9,9 @@ title: "Molly White – Archives"
       <article class="post-item">
         <h2 class="title-text"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h2>
         <div class="post-data">
-          <small><time datetime="{{item.date}}">{{ item.date | date: "%B %e, %Y" }}</time></small>
+          <div class="post-meta">
+            <time datetime="{{item.date}}">{{ item.date | date: "%B %e, %Y" }}</time>
+          </div>
           <p>{{ item.excerpt | remove: '<p>' | remove: '</p>' | strip }}...</p>
         </div>
       </article>
