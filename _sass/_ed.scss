@@ -865,13 +865,17 @@ li.prose-indent {
   border-bottom: 1px solid #ddd;
 }
 
-h2.title-text {
+.post-info h2 {
+  font-family: $main-font;
+}
+
+h3.title-text {
   margin: 0 20px 0 0;
   display: inline;
   font-size: 1rem;
 }
 
-h2.title-text a {
+h3.title-text a {
   text-decoration: none;
 }
 
