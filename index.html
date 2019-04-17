@@ -11,7 +11,7 @@ title: "Molly White"
         <div class="post-meta">
           <time datetime="{{item.date}}">{{ item.date | date: "%B %e, %Y" }}</time>
         </div>
-        <p class="post-excerpt">{{ item.excerpt | remove: '<p>' | remove: '</p>' | strip }}...</p>
+        <p class="post-excerpt">{{ item.custom_excerpt }}</p>
       </article>
     {% endunless %}
   {% endfor %}

@@ -4,6 +4,7 @@ title: "The use of &quot;Assume Good Faith&quot; to shut down discussions about 
 author: Molly White
 publication-date: 2019-04-16
 comments: true
+custom_excerpt: "Sexism is a systemic issue on Wikipedia, but the &quot;Assume Good Faith&quot; guideline is too often used to shut down any discussion of specifics."
 ---
 
 Last week, the news media exploded with headlines about the first direct image of a black hole, and one of the scientists responsible for its creation, Dr. Katie Bouman. The incredible efforts of the scientists behind the image were quickly tarnished, as many efforts involving women scientists are, by internet trolls who worked tirelessly to "debunk" Dr. Bouman's efforts and the role she played in the accomplishment. _She didn't write much of the code or the algorithms_, they said. _One of her colleagues_ (a white man) _was being denied the credit he deserved for doing most of the work._

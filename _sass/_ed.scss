@@ -859,16 +859,15 @@ li.prose-indent {
 
 h2.title-text {
   margin-bottom: 0;
+  display: inline;
 }
 
 h2.title-text a {
+  font-family: $main-font;
   text-decoration: none;
 }
 
-.post-meta {
+.post-date {
   font-size: smaller;
-}
-
-.post-excerpt {
-  margin-left: 1rem;
+  float: right;
 }
