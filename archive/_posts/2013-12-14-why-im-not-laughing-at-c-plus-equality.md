@@ -4,6 +4,7 @@ title: "Why I'm not laughing at C Plus Equality"
 author: Molly White
 publication-date: 2013-12-14
 comments: true
+custom_excerpt: "Someone wrote a satirical readme for a &quot;feminist programming language&quot; and it wasn't very funny."
 ---
 
 <strong>Trigger warning:</strong> Mentions of sexual assault, rape, and transphobia.

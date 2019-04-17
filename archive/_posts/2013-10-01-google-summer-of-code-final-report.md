@@ -4,6 +4,7 @@ title: "Google Summer of Code: Final report"
 author: Molly White
 publication-date: 2013-10-01
 comments: true
+custom_excerpt: "An overview of I've accomplished in Google Summer of Code."
 ---
 
 Google Summer of Code 2013 has come to a close, with the firm “pencils down” on September 26. This concludes three months of design and code for BookManagerv2, a new extension designed to ease the representation of book-type content on MediaWiki wikis. The experience was amazing, and I’m really pleased with everything I learned and accomplished. I’m using this as a wrap-up blog post, because I really want to speak about my experience with the Summer of Code program, working with MediaWiki, and the BookManagerv2 extension.

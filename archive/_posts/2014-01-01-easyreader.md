@@ -4,6 +4,7 @@ title: "Creating a more readable Wikipedia"
 author: Molly White
 publication-date: 2014-01-01
 comments: true
+custom_excerpt: "Long Wikipedia pages can be tough on the eyes—let's make them easier."
 ---
 
 Happy New Year! This time around, the change of the year brings more than fireworks and months of forgetting to write "2014": it brings the beginning of my two-year term on Wikipedia's <a href="https://en.wikipedia.org/wiki/Wikipedia:Arbitration_Committee">Arbitration Committee</a>. This page describes describes the Committee as:

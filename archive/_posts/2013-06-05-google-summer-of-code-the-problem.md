@@ -4,6 +4,7 @@ title: "Google Summer of Code: The Problem"
 author: Molly White
 publication-date: 2013-06-05
 comments: true
+custom_excerpt: "What do I plan to tackle during Google Summer of Code?"
 ---
 
 I have exciting news! I found out a little over a week ago that I’ve been accepted to participate in <a href="http://www.google-melange.com/gsoc/document/show/gsoc_program/google/gsoc2013/about_page">Google Summer of Code 2013</a>, working on a project for the Wikimedia Foundation. For those of you unfamiliar with Summer of Code, it’s a really cool program where students (high school through Ph.D.) are paid by Google to write code for one of a <a href="http://www.google-melange.com/gsoc/accepted_orgs/google/gsoc2013">large number of open source organizations</a>. My project is “Improve support for book structures,” which is explained in detail in <a href="http://www.mediawiki.org/wiki/User:GorillaWarfare/Proposal">my proposal</a>. That said, my proposal is somewhat targeted towards people who have a good understanding of the MediaWiki software and the Wikimedia Foundation’s projects. I was thinking that I could use this blog post to try to explain exactly what problem I’m trying to solve, for those of you who may not know Wikimedia’s projects so well.

@@ -4,6 +4,7 @@ title: "The rise of the cyberbot"
 author: Molly White
 publication-date: 2013-11-27
 comments: true
+custom_excerpt: "The making of @cyberprefixer, a cyberpunk dystopian news ticker."
 ---
 
 When I first saw <a href="http://tinysubversions.com/">Darius Kazemi's</a> <a href="http://tinysubversions.com/stuff/cyberfiction/">Cyberpunk Fiction Machine</a>, all I could think of were the various tech-related articles that try to make things sound more hacker-y and doom-and-gloom by prefixing every noun with "cyber". Take for example "<a href="http://killerapps.foreignpolicy.com/posts/2013/10/08/hostile_takeover_now_the_nsa_wants_to_watch_wall_streets_networks_too">Hostile Takeover: Now the NSA Wants to Snoop on Wall Street, too</a>" from <em>Foreign Policy</em>, which speaks of "cyberpackets" and "one fell cyberswoop." This ridiculous trend seemed perfect for a Twitter bot, something I'd always wanted to try.

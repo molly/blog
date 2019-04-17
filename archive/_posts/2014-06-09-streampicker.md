@@ -4,6 +4,7 @@ title: "Building a better alarm clock"
 author: Molly White
 publication-date: 2014-06-09
 comments: true
+custom_excerpt: "Because not everyone wants to wake up to a beeping noise."
 ---
 
 I've been on break since I finished up my spring semester at Northeastern. I was supposed to take summer classes, as is typical for Northeastern students, but, frustrated with the poor selection of classes and already needing to stay at Northeastern for an extra semester, I decided to take these two months off. It's been a great opportunity to catch up on my <a href="http://mollywhite.net/#projects">personal projects</a>, relax, and sleep.

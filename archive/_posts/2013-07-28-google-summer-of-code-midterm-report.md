@@ -4,6 +4,7 @@ title: "Google Summer of Code: Midterm status report"
 author: Molly White
 publication-date: 2013-07-28
 comments: true
+custom_excerpt: "A midterm update on what I've accomplished in Google Summer of Code."
 ---
 
 th Summer of Code midterm evaluations coming up, I realized I am probably very overdue for a blog post on my project. I’ve had two months to work on the “Improving support for book structures” project with Mediawiki, and it’s going well. As can probably be expected, the schedule that I’ve been following has been quite different from what I anticipated. When I proposed the project, I had envisioned modifying <a href="http://www.mediawiki.org/wiki/Extension:BookManager">BookManager</a>, an existing extension written by Raylton, one of my mentors. However, it quickly became clear that the entire design of the extension I’m creating is so different from BookManager that it makes more sense to just write a new extension. As such, I’m working on <a href="http://www.mediawiki.org/wiki/Extension:BookManagerv2">BookManagerv2</a>, writing it from the ground up. This has changed my schedule a bit, in that I’m not just modifying existing code, but it also has given me more freedom, in that I don’t have to worry about maintaining (or accidentally breaking) existing code.
