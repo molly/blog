@@ -859,6 +859,9 @@ li.prose-indent {
 
 .post-item {
   padding: 10px 0;
+}
+
+.post-item:not(:last-child) {
   border-bottom: 1px solid #ddd;
 }
 
@@ -888,4 +891,8 @@ h2.title-text a {
   font-family: $main-font;
   font-size: 0.8rem;
   margin: 0;
+}
+
+.archived-posts {
+  margin-top: 20px;
 }
