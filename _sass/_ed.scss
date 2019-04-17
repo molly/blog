@@ -882,13 +882,14 @@ h2.title-text a {
 }
 
 .post-date {
+  font-family: $heading-font;
   display: flex;
   flex-shrink: 0;
   font-size: 0.8rem;
 }
 
 .post-excerpt {
-  font-family: $main-font;
+  font-family: $heading-font;
   font-size: 0.8rem;
   margin: 0;
 }
