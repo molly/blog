@@ -861,6 +861,15 @@ h2.title-text {
   margin-bottom: 0;
 }
 
+h2.title-text a {
+  font-style: none;
+}
+
 .post-data {
-  margin-left: 1rem;
+  margin-left: .5rem;
+}
+
+.post-meta {
+  margin-left: .5rem;
+  font-size: smaller;
 }
