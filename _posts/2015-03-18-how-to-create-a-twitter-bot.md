@@ -4,6 +4,7 @@ title: "How to create a Twitter bot"
 author: Molly White
 publication-date: 2015-03-18
 comments: true
+custom_excerpt: "The second of a two-part series on Twitter bots, in which I show you how to create your own Twitter bot."
 ---
 
 <em>This is the second of a two-part series on Twitter bots. This post discusses how to create them. The [previous post]({{ site.baseurl }}{% post_url 2015-03-15-what-is-a-twitter-bot %}) covers what they are and some examples.</em>

@@ -4,6 +4,7 @@ title: "FAQ: Gamergate arbitration case on Wikipedia"
 author: Molly White
 publication-date: 2015-02-03
 comments: true
+custom_excerpt: "What happened with the _Gamergate_ arbitration case on Wikipedia?"
 ---
 
 On 29 January, the English Wikipedia's Arbitration Committee closed the <a href="https://en.wikipedia.org/wiki/Wikipedia:Arbitration/Requests/Case/GamerGate"><em>Gamergate</em> arbitration case</a>: a case that dealt with user conduct on the "<a href="https://en.wikipedia.org/wiki/Gamergate_controversy">Gamergate controversy</a>" article and related articles. The <em>Gamergate</em> case received an unusual amount of interest in the media and elsewhere, and was subject to misconceptions and inaccurate reporting. The Arbitration Committee released a <a href="https://en.wikipedia.org/wiki/Wikipedia:Arbitration/Requests/Case/GamerGate/Statement">statement</a> about the case, as did the Wikimedia Foundation on their <a href="https://blog.wikimedia.org/2015/01/27/civility-wikipedia-gamergate/">blog</a>.
