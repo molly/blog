@@ -8,9 +8,7 @@ title: "Molly White"
   	{% unless item.categories contains 'archive' %}
 	  
 	    <li class="text-title">
-	      <a href="{{ site.baseurl }}{{ item.url }}">
-	        {{ item.title }}
-	      </a>, <time datetime="{{item.date}}">{{ page.date | date: "%B %e, %Y" }}</time></small>
+        <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>, <time datetime="{{item.date}}">{{ item.date | date: "%B %e, %Y" }}</time>
 	    </li>
     {% endunless %}
   {% endfor %}
