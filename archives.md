@@ -10,7 +10,8 @@ title: "Molly White – Archives"
 	    <li class="text-title">
 	      <a href="{{ site.baseurl }}{{ item.url }}">
 	        {{ item.title }}
-	      </a>
+	      </a>, <time datetime="{{item.date}}">{{ page.date | date: "%B %e, %Y" }}</time></small>
+      </li>
 	    </li>
     {% endif %}
   {% endfor %}

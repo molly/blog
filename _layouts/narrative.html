@@ -4,6 +4,6 @@ layout: default
 
 <div class="narrative">
   <h1 class="text-title">{{ page.title }}</h1>
-  <p class="citation"><small>by {{ page.author }} on {{ page.date | date: "%A, %B %e, %Y" }}</small></p>
+  <p class="citation"><small>by {{ page.author }} on <time datetime="{{page.date}}">{{ page.date | date: "%A, %B %e, %Y" }}</time></small></p>
   {{ content }}
 </div>
