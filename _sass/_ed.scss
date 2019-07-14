@@ -901,3 +901,11 @@ h3.title-text a {
 .archived-posts {
   margin-top: 20px;
 }
+
+.gallery {
+  display: flex;
+}
+
+.gallery-image {
+  flex: 1;
+}
