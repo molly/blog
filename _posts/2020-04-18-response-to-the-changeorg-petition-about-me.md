@@ -14,25 +14,22 @@ After a period of quiet, this harassment has recently resurged in the form of a 
 The same person who made the comment about showing up at my house created a Change.org petition, titled <a href="https://www.change.org/p/donald-j-trump-demanding-action-against-corrupt-editor-of-wikipedia-ms-molly-white-admin-of-wikipedia">"Demanding Action against Corrupt Editor of Wikipedia Ms Molly White , admin of wikipedia"</a>. It includes further absurd claims about me (that I'm trying to extort money from organizations, that I am blocking people related to Epik, etc.) The petition has been signed by Mr. Monster, and he has said that he shared it on his Facebook page.[^fn11] I reported the petition to Change.org as a violation of their policy against "Bullying or harassment", and received the following reply:
 
 <details>
-<summary>Form reply from Change.org</summary>
-Hello,<br/>
-We’re sad to hear that you’re having a negative experience with a Change.org user’s petition, and we appreciate you contacting us.<br/>
-Change.org merely provides a technology platform for our users to create and publish petitions and comments -- we do not produce or monitor our users’ content. You should share your claim with the petition starter directly if you are able to contact them. This is a much more effective way to resolve claims, particularly because such content may also appear on other platforms.<br/>
-However, we may be able to take action in response to your claim, but we require further substantiation of your allegations that the content is defamatory. You might like to send us one or more of the following:<br/>
-<ul>
-<li>A court order</li>
-<li>Another court document, that indicates that content in this petition is false</li>
-<li>A restraining order that specifically prohibits the petition starter from posting content online about you</li>
-<li>A police order that indicates that the petition starter has been harassing you</li>
-<li>A detailed letter that highlights the specific portions of the petition that is defamatory, explanation or evidence as to why they are untrue, and details the harm that the statement/s have caused or will cause to your reputation.</li>
-<br/>
-Our team will review your claim in accordance with our policies and applicable national laws, and will respond to you accordingly. Please know that they will have to inform the petition starter of this claim, as it is our policy to be transparent with our users about legal claims that relate to their content, wherever possible.
-<br/>
-We hope this email has provided useful information. Please let us know if you have any questions.
-<br/>
-Thank you,<br/>
-Change.org<br/>
-From US Office/Help Desk</details>
+  <summary>Form reply from Change.org</summary>
+  <p>Hello,</p>
+  <p>We’re sad to hear that you’re having a negative experience with a Change.org user’s petition, and we appreciate you contacting us.</p>
+  <p>Change.org merely provides a technology platform for our users to create and publish petitions and comments -- we do not produce or monitor our users’ content. You should share your claim with the petition starter directly if you are able to contact them. This is a much more effective way to resolve claims, particularly because such content may also appear on other platforms.</p>
+  <p>However, we may be able to take action in response to your claim, but we require further substantiation of your allegations that the content is defamatory. You might like to send us one or more of the following:</p>
+  <p>- A court order</p>
+  <p>- Another court document, that indicates that content in this petition is false</p>
+  <p>- A restraining order that specifically prohibits the petition starter from posting content online about you</p>
+  <p>- A police order that indicates that the petition starter has been harassing you</p>
+  <p>- A detailed letter that highlights the specific portions of the petition that is defamatory, explanation or evidence as to why they are untrue, and details the harm that the statement/s have caused or will cause to your reputation.</p>
+  <p>Our team will review your claim in accordance with our policies and applicable national laws, and will respond to you accordingly. Please know that they will have to inform the petition starter of this claim, as it is our policy to be transparent with our users about legal claims that relate to their content, wherever possible.</p>
+  <p>We hope this email has provided useful information. Please let us know if you have any questions.</p>
+  <p>Thank you,</p>
+  <p>Change.org</p>
+  <p>From US Office/Help Desk</p>
+</details>
 <br/>
 
 I am not a litigious person, and I have no interest in trying to pursue a court order against the creator of the petition. There is a global pandemic, I am self-isolating in my home, and am not going to go try to hire an attorney to pursue legal action against some person who seems to live halfway around the world. But I do wish for the Change.org petition to be taken down, as it is false and insulting. I have prepared the following reply to try to satisfy the "detailed letter" option Change.org extended me, and am publishing it here because I would like a chance to present my side of the story. The only changes I've made to it are formatting for the footnotes and links:
