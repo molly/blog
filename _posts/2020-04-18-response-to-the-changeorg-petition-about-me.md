@@ -15,26 +15,23 @@ The same person who made the comment about showing up at my house created a Chan
 
 <details>
 <summary>Form reply from Change.org</summary>
-Hello,
-
-We’re sad to hear that you’re having a negative experience with a Change.org user’s petition, and we appreciate you contacting us.
-
-Change.org merely provides a technology platform for our users to create and publish petitions and comments -- we do not produce or monitor our users’ content. You should share your claim with the petition starter directly if you are able to contact them. This is a much more effective way to resolve claims, particularly because such content may also appear on other platforms.
-
-However, we may be able to take action in response to your claim, but we require further substantiation of your allegations that the content is defamatory. You might like to send us one or more of the following:
-
-- A court order
-- Another court document, that indicates that content in this petition is false
-- A restraining order that specifically prohibits the petition starter from posting content online about you
-- A police order that indicates that the petition starter has been harassing you
-- A detailed letter that highlights the specific portions of the petition that is defamatory, explanation or evidence as to why they are untrue, and details the harm that the statement/s have caused or will cause to your reputation.
-
+Hello,<br/>
+We’re sad to hear that you’re having a negative experience with a Change.org user’s petition, and we appreciate you contacting us.<br/>
+Change.org merely provides a technology platform for our users to create and publish petitions and comments -- we do not produce or monitor our users’ content. You should share your claim with the petition starter directly if you are able to contact them. This is a much more effective way to resolve claims, particularly because such content may also appear on other platforms.<br/>
+However, we may be able to take action in response to your claim, but we require further substantiation of your allegations that the content is defamatory. You might like to send us one or more of the following:<br/>
+<ul>
+<li>A court order</li>
+<li>Another court document, that indicates that content in this petition is false</li>
+<li>A restraining order that specifically prohibits the petition starter from posting content online about you</li>
+<li>A police order that indicates that the petition starter has been harassing you</li>
+<li>A detailed letter that highlights the specific portions of the petition that is defamatory, explanation or evidence as to why they are untrue, and details the harm that the statement/s have caused or will cause to your reputation.</li>
+<br/>
 Our team will review your claim in accordance with our policies and applicable national laws, and will respond to you accordingly. Please know that they will have to inform the petition starter of this claim, as it is our policy to be transparent with our users about legal claims that relate to their content, wherever possible.
-
+<br/>
 We hope this email has provided useful information. Please let us know if you have any questions.
-
-Thank you,
-Change.org
+<br/>
+Thank you,<br/>
+Change.org<br/>
 From US Office/Help Desk</details>
 <br/>
 
