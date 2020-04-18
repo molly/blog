@@ -40,6 +40,8 @@ From US Office/Help Desk</details>
 
 I am not a litigious person, and I have no interest in trying to pursue a court order against the creator of the petition. There is a global pandemic, I am self-isolating in my home, and am not going to go try to hire an attorney to pursue legal action against some person who seems to live halfway around the world. But I do wish for the Change.org petition to be taken down, as it is false and insulting. I have prepared the following reply to try to satisfy the "detailed letter" option Change.org extended me, and am publishing it here because I would like a chance to present my side of the story. The only changes I've made to it are formatting for the footnotes and links:
 
+<hr/>
+
 Hello Change.org,
 
 What follows is my "detailed letter that highlights the specific portions of the petition that is defamatory, explanation or evidence as to why they are untrue, and details the harm that the statement/s have caused or will cause to your reputation." For your convenience, this is again the <a href="https://www.change.org/p/donald-j-trump-demanding-action-against-corrupt-editor-of-wikipedia-ms-molly-white-admin-of-wikipedia">link to the petition</a>.
