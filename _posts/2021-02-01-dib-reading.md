@@ -28,6 +28,8 @@ I care very much about making sure I am consuming a representative and wide rang
 * "[Covid Vaccine Websites Violate Disability Laws, Create Inequity for the Blind](https://khn.org/news/article/covid-vaccine-websites-violate-disability-laws-create-inequity-for-the-blind/)" by Lauren Weber and Hannah Recht. February 25, 2021 in Kaiser Health News.
   * Nearly all vaccine websites across the country do not meet standards required by disability rights laws, and have prevented some blind and visually impaired from signing up online for vaccination appointments. Blind people are at a higher risk for COVID-19 because they are often unable to distance from people, due to needing assistance with things like grocery shopping.
   * Linked from [WebAIM's blog](https://webaim.org/blog/accessibility-of-vaccine-pages/)
+* "[How to be an Active Bystander for Academic Ableism](https://veroniiiica.com/2021/02/22/active-bystander-for-academic-ableism/)" by Veronica Lewis. February 22, 2021 in _Veronica With Four Eyes_.
+  * Discusses some examples of academic ableism, and describes what helpful actions bystanders can take to support the victim of such an event.
 
 ## February 8–12
 * "[Why Being Black Feels So Overwhelming Right Now](https://medium.com/@effiegabriella/why-it-feels-so-overwhelming-right-now-6d2ee308f3b7)" by Gabriella Effie Forson. June 1, 2020 on Medium.
