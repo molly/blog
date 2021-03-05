@@ -4,7 +4,7 @@ title: "DI&B reading list"
 author: Molly White
 publication-date: 2021-02-01
 comments: true
-custom_exerpt: "In the beginning of February, I made a commitment to myself to read at least two articles a week pertaining to diversity, inclusion, and belonging (DI&B). I believe constant learning on these topics, and their intersection with the technology industry, is not optional and is key to being both a good manager and team member, but also to being a conscientous participant in the industry."
+custom_excerpt: "In the beginning of February, I made a commitment to myself to read at least two articles a week pertaining to diversity, inclusion, and belonging (DI&B). I believe constant learning on these topics, and their intersection with the technology industry, is not optional and is key to being both a good manager and team member, but also to being a conscientous participant in the industry."
 ---
 
 In the beginning of February, I made a commitment to myself to read at least two articles a week pertaining to diversity, inclusion, and belonging (DI&B). I believe constant learning on these topics, and their intersection with the technology industry, is not optional and is key to being both a good manager and team member, but also to being a conscientous participant in the industry.
