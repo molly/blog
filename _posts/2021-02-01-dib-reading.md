@@ -29,9 +29,6 @@ I care very much about making sure I am consuming a representative and wide rang
   * Nearly all vaccine websites across the country do not meet standards required by disability rights laws, and have prevented some blind and visually impaired from signing up online for vaccination appointments. Blind people are at a higher risk for COVID-19 because they are often unable to distance from people, due to needing assistance with things like grocery shopping.
   * Linked from [WebAIM's blog](https://webaim.org/blog/accessibility-of-vaccine-pages/)
 
-
-## February 15–19
-
 ## February 8–12
 * "[Why Being Black Feels So Overwhelming Right Now](https://medium.com/@effiegabriella/why-it-feels-so-overwhelming-right-now-6d2ee308f3b7)" by Gabriella Effie Forson. June 1, 2020 on Medium.
   * Forson writes about the challenges of going about life as though it were "business as usual" in the summer of 2020, with a powerful analogy. She also describes the dissonance of seeing white people posting online as though things were normal, and lists some actions people can take. "Don’t shy away because you think it doesn’t concern you. If you love a black person or believe in equality this concerns you."
