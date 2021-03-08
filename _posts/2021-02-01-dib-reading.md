@@ -13,6 +13,10 @@ I have been maintaining a private list of these articles, along with a brief sum
 
 I care very much about making sure I am consuming a representative and wide range of topics in this area, and so welcome suggestions and recommendations! If you know of anything I ought to be reading, please [send it my way](https://www.mollywhite.net/contact).
 
+## March 8–12
+* "[The Displays: On Anti-Racist Study and Institutional Enclosure](https://www.uproot.space/features/hudson-the-displays?s=03)" by David James Hudson. Ocober 22, 2020 in _up//root_.
+  * Hudson writes about the performative nature of companies, government institutions, and other organizations in beginning anti-racist initiatives in response to the murder of George Floyd, and how they ignore their own deeply embedded structural racism. "It is hard to sustain interest when the frameworks for doing so center around shock and spectacle, when the institutional terms for doing so offer relief of such shocks through the efficiency of individual reform, when doing such a something is seen as better than doing nothing, is celebrated prominently, its outer limits those of containment rather than mere capacity."
+
 ## March 1–5
 * "[Ignoring The History Of Anti-Asian Racism Is Another Form Of Violence](https://www.elle.com/culture/career-politics/a35635188/anti-asian-racism-history-violence/)" by Connie Wun. March 1, 2021 in _Elle_.
   * Asian American history, including the wars that brought many Asian Americans to the US, is not taught or even acknowledged adequately. "As Dr. Mimi Kim, who works on community accountability and transformative justice, once said about the Korean War and its impacts: 'The violence is also in the forgetting.'" There is a myth that Asian Americans are unaffected by white supremacy, which is very much not the case.
