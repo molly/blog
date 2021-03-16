@@ -13,6 +13,10 @@ I have been maintaining a private list of these articles, along with a brief sum
 
 I care very much about making sure I am consuming a representative and wide range of topics in this area, and so welcome suggestions and recommendations! If you know of anything I ought to be reading, please [send it my way](https://www.mollywhite.net/contact).
 
+## March 15–19
+* "[The Mobile Performance Inequality Gap, 2021](https://infrequently.org/2021/03/the-performance-inequality-gap/)" by Alex Russell. March 7, 2021 on _Infrequently Noted_.
+  * Russell discusses the current baseline for mobile device performance, and how frontend developers are creating poor experiences for many users by building SPAs and other web experiences that are much heavier than what these devices (and networks) can support. "When we construct a digital world to the limits of the best devices, the worse an experience we build, on average, for those who cannot afford iPhones or $800 Samsung flagships."
+
 ## March 8–12
 * "[Your first attempt at making anything accessible will be awful](https://sheribyrnehaber.com/attempt-making-anything-accessible-awful/)" by Sheri Byrne-Haber. October 22, 2020 on her blog.
   * Byrne-Haber explains that making websites accessible is very difficult, but that that shouldn't be an excuse to avoid doing it. I particularly like point 3: "Even people with disabilities can’t represent the needs of everyone with any disability", and the takeaway: "98% of websites are completely inaccessible. You couldn’t possibly do any worse than they are. The starting point is giving a damn." Something is better than nothing.
