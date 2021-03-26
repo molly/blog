@@ -148,7 +148,7 @@ Tweet every fifteen minutes:
 
 Tweet at 12am, 6am, 12pm, and 6pm:
 
-<pre><code>* 0,6,12,18 * * * python /home/molly/twitter-bot/bot.py
+<pre><code>0 0,6,12,18 * * * python /home/molly/twitter-bot/bot.py
 </code></pre>
 
 <h2 id="anote">A note</h2>
