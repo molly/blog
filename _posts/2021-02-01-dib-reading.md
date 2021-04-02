@@ -16,6 +16,8 @@ I care very much about making sure I am consuming a representative and wide rang
 ## March 29–April 2
 * "[A feminist internet would be better for everyone](https://www.technologyreview.com/2021/04/01/1020478/feminist-internet-culture-activist-harassment-herd-signal/)" by Charlotte Jee. April 1, 2021 in _MIT Technology Review_.
   * Jee envisions a version of the Internet that was built with the intention of being safe for women, rather than with halfhearted protections added on later. She talks about ways this would be accomplished, including giving more control to users, reducing the online economy's reliance on advertising and data collection/sale, and using strict privacy settings by default. She also talks about how tech companies always need to consider how their products could be misused.
+* "[Doctor: This unethical Arkansas law should horrify all in medical profession](https://www.cnn.com/2021/04/02/opinions/arkansas-anti-transgender-law-medical-ethics-turban/index.html)" by Jack Turban. April 2, 2021 for CNN.
+  * The so-called Medical Ethics and Diversity Act introduced in Arkansas allows healthcare workers to deny non-emergency healthcare to individuals based on their personal moral objections. Turban writes that this contradicts health care providers' professional responsibilities, and that the "non-emergency" provision does not prevent this from threatening individauls' lives.
 
 ## March 22–26
 * "[It's not 'them' — it's us!](http://www.classmatters.org/2006_07/its-not-them.php)" by Betsy Leondar-Wright. July 2006 on _Class Matters_.
