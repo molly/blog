@@ -7,7 +7,7 @@ comments: true
 custom_excerpt: "In the beginning of February, I made a commitment to myself to read at least two articles a week pertaining to diversity, inclusion, and belonging (DI&B). I believe constant learning on these topics, and their intersection with the technology industry, is not optional and is key to being both a good manager and team member, but also to being a conscientous participant in the industry."
 ---
 
-<div class="note">This page quickly outgrew a single-page blog post, so I am now maintaining my list over at the <a href="https://www.mollywhite.net/reading/dib">DI&B reading list</a> on my website. Please go there for any new entries!</div>
+<div class="note">This page quickly outgrew a single-page blog post, so I am now maintaining my list over at the <a href="https://www.mollywhite.net/reading/shortform">shortform reading list</a> on my website. Please go there for any new entries!</div>
 
 In the beginning of February, I made a commitment to myself to read at least two articles a week pertaining to diversity, inclusion, and belonging (DI&B). I believe constant learning on these topics, and their intersection with the technology industry, is not optional and is key to being both a good manager and team member, but also to being a conscientous participant in the industry.
 
