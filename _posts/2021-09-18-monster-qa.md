@@ -14,7 +14,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <p>All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.</p>
 
-<b>I have not finished editing transcribing, and will be uploading additional portions as I complete them.</b>
+<b>I have not finished editing and transcribing, and will be uploading additional portions as I complete them.</b>
 </div>
 
 <span class="transcript-speaker">Rob Monster, 0:00:00</span> ... working hypothesis is that it was a backup. And I'm not going to say where the backup was found but I believe it was a backup and it wasn't the live data. I don't think that there is an active vulnerability that would have allowed that scale of data haul. But we're going to find exactly where it was, we're going to find exactly how it was moved, and...
@@ -923,7 +923,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster</span> I agree. <span class="transcript-note">[crosstalk]</span> but that's precisely the point. Scarcity is an illusion. You could fit the whole world into Texas. There's this mindset that says we're out of space. I don't believe that's true.
 
-<span class="transcript-speaker">Monster, 2:20:16</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Frustrated Customer": "Are you fixing the chat or not"]</span> Frustrated Customer, yeah, so... are we fixing the hack? I don't believe there was a hack of our core system, I believe that somebody got access to an old backup. We already talked about it.
+<span class="transcript-speaker">Monster, 2:20:16</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Frustrated Customer": "Are you fixing the hack or not"]</span> Frustrated Customer, yeah, so... are we fixing the hack? I don't believe there was a hack of our core system, I believe that somebody got access to an old backup. We already talked about it.
 
 <span class="transcript-speaker">Monster, 2:20:32</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Frustrated Customer": "What is the point of this call??? What are you hoping to achieve here???"]</span> "the point of this call..." The point of this call was actually to get Chad to come online to talk to me in a minute(?) but I haven't seen Chad. Anybody seen Chad? I haven't seen Chad. Who even knows Chad but Steven Bolton?
 
@@ -935,9 +935,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 2:21:25</span> HF has to unmute himself... I did it because there was too much background noise. Alright guys, so a lot of questions. I gotta call my wife. You guys mind if I take a two... five-minute break?
 
-Unidentified 1: Oh, go ahead!
+<span class="transcript-speaker">Unidentified 1</span> Oh, go ahead!
 
-Unidentified 2: Do it on cam, do it on camera please!
+<span class="transcript-speaker">Unidentified 2</span> Do it on cam, do it on camera please!
 
 <span class="transcript-speaker">Monster</span> I will go all night. I will go all night with you while I say sweet nothings to my wife
 
