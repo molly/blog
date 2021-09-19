@@ -8,7 +8,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 ---
 
 <div class="note">
-<p>This is a transcript of a portion of the live Q&A session held by Rob Monster on September 16, 2021. It is available on <a href="https://www.youtube.com/watch?v=aZ9MFts28XI">YouTube</a>, where it was published by Mikael Thalen. The transcript has only been edited for readability (e.g., to remove filler words which do not change meaning) and to remove some of weev's comments (all removalsmarked inline) which I have no interest in reprinting on my own website. Where relevant, comments from the live chat section have been transcribed for context. A plaintext copy of this can be downloaded <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">here</a>.</p>
+<p>This is a transcript of a portion of the live Q&A session held by Rob Monster on September 16, 2021. It is available on <a href="https://www.youtube.com/watch?v=aZ9MFts28XI">YouTube</a>, where it was published by Mikael Thalen.  A plaintext copy of this can be downloaded <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">here</a>.</p>
+
+<p>The transcript has only been edited for readability (e.g., to remove filler words which do not change meaning) and to remove some of weev's comments (all removals marked inline) which I have no interest in reprinting on my own website. Where relevant, comments from the live chat section have been transcribed for context.</p>
 
 <p>All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.</p>
 
