@@ -14,7 +14,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <p>All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.</p>
 
-<b>I have not finished editing and transcribing, and will be uploading additional portions as I complete them.</b>
+<b>I have not finished editing and transcribing, and will be uploading additional portions as I complete them.</b> The transcript is currently complete through 2:22 of the video.
 </div>
 
 <span class="transcript-speaker">Rob Monster, 0:00:00</span> ... working hypothesis is that it was a backup. And I'm not going to say where the backup was found but I believe it was a backup and it wasn't the live data. I don't think that there is an active vulnerability that would have allowed that scale of data haul. But we're going to find exactly where it was, we're going to find exactly how it was moved, and...
