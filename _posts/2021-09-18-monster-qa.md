@@ -768,7 +768,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">HF</span> Excellent choice.
 
-<span class="transcript-speaker">Monster: Okay, HF, so I would say</span> RDAP, I was not a big fan of RDAP and I'll tell you why. I went to many ICANN meetings, I lobbied against RDAP, you know why I lobbied against RDAP? Because, so ICANN meetings. They're free, anybody can go to them
+<span class="transcript-speaker">Monster</span> Okay, HF, so I would say: RDAP, I was not a big fan of RDAP and I'll tell you why. I went to many ICANN meetings, I lobbied against RDAP, you know why I lobbied against RDAP? Because, so ICANN meetings. They're free, anybody can go to them
 
 <span class="transcript-speaker">HF</span> Did they ever hold anything on Epstein's island, do you know?
 
