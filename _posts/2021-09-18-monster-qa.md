@@ -621,7 +621,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified</span> gab.com 
 
-<span class="transcript-speaker">Monster, 1:16:11</span> Alright, let's talk about Gab. So Andrew Torba is much more of a free speech absolutist than I am. I am not a free speech absolutist. The free speech absolutist people sometimes get mad at me because I actually have a condition, which is that it needs to edify. And the question is does the content in the aggregate edify? And I think the answer is yes. And the reason why I say that is because the Gab people have been pretty much booted off of Twitter and whatnot, and to the extent that Gab basically governs itself and doesn't allow unlawful content and doesn't allow genocidal people... weev, for example, is almost surely not on Gab. I'm pretty sure that he would be removed, just like Chris Cantwell with this edgeboard stuff. It's just not fun, it really gets tiresome. So yeah if there is...
+<span class="transcript-speaker">Monster, 1:16:11</span> Alright, let's talk about Gab. So Andrew Torba is much more of a free speech absolutist than I am. I am not a free speech absolutist. The free speech absolutist people sometimes get mad at me because I actually have a condition, which is that it needs to edify. And the question is does the content in the aggregate edify? And I think the answer is yes. And the reason why I say that is because the Gab people have been pretty much booted off of Twitter and whatnot, and to the extent that Gab basically governs itself and doesn't allow unlawful content and doesn't allow genocidal people... weev, for example, is almost surely not on Gab. I'm pretty sure that he would be removed, just like Chris Cantwell with this edgelord stuff. It's just not fun, it really gets tiresome. So yeah if there is...
 
 <span class="transcript-speaker">Monster, 1:17:16</span> <span class="transcript-note">[reading chat. Full comment in chat was from "/usr/bin": "Gabs a Psyop"]</span> Somebody says Gab's a psyop. I don't... no. Is it theoretically possible that Torba is an operator? I don't know. I can't tell. People say that about Alex Jones, also a client. I don't know, I never met him, never talked to him. We hired one of his guys, Michael Zimmerman, Director of I.T., from <i>InfoWars</i>, but tough to say. I do believe this, I'll tell you what: I believe that there's a polarity, this whole right, left, fat, skinny, rich, poor, gay, straight... it is a giant polarity. For the last two, three decades it's been divide and rule, create a dynamic where you just get people to rub up against each other, and just kill the crap out of each other and exhaust each other. The right fears the left, the left fears the right, and it's super stupid. It's a game. If you fell for it, sorry. The right doesn't really need to fear the left, the left doesn't really need to fear the right. There have been antifa people, some of you are on this call, who have come at me and stuff, and I offered to meet with them for coffee in Seattle. They didn't want to meet. I wasn't gonna hurt anybody. Just like this, I'm just happy to have a conversation, get real, and solve stuff. Because at the end of the day I think there has to be a basis for being able to find truth. If you treat the whole universe as a giant puzzle and somebody arbitrarily decides to take away half the puzzle pieces, what good does that do you? 
 
@@ -798,4 +798,149 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">HF, 1:59:55</span> Okay, but you also use those anonymized email addresses for the contact information somewhere in this user's sites? So that there wasn't actually... I mean now that all this data is coming out and we're looking at it, it doesn't look like it's that anonymized. I don't know, I may be wrong...
 
-<span class="transcript-speaker">Monster</span> Yeah, so I said, I think it was earlier this year. So the thing that was snagged from the backup, as I believe it was, subject to further confirmation by forensic people. So that upgrade earlier this year I don't know if it was in March or February, I don't know when we made that change, but we moved to a model where... hold on guys, this is my wife. One second.
+<span class="transcript-speaker">Monster</span> Yeah, so I said, I think it was earlier this year. So the thing that was snagged from the backup, as I believe it was, subject to further confirmation by forensic people. So that upgrade earlier this year I don't know if it was in March or February, I don't know when we made that change, but we moved to a model where... hold on guys, this is my wife. One second. She's in Austin, Texas. What's up? Hey there. Yeah, I'm good. I'm on a conference call. Can I call you... everything's good, can I call you back? Yeah, I think so. Yeah, alright. Love you. Bye.
+
+<span class="transcript-speaker">Monster, 2:01:02</span> Yeah so my wife is with my daughter down in Austin, Texas. I was supposed to be in Austin, Texas tonight! My daughter is going to row at Austin, Texas. She's a really competitive rower.
+
+<span class="transcript-speaker">Unidentified</span> You know of the taco trucks in Austin? The taco trucks in Austin are awesome, dude.
+ 
+<span class="transcript-speaker">Monster, 2:01:24</span> They are very good. When I go to South By Southwest I get a taco. 
+
+<span class="transcript-speaker">HF</span> Yeah, what really sucks though is they closed down Friedman's...
+
+<span class="transcript-speaker">Monster</span> Brazos Street. Brazos Street, right? There's that...
+
+<span class="transcript-speaker">HF</span> Yeah. But they closed down Friedman's Bar, which was over by the uni... and then that place was amazing. It used to be a Black church. It was Friedman's, and it was such a cornerstone of the community, in the Black community in Austin, Texas at the time which is to me, that's really really cool. But I'm not quite surprised.
+
+<span class="transcript-speaker">Monster, 2:02:02</span> Yeah, got it. What do you do for a living, HF?
+
+
+<span class="transcript-speaker">HF</span> I live on the Internet, that's what I do.
+
+<span class="transcript-speaker">Monster</span> You live on the Internet. How do you make a buck? To pay the groceries?
+
+<span class="transcript-speaker">HF</span> All sorts of things.
+
+<span class="transcript-speaker">Monster</span> That's funny. <span class="transcript-note">[reading the chat. Full comment in chat was from "bob": "goatee guy looks like he took too much acid at a soundgarden concert and never recovered"]</span> "Goatee guy..." Bob's making fun of you, bro. "Goatee guy looks he took too much acid at Soundgarden concert and never recovered." That's not nice. I see the inner divinity of HF even if you guys don't see it. I think he actually has some inner divinity. Don't underestimate him, he has great potential.
+
+<span class="transcript-speaker">HF</span> I'm actually... Okay, so I'll stop being a smartass and <span class="transcript-note">[unintelligible]</span>. I'm a technologist. I'm a futurist. I do some OSINT stuff, I do everything from storage, networking, virtualization... I tend to stay away from the cloud stuff because I don't trust cloud companies. I mean if you look at the OMIGOD Azure hack that just came out recently, one packet and you've got root on an Azure virtual machine? No thanks.
+
+<span class="transcript-speaker">Monster, 2:03:14</span> <span class="transcript-note">[reading the chat. Full question in chat was from Mikael Thalen: "Rob, will you pull down the demonhackers website that is doxing journalists and their family members like you did Joey's website?"]</span> Alright, got it. Mikael? Did I get that right, Mikael? I think I've seen your work. I think you're the guy who does... well, that was a really, really nasty article that he wrote. Dot something. So yeah, I already said that I'm gonna check out this other site. I don't know if we're hosting it, check the IP address.
+
+<span class="transcript-speaker">Mikael Thalen, 2:03:33</span> What did you find nasty about the article?
+
+<span class="transcript-speaker">Monster</span> Well it just... it seemed like it had a really negative slant. <span class="transcript-note">[background noise from another participant]</span> I didn't read it very carefully. You're <i>Daily Dot</i>, right?
+
+<span class="transcript-speaker">Thalen</span> Correct.
+
+<span class="transcript-speaker">Monster</span> I'd have to go back and look at it. <span class="transcript-note">[background noise from another participant]</span> I'm gonna mute... one second. Yeah, no offense, I just... it didn't seem like it was attempting to be too balanced. But I mean, we acknowledge that a bunch of crappy code from legacy stuff acquired ten years ago that hadn't been retooled was out there and isn't up to par.
+
+<span class="transcript-speaker">HF, 2:04:21</span> Rob, you gotta update your systems, man. I mean think about it, look what happened with the Equifax hack, bro. One guy supposedly didn't update one website.
+
+<span class="transcript-speaker">Monster</span> Check this out, check this out though. Here's the thing. Cyber security is a problem, right? Because everybody can be bought. I saw some trash talk by Joey, the guy that a lot of you guys hate. I think he said something like, "I'm gonna go hire somebody to steal your phone." I think I saw him write that. I was like, "you're an idiot. You're a freaking idiot."
+
+<span class="transcript-speaker">Monster, 2:04:56</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "Literally a Nazi": "love your work, Rob, great stuff"]</span> Thank you, Literally. Nice comment there, appreciate that.
+
+<span class="transcript-speaker">Monster, 2:05:00</span> So yeah, we're gonna... if we're hosting that site, it will come down. It will come down long enough for him to get rid of any doxing. Maybe he just needs to find something else to do, because like... whoever was responsible for killing his sister? Just make peace with him. I mean if you're, like, related to the person who killed his sister, or you know who he is... just make peace with the dude. Because he has so much unresolved anger. Vengeful anger directed at the quote unquote antifa people that he believes is responsible for the murder of his sister, and I think it just consumes him. I think that it turned him to kind of, as I called him, like digital Batman. But digital Batman with like a slightly dark side. So it's not a guy who's completely self-governing. I've seen him swear like a sailor. I know he's jumped fences. Evidently he dispatches people to steal phones. So he has got a lot of unresolved dark side that needs to be worked out.
+
+<span class="transcript-speaker">Monster, 2:06:15</span> <span class="transcript-note">[reading the chat. Full question in chat was from "anon589454": "rob are you a white nationalist"]</span> "Rob, are you a white nationalist?" I am white, and I think that we shouldn't have open, open borders.
+
+<span class="transcript-speaker">HF</span>: Where are you from? Where are your parents from?
+
+<span class="transcript-speaker">Monster</span> I'm Dutch.
+
+<span class="transcript-speaker">HF</span> You're Dutch?
+
+<span class="transcript-speaker">L, 2:06:36</span> Wait, no, no, then, listen. This is the source of the problem, and I'm telling you the solution. What am I? I'm fucking Irish, and I'm fucking German. Fuck those labels people are using. That's the source of this shit. We as human beings think we're so cocky and we know everything. I'm not attacking you brother, I'm not talking about that. Also for security, it doesn't matter how up-to-date your shit is, someone can use a zero-day exploit if they have enough money. There are millions of zero-day exploits on a long list that have never been used...
+
+<span class="transcript-speaker">Monster</span> I agree.
+
+<span class="transcript-speaker">L</span> ...at any point in time. It's almost a waste of money. Why do you think the military hasn't updated their nuclear crap in like 60 or something years? Using old floppy technology. That's super reliable, you're never going to hack into that.
+
+<span class="transcript-note">[note: the audio cuts out for about 40 seconds in Mikael Thalen's recording. The missing section is available <a href="https://twitter.com/svpndotcom/status/1439635246316666888">on Twitter</a>.]</span>
+
+<span class="transcript-speaker">Monster</span> Right. Oh, it's also probably air gap and all that. But I would say, to answer the question about white nationalist, you know, I think that there is a place for like, uh...
+
+<span class="transcript-speaker">L</span> Refuse their terminology. <span class="transcript-note">[crosstalk]</span> Nationalism <span class="transcript-note">[crosstalk]</span> try to force you to answer yes or no, and that's what they use against you. It doesn't matter what you say or do. If this is what they think, they use their numbers and they shut you down. How many people have been speaking, speaking, and then poof, that happens. My advice to you is: when they try to <span class="transcript-note">[unintelligible]</span> you and trap you into that, that same shit they put on TV the last 30 fucking years, because I'm 31 years old and I don't remember this shit being on TV in the 90s, I remember. Don't... you are not... this. And they say, "are you a nationalist?" They're not asking you if you're a nationalist. They're speaking in a feminine language. Feminine language has nothing to do with the word they're actually telling you. Feminism...
+
+<span class="transcript-speaker">HF</span> Well I fucking <span class="transcript-note">[unintelligible]</span> feminism, you. Suck it.
+
+<span class="transcript-speaker">L</span> No, listen, this is the nature of reality...
+
+<span class="transcript-speaker">HF</span> No, no, <span class="transcript-note">[unintelligible]</span> accepted your female side. I happen to like cooking, I happen to like interior decorating...
+
+<span class="transcript-speaker">L</span> I like cooking...
+
+<span class="transcript-speaker">HF</span> How dare you, sir. How fucking dare you.
+
+<span class="transcript-speaker">L</span> Whatever. Anyway, if you do the research throughout all of fucking history the label for things in reality has been masculine and feminine, and these are all everywhere.
+
+<span class="transcript-speaker">HF</span> No, that's wrong. That's horrendously wrong, because there are multiple fucking cultures <span class="transcript-note">[crosstalk, unintelligible]</span> that's a lie.
+
+<span class="transcript-speaker">L</span> ...what they're really saying is what they mean by <span class="transcript-note">[unintelligible]</span> is usually using the word nationalist, what they really mean is going to be a mystery to you. So you should... if you look in the Bible, how many yes or no questions did Jesus answer?
+
+<span class="transcript-speaker">HF</span> Now you're, now you're mixing political and religious terms. No, sir. Your argument is deeply, deeply flawed.
+
+<span class="transcript-speaker">L</span> <span class="transcript-note">[crosstalk, unintelligible]</span> ...that if you directly answer the question, you're already fucked. And that's how the politicians do what they do. They don't directly answer any question. And you're trying to throw your head against a brick wall by doing the opposite of what they're doing. And they're being successful... <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">HF</span> Because I'm not <span class="transcript-note">[unintelligible]</span> sir. 
+
+<span class="transcript-speaker">L, 2:09:25</span> ...I'm saying when someone asks if you're a nationalist or not, what they're...
+
+<span class="transcript-speaker">Monster</span> Little mute timeout because people were not behaving. Yeah just skip the f-bombs. Let's just keep it civil and try and work it out. HF man, you're a smart guy. But enlightenment, I don't know. Just can't really feel that yet.
+
+<span class="transcript-speaker">HF</span> Sorry man, I have a lot of hate in my heart, I'm trying to let it go.
+
+<span class="transcript-speaker">Monster, 2:09:57</span> I know, I know you have... but God loves you man. You gotta resolve that hate, it's gonna kill you. You have cancer? What kind of diseases you carry with you?
+
+<span class="transcript-speaker">HF</span> Uh... actually I'm in perfect health, aside from having a bunch of titanium in my body from a car accident.
+
+<span class="transcript-speaker">Monster, 2:10:12</span> Car accident. So where did that hate come from? Group therapy, seriously. Like where did the hate come from? Why do you hate...
+
+<span class="transcript-speaker">HF</span> The Internet hate machine.
+
+<span class="transcript-speaker">Monster</span> Yeah, but why you? Why do you have to on board this stuff? You have to basically, at some point, say "I accept the idea that I should hate people indiscriminately." It's like, why would you do that?
+
+<span class="transcript-speaker">HF, 2:10:30</span> Rob. Rob. We live in a capitalist society. Capitalist society is based on predatory behavior.
+
+<span class="transcript-speaker">Monster</span> It doesn't have to be. <span class="transcript-note">[crosstalk from HF]</span> I got one for you. I figured something out, really mighty. I'm going to share it with you. Scarcity is an illusion. I promise you. It's an illusion.
+
+<span class="transcript-speaker">HF</span> It could be, except we have too many billionaires, Rob.
+
+<span class="transcript-speaker">Monster, 2:10:53</span> No, but here's the thing. I pray for the billionaires. And you know what...
+
+<span class="transcript-speaker">HF</span> Me too. I pray that they don't hurt too bad when we steal their money.
+
+<span class="transcript-speaker">Monster</span> You know what? I had a billionaire, a billionaire... In fact, true story. Craziest thing. A few weeks ago, I was heading to a meeting. Undisclosed location. And the Saturday before the meeting, a dear friend who's kind of a prophetic guy... I'm just going to mute <span class="transcript-note">[unintelligible]</span> And he said to me, he said, "Rob, this night two billionaires are being saved, and have all the money that you need." And I thought, "that's pretty whack, but that's really interesting". Anyway, we raised $32 million from a billionaire, and so I knew one of the one of the identities was. I didn't know that he'd come to Christ. He'd come to Christ. He realized who he was, that showed up at his house on a Tuesday morning... Tuesday evening for dinner, and there was a box of books, giant box from the Christian bookstore sitting at his doorstep. And evidently he must have come to Christ that weekend. I don't know. Strange. And I guess there's a second billionaire. I have a theory who it is but... but I will tell you this: scarcity is an illusion. The entire economic paradigm is built on the premise of scarcity, and making people operate with a dog-eat-dog mindset rather than realizing we're all in this together. That the idea of "love your neighbor as yourself" is not some high ideal, it is actually the best advice anybody ever gave you. When you actually take an approach where you treat everybody who comes to your path with humility and compassion, your whole world transforms around. So even the most dark, mean-spirited individual, if you attempt to engage that person with humility and compassion, more times than not, they will actually respond to that. And sometimes you have to confront it, like if it's really outrageous anger, but I think that is very effective.
+
+<span class="transcript-speaker">Monster, 2:13:14</span> What I've generally found is if you treat people as a criminal, they will manifest criminal. And if you treat people according to their highest self, they will, eventually, manifest their higher self. There's a guy who we helped sell a bunch of adult names. And I was asked, "should we deny this transaction?" A portfolio of adult names. And I was like, in my spirit, I think that we should help this guy. And so I called the dude and I asked him, "what's your 'why'?" And he's like, "My girlfriend is pregnant, we're getting married, and I need to leave this business." I said, "good for you." And we helped him sell those names, and he is no longer an adult entertainment guy. So, guy walked off the battlefield, out of that business. So you never know. Just because somebody starts in a mode where they're operating with a scarcity mindset that they feel they have to lower themselves now, to be able to make a living, put food on the table, it isn't necessarily the only way forward. 
+
+<span class="transcript-speaker">Monster, 2:14:26</span> Anyway. There's NE, I think. It keeps disappearing. NE, I think is his initials. N8. N8, do you want to ask a question? It said he wanted to raise his hand but there's not a question. <span class="transcript-note">[reading the chat. Full question in chat was from "nf84": "Rob at what age did you become a staunch Christian?"]</span> "At what age did I become a Christian?" I will tell you. <span class="transcript-note">[Jitsi noise, pop-up reads, "High Fidelity would like to speak"]</span> HF, I'm gonna come to you. Let me answer this question and then I'll come to you.
+
+<span class="transcript-speaker">Monster, 2:14:56</span> So, true story. Start of 2006... no, January 2007. I was fired from a company that I had founded in 1999. I had just raised $35 million for this company, Global Market Insite, GMI. I was named Entrepreneur of the Year in 2006. And the board that had come in in this financing in 2006, they... just, the chairman decided to give me the boot. And, you know, at the time I had, you know... private jet, Maserati in the garage and all that, and I was like, "I'm fooling myself". I thought I was all that. You know, had lots of vices, and terrible... faithful to my wife and all that, but I mean I had my vices. I swore like a sailor, and I was judgmental, discriminatory. I made gay jokes, I mean I was not a good guy. So in January 2007, I got fired. And I spent like two weeks on the beach in Cabo San Lucas, basically kind of just being despondent. Like, this thing that I had spent six years, seven years building, which was very big part of my identity, was ripped away from me. And so I immediately decided that I should start a venture capital firm. So in 2007, I started a venture capital firm, borrowed $4 million, and those of you were around... 2008 was a terrible, terrible year to be scaling a venture capital company. It was just about the worst vintage year you could ask for. And so a guy who basically had a long history of everything he touched turned to gold, suddenly everything that I touched turned to poop. So that was bad. And my wife, who called, who's in Austin tonight, she put up with me, thankfully. I stopped that in 2009 and started Epik as a bootstrap startup, and began to build Epik initially focused on a bunch of stuff. But what I was originally doing, starting around 2008... 9, after basically throwing in the towel on being a venture capital guy... you know, I made about a dozen venture investments in the span of a couple years... I ended up building two libraries in my search for truth. I studied everything. Eastern mysticism, witchcraft, occult, Freemasonry, everything. And basically what I concluded was that, well, Satan is real but Jesus Christ is Lord. And that was not a normal path. I was self-righteous for a bunch of years. And then basically in the fall of 2013, I fell on my knees in tears and accepted Christ as Savior. And then February 5th, 2014, I understood Romans 12:1. Romans 12:1 says, "render your body a living sacrifice, that is your reasonable service" and die to self, die to sin, and basically said, "Lord, you know everything, you see everything, you're outside of space and time. Just, like, Jesus take the wheel." And he did. So that's when I really became a Christian. And then a few years later, I figured out the idea of sanctification. Ended up reading a lot of the old Puritan texts. My favorite book in the world, by the way, besides the Bible is a book that you can find. I gave out so many copies, I made a website, mysteryofprovidence.com. Check it out. John Flavel wrote it in 1678. That's where I realized that scarcity is an illusion. So, Psalm 57:2 says, "the God who does all things for me"... and once you realize that, basically, the same God that basically fed the Israelites six days a week for 40 years in the desert is the same God we serve today, you start figuring out, like, God can basically make it happen.
+
+<span class="transcript-speaker">HF, 2:19:46</span> You know what Rob? Robots. Robots can feed us 24/7 too. We should spend more money developing robots that can, like, grow us food. Because then scarcity <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Monster</span> I agree. <span class="transcript-note">[crosstalk]</span> but that's precisely the point. Scarcity is an illusion. You could fit the whole world into Texas. There's this mindset that says we're out of space. I don't believe that's true.
+
+<span class="transcript-speaker">Monster, 2:20:16</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Frustrated Customer": "Are you fixing the chat or not"]</span> Frustrated Customer, yeah, so... are we fixing the hack? I don't believe there was a hack of our core system, I believe that somebody got access to an old backup. We already talked about it.
+
+<span class="transcript-speaker">Monster, 2:20:32</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Frustrated Customer": "What is the point of this call??? What are you hoping to achieve here???"]</span> "the point of this call..." The point of this call was actually to get Chad to come online to talk to me in a minute(?) but I haven't seen Chad. Anybody seen Chad? I haven't seen Chad. Who even knows Chad but Steven Bolton?
+
+<span class="transcript-speaker">HF, 2:20:49</span> Yeah, you know, the way they treated Chad is really kind of awful you know? They took pictures of the inside of his house, they filed a false restraining order against him, and then they put his address up on the Internet for everyone to know! Where he and his <i>child</i> <span class="transcript-note">[Monster mutes everyone]</span>
+
+<span class="transcript-speaker">Monster</span> <span class="transcript-note">[muted, but speaking]</span>
+
+<span class="transcript-speaker">Unidentified</span> You muted both of yourselves.
+
+<span class="transcript-speaker">Monster, 2:21:25</span> HF has to unmute himself... I did it because there was too much background noise. Alright guys, so a lot of questions. I gotta call my wife. You guys mind if I take a two... five-minute break?
+
+Unidentified 1: Oh, go ahead!
+
+Unidentified 2: Do it on cam, do it on camera please!
+
+<span class="transcript-speaker">Monster</span> I will go all night. I will go all night with you while I say sweet nothings to my wife
+
+<span class="transcript-speaker">Unidentified</span> Whoa whoa whoa! Wait until you're on the phone with your wife to say that, Rob, come on now.
+
+<span class="transcript-speaker">Monster</span> Oh you know what? You guys can talk amongst yourself. You guys talk. <span class="transcript-note">[Monster leaves]</span>
