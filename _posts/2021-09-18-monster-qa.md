@@ -12,7 +12,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <p>All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.</p>
 
-<b>I have not finished editing transcribing, and will be uploading additional portions today (9/18) as I complete them.</b>
+<b>I have not finished editing transcribing, and will be uploading additional portions as I complete them.</b>
 </div>
 
 <span class="transcript-speaker">Rob Monster, 0:00:00</span> ... working hypothesis is that it was a backup. And I'm not going to say where the backup was found but I believe it was a backup and it wasn't the live data. I don't think that there is an active vulnerability that would have allowed that scale of data haul. But we're going to find exactly where it was, we're going to find exactly how it was moved, and...
@@ -631,7 +631,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 1:20:20</span> <span class="transcript-note">[reading chat. Full comment in chat was from "/usr/bin": "prayer meeting is a psyop"]</span> "PrayerMeeting is a psyop..." No, not a psyop. It's a free thing. So when this COVID thing was going on, non-denominational, we said okay can we create a tool and host it for free? We host this, there's no recording, there's no surveillance. If somebody's recording it, it's not me, let's just say it that way.
 
-<span class="transcript-speaker">Monster, 1:20:20</span> <span class="transcript-note">[reading chat. Full question in chat was from "Pyramid King Reuben": "Rob, what's your take on Spinozan pantheism"]</span> "What's my take on Spinozan pan..." I don't know, I am not schooled. Pyramid King Reubenn, lay it on us, what do we need to know about Spinozan pantheism? You have to talk, if you want to tell us. Alright, he had a chance.
+<span class="transcript-speaker">Monster, 1:20:20</span> <span class="transcript-note">[reading chat. Full question in chat was from "Pyramid King Reuben": "Rob, what's your take on Spinozan pantheism"]</span> "What's my take on Spinozan pan..." I don't know, I am not schooled. Pyramid King Reuben, lay it on us, what do we need to know about Spinozan pantheism? You have to talk, if you want to tell us. Alright, he had a chance.
 
 <span class="transcript-speaker">Monster, 1:21:04</span> So what else we got? Demon spawn, the Canadian guy, Kirtaner? You there?
 
