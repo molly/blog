@@ -14,7 +14,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <p>All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.</p>
 
-<b>I have not finished editing and transcribing, and will be uploading additional portions as I complete them.</b> The transcript is currently complete through 2:22 of the video.
+<b>I have not finished editing and transcribing, and will be uploading additional portions as I complete them.</b> The transcript is currently complete through 3:00:00 of the video.
 </div>
 
 <span class="transcript-speaker">Rob Monster, 0:00:00</span> ... working hypothesis is that it was a backup. And I'm not going to say where the backup was found but I believe it was a backup and it wasn't the live data. I don't think that there is an active vulnerability that would have allowed that scale of data haul. But we're going to find exactly where it was, we're going to find exactly how it was moved, and...
@@ -996,6 +996,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <span class="transcript-speaker">Kirtaner, 2:27:00</span> <span class="transcript-note">[laughing]</span> I'm sorry... <span class="transcript-note">[laughing]</span> I'm sorry! I had to change tabs and I closed it, my bad! Hi, this is my show, I'm on indeed! What is up? <span class="transcript-note">[laughing]</span> 
 
 <span class="transcript-speaker">HF?</span> How many diapers do you think are being filled around the world now with this Epik hack, Kirt?
+
 <span class="transcript-speaker">Kirtaner, 2:27:26</span> Over 9,000? <span class="transcript-note">[laughing]</span> I gotta go pee... <span class="transcript-note">[laughing]</span> Oh my gosh... <span class="transcript-note">[laughing]</span> I need a smoke. Alright I'm gonna go grab my pack of smokes, give me a second.
  
 <span class="transcript-speaker">Monster</span> <span class="transcript-note">[returns to desk, is muted but is speaking]</span> ...wife calls me, she's got like a romantic corner room in Austin, Texas and I'm not there. Basically because I'm dealing with this, and the whole, uh, incident. Going right back.
@@ -1017,6 +1018,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <span class="transcript-speaker">Monster, 2:29:28</span> Yeah so... a call from an I.T. guy for a bunch of far-right people. And he told me this thing! The guy is a legitimate racist, and he said to me, "yeah, don't you know that all Blacks are cursed?" Because there's this idea that they have the Curse of Ham or something. And he says he's a Christian. I'm like, "dude, what part of 'born again, new creature' did you miss?" So, you may have a curse, but the curse is lifted in Jesus' name, so why would you conclude that Black people are cursed? Black people are not cursed. Certainly if they're Christians, they couldn't possibly be cursed. So anyway, there are lots of people who have generational hate. Their grandfather and their grandfather and whatever, they've passed on these ideas, and they've been raised with it. And just have pity on them because they're misguided and they eventually...
 
 <span class="transcript-speaker">Monster</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "here for the comedy": "black people aren't cursed but the data is"]</span> Yeah, they're not cursed but the data is. Yeah I agree. Yeah, so, crazy stuff.
+
 <span class="transcript-speaker">Monster, 2:30:42</span> You know, one thing that's kind of cool about this job: I get to do phone calls with a lot of very colorful people. I'm fairly private, so I don't typically kiss and tell, so I try to keep people anonymous where I can, but I get to meet some really colorful people. So that's fun. And actually, I'm  totally down to meet with antifa people, I've met with hardcore neo-Nazis, a guy that basically was like legit vigilante <span class="transcript-note">[unitelligible]</span> type guy... and I was like, "dude, you're not on the site of right". And I think I helped him walk off the battlefield, because what he was doing with vigilante justice was not cool.
 
 <span class="transcript-speaker">Monster, 2:31:30</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "JP": "One day we're going to get a documentary on Rob Monster"]</span> "...the documentary of Rob Monster..." Yeah, that'd be funny, actually. If you never get to do a movie about the crazy big story. I tell you what, here's something I started. I recommend this highly. So after I read this book <i>History of Providence</i> like three times, and I created this URL historyofprovidence.com where people can read it for free. I developed this practice of keeping it a log. I have a providence log. It's a running log of all the different crazy things that happened in my life. This is definitely going into the providence log, because I didn't expect to have 37 people show up to to rap about life. But, I was hoping to talk to Chad, because he's got like a huge following on Twitter. I'm trying to figure this dude out. But I appreciate you guys showing up.
@@ -1092,7 +1094,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">HF</span> I have no video. Do I have audio?
 
-<span class="transcript-speaker">Monster</span> 2:42:56: That's funny... no? Alright. Are we done? Looks we got hacked. Or something. Somebody's a really good hacker. I'm not sure.
+<span class="transcript-speaker">Monster 2:42:56</span> That's funny... no? Alright. Are we done? Looks we got hacked. Or something. Somebody's a really good hacker. I'm not sure.
 
 <span class="transcript-speaker">HF</span> We've been hacked!
 
@@ -1133,7 +1135,8 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <span class="transcript-speaker">Monster, 2:46:44</span> No, no! But I have my hobbies. But, I feel good. I don't drink very much. I had wine today, that was good, we had Communion today. But I don't really drink much, and I try to get to sleep by 11:30 and get up around 6 or 6:30. And then try to take a nap on the weekend. So yeah, what else?
 
 <span class="transcript-speaker">LH</span> Are you not fasting?
-<span class="transcript-speaker">Monster, 2:47:19</span> I fasted today. I did.I fasted. I did. I fasted from Wednesday afternoon until Thursday evening. 
+
+<span class="transcript-speaker">Monster, 2:47:19</span> I fasted today. I did. I fasted. I did. I fasted from Wednesday afternoon until Thursday evening. 
 
 <span class="transcript-speaker">LH</span> How can you drink if you're fasting?
 
@@ -1243,6 +1246,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <span class="transcript-speaker">Rauhauser</span> Did you get five bucks for it?
 
 <span class="transcript-speaker">Catgod</span> No. I should. 
+
 <span class="transcript-speaker">Rauhauser</span> Hell yeah you should.
 
 <span class="transcript-speaker">Monster, 2:53:44</span> Yeah well, that's funny. Well I gotta tell you that Satan is burning up because of this video. We did something kind of clever, right? So Satan wants to divide. He wants to basically create divisiveness, hate, polarity, and that polarity is breaking down. There's awakening happening all over the world because people have consensus around truth, and it drives Satan crazy. And satan ultimately loses. He's going to go to the pit. Ultimately he goes to the pit. That's the deal, he knows it, and we know that God wins in the end and Jesus Christ will rule and reign from the <span class="transcript-note">[unintelligible]</span> for a thousand years. That's what I believe. So, it's coming, we're almost there.
