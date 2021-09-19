@@ -944,3 +944,389 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <span class="transcript-speaker">Unidentified</span> Whoa whoa whoa! Wait until you're on the phone with your wife to say that, Rob, come on now.
 
 <span class="transcript-speaker">Monster</span> Oh you know what? You guys can talk amongst yourself. You guys talk. <span class="transcript-note">[Monster leaves]</span>
+
+<span class="transcript-speaker">Unidentified, 2:22:00</span> I will say, though, if it's okay for me to say, that in reference to the word "Nazi": I think the word itself... because, forgive me for saying, I'm pretty... I'm a bit persnickety on language and words even though I can be very loose with my tongue, I admit. But, that word, a lot of other trigger words, are used purely for warfare, regardless of what side you're on. It doesn't matter. It doesn't matter. It's like certain other words that hurt certain other people so much that, you know what, why don't we just not be a-holes to this group of people and just, respectfully, not say this thing they don't want us to say. Just like how, with Muslim people, we give them enough respect because clearly they were really, really upset about the idea of if people in america try to basically satire and make fun of their... their... um, you know...
+
+<span class="transcript-speaker">HF?, 2:22:53</span> Hey, hey, you're making a massive generalization off of the minute response of a very extreme, small set... dude, my nephew is Muslim. I love Islam. Have you had the fucking food? It's delicious.
+
+<span class="transcript-speaker">Unidentified</span> Are you saying I'm saying something bad about it?
+
+<span class="transcript-speaker">HF?</span> I hope not.
+
+<span class="transcript-speaker">Unidentified 1</span> I'm not <span class="transcript-note">[unintelligible]</span> that you'd be talking about, so don't do that. Yeah, I would appreciate <span class="transcript-note">[crosstalk]</span> 
+
+<span class="transcript-speaker">HF?</span> You're taking things out of context, bro.
+
+<span class="transcript-speaker">Unidentified, 2:23:29</span> No, I'm saying that a lot of this stuff is... what I was saying about that word is it seems it's probably just not a great term to use currently. Or anymore. Maybe let's just come up with a different <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">HF?, 2:23:47</span> When people try to call me a Nazi, I laugh. Because I'm not a fascist. I hate fascism. I love pretty much everybody, as long as they're not fascists. Don't talk about killing people because of their religion, or their sexuality, or what genitals they have, which are not in your fucking business anyway. As long as they don't do that.
+
+<span class="transcript-speaker">Unidentified</span> Yeah, I mean there's no way to move forward as a civilization in any kind of way if we're getting into "do anything you want here" of technology. That's going to require a large amount of responsibility, a lot of care...
+
+<span class="transcript-speaker">HF?, 2:24:26</span> Yeah how are we doing on the responsibility of that so far?
+
+<span class="transcript-speaker">Unidentified</span> Honestly? It could be a lot worse. Man, the world could be... everything going on now? This tribulation? All this? Oh boy, this could be a lot worse.
+
+<span class="transcript-speaker">HF?</span> They are turning war into a video game. And they don't even want a video game, they want to put artificial intelligence into these drones so they can send them out to kill them.
+
+<span class="transcript-speaker">Unidentified</span> You know why AI doesn't make sense? You know why?
+
+<span class="transcript-speaker">HF?</span> Are you cool with that?
+
+<span class="transcript-speaker">Unidentified</span> No.
+
+<span class="transcript-speaker">HF?</span> Alright <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified, 2:24:58</span> Because of the contradiction of them trying to say that you can put consciousness and the spirit of God into an AI, which doesn't make sense because it literally means artificial. "Artificial" means not real, not natural. By definition, artificial intelligence is not intelligent. By the literal definition. You'd have to create a different kind of intelligence, and even then, you shouldn't probably shouldn't play God and basically make something that sentient that can't move or breathe. That might not be a great experience, in my opinion.
+
+<span class="transcript-speaker">HF?</span> You know what would be a great experience, though? What would be a great experience would be having an earbud that had an AI in it that could translate any language into your native language for you. That would be...
+
+<span class="transcript-speaker">Unidentified 2, 2:25:37</span> So there's a device I saw like two years ago in China or something. It was this little handheld device and it translated everything into everything. So we can do that technically. It just hasn't been made yet. We technically...
+
+<span class="transcript-speaker">HF?</span> So get on that. Stop worrying about nationalism, stop worrying about God and Christianity and crap, and go out there and make my damn earbud for me, would ya dude?
+
+<span class="transcript-speaker">Unidentified 2</span> Are you willing to invest in my business of making that earbud? 
+
+<span class="transcript-speaker">HF?</span> I don't know. It depends. Are you gonna have diversity <span class="transcript-note">[crosstalk]</span> in your hires? Are you going to have female executives?
+
+<span class="transcript-speaker">Unidentified 2</span> I mean... why not? I don't know, why not? I don't care what people look like or where they're from, I just care about if they come into my workplace to do their job, they need to do their job. I don't want <i>any</i> like...
+
+<span class="transcript-speaker">HF?, 2:26:41</span> See just by saying you're already prejudging the people who show up. You know what? I'm gonna shut up for a minute. This is Kirt's show. Kirt, you're on. 
+
+<span class="transcript-speaker">Kirtaner, 2:27:00</span> <span class="transcript-note">[laughing]</span> I'm sorry... <span class="transcript-note">[laughing]</span> I'm sorry! I had to change tabs and I closed it, my bad! Hi, this is my show, I'm on indeed! What is up? <span class="transcript-note">[laughing]</span> 
+
+<span class="transcript-speaker">HF?</span> How many diapers do you think are being filled around the world now with this Epik hack, Kirt?
+<span class="transcript-speaker">Kirtaner, 2:27:26</span> Over 9,000? <span class="transcript-note">[laughing]</span> I gotta go pee... <span class="transcript-note">[laughing]</span> Oh my gosh... <span class="transcript-note">[laughing]</span> I need a smoke. Alright I'm gonna go grab my pack of smokes, give me a second.
+ 
+<span class="transcript-speaker">Monster</span> <span class="transcript-note">[returns to desk, is muted but is speaking]</span> ...wife calls me, she's got like a romantic corner room in Austin, Texas and I'm not there. Basically because I'm dealing with this, and the whole, uh, incident. Going right back.
+
+<span class="transcript-speaker">Monster, 2:28:18</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "69": "i hope your wife is ok"]</span> Wife's good. She still loves me. Thank you for asking. Yeah. So what's going on? Is HF... did HF clean up his act, or is he still lying(?) ? You know what, he's better than... HF, to be fair,  weev seems less enlightened than you, and he left. So, I have confidence in you. weev, I'm not so sure. 
+
+<span class="transcript-speaker">HF?</span> weev? <span class="transcript-note">[unintelligible]</span> give me a wide berth. All I can say.
+
+<span class="transcript-speaker">Monster</span> Yeah. Wide berth, I agree with you. He seems... I think it's a schtick though. I'm not sure that the angry thing is like legit who he is. I think he's <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Kirtaner?</span> He is as pure a chaos agent as I have ever known on this earth, other than myself.
+
+<span class="transcript-speaker">Monster, 2:29:02</span> I could imagine that. <span class="transcript-note">[reading the chat]</span> So, nealr, you had a question I think earlier. So if you wanted to ask a question I will answer it. But I'll tell you a true story about...
+
+<span class="transcript-speaker">Monster</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "Literally a Nazi": "I think we need to pray together"]</span> I will, I'll totally pray. Before we leave I'll totally pray. So, true story. So I got this call one time.
+
+<span class="transcript-speaker">Kirtaner?</span> Neal wants to ask a question, let him ask his question.
+
+<span class="transcript-speaker">Monster, 2:29:28</span> Yeah so... a call from an I.T. guy for a bunch of far-right people. And he told me this thing! The guy is a legitimate racist, and he said to me, "yeah, don't you know that all Blacks are cursed?" Because there's this idea that they have the Curse of Ham or something. And he says he's a Christian. I'm like, "dude, what part of 'born again, new creature' did you miss?" So, you may have a curse, but the curse is lifted in Jesus' name, so why would you conclude that Black people are cursed? Black people are not cursed. Certainly if they're Christians, they couldn't possibly be cursed. So anyway, there are lots of people who have generational hate. Their grandfather and their grandfather and whatever, they've passed on these ideas, and they've been raised with it. And just have pity on them because they're misguided and they eventually...
+
+<span class="transcript-speaker">Monster</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "here for the comedy": "black people aren't cursed but the data is"]</span> Yeah, they're not cursed but the data is. Yeah I agree. Yeah, so, crazy stuff.
+<span class="transcript-speaker">Monster, 2:30:42</span> You know, one thing that's kind of cool about this job: I get to do phone calls with a lot of very colorful people. I'm fairly private, so I don't typically kiss and tell, so I try to keep people anonymous where I can, but I get to meet some really colorful people. So that's fun. And actually, I'm  totally down to meet with antifa people, I've met with hardcore neo-Nazis, a guy that basically was like legit vigilante <span class="transcript-note">[unitelligible]</span> type guy... and I was like, "dude, you're not on the site of right". And I think I helped him walk off the battlefield, because what he was doing with vigilante justice was not cool.
+
+<span class="transcript-speaker">Monster, 2:31:30</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "JP": "One day we're going to get a documentary on Rob Monster"]</span> "...the documentary of Rob Monster..." Yeah, that'd be funny, actually. If you never get to do a movie about the crazy big story. I tell you what, here's something I started. I recommend this highly. So after I read this book <i>History of Providence</i> like three times, and I created this URL historyofprovidence.com where people can read it for free. I developed this practice of keeping it a log. I have a providence log. It's a running log of all the different crazy things that happened in my life. This is definitely going into the providence log, because I didn't expect to have 37 people show up to to rap about life. But, I was hoping to talk to Chad, because he's got like a huge following on Twitter. I'm trying to figure this dude out. But I appreciate you guys showing up.
+
+<span class="transcript-speaker">Monster, 2:32:28</span> <span class="transcript-note">[reading the chat. Full question in chat was from "nf84": "@Rob, what kind of libertarian are you? A small-gov Republican-lite, a 'left-libertarian', or an anarcho-capitalist?"]</span> "What kind of libertarian are you?" I just believe in small government, and I believe in self-governance. I believe that if you have self-governance, that where people are accountable to each other and love their neighbors as themselves, then they will be less likely to need dictators to put them in jail, and foreign teams, and house sequestering, and stuff like that. That's why I believe in liberty, but I think that liberty as the founding fathers envisioned it was kind of predicated on the assumption that people would be self-governing. And then over the last 50 years we've become progressively a lot less good at self-governing. And now we have a mess. So that's what I would tell you, that's my version of being a libertarian. It's not heavy. I'm not like a... the doctrine of somebody's version of libertarian. I just believe in the idea that liberty and personal accountability work really well together. And the philanthropist thing, which I put on my Twitter, is like, I just think that if you have means and you love your neighbor as yourself, then you can basically use the means that you have to lift people up. I'm a bigger fan of giving people a hand up than a handout.
+
+<span class="transcript-speaker">Unidentified</span> Did you say memes? Uplifting people through memes?
+
+
+<span class="transcript-speaker">Monster, 2:33:54</span> No no no. <i>Means</i>. Like means. Economic means. Like ways and means, like you have money. If you have resource...
+
+<span class="transcript-speaker">Unidentified</span> I have written(?) memes, my friends. Yes. I understand you.
+
+<span class="transcript-speaker">Monster</span> The means. As in, like, money. I'm getting a cold, guys. But it is what it is.
+
+<span class="transcript-speaker">Unidentified</span> The memes!
+
+<span class="transcript-speaker">Monster, 2:34:17</span> That's what I would tell you, is that that if you have the ability to love your neighbor as yourself and basically give somebody a hand up, as opposed to just a handout, you can co-create abundance. And the result is that you lift people out of poverty. They in turn lift their community out of poverty. And I have seen so many examples of that. The whole mindset around scarcity is designed to get as many people as possible to compete with each other, to hoard resource, and that basically keeps us...
+
+<span class="transcript-speaker">Unidentified</span> Whores and resources? What did you say?
+
+<span class="transcript-speaker">Monster, 2:34:53</span> They hoard. They hoard resources. They hoard. I don't think I'm <span class="transcript-note">[crosstalk, unintelligible]</span>
+
+<span class="transcript-speaker">Undefined</span> I'm sorry, I thought you were talking about that guy up in Minnesota who got busted for sex trafficking. The GOP guy.
+
+<span class="transcript-speaker">Monster</span> No, that that's your dirty mind. <span class="transcript-note">[puts in headphone]</span> So is this audio better? Is this audio better, or is it better with no headset?
+
+<span class="transcript-speaker">Unidentified</span> I think not with the headset.
+
+<span class="transcript-speaker">Neal Rauhauser, 2:35:18</span> I see i've been atted <span class="transcript-note">[added? outed?]</span>. How's my audio here?
+
+<span class="transcript-speaker">Unidentified</span> It's wonderful.
+
+<span class="transcript-speaker">Unidentified 2</span> Oh, is that Neal? Or is that David? Who is that?
+
+<span class="transcript-speaker">Rauhauser</span> It's me, it's Neal.
+
+<span class="transcript-speaker">Monster, 2:35:28</span> <span class="transcript-note">[reading the chat. Full question in chat was from "LinsHorse": "can you send me your venmo, rob?"]</span> That's funny. Venmo. That's funny. I'll just give you guys my cell phone. 425... just don't call me now, alright? 425-765-0077. That's my cell phone. If you guys have like a problem, if you think that people are doing some nasty stuff, and you think it's urgent that I need to help you, you can call me.
+
+<span class="transcript-speaker">Monster, 2:35:54</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "nf84": "I like your curtains Rob"]</span> Thanks. My wife. My wife has a good taste.
+
+<span class="transcript-speaker">Monster, 2:36:00</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "LinsHorse": "[lifting pals outta poverty 4277250007(sic)"]</span> "lifting pals out of poverty..." <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob what's your favorite Bible verse?"]</span> "What's my favorite Bible verse?" My favorite Bible verse, I think that's probably Romans 8:28. I would say... <span class="transcript-note">[crosstalk]</span> if you don't know it, it's "all things work together for the good of those who love God that are called according to His purpose". I think that is probably... because I think if you understand what that verse says, then you know that all lemons are for lemonade. So when this whole thing went down, I thought, "crap, what a freaking nightmare". And to basically walk into that saying, "you know what, I know there's a lemonade here somewhere", and to basically have blind faith that there's lemonade... So once we got the system secured and things were locked down to a certain degree... you might still find vulnerabilities, so if you found, let us know... then I was like, alright, I still want to have a conversation with people. And tonight seemed like a good night to do it. So I just totally followed a prompt. I'm sure my lawyers will freak out, but it doesn't matter. I'm just trying to basically solve stuff for you, <span class="transcript-note">[unintelligible]</span> people who will have dark thoughts.
+
+<span class="transcript-speaker">Monster, 2:37:21</span> Somebody asked a really good question, you guys are going fast, let me find it. Here, hold on... <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Does God love Satan?"]</span> "Does God love Satan?" So, here's the deal. Here's what I've concluded. For anybody who cares to investigate this issue. So a lot of people feared... I do not fear Satan. Why do I not fear Satan? I fear God, but I don't fear Satan. I would tell you, I think the Lord showed me this, that Satan is controlled opposition. I refer to him as the corrections officer of the universe. So his job is to basically tempt you, test you, show you where you are on the mountain. The Lord chases the love, so you basically make a mistake, do something stupid, suffer the consequence, and you basically will. And if you're still stupid, you'll eventually get in jail, and then you can figure out your life there.
+
+<span class="transcript-speaker">HF?</span> Well, <span class="transcript-note">[crosstalk, unintelligible]</span> you're there for eternity. Like, you can't escape. It's not really... it's not like you're trying to train someone to be a better person, it's the final destination. But that's really besides the point because Rob, Neal really has a question for you and he's been trying to get your attention.
+
+<span class="transcript-speaker">Monster, 2:38:42</span> Go ahead! Neal, go for it, ask your question.
+
+<span class="transcript-speaker">Rauhauser, 2:38:46</span> Oh I... this is a fascinating discussion! And not at all what I anticipated, so kudos to you Rob for hosting this. It's just... in the past we've had TinyChat and lewd behavior and people getting raided by the FBI while livestreaming and things like that, so it's nice to actually come across a sort of intellectual adult discussion. I'm curious, there have been a dozen good points along the way here, but what you just said about not viewing viewing Satan as the direct opponent to God, that's very interesting. Because we have this sort of Manichaean dualism that is the norm for a lot of Christianity, and what you just said is more... it's similar to the Muslim view. And that Shaitan is not not an opponent of Allah, he is the the trivializer. And if you if you compare notes between the Christians in the West and the things that concern them and Muslims with Shaitan, you'll find that they're using different words and reacting at a very big emotional level about those words, but often describing the same problem in society.
+
+<span class="transcript-speaker">Monster, 2:40:21</span> Yep. I have a lot of Muslim friends, and we employ many Muslims, and we celebrate their holidays. I mean... some of their [unintelligible, and I learned a lot from them. And there are a lot of, I would say, enlightened Christians. Er, Muslims. But I would say, and lovely people...
+
+<span class="transcript-note">[connection issue, Jitsi reconnects]</span>
+
+<span class="transcript-speaker">Kirtaner, 2:41:56</span> I <i>swear</i> I did not do that. It was pretty funny, though.
+
+<span class="transcript-speaker">Monster</span> Somebody make me moderator. Somebody needs to make me moderator again. Or if somebody else is going to be the moderator, then just kind of manage the sound stuff so we don't have interruptions. But that was impressive, I don't know how you did that, but that was impressive.
+
+<span class="transcript-speaker">Neal</span> As soon as I speak, Kirt has to get started like that. I see how it is.
+
+<span class="transcript-speaker">Monster, 2:42:23</span> No, no, no. So anyway, we were talking about Muslims. And so, where I differ from Muslims... how do I make me a moderator so I can fix this background noise? 
+
+<span class="transcript-speaker">Kirtaner</span> Yeah, who the hell renamed the room? <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">HF</span> Mod! Mod! Mod! Mod!
+
+<span class="transcript-speaker">Monster, 2:42:42</span> Yeah, so that's funny. So anyway, yeah.
+
+<span class="transcript-speaker">Rauhauser</span> I've got no audio.
+
+<span class="transcript-speaker">Monster</span> Really? I've got audio. I can hear you.
+
+<span class="transcript-speaker">HF</span> I have no video. Do I have audio?
+
+<span class="transcript-speaker">Monster</span> 2:42:56: That's funny... no? Alright. Are we done? Looks we got hacked. Or something. Somebody's a really good hacker. I'm not sure.
+
+<span class="transcript-speaker">HF</span> We've been hacked!
+
+<span class="transcript-speaker">Kirtaner</span> It wasn't... you could see me the whole time! My hands were nowhere near a keyboard!
+
+<span class="transcript-speaker">HF</span> He types with his penis, don't believe him.
+
+<span class="transcript-speaker">Monster</span> I gotta give a new URL. Let's try again. One second, one second. Got a new URL for you. Go there, go to that URL. Alright. That's funny. That's so funny. That's funny. So there's a dude... this is funny. So there's a dude, the one that's called "Literally a Nazi". He is, I think he's troubled. He's sending me 
+
+<span class="transcript-speaker">HF</span> He is literally a Nazi
+
+<span class="transcript-speaker">Monster</span> <span class="transcript-note">[audio distortion, unintelligible]</span>
+
+<span class="transcript-note">[loud feedback noise]</span>
+
+<span class="transcript-speaker">Kirtaner</span> It's weev(?), I fucking knew it!
+
+<span class="transcript-speaker">Monster, 2:45:10</span> ...alright! Heavenly Father, Abba Father, Lord, we come to you in the name of your Son, the Lord Jesus Christ. And we pray in the Spirit, Lord, take authority at this time over the demons and evil spirits, agents of Satan, all spiritual wickedness that is at work. We bind all demons, all agents of Satan. We make our curses in Jesus' name, to clear all magic, all voodoo, all witchcraft be null and void without effect. If You would take authority, Lord, at this time that whatever demon is engaged in this nonsense work stops immediately. That You would be glorified, Lord, that we have this opportunity...
+
+<span class="transcript-speaker">HF</span> Hey Rob, Rob! It stopped!
+
+<span class="transcript-speaker">Monster</span> ... in Jesus' name, Amen.
+
+<span class="transcript-speaker">HF</span> It stopped! But the question is, was that the <span class="transcript-note">[unintelligible]</span>, or was it the praying?
+
+<span class="transcript-speaker">Monster, 2:45:53</span> So I have two different meetings going on. I have the take two, if you guys want to drop and go in there, we can do that. But I'm not sure who did that. If that was a like a hack or what. Your words can stop it, yeah.
+
+<span class="transcript-speaker">Monster, 2:46:05</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "LinsHorse": "the power of prayer worked"]</span> Yeah, this is... "the power of prayer worked". Yeah, there you go.
+
+<span class="transcript-speaker">Monster, 2:46:09</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob do you think you're overpaid?"]</span> "Do I think I'm overpaid?" So uh... and hey Phil! You're my... intercessors, man. Just pray over meeting. Pray over this meeting.
+
+<span class="transcript-speaker">Unidentified</span> Yes.
+
+<span class="transcript-speaker">Monster</span> Thank you brother. So do I think I'm overpaid? No, I mean, I pretty much did <span class="transcript-note">[unintelligible]</span> a bunch of years. And I think I work about 100 hours a week.
+
+<span class="transcript-speaker">HF</span> That's not good for you, man! You gotta take some you time, bro.
+
+<span class="transcript-speaker">Monster, 2:46:44</span> No, no! But I have my hobbies. But, I feel good. I don't drink very much. I had wine today, that was good, we had Communion today. But I don't really drink much, and I try to get to sleep by 11:30 and get up around 6 or 6:30. And then try to take a nap on the weekend. So yeah, what else?
+
+<span class="transcript-speaker">LH</span> Are you not fasting?
+<span class="transcript-speaker">Monster, 2:47:19</span> I fasted today. I did.I fasted. I did. I fasted from Wednesday afternoon until Thursday evening. 
+
+<span class="transcript-speaker">LH</span> How can you drink if you're fasting?
+
+<span class="transcript-speaker">Monster</span> I did fast.
+
+<span class="transcript-speaker">HF</span> Aw shit.
+
+<span class="transcript-speaker">Monster</span> So my fast ended with Communion. We had bread and wine.
+
+<span class="transcript-speaker">C</span> <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Rauhauser</span> So is JoJo still here? If Camp is here I just I want to say to Rob <span class="transcript-note">[crosstalk]</span> 
+
+<span class="transcript-speaker">C</span> <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Unidentified</span> Oh my god, fuck!
+
+<span class="transcript-speaker">HF</span> He's speaking in tongues, let him go man.
+
+<span class="transcript-speaker">Kirtaner</span> <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Rauhauser, 2:48:06</span> I just wanted to say thank you out here in public, for removing Joseph Camp from the Internet. That guy has been... I don't know, he's not the number one pain my ass but he's definitely in the top five when he's active. And you know, the natural right of free speech aside, he contributes nothing to the marketplace of ideas that our founding fathers envisioned. He's just an incredibly damaged human being who gets online and acts out.
+
+<span class="transcript-speaker">Monster, 2:48:41</span> Yeah. Yeah, not his highest self. So yeah, we gotta work on that. And I commit to working with him to try to be a better version of himself. And in the meantime, we're not going to turn YourDaddyJoey back on, because I think it's divisive, and I think that... needs to basically heal. I mean some of this antifa stuff that has been going on the last year is kind of crazy. I mean it would just be good if we just had a little bit less of like, burning down neighborhoods and stuff that. I think we need to do a little better.
+
+<span class="transcript-speaker">LH</span> I think that Catgod wants to say a prayer.
+
+<span class="transcript-speaker">Kirtaner</span> Catgod!
+
+<span class="transcript-speaker">LH</span> Catgod, say a prayer.
+
+<span class="transcript-speaker">Catgod</span> <span class="transcript-note">[unintelligible]</span> ...and bless your cats.
+
+<span class="transcript-speaker">D, 2:49:37</span> Does anybody here follow Mardu?
+
+<span class="transcript-speaker">Catgod</span> Anytime you see JoJo camp online you just ignore that <span class="transcript-note">[unintelligible]</span> and go pet some cats.
+
+<span class="transcript-speaker">Monster, 2:49:54</span> "Literally a Nazi"... This dude is full-on demon spawn, man. We must be making too much impact because he is full-on demon spawn.
+
+<span class="transcript-speaker">Rauhauser</span> We talking about JoJo?
+
+<span class="transcript-speaker">Monster, 2:50:04</span> I don't know, whoever "Literally a Nazi" is. There's a user named "Literally a Nazi". He's troubled with his assessment.
+
+<span class="transcript-speaker">Catgod</span> Are y'all going to ban me for smoking on camera?
+
+<span class="transcript-speaker">Monster</span> No. Whatever. You do you. So anyway, exciting times around here. What else we want to talk about?
+
+<span class="transcript-speaker">Catgod</span> Send Catgod five dollars to cashtag $catgodcatgod
+
+<span class="transcript-speaker">Kirtaner</span> Give Catgod his five dollars, he won't stop asking! For the love of God, somebody do it already.
+
+<span class="transcript-speaker">LH</span> Cashapp is $catgodcatgod
+
+<span class="transcript-speaker">Rauhauser, 2:50:49</span> For those of us who don't have five dollars handy, are we still assisting with homework? 
+
+<span class="transcript-speaker">Catgod</span> Uh, no, I just want five dollars.
+
+<span class="transcript-speaker">Kirtaner</span> I'm pretty sure he's got the homework covered.
+
+<span class="transcript-speaker">Monster, 2:51:03</span> Yep. That's funny. So yeah anyway, it says... <span class="transcript-note">[looking at chat]</span> "PKR..." <span class="transcript-note">[crosstalk]</span> I don't watch much <span class="transcript-note">[crosstalk]</span> Somebody asked if I watch Netflix. <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">HF</span> You don't watch Netflix? Do you watch any television? 
+
+<span class="transcript-speaker">Monster, 2:51:28</span> Pretty much not. I almost don't watch any television. No time.
+
+<span class="transcript-speaker">LH</span> What do you think for fun?
+
+<span class="transcript-speaker">Monster</span> You know what, I grow a lot of blueberries. We have like 80 blueberry bushes. And I actually read a ton, I have like two libraries. If you could see the stack of books that are around me, I think you'd be impressed.
+
+<span class="transcript-speaker">LH</span> Do you read Parler?
+
+<span class="transcript-speaker">Monster, 2:51:54</span> What?
+
+<span class="transcript-speaker">LH</span> Have you ever read Parler?
+
+
+<span class="transcript-speaker">Monster</span> What's Palmer? Oh the website, Parler. I'm not a member of Parler <span class="transcript-note">[crosstalk]</span> 
+
+<span class="transcript-speaker">Kirtaner</span> I had a budding relationship with its CEO for a while, he was a good sport. 
+
+<span class="transcript-speaker">Monster, 2:52:16</span> Yeah? Do you want to explain that one? Wanna unpack that for us?
+
+<span class="transcript-speaker">Kirtaner</span> Well, myself and another friend kind of made them look a joke, and then he invited me to be a verified influencer on his platform as a... I don't even know. I don't know why he did that, but I mean it was fun. It was a fun time. He's very nice, very nice gentleman! I liked him.
+
+<span class="transcript-speaker">Monster, 2:52:39</span> Oh John Matze is here! John Matze's in the house! Get the heck out.
+
+<span class="transcript-speaker">Kirtaner</span> Oh! John! My man! I was just talking about how wonderful you are.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Monster, 2:52:52</span> John, you got video? 
+
+<span class="transcript-speaker">HF</span> Is this <i>the</i> John Matze? John, are you here bro?
+
+<span class="transcript-speaker">Monster, 2:52:57</span> You gotta decloak so we can verify this. If your camera works. If your camera doesn't work...  we never met, but we did become Parler's registrar, so that was cool.
+
+<span class="transcript-speaker">Monster, 2:53:18</span> Gosh. How's everybody feeling? You guys... everybody COVID-free?
+
+<span class="transcript-speaker">LH</span> I feel like... the power of god... I've got nothing. Catgod, say a prayer.
+
+<span class="transcript-speaker">Catgod</span> I did.
+
+<span class="transcript-speaker">LH</span> Louder.
+
+<span class="transcript-speaker">Rauhauser</span> Did you get five bucks for it?
+
+<span class="transcript-speaker">Catgod</span> No. I should. 
+<span class="transcript-speaker">Rauhauser</span> Hell yeah you should.
+
+<span class="transcript-speaker">Monster, 2:53:44</span> Yeah well, that's funny. Well I gotta tell you that Satan is burning up because of this video. We did something kind of clever, right? So Satan wants to divide. He wants to basically create divisiveness, hate, polarity, and that polarity is breaking down. There's awakening happening all over the world because people have consensus around truth, and it drives Satan crazy. And satan ultimately loses. He's going to go to the pit. Ultimately he goes to the pit. That's the deal, he knows it, and we know that God wins in the end and Jesus Christ will rule and reign from the <span class="transcript-note">[unintelligible]</span> for a thousand years. That's what I believe. So, it's coming, we're almost there.
+
+<span class="transcript-speaker">LH</span> Do you think Jesus will save you from the hack?
+
+<span class="transcript-speaker">Monster, 2:54:42</span> I think that Jesus basically allows evil to happen because he gives us free will. But I think that in the end he transmutes evil so when there's injustice... and it's repaid sevenfold. So this hack could happen, it's going to actually repay Epik with a bounty sevenfold. That's God's... <span class="transcript-note">[noise from other participant, unintelligible]</span> ...but when Satan overplays his hand, does something really stupid, then the Lord transmutes that into good.
+
+<span class="transcript-speaker">Kirtaner</span> For the love of God, whoever that is, mute your shit!
+
+<span class="transcript-speaker">Unidentified</span> You said that the hack was done by Satan and God will repay it sevenfold?
+
+<span class="transcript-speaker">Monster, 2:55:30</span> He does. That's how it goes. That's God's economic.
+
+<span class="transcript-speaker">LH</span> Do you know who David Johnson is?
+
+
+<span class="transcript-speaker">Monster, 2:55:33</span> I don't, who's David Johnson?
+
+<span class="transcript-speaker">LH</span> <span class="transcript-note">[laughing]</span> He's everyone.
+
+<span class="transcript-speaker">Monster</span> He's everyone. Alright. That's good. You seem pretty enlightened. What do you believe? Is there a plan of salvation in your methodology?
+
+<span class="transcript-speaker">LH</span> Jainism. Jainism.
+
+<span class="transcript-speaker">Monster</span> Jainism.
+
+<span class="transcript-speaker">LH</span> Have you heard of it?
+
+
+<span class="transcript-speaker">Monster</span> So are you from India? Or where do you come from?
+
+<span class="transcript-speaker">LH, 2:56:02</span> I live in England
+
+<span class="transcript-speaker">Monster</span> In England.
+
+<span class="transcript-speaker">Catgod</span> Where's uh... <span class="transcript-note">[unintelligible, cat meowing]</span>.
+
+<span class="transcript-speaker">LH</span> I'm trying to see the Christian light, which is why I'm here.
+
+<span class="transcript-speaker">Unidentified</span> Uh... he's called Rob Monster. I guess that's his real fucking name.
+
+<span class="transcript-speaker">Monster, 2:56:18</span> It's my real name. My birth name is Robert Willard Monster. Those of you who think I'm related to Rob Zombie, I'm not. My birth name is Robert Willard Monster. And then when I went to college I changed my first name from Robert to Rob... I became known as Rob Monster. So that's how I became Rob Monster. And that was before I knew who Rob Zombie was.
+
+<span class="transcript-speaker">Unidentified</span> <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">Monster, 2:56:54</span> <span class="transcript-note">[reading the chat. Full question in chat was from "q": "is rob gonna host a party every night for us now or what"]</span> Alright. "Is Rob gonna host a party every night for us now or what?" You know what? Do you guys want to do this again tomorrow? I'll do it again tomorrow. I will.
+
+<span class="transcript-speaker">Monster, 2:56:59</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob do you like Lex Luther?"]</span> Do I like Lex Luthor? Alright, do you guys want to hear a funny story? I'll tell you a funny story about Lex Luthor.
+
+<span class="transcript-speaker">Kirtaner</span> I love anything funny!
+
+<span class="transcript-speaker">Monster</span> Alright, that's good. So Lex Luthor. So, so, NPR did this bit where I was referred to as "the Lex Luthor of the Internet". So let me tell you how this went down. Bobby Allyn, who is a lovely charming guy, but he's kind of an operative. <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Is NPR fake news?!?"]</span>  NPR is fake news. Yes, NPR is fake news. They're propagandists. So he came to my home for a two and three-quarter hour interview. I made him a very good latte, he admitted it was a good latte. And we sat down...
+
+<span class="transcript-speaker">Unidentified</span> Who the fuck is this clown?
+
+<span class="transcript-speaker">Monster, 2:57:46</span> ...and then on the basis of this two and three quarter hour interview, he took six sentences of mine and turned it into a hit piece. And the part about "the Lex Luthor of the Internet", he asked me this question: "why do people think... why do you think the media is unkind to you?" And I said to him, I said, "well, with a name Rob Monster, it's like the Lex Luthor of the Internet." So if you wanted to, like, cast a villain to create, I don't know, a negative story, so you could be like the Charlie of Vietnam but on the Internet... Rob Monster would be a really good name, because it sounds like a villain. But I'm not a villain. So that's kind of how I think it went down. And so the scriptwriters who orchestrate this stuff, they decided to make me the villain. What they underestimated is that it's going to cost them some stuff. Anonymous, you guys got it wrong. I don't know who runs... you're not on Twitter, but you guys got it wrong. We don't think...
+
+<span class="transcript-speaker">LH</span> David Johnson
+
+<span class="transcript-speaker">Monster, 2:58:56</span> David Johnson is the propaganda guy from Anonymous? Okay good to know.
+
+<span class="transcript-speaker">Rauhauser</span> <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">Monster, 2:59:00</span> And then Wikipedia! Those of you who think Wikipedia is anything other than propaganda, you're...
+
+<span class="transcript-speaker">Unidentified</span> He's just fucking around talking about it. Did he like apologize for getting everybody's fucking data? Or is he just rambling like a fucking idiot?
+
+<span class="transcript-speaker">Monster</span> Uh, no. No, no, no, not like a fucking idiot.
+
+<span class="transcript-speaker">Unidentified</span> Oh, you can hear me?
+
+<span class="transcript-speaker">Monster</span> I can.
+
+<span class="transcript-speaker">Unidentified, 2:59:22</span> You fucking clown.
+
+<span class="transcript-speaker">Monster</span> ...because you can mute yourself, or you can... what's your name?
+
+<span class="transcript-speaker">Unidentified</span> No I'm not gonna bother. No thank you. Continue on, keep going.
+
+<span class="transcript-speaker">Monster</span> Alright. Well if you're gonna masturbate, just turn the audio off okay, because I don't really want to hear it. 
+
+<span class="transcript-speaker">Unidentified</span> Yeah you do.
+
+<span class="transcript-speaker">Monster</span> No, I don't really get off on it.
+
+<span class="transcript-speaker">Unidentified</span> Yeah you do. That's why you're talking about it.
