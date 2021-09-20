@@ -63,11 +63,11 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster</span> Alright.
 
-<span class="transcript-speaker">Kirtaner</span> I'm from Florida!
+<span class="transcript-speaker">Rocco Castoro</span> I'm from Florida!
 
 <span class="transcript-speaker">Monster, 0:19:25</span> Alright, so Joey, so I asked him, I said, "can you track down this guy? His name is Donny and he lives in Tampa." And he runs a service that we rely on, and he like never pays out. And I'm like "this is really weird". And I had heard a rumor that he'd become mixed up in drugs and was in and out of rehab. But I was like, "I just want to know he was alive!" So I said, "Joey can you help me track down this guy?" And he's like, he says, "I'm in Tampa, I'll get back to you in a few hours." And then like a few hours later he sends me this note, he's like, "yeah!" I think it was a note... I don't know what it was, yeah note, chat, I forget what it was. Telegram, yes, Telegram. And he says "yeah, I found Don..." his name is Donny. "I found Donny, and Donny was at home." And he had like jumped the fence of a gated community to go get to Donny, to knock the door. And it's like, I would never condone that, right? Because there are laws, and there are like reasonable boundaries of private property, and so... but he operates based on his moral code. And I think that every now and then it's possible that he's a bully. I believe that I have seen evidence that he may have the capacity to be a bully. And I'm not a fan of that. I think that there's a place for calling out bullies and thugs for being bullies and thugs. Chad, if you're listening, I think you're a bully, I think you're a thug, but I also believe in your highest self and I think that you're a very gifted man and people should give you the opportunity to use your gifts in really mighty ways, and I think that'd be super awesome. And so I prefer that method, right? Which is to kind of believe in the highest self of the individual. And I think that the carnal lower self version of the vigilante may be prone to like taking an approach of taking justice into their own hands. And I think that's Joey. At his lowest self he uses his intellect and his extreme, like, dot-connecting ability... I mean the dude is like a world-class private investigator.
 
-<span class="transcript-speaker">Rocco Castoro, 0:22:09</span> He's a piece of shit.
+<span class="transcript-speaker">Castoro, 0:22:09</span> He's a piece of shit.
 
 <span class="transcript-speaker">Monster, 0:22:11</span> Okay, but I would say that his tactics... if it involves like anything that's not lawful, I have a problem with that. But we've never we've never engaged him...
 
@@ -79,7 +79,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster</span> You know what? I'm not sure. I've never talked to him about his faith. 
 
-<span class="transcript-speaker">Castoro, 0:22:53</span> Then why are you talking to us about our faith? Why are you hosting somebody who sends people to my house based off a Subasco(?) token on LexisNexis? And why do you think you can profit off that? 
+<span class="transcript-speaker">Castoro, 0:22:53</span> Then why are you talking to us about our faith? Why are you hosting somebody who sends people to my house based off a Sue Basko token on LexisNexis? And why do you think you can profit off that? 
 
 <span class="transcript-speaker">Monster: 0:23:09</span> Well we don't profit off of that.
 
@@ -99,7 +99,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 0:24:02</span> I'm talking about like arranging to give people beat downs, and I mean you know. Watch the video, I mean the guy is talking about...
 
-<span class="transcript-speaker">Castoro</span> Right, but you host Andy Ngo's site, and he posts stuff on like... what's the other site that his guy Trollin(?) runs? It's like AntifaMugshots.com. I mean you literally host sites that result in direct action of people like Tony Moon coming to my house. Now I can explain that to you offline or online, however you like.
+<span class="transcript-speaker">Castoro</span> Right, but you host Andy Ngo's site, and he posts stuff on like... what's the other site that his guy Trollan runs? It's like AntifaMugshots.com. I mean you literally host sites that result in direct action of people like Tony Moon coming to my house. Now I can explain that to you offline or online, however you like.
 
 <span class="transcript-speaker">Monster: 0:24:33</span> No no, if you want to send me, send me stuff or <span class="transcript-note">[unintelligible]</span> Look, I mean the thing is, here's the deal. I run a company with like seven subsidiaries, 24 business units, you can look at Epik Labs, epik.com/labs, you'll see we have a lot going on. And we're growing really quickly, and so I wouldn't have the ability to keep track of like every page on every customer's website.
 
@@ -1451,7 +1451,7 @@ Monster, 3:01: 20: Yeah, it's possible. <span class="transcript-note">[reading t
 
 <span class="transcript-speaker">Monster, 3:12:00</span> <span class="transcript-note">[reading from a webpage]</span> "Wumao are Chinese citizens paid to spread propaganda..." I didn't know that. That's very interesting. I'm not surprised...
 
-<span class="transcript-speaker">Hellbat</span> Well, are you familiar with that fellow named Wao Jingwei(?) ?
+<span class="transcript-speaker">Hellbat</span> Well, are you familiar with that fellow named Guo Wengui?
 
 <span class="transcript-speaker">Monster</span> Yeah, yes.
 
