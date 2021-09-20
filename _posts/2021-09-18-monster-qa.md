@@ -1334,3 +1334,548 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <span class="transcript-speaker">Monster</span> No, I don't really get off on it.
 
 <span class="transcript-speaker">Unidentified</span> Yeah you do. That's why you're talking about it.
+
+<span class="transcript-speaker">Monster, 2:59:56</span> Gosh... Oh yeah, so Wikipedia. I think Wikipedia is 98% useful and 2% arsenic. The problem is you never know what's the arsenic. So Wikipedia is going down the rabbit hole of becoming Snopes, and I hope that they turn from their path because they have basically become the truth ministry, like a very Orwellian way. They're basically cataloging a bunch of media links into a piece and they become the kind of ministry of truth. The arbiter of what's true. And then Google, which pays a lot of money to Wikipedia, they're probably the main sponsor at this point by far. Google then basically amplifies their version of truth.
+
+<span class="transcript-speaker">Monster, 3:00:42</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "MLN": "Wikipedia, do you even understand how the governing of Wikipedia works? Google doesn't pay them"]</span> Yeah, Google does pay them. Google is a very big sponsor of Wikipedia. I'm happy to talk with anybody who wants to discuss it. Look up Larry Sanger on Twitter, if you don't know him. He tells you a lot of stuff about Google... about Wikipedia. He was one of the founders.
+
+<span class="transcript-speaker">HF, 3:01:04</span> Hey, did you know that Sergey Brin used to hang out with Harvey Weinstein and Wendi Deng?
+
+<span class="transcript-speaker">Monster</span> Yeah, makes sense. It doesn't surprise me.
+
+<span class="transcript-speaker">HF</span> Yeah, so you've got a serial sexual assaulter and a Chinese spy. Isn't that crazy?
+
+Monster, 3:01: 20: Yeah, it's possible. <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob what do you think of Antifa?"]</span> So somebody asked me about... Hellbat asked me what I think of antifa. I think antifa is an op. I don't think it's organic. I think it's basically an op. And I think that QAnon is an op. I think that... <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">HF</span> Who runs QAnon, do you think?
+
+<span class="transcript-speaker">Kirtaner</span> QAnon is indeed an op.
+
+<span class="transcript-speaker">HF</span> Noo. Shut up.
+
+<span class="transcript-speaker">LH</span> Everything's a psyop.
+
+<span class="transcript-speaker">Monster, 3:01:52</span> No, no. Guys. So, guys this idea of like... brigading a bunch of people who think they have access to secret information, and they, you know, using different systems. Then they rub up against each other, creating this dichotomy of two polar enemies who think the other side is trying to wipe each other out. And that's where you get the insanity that we've had to endure for the last 18 months. 
+
+<span class="transcript-speaker">LH</span> <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">HF</span> I actually know an organization that has access to secret data. It's kind of fun.
+
+<span class="transcript-speaker">Monster, 3:02:25</span> Have access to what?
+
+<span class="transcript-speaker">Unidentified</span>  Access to your mom.
+
+<span class="transcript-speaker">Unidentified 2</span> He said access to... I think, secret data.
+
+<span class="transcript-speaker">Monster, 3:02:35</span> Oh yeah, secret data. Yeah. I don't know.
+
+<span class="transcript-speaker">Rauhauser</span> But as we've seen herem just in the last day or week or month or through this year, nothing is really secret. Secrets have a dwell time, and then things are getting dumped in public.
+
+<span class="transcript-speaker">Monster, 3:02:57</span> That's it. I mean, Epstein. I mean, that's some stuff. But I think that they're all right.
+
+<span class="transcript-speaker">NF</span> Yeah Trump! Jean Carroll's lawsuit is going forward. He's gonna have to give his DNA in a cup. 
+
+<span class="transcript-speaker">Monster, 3:03:09</span> Yeah, yeah. I'm totally driving "Literally a Nazi" crazy doing these private chats. This is pretty funny. Yeah, so I think that there's a lot of truth that's coming out. So what happens is, when you create this crazy period where people feel like they're about to lose everything, there's a saying when people lose everything... when they have nothing left to lose, they lose it.
+
+<span class="transcript-speaker">HF</span> Oh are you talking about when the money launderers are gonna eventually crash crypto or no? Is that something else?
+
+<span class="transcript-speaker">Monster</span> I'm not referring to that as much as people who do deathbed confessions. I mean there's a lot of stuff that's coming out now, and free speech platforms like Gab and Parler and BitChute and whatnot. CloutHub. More to come. And these sites basically are trafficking in truth, and of course you have to, like Reddit, like 4chan. You have to kind of shorten...
+
+<span class="transcript-speaker">HF</span> Rob, some of these people are talking about killing my relatives. How do you want me to feel about that, man? That hits deep, bro.
+
+<span class="transcript-speaker">Monster, 3:04:19</span> I somehow... somehow I'm no longer the moderator of this forum so I can't mute them or boot them. So whoever's the moderator at this point, you're gonna have to take care of business and be a responsible steward of this completely organic misfit group.
+
+<span class="transcript-speaker">L</span> Do you want to just make another one yourself and then just post that?
+
+<span class="transcript-speaker">Monster</span> Eh. <span class="transcript-note">[reading the chat. Full comment in chat was from "High Fidelity": "actually I'm a mod"]</span> "Actually I'm a mod." High Fidelity is the moderator, that's cute. That's really good. If you could be a good steward, HF, then just mute people who are having too much background noise. It's working good right now.
+
+<span class="transcript-speaker">Rauhauser, 3:04:59</span> Going back to that, Rob, if we could? The notion that there's the truth on Gab and Parler. I mean, there's absolutely been some criminal activity on there. No question about it.
+
+<span class="transcript-speaker">Monster</span> Yeah.
+
+<span class="transcript-speaker">Rauhauser</span> And we... society-wise, the big picture society-wise, we have what's been labeled as "free speech absolutism". I think that there are problems there. There are issues there as far as jurisdiction, as far as what is acceptable behavior. I mean the internet has basically, of all the things that have been devalued by the Internet over the years, the value of a good punch in the mouth has really been taken away. Because there's a lot of things... even, you look at the people in this chat. There's things that they would just never, never say in person because it would quickly escalate to an etiquette lesson. This  is something that I've been puzzling over since... I don't know, for the last ten years or so. And having had so much trouble with with JoJo Camp in particular, and various people like him over the last decade, I'm at a loss for what we do as a society to correct problems like that without interdicting the natural right of free speech and without harming our economy in the process. I mean it's really a serious puzzle.
+
+<span class="transcript-speaker">Monster, 3:06:44</span> Yeah. I think that there's a lot of broken processes, but guess what? We get to build it. The word on the street is, World Economic Forum wants to basically have the Great Reset. And as that Reset happens we get to decide what we build better too. On the one side of the duality you have a desire to... emerges a technocratic control grid, Orwellian stuff, universal basic income, nobody owns anything...
+
+<span class="transcript-speaker">HF</span> Whoa whoa whoa. How is universal basic income Orwellian?
+
+<span class="transcript-speaker">Monster, 3:07:21</span> Well no, it's Orwellian if it comes with terms and conditions like "hand in everything that you own, you own nothing..."
+
+<span class="transcript-speaker">HF</span> Nobody's going to say that. Where is that coming from?
+
+<span class="transcript-speaker">Monster</span> Oh you wait!
+
+<span class="transcript-speaker">HF</span> No! Why are you so scared, Rob? Universal basic income has been proven to not be wasted on drugs or alcohol or frivolous things. People pay off their debts, and it helps actually move them forward in society. There are experiments that have been done, Rob. 
+
+<span class="transcript-speaker">B, 3:07:55</span> I don't disagree with his point. I will say, though, that one of the reasons why these decisions can often be hard to make, or have specifics over... maybe I'll say... maybe not doing it, but the specifics of it has to do not with what happens a year from now, not ten years from now. It has to do with what's going to happen to our civilization 100,000 years from now. And we're all obsessively OCD about binding, and limitations, because the true nature of reality means that once you hit "do anything" tiers of technology you are screwed unless you have the existence of God in your civilization. So I'm just saying... <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">HF, 3:08:35</span> Are you specifying a Judeo-Christian God? Are you saying that only a Judeo-Christian God... or are you willing to welcome all gods? Because I have friends who are Hindu and there's a lot of Hindu gods, and so you got to have a big table for a lot of Hindu gods, you know what I'm saying?
+
+<span class="transcript-speaker">L</span> There are many <span class="transcript-note">[unintelligible]</span> ones for two and two for one and as a result they have no knowledge of either one. Many have confused God <span class="transcript-note">[crosstalk, unintelligible]</span>
+
+<span class="transcript-speaker">HF</span> Okay so you're hung up on your Judeo-Christian mindset is what you're telling me. You're stuck in your little "this is my religion" box, and "I'm gonna stick with it and I'm gonna ignore all these massive wonderful histories". Like do you know the story of <span class="transcript-note">[crosstalk, unintelligible]</span>
+
+<span class="transcript-speaker">L</span> You know that I also studied the Hindu Vedas, right? You're making many assumptions about me...
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Rauhauser, 3:09:24</span> ...here in that the world is... On the one hand we have the Abrahamic religions, the monotheism. And...
+
+<span class="transcript-speaker">HF</span> Sons of Shev(?), bro.
+
+<span class="transcript-speaker">Rauhauser</span> And on the other hand the Vedantic traditions, so Buddhism and Jainism and Hinduism and <span class="transcript-note">[unintelligible]</span> of Islam and that earlier Vedantic thinking. And then we don't give enough credit to, because they're not particularly technological usually, the animists who are still close to nature. And the notion that there's some sort of culture war, that it's Christianity against Islam, and we certainly have spent a lot of money doing that but... 
+
+<span class="transcript-speaker">C, 3:10:15</span> Dude, there have been crusades for a thousand years.
+
+<span class="transcript-speaker">HF</span> Yeah so let's knock that shit off. It's wasteful. 
+
+<span class="transcript-speaker">C</span> <span class="transcript-note">[crosstalk]</span> thousand years, crusades.
+
+<span class="transcript-speaker">Rauhauser</span> <span class="transcript-note">[crosstalk]</span> ...fundamentally useless activity in Afghanistan and Iraq. We're now going to see that China, having avoided those problems, rises.
+
+<span class="transcript-speaker">Monster, 3:10:37</span> I don't know, man... <span class="transcript-note">[crosstalk]</span> ...knocking at the door. There's a very strong possibility that you might see it all come unwind really quickly. We'll see. Why do you think the United States are so freaking happy that they got out of China? That doesn't mean that China doesn't have a lot of things that work well, I think if they're a...
+
+<span class="transcript-speaker">HF</span> Well they allowed China for a while, but then the God people tried to take over everything, so China stamped down on the God people.
+
+<span class="transcript-speaker">Monster, 3:11:22</span> <span class="transcript-note">[reading the chat. Full question in chat was from "MLN": "Rob have you ever had a discussion with a wumao?"]</span> MLN said, "have you ever had a discussion with a wumao?" I have no idea what a wumao is. W-u-m-a-o, anybody know? Maybe MLN will say something. I don't know, I'll look it up.
+
+<span class="transcript-speaker">Rauhauser</span> Well, wait a minute is that <i>the</i> MLN?
+
+<span class="transcript-speaker">Unidentified</span> Yes, it is.
+
+<span class="transcript-speaker">Unidentified 2</span> Yes, that's <i>the</i> MLN.
+
+<span class="transcript-speaker">Rauhauser, 3:11:47</span> If that's the MLN, stop being a weenie and turn your microphone on, man. You're good at this kind of stuff. Get in here and contribute.
+
+<span class="transcript-speaker">Hellbat</span> Play bro...
+
+<span class="transcript-speaker">Monster, 3:12:00</span> <span class="transcript-note">[reading from a webpage]</span> "Wumao are Chinese citizens paid to spread propaganda..." I didn't know that. That's very interesting. I'm not surprised...
+
+<span class="transcript-speaker">Hellbat</span> Well, are you familiar with that fellow named Wao Jingwei(?) ?
+
+<span class="transcript-speaker">Monster</span> Yeah, yes.
+
+<span class="transcript-speaker">Hellbat</span> Yeah that's one of them.
+
+<span class="transcript-speaker">Monster</span> Got it, good to know. That's good to know. Well, fascinating, gosh guys, you guys are...
+
+<span class="transcript-speaker">Rauhauser</span> Hold on, hold on. Someone just credited him as being a Chinese propagandist?
+
+<span class="transcript-speaker">C, 3:12:27</span> He's anti-CCP.
+
+<span class="transcript-speaker">HF</span> No, he's... he's...
+
+<span class="transcript-speaker">Unidentified</span> Super anti-CCP
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Rauhauser, 3:12:34</span> He's an infiltrator. A CCP infiltrator who's here to, while fighting the CCP, also surreptitiously get ahold of all the people who are in the CCP.
+
+<span class="transcript-speaker">Monster</span> Got it, control government. Okay, good to know. It's not exactly the first time that play's been played. That's interesting.
+
+<span class="transcript-speaker">HF, 3:12:55</span> Yeah, you want to know another thing that got played? Here's one for you, Rob. Have you ever heard of the company called Palantir?
+
+<span class="transcript-speaker">Monster</span> Yeah, yeah. They're not a client, as far as I know. But I know them.
+
+<span class="transcript-speaker">HF, 3:13:09</span> Yeah. Did you know that one of the founders like, beat and raped and tortured and completely mindfucked a young girl? 
+
+<span class="transcript-speaker">Rauhauser</span> Well...
+
+<span class="transcript-speaker">LH</span> I mean, Donald Trump's had abortions...
+
+<span class="transcript-speaker">Monster, 3:13:20</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "Hellbat": "Rob after you log off tonight demonic spirits will enter your home"]</span> So there's somebody here, Hellbat, he's got an attitude issue. He says "after you log off tonight, demonic spirits will enter your home." Heavenly Father, Abba Father, I declare in the name of the Lord Jesus Christ that that will not happen. I bind all demons and all evil spirits, all agents of Satan in the name of the Lord Jesus Christ. Take authority over it and send them to the abyss(?), if they were to come so far. And give You all the glory. Yeah. My God, my God, my God is mighty. He is in you and He is in me.
+
+<span class="transcript-speaker">L</span> You know Solomon's system(?) of his temple is really templated on a lot of things...
+
+<span class="transcript-note">[connection issue, Jitsi reconnects]</span>
+
+<span class="transcript-speaker">Rauhauser, 3:15:17</span> ...turn the mic down a little.
+
+<span class="transcript-speaker">Kirtaner</span> Demon hackers on steroids!
+
+<span class="transcript-speaker">Unidentified</span> Turn your shit down.
+
+<span class="transcript-speaker">Monster, 3:15:25</span> So, uh, the intercessors. You guys take authority over this. And uh... <span class="transcript-note">[feedback sound]</span> the moderator <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Catgod</span> <span class="transcript-note">[holds a gallon-sized bag of marijuana up to the camera]</span> You see that demons? You see that demons? God has given me, he's just given me <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">C</span> What you smoking on, Catgod?
+
+
+<span class="transcript-speaker">Catgod</span> Got some A1 Yolo, got some Cherry Lime Rickey.
+
+<span class="transcript-speaker">Monster, 3:15:57</span> That's funny.
+
+<span class="transcript-speaker">Catgod</span> But all them demon n*****s, He's just giving them reggie.
+
+<span class="transcript-speaker">HF</span> <span class="transcript-note">[holding vape]</span> NYC Flow.
+
+<span class="transcript-speaker">Monster, 3:16:06</span> Um, gosh guys. 
+
+<span class="transcript-speaker">LH</span> <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Monster, 3:16:12</span> Sun is setting in... what time is it in Honolulu? Then sun has set. Yom Kippur has ended, I think. So hopefully you made wise choices, and are set for an auspicious rest of the year. And for those of you who are still trying to figure it out: may God bless you, direct your <span class="transcript-note">[unintelligible]</span> May the Holy Spirit minister to you and lead you to a path of righteousness. I'll tell you what, though. I believe everybody has a purpose, everybody has a calling. And when you figure that out, when you surrender to the Lord's will, you will discover your spiritual inheritance and be led to the thing that you were made to perform. The thing that you were intended to accomplish. And you will have treasure for eternity, and I would encourage you to consider the possibility that life in all its complexity is... <span class="transcript-note">[crosstalk]</span> ...that there is a Designer. There is an Architect. And the meaning of life is to figure out the identity of who the Creator is, and what He wants. That would be my very strong encouragement.
+
+<span class="transcript-speaker">Unidentified, 3:17:37</span> Wait, what did I try to...? How do we come back next time? Like is there a Discord or something?
+
+<span class="transcript-speaker">HF</span> "Does Rob Monster have a Discord"? Is that what I heard?
+
+<span class="transcript-speaker">Monster</span> I don't have a Discord. <span class="transcript-note">[crosstalk]</span> I do have a Telegram.
+
+<span class="transcript-speaker">Unidentified</span> I just meant this video chat.
+
+<span class="transcript-speaker">LH</span> What's your Telegram?
+
+<span class="transcript-speaker">Rauhauser</span> Yeah, I think this is a much better platform. This is really handy. Nothing invasive, just get in and talk. 
+
+<span class="transcript-speaker">C</span> Yeah it's Jitsi. You ain't never heard of Jitsi, Neal?
+
+<span class="transcript-speaker">Monster, 3:18:12</span> By the way, we self-host this. I encourage you to check it out. You can run Jitsi very easily on any Linux OS, but I would say also there's an app, so this doesn't work... this is an RTC relay so it doesn't work well on mobile phones. But you can install the Jitsi app on iOS or Android and it will work that way. Yeah so you can use it. So you don't need to basically be surveilled on Zoom and whatnot. This is a really good option, that's why we self-host this chat service.
+
+<span class="transcript-speaker">HF</span> Have they had security <span class="transcript-note">[unintelligible]</span> with the telephone app?
+
+<span class="transcript-speaker">Monster</span> But we also... anybody who wants to have a self-hosted instance of Jitsi on your own domain name, Epik will set it up for you, and we don't charge much. We haven't commercialized it as a product. But if you want help setting up your own, you can do that. Looks like Catgod is now the moderator.
+
+<span class="transcript-speaker">Unidentified</span> Oh God. Oh no.
+
+<span class="transcript-speaker">Kirtaner</span> Catgod! Be a benevolent god!
+
+<span class="transcript-speaker">Rauhauser, 3:19:31</span> Whoever wrote this scene, Hollywood's not gonna buy it.
+
+<span class="transcript-speaker">Monster, 3:19:32</span> <span class="transcript-note">[reading the chat. Full question in chat was from "..": "are you taking ivermectin rob ?"]</span> I got a question of if I'm taking Ivermectin. I'm not taking ivermectin.
+
+<span class="transcript-speaker">LH</span> Ivermectin's mine.
+
+<span class="transcript-speaker">HF</span> Don't... don't use that, Rob. That's for animals. 
+
+<span class="transcript-speaker">LH</span> I take it daily.
+
+<span class="transcript-speaker">Monster, 3:19:48</span> I have some, but I haven't taken it...
+
+<span class="transcript-speaker">HF</span> No, no, no, no...
+
+<span class="transcript-speaker">LH</span> Can I have it?
+
+<span class="transcript-speaker">Unidentified</span> Honestly, the best advice I can give anyone for this stuff, this sickness, is focus on your breathing. If you get sick, just focus on your breathing.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Kirtaner</span> For those in the audience who were asking if Libby is present, she says hi.
+
+<span class="transcript-speaker">LH</span> Can I buy your ivermectin?
+
+<span class="transcript-speaker">Monster, 3:20:18</span> That's funny... <span class="transcript-note">[reading the chat. Full question in chat was from "cody": "DID U VACCINATE ROB?"]</span> "Did I vaccinate?" No, I didn't vaccinate, and I haven't taken any action(?) I do take zinc and NAC, and again, try to get out in the sun every day for at least a few minutes. And also I eat a lot of antioxidants. 
+
+<span class="transcript-speaker">LH</span> Do you like bofa?
+
+<span class="transcript-speaker">Monster</span> And I do believe there is a Spirit of Infirmity and I believe that... oh! It's funny, because I was in a prayer meeting yesterday, and after the prayer meeting this soreness that I had in my left shoulder for like a month and a half, I couldn't feel it. I'm completely back to normal, so it's great. 
+
+<span class="transcript-speaker">LH</span> Rob, do you like bofa?
+
+<span class="transcript-speaker">Unidentified</span> And... out.
+
+<span class="transcript-speaker">Catgod</span> <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">Unidentified, 3:21:22</span> Rob, what do you think Satan would post on the Internet?
+
+<span class="transcript-note">[music]</span>
+
+<span class="transcript-speaker">Monster</span> Uh, what do I think Satan would post on the Internet?
+
+<span class="transcript-speaker">Unidentified</span> Yeah, where would he hang out?
+
+<span class="transcript-speaker">Kirtaner</span> On my Twitter timeline!
+
+<span class="transcript-speaker">Monster, 3:21:35</span> I think he gets around. I think he's one individual, I think he gets around. He might even be hanging out with us tonight, I don't know.
+
+<span class="transcript-speaker">Kirtaner</span> He might be me <span class="transcript-note">[laughs]</span>
+
+<span class="transcript-speaker">HF</span> He's the hacker known as 4chan.
+
+<span class="transcript-speaker">LA</span> More or less.
+
+<span class="transcript-speaker">Monster, 3:21:54</span> Alright. Gosh guys. <span class="transcript-note">[reading the chat. Full comment in chat was from "Hellbat": "Satan (sic) with us tonight Rob!"]</span> "Satan's with us tonight..." He might be! He loses in the end, though. I think he was in the chat earlier. He was giving me some private chats, trying to tell me stuff.
+
+<span class="transcript-speaker">HF</span> Hey Rob, can people who aren't Christian go to <span class="transcript-note">[unintelligible]</span>?
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Catgod</span> Hey Rob!
+
+<span class="transcript-speaker">Monster</span> Yo.
+
+<span class="transcript-speaker">Catgod</span> <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Monster</span> Say that again?
+
+
+<span class="transcript-speaker">Catgod</span> You don't, you're not one of those fake churches where they say cats don't go to heaven, right?
+
+<span class="transcript-speaker">Monster</span> I don't know where the pets go. <span class="transcript-note">[crosstalk]</span> I don't know where the cats go. I think God loves us enough that he'll probably allow us to have pets in eternity, but <span class="transcript-note">[crosstalk]</span> I don't think pets are eternal, I don't believe they are. Because God did make it so meat was available to people... <span class="transcript-note">[loud music]</span> ...vegetarian or vegan.
+
+<span class="transcript-speaker">L, 3:23:04</span> You know how animals like going outside, if you have a pet cat inside, you how their instincts... it's who they are, they being outside? That's what happens. You can't... they might go to heaven if they are instinct or if they choose to for a time, but you're not going to be able to hold them down there. Unless they love you in which case they'll stay with you for a time. It's the same thing as it is down here. They'll stay with you for a time...
+
+<span class="transcript-speaker">HF</span> I saw that movie. That was Pet Sematary, right?
+
+<span class="transcript-speaker">Rauhauser</span>  ...if you let the cat into heaven, it will just paw at the door all day.
+
+<span class="transcript-speaker">HF</span> Oh yeah. But then when you open the door, it'll like paw at the gates to get back in. 
+
+<span class="transcript-speaker">L</span> It's just like a little kid. When he's outside, he wants to come inside. When he's inside, he wants to go outside. When it's hot out, he wishes it was winter. When it gets cold out, he wishes it was summer. It's the same thing, man. It's just nature.
+
+<span class="transcript-speaker">Monster, 3:23:50</span> We have we have a new guest and we have a badass microphone. In the red sweatshirt. What's going on?
+
+<span class="transcript-speaker">John Jackson</span> Hey what's up?
+
+<span class="transcript-speaker">Monster</span> You got something to say?
+
+<span class="transcript-speaker">Kirtaner</span> John! What is up my man!
+
+<span class="transcript-speaker">Unidentified</span> Oh my god.
+
+<span class="transcript-speaker">Kirtaner</span> Hey that's my brother! That's my brother from another mother, John Jackson from Sakura Samurai. What is up!
+
+<span class="transcript-speaker">Monster, 3:24:12</span> It is John! It is John. <span class="transcript-note">[crosstalk]</span> There you go, he's back. So earlier John Matze was not an imposter. This is the real John Matze. 
+
+<span class="transcript-speaker">Unidentified</span> That's not John Matze.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Jackson</span> I'm not John Matze, I'm John Jackson.
+
+<span class="transcript-speaker">Kirtaner</span> It's John J. Hacking. <span class="transcript-note">[crosstalk]</span> Don't worry, he's not <span class="transcript-note">[unintelligible]</span> He's an ethical hacker, you don't have to worry about him.
+
+<span class="transcript-speaker">Monster</span> Alright guys.
+
+<span class="transcript-speaker">Unidentified, 3:24:39</span> Being an ethical hacker just means you sit back and are truly pained when people ask you to hack shit every day. You would know that Kirt.
+
+<span class="transcript-speaker">Kirtaner</span> That's true.
+
+<span class="transcript-speaker">Monster, 3:24:49</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob have you seen God's face?"]</span> Hellbat asked me if I've seen God's face. I have not seen God's face. Nobody has seen...
+
+<span class="transcript-speaker">Catgod</span> There's no such thing as an ethical criminal.
+
+<span class="transcript-speaker">Monster, 3:24:59</span> <span class="transcript-note">[reading the chat. Full question in chat was from "MLN": "me says: Rob how come John is verified on Twitter and you are not?"]</span> "Why am I not verified on Twitter?" <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> Mortals cannot see God's face because it would be a metaphysical contradiction because as Jesus Christ said, "I cannot witness myself". You can't witness yourself metaphysically because the concept of doing it means you're not witnessing yourself. Your eyeball can't look at itself. You have to use a mirror. It sees you and then you see it and it's showing you what it sees, which is different. So the concept of seeing God's face is like seeing the singularity, that's like... it doesn't make any sense.
+
+<span class="transcript-speaker">Monster, 3:25:33</span> Yeah, I got you. 
+
+
+<span class="transcript-speaker">Jackson</span> Personally I run a cult, so... you know.
+
+<span class="transcript-speaker">Monster</span> Yeah. Who's that?
+
+<span class="transcript-speaker">Kirtaner</span> Same! Cult brothers. We both have our cults.
+
+<span class="transcript-speaker">Unidentified</span> It's not running the cult <i>itself</i> that's necessarily evil...
+
+<span class="transcript-speaker">Kirtaner</span> They're both hacker cults.
+
+<span class="transcript-speaker">Monster</span> Yep. That's funny. The chat's going by really fast here...
+
+<span class="transcript-speaker">Kirtaner, 3:26:06</span> This hacker cult, this hacker cult...
+
+<span class="transcript-speaker">Jackson</span> You gotta read faster, man, you gotta do more chats.
+
+<span class="transcript-speaker">Kirtaner</span> So this guy here, John Jackson, he has a cult. His hacker cult is Sakura Samurai. I have a cult, my hacker cult is called Anonymous.
+
+<span class="transcript-speaker">Monster</span> Got it.
+
+<span class="transcript-speaker">Jackson, 3:26:21</span> Two different ends of the spectrum there.
+
+<span class="transcript-speaker">Rauhauser</span> Slow(?) the audio disruption here, just for for Rob's benefit... You mentioned expelling imps earlier?Aand there's a specific flavor of imp in here known as a fuckmuppet. And there's at least two of them i've seen in chat, so...
+
+<span class="transcript-speaker">Unidentified</span> Oh, Neal. Blah blah blah blah blah.
+
+<span class="transcript-speaker">Kirtaner</span> <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Unidentified</span> Says the guy who's been talking shit for years. Neal, what's up, man?
+
+<span class="transcript-speaker">Monster, 3:26:54</span> Somebody asked about why I don't have a checkmark on my Twitter. I think when I applied...
+
+<span class="transcript-speaker">Unidentified</span> You gotta be more famous probably.
+
+<span class="transcript-speaker">Monster</span> I wasn't famous enough. So that's okay. It wasn't the main goal, to be famous. Just trying to do the right thing. You know the key to doing the right thing? Just take the right next step. It doesn't matter where you are. Just, wherever you are, just take the right next step, and then just take the right next step after that <span class="transcript-note">[noise from another participate]</span> and you'll find it gets you to a better place.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> Welcome to the 21st century, man.
+
+<span class="transcript-speaker">Monster, 3:27:35</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "q": "i wonder if rob is verified on pornhub"]</span> I promise you I don't go to PornHub.
+
+<span class="transcript-speaker">Jackson</span> Oh I do. A lot. <span class="transcript-note">[crosstalk, unintelligible]</span>
+
+<span class="transcript-speaker">Kirtaner</span> Let's see you look at your browser history, Rob, let's test this.
+
+<span class="transcript-speaker">Monster, 3:27:45</span> Yeah, I promise you, I don't have a porn addiction. I got nothing to hide. <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Does god watch people masturbate?"]</span> "Does God watch people masturbate?" I think he does, but...
+
+<span class="transcript-speaker">Jackson</span> That's hot, God.
+
+<span class="transcript-speaker">Kirtaner</span> God is a pervert.
+
+<span class="transcript-speaker">Monster</span> No, I don't think that. I think he just cringes. I think it's more that. I think that he doesn't miss much.
+
+<span class="transcript-speaker">Jackson</span> That's a lot of people to watch jerk off, though.
+
+<span class="transcript-speaker">Unidentified</span> God <span class="transcript-note">[unintelligible]</span>. God is a sadomasochist.
+
+<span class="transcript-speaker">Monster</span> Yeah, anyone with a masturbation habit, you want to know the cure for it? Just think about the fact that God sees everything.
+
+<span class="transcript-speaker">Jackson</span> I think about my grandmother and I'm like, "oh fuck I hope my grandmother's not watching"
+
+<span class="transcript-speaker">Unidentified</span> There is an actual similarity between God and chan people, dude, and it's that both of them look through inside boards and just get fucking bored with 99.9 percent of the shit they see.
+
+<span class="transcript-speaker">Unidentified 2</span> I forgot to <span class="transcript-note">[unintelligible]</span> for Philipp, but one of them wrote something along the lines of that, "we shun evil". The other thing is that somewhere in the Old Testament it's written and that, "I have hidden my face away from you because of your sins and I, even I, have forgotten about your sins for my own sake." <span class="transcript-note">[crosstalk]</span> I'm not disagreeing with what you're saying.
+
+<span class="transcript-speaker">Monster, 3:28:55</span> I think that you're right. For those who are resting in the finished work of the Lord Jesus Christ, your sins are washed, and I believe those things are expunged from the record. People talk about the <span class="transcript-note">[unintelligible]</span> record. That may or may not exist, I don't know, but I do believe that there's this idea that the books are opened and there's a lot of stuff that's probably in there that you have to then answer for at the white throne of judgment. And I don't think that that's really one of these things that you want to look forward to.
+
+<span class="transcript-speaker">L</span> What if there's, like, whole alien civilizations that have TV that tune into us and they look at people doing that in their rooms as like... "and here we have this specimen"? And they look at it not even in a sad or cringe way, but just like you would watching a lions do that. It's just comically, overtly scientific.
+
+<span class="transcript-speaker">Monster, 3:29:53</span> Makes sense. I do think that the marriage bit is undefiled, and I don't believe the angels or demons get a peek at what goes on in the marriage bedroom behind closed doors. That I think is biblical.
+
+<span class="transcript-speaker">L</span> "Treat your neighbor as yourself"
+
+<span class="transcript-speaker">Monster</span> Yeah. Because you know what, it'd be kind of creepy if you basically had to hang out with people in eternity that were like, "yeah I saw you and your wife". That seems really classless.
+
+<span class="transcript-speaker">L</span> It's supposed to be like, what you hold up true down there, I hold true up here. And I mean, what do we do when we know we're not going to try to make them feel bad about it? Like, jeez, anyone who has a kid, if your kid does something wrong, how the hell do you tell them?
+
+<span class="transcript-speaker">Monster, 3:30:40</span> Yeah, I agree.
+
+<span class="transcript-speaker">Unidentified</span> What about Mary and that angel? Who's the one who brought Jesus down to Mary, how about that?
+ 
+<span class="transcript-speaker">L</span> I mean you can't just tell the kid what he did wrong because he... our feelings get hurt pretty easily. Also, if you blame the kid, the kid's like "well you're my father"
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified 2</span> What if you just told them what they were doing wrong without blaming them? You know that's possible too.
+
+<span class="transcript-speaker">Monster</span> Yeah, and children have many fathers. And probably a lot of mothers, too.
+
+<span class="transcript-speaker">Jackson</span> I know. I fathered a ton of children in the Philippines.
+
+<span class="transcript-speaker">Monster, 3:31:18</span> There you go. That's really honorable. By the way, we acquired... two weeks ago, we acquired the domain name orphans.com, and we're gonna build a site for funding orphans. It's gonna be fintech for orphans. So, fixing the problem of how do you get funding to all these orphans. <span class="transcript-note">[crosstalk]</span> ... you can connect with people that are part of your virtual family, so you can be a source of encouragement to these kids who have lost their parents. So I'm excited about that project. Anybody who's really passionate about that topic, we're probably going to be hiring some people for that project.
+
+<span class="transcript-speaker">Monster, 3:32:00</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob do you think the rapture will happen?"]</span> "Rob, do you think the rapture will happen?" Yeah I think it does. I don't know. <span class="transcript-note">[reading the chat. Full question in chat was from "liken": "flat earth? psyop. round earth? psyop."]</span> Flat earth, round earth, tough call.
+
+<span class="transcript-speaker">Unidentified</span> Willl the rapture happen in the next 30 years?
+
+<span class="transcript-speaker">Monster</span> Yeah...
+
+<span class="transcript-speaker">Jackson</span> Just make sure you hire a cybersecurity team. That would make sense...
+
+<span class="transcript-speaker">L</span> Hold on hold on. I just want to say, because everyone always has an answer for this. It is plainly written: no. one. knows. but. the. father. So, every single solitary person in the history of the earth, I don't care who you are, <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">HF</span> <span class="transcript-note">[crosstalk, unintelligible]</span> hear me out? <span class="transcript-note">[crosstalk]</span> The problem with people like you is <span class="transcript-note">[crosstalk]</span> ...
+
+<span class="transcript-speaker">L</span> <span class="transcript-note">[crosstalk]</span> everyone who's ever... <span class="transcript-note">[crosstalk]</span> ... no one wants that stuff to happen. No one wants the tribulation.
+
+<span class="transcript-speaker">Jackson</span> I do.
+
+<span class="transcript-speaker">L</span> No one should... <span class="transcript-note">[crosstalk]</span> It's also written in Revelation, I think. I forgot if it was Revelation or not. But it's written in the New Testament: no one should want that day. I think that lying about it contributes to the hell that's happening... <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">HF</span> Why are accelerationists trying to push us towards that day?
+
+<span class="transcript-speaker">L, 3:33:07</span> There's no such thing as the acceleration. Instead, it slows us down. It's a trap.
+
+<span class="transcript-speaker">HF</span> Nonsense. No.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Monster, 3:33:18</span> I mean, God is on the throne, and so if you subscribe to the notion that God controls the duality of good and evil, even the guys who are basically free-will actors, to a certain extent, their steps are directed. You know, like Pharaoh... with the story of the Ten Plagues, it says that God can induce harm(?). So he had to basically endure ten plagues, including losing his son, as all the boys of the Pharaoh's kingdom perished, but God had to harden his heart. Because what rational person basically endures plague after plague of their free will? At some point you'd be like, "okay, enough! I've seen enough supernatural stuff, I'm going to back down". But that's not what happened. That's pretty wild. <span class="transcript-note">[crosstalk]</span> 
+
+<span class="transcript-speaker">HF, 3:34:05</span> <span class="transcript-note">[crosstalk]</span> duality, Rob. Do you know why duality came about? It actually has to do with accounting. The reason duality came about was actually slightly through Zorostrianism...
+
+<span class="transcript-speaker">Kirtaner</span> <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">HF</span> ...with debits and credits. And that debit and credit system, that duality, that something's either positive or negative, was transferred into religion. Prior to that, humanity was all polytheistic. But after accounting came around, and that affected religion, that's where duality came from in a religious aspect. If you do a comparative study of religions throughout history, you have to go back to the Hittites and the Sumerians and blah blah blah. Like farther back than Jesus and all that.
+
+<span class="transcript-speaker">Monster, 3:35:03</span> Yeah.
+
+<span class="transcript-speaker">HF</span> Yeah, actually the whole duality of...
+
+Unidentified (computer-generated voice): This is boring, I'm going to bed.
+
+<span class="transcript-speaker">Monster</span> Goodnight.
+
+<span class="transcript-speaker">Jackson</span> Goodnight. We love you.
+
+<span class="transcript-speaker">RX</span> Goodnight, don't let the rotten Feds bite. If you do, whack them with a shovel.
+
+<span class="transcript-speaker">Monster, 3:35:20</span> That's funny. Gosh. So... looks like... 
+
+<span class="transcript-speaker">Jackson</span> I use Arch by the way. Just so everyone on this call knows, I use Arch Linux.
+
+<span class="transcript-speaker">HF</span> <span class="transcript-note">[crosstalk]</span> Is there a BlackArch?
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">RX</span> Thanks for the tip, John. I appreciate it.
+
+<span class="transcript-speaker">Jackson</span> You're welcome.
+
+<span class="transcript-speaker">Unidentified, 3:35:45</span> BlackArch exists but it seems really tryhard-y. Honestly.
+
+<span class="transcript-speaker">J</span> Just get BlackArch Lite. It's got a lot less bloatware type shit.
+
+<span class="transcript-speaker">Kirtaner</span> Yes! I too use ArchLinux and I need to tell everyone. That's <span class="transcript-note">[laughing, unintelligible]</span> 
+
+<span class="transcript-speaker">Unidentified</span> It's just like saying you're a fan of anarchosyndicalism because you like Noam Chomsky or something.
+
+<span class="transcript-speaker">Unidentified</span> I just like narcotics, bro. 
+
+<span class="transcript-speaker">Monster, 3:36:22</span> Well guys... <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob are you a Trump supporter?"]</span> "Trump supporter..." Hellbat wants to know if I'm a Trump supporter. Well, it's tough...
+
+<span class="transcript-speaker">Kirtaner</span> Is it really?? 
+
+<span class="transcript-speaker">Monster</span> Yeah, it's tough because he has some good economic ideas, but... still a work in progress. But we all are.
+
+<span class="transcript-speaker">WF</span> Trump fucking sucks.
+
+<span class="transcript-speaker">Monster</span> I don't... I don't think that... Yeah. We all have blind spots. Tough call.
+
+<span class="transcript-speaker">Unidentified</span> You know what was good for the economy? Slavery.
+
+<span class="transcript-speaker">Monster, 3:36:55</span> I don't think that... I don't think that Biden's killing...
+
+<span class="transcript-speaker">Unidentified</span> Okay <span class="transcript-note">[unintelligible]</span>, calm down there.
+
+<span class="transcript-speaker">Monster, 3:37:00</span> I think Biden is letting a lot of people down. 
+
+<span class="transcript-speaker">Unidentified</span> Government sucks.
+
+<span class="transcript-speaker">L</span> You know what's really good for the economy? Honest business practices.
+
+<span class="transcript-speaker">Monster, 3:37:09</span> Yeah. I think there's too much much control grid stuff coming. But God's on the throne, it all works out. But it's not fun...
+
+<span class="transcript-speaker">Unidentified</span> Corporations suck.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> <span class="transcript-note">[crosstalk, unintelligible]</span> ...NFT good for the economy
+
+<span class="transcript-speaker">Unidentified</span> Do you know another thing that's good for the economy? Porn.
+
+<span class="transcript-speaker">HF</span> Here's the problem with porn though... <span class="transcript-note">[crosstalk, unintelligible]</span> ... and you have a lot of, well, obviously child pornography. Like that guy from the GOP, what was his name? Verastigui? Who actually worked in the Trump White House, and got caught in chats talking about wanting to rape babies.
+
+<span class="transcript-speaker">Monster, 3:38:00</span> Yeah, I think there's a lot of evil depravity out there and a lot of it's being exposed. The independent media is holding a bunch of people accountable, and that's one of the side effects that is in some ways causing some people to kind of adjust course. You just hope that they can adjust course before their stuff gets exposed. And I think God's merciful, up to a point, but then God chases those He loves. So if you have a long history of making stupid choices, eventually that will come up and bite you in the butt. 
+
+<span class="transcript-speaker">HF, 3:38:34</span> Well, God could be merciful. I hope our judicial system is not.
+
+<span class="transcript-speaker">Monster, 3:38:44</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob have you* ever done anything evil?"]</span> Have I done anything evil? I'm sure that I have, yeah. I'm sure that I have.
+
+<span class="transcript-speaker">Unidentified</span> Racism is apparently ingrained in our system.
+
+<span class="transcript-speaker">Monster, 3:38:54</span> There was there when, before Epik became more wildly successful, there was a time actually during the time of COVID when a lot of businesses were shutting down, and you couldn't actually borrow any money very easily. And so we had refinanced the house and I used the proceeds of the refinance of the house to keep everybody fully employed at Epik. And that at the time was slightly awkward <span class="transcript-note">[unintelligible]</span> but it all worked out, and we're better off for it.
+
+<span class="transcript-speaker">HF, 3:39:38</span> You know Rob, if you had universal basic income you wouldn't have had to have done that. 
+
+<span class="transcript-speaker">Monster</span> No, no, you're wrong.
+
+<span class="transcript-speaker">Unidentified</span> But everything else would be so expensive that the basic income would be almost useless... unless you regulate other things.
+
+<span class="transcript-speaker">Unidentified</span> Inflation would go up <span class="transcript-note">[feedback]</span>
+
+<span class="transcript-speaker">Monster</span> I'll tell you what's really interesting that's coming down, which is, I do think that this whole non-fungible token stuff is super interesting.
+
+<span class="transcript-note">[Thalen's recording ends]</span>
