@@ -1469,7 +1469,7 @@ Monster, 3:01: 20: Yeah, it's possible. <span class="transcript-note">[reading t
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Rauhauser, 3:12:34</span> He's an infiltrator. A CCP infiltrator who's here to, while fighting the CCP, also surreptitiously get ahold of all the people who are in the CCP.
+<span class="transcript-speaker">HF, 3:12:34</span> He's an infiltrator. A CCP infiltrator who's here to, while fighting the CCP, also surreptitiously get ahold of all the people who are in the CCP.
 
 <span class="transcript-speaker">Monster</span> Got it, control government. Okay, good to know. It's not exactly the first time that play's been played. That's interesting.
 
