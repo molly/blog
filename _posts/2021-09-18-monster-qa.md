@@ -14,7 +14,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <p>All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.</p>
 
-<b>I have finished transcribingn what is available in Thalen's recording. I am working on finding the remaining portions of the conversation to transcribe.</b>
+<b>I have finished transcribing what is available in Thalen's recording on YouTube. I am working the remaining missing portion.</b>
 </div>
 
 <span class="transcript-speaker">Rob Monster, 0:00:00</span> ... working hypothesis is that it was a backup. And I'm not going to say where the backup was found but I believe it was a backup and it wasn't the live data. I don't think that there is an active vulnerability that would have allowed that scale of data haul. But we're going to find exactly where it was, we're going to find exactly how it was moved, and...
@@ -1866,7 +1866,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified</span> Racism is apparently ingrained in our system.
 
-<span class="transcript-speaker">Monster, 3:38:54</span> There was there when, before Epik became more wildly successful, there was a time actually during the time of COVID when a lot of businesses were shutting down, and you couldn't actually borrow any money very easily. And so we had refinanced the house and I used the proceeds of the refinance of the house to keep everybody fully employed at Epik. And that at the time was slightly awkward <span class="transcript-note">[unintelligible]</span> but it all worked out, and we're better off for it.
+<span class="transcript-speaker">Monster, 3:38:54</span> There was a time when, before Epik became more wildly successful, there was a time actually during the time of COVID when a lot of businesses were shutting down, and you couldn't actually borrow any money very easily. And so we had refinanced the house and I used the proceeds of the refinance of the house to keep everybody fully employed at Epik. And that at the time was slightly awkward <span class="transcript-note">[unintelligible]</span> but it all worked out, and we're better off for it.
 
 <span class="transcript-speaker">HF, 3:39:38</span> You know Rob, if you had universal basic income you wouldn't have had to have done that. 
 
