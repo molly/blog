@@ -1661,7 +1661,6 @@ Monster, 3:01: 20: Yeah, it's possible. <span class="transcript-note">[reading t
 
 <span class="transcript-speaker">Monster, 3:25:33</span> Yeah, I got you. 
 
-
 <span class="transcript-speaker">Jackson</span> Personally I run a cult, so... you know.
 
 <span class="transcript-speaker">Monster</span> Yeah. Who's that?
@@ -1684,7 +1683,7 @@ Monster, 3:01: 20: Yeah, it's possible. <span class="transcript-note">[reading t
 
 <span class="transcript-speaker">Jackson, 3:26:21</span> Two different ends of the spectrum there.
 
-<span class="transcript-speaker">Rauhauser</span> Slow(?) the audio disruption here, just for for Rob's benefit... You mentioned expelling imps earlier?Aand there's a specific flavor of imp in here known as a fuckmuppet. And there's at least two of them i've seen in chat, so...
+<span class="transcript-speaker">Rauhauser</span> Slow(?) the audio disruption here, just for for Rob's benefit... You mentioned expelling imps earlier? And there's a specific flavor of imp in here known as a fuckmuppet. And there's at least two of them I've seen in chat, so...
 
 <span class="transcript-speaker">Unidentified</span> Oh, Neal. Blah blah blah blah blah.
 
@@ -1748,7 +1747,7 @@ Monster, 3:01: 20: Yeah, it's possible. <span class="transcript-note">[reading t
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Unidentified 2</span> What if you just told them what they were doing wrong without blaming them? You know that's possible too.
+<span class="transcript-speaker">Jackson</span> What if you just told them what they were doing wrong without blaming them? You know that's possible too.
 
 <span class="transcript-speaker">Monster</span> Yeah, and children have many fathers. And probably a lot of mothers, too.
 
