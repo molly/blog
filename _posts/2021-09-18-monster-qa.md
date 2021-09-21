@@ -1760,7 +1760,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 3:32:00:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob do you think the rapture will happen?"]</span> "Rob, do you think the rapture will happen?" Yeah I think it does. I don't know. <span class="transcript-note">[reading the chat. Full question in chat was from "liken": "flat earth? psyop. round earth? psyop."]</span> Flat earth, round earth, tough call.
 
-<span class="transcript-speaker">Unidentified"</span> Will the rapture happen in the next 30 years?
+<span class="transcript-speaker">Unidentified:</span> Will the rapture happen in the next 30 years?
 
 <span class="transcript-speaker">Monster:</span> Yeah...
 
