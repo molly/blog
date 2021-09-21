@@ -1883,7 +1883,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified</span> Those would be regulated.
 
-<span class="transcript-speaker">Monster</span> Yeah, I know, but you can do Reg. S, Reg D. compliant security token offerings and do it at scale. So imagine a world where you have people who can legally participate in multi-stakeholder governance of an enterprise, and we wouldn't <span class="transcript-note">[unintelligible]</span> to be able to participate. I think that's coming.
+<span class="transcript-speaker">Monster</span> Yeah, I know, but you can do Reg. S, Reg. D compliant security token offerings and do it at scale. So imagine a world where you have people who can legally participate in multi-stakeholder governance of an enterprise, and we wouldn't <span class="transcript-note">[unintelligible]</span> to be able to participate. I think that's coming.
 
 <span class="transcript-speaker">Unidentified</span> Oh, a DAO. You mean DAOs.
 
@@ -1897,7 +1897,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified</span> Contracts can be hacked, though.
 
-<span class="transcript-speaker">Monster</span> I don't know if you can really hack a smart contract. That would be a very bad
+<span class="transcript-speaker">Monster</span> I don't know if you can really hack a smart contract. That would be a very bad...
 
 <span class="transcript-speaker">Unidentified</span> You can, they can be hacked, look it up.
 
@@ -1905,13 +1905,13 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Kirtaner</span> I have heard, I know of many smart contracts that have been hacked. Anything can be hacked, period.
 
-<span class="transcript-speaker">Unidentified</span> Can confirm.
+<span class="transcript-speaker">Jackson?</span> Can confirm.
 
 <span class="transcript-speaker">Kirtaner</span> Do not fool yourself into thinking otherwise. Anything and everything can be hacked.
 
-<span class="transcript-speaker">Unidentified</span> There's like thirty known vulnerabilities in smart contracts.
+<span class="transcript-speaker">Jackson?</span> There's like thirty known vulnerabilities in smart contracts.
 
-<span class="transcript-speaker">Monster</span> I get the feeling that you <span class="transcript-note">[crosstalk]</span> that you've got
+<span class="transcript-speaker">Monster</span> I get the feeling that you <span class="transcript-note">[crosstalk]</span> that you've got...
 
 <span class="transcript-note">[crosstalk]</span>
 
@@ -1923,7 +1923,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Rauhauser</span> Yeah, okay, that might be a consideration...
 
-<span class="transcript-speaker">Unidentified</span> That's true the stimulants, they definitely do help out.
+<span class="transcript-speaker">Unidentified</span> That's true, the stimulants, they definitely do help out.
 
 <span class="transcript-speaker">Unidentified</span> Can I just say? Cocaine, hell of a drug, bro.
 
@@ -1954,9 +1954,12 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 <span class="transcript-note">[Jitsi drops]</span>
 
 <span class="transcript-note">[when Jitsi reconnects there is a period where only some participants are audible in the recording I have]</span>
+
 <span class="transcript-speaker">Unidentified</span> Is this fucking idiot still rambling on about nothing? When is he going to apologize for getting everyone's data leaked with his shit opsec? His fucking stupid company. He can't even keep his own stream from getting hacked like five times in front of my face right here. What a fucking loser. <span class="transcript-note">[seems to be hearing Monster speaking; in the recording I have, this unidentified person is the only audio for this portion]</span> Yo, I'll go easy on your asshole. <span class="transcript-note">[pause]</span> Shut the fuck up old man. You should be bending over for everyone in this call right now, and begging forgiveness. <span class="transcript-note">[long pause]</span> There's a lot less than you knew, I think. Otherwise you would've been able to prevent this. You would've fucking hired someone who knew how to code.
 
 <span class="transcript-speaker">L</span> Hasn't even Experian been hacked? Isn't that one of the big three major credit card companies? Don't they have the money? What kind of standards are you applying to this man and why are you choosing it on him instead of everyone else? What the hell is this stick up your ass? <span class="transcript-note">[apparently hearing someone else]</span> Oh but no, you don't want to talk to me. You want to talk to people who aren't good at replying back. <span class="transcript-note">[pause]</span> What about your sins? <span class="transcript-note">[long pause]</span>
+
+<span class="transcript-note">[audio resumes properly]</span>
 
 <span class="transcript-speaker">Monster</span> ...we have most of our hosting capacity in physical infrastructure that we no longer... yeah, you know... AWS doesn't host Epik.com. Maybe a DNS node. <span class="transcript-note">[unintelligible]</span> We are not using them as the primary host. We do run anycast DNS. Gosh guys. What else? Thursday night, man. What are you guys doing on Friday?
 
@@ -1968,15 +1971,15 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Unidentified</span> Maybe do a show with Gregg Housh if he feels up to it. He was talking to your <span class="transcript-note">[connection issue]</span>
+<span class="transcript-speaker">Kirtaner</span> Maybe do a show with Gregg Housh if he feels up to it. He was talking to your <span class="transcript-note">[connection issue]</span>
 
-<span class="transcript-speaker">HF</span> How is Housh, I haven't seen him
+<span class="transcript-speaker">HF</span> How is Housh, I haven't seen him...
 
 <span class="transcript-speaker">Monster</span> We set this up...<span class="transcript-note">[crosstalk]</span>
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Unidentified</span> Housh? He's been dealing with a lot.
+<span class="transcript-speaker">Kirtaner</span> Housh? He's been dealing with a lot.
 
 <span class="transcript-speaker">Monster</span>  <span class="transcript-note">[reading the chat]</span> Somebody asked about the site. PrayerMeeting. Yeah, we bought this name and we set up a free place that people could use to meet instead of going to a church, if they didn't want to go to a church or they couldn't get to a church.
 
@@ -2024,7 +2027,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster</span> Yeah, he seems like a really smart guy with a lot of leadership skills.
 
-Unidentified. Yeah, he is a smart guy. That's why he blames you for what happened, you fucking idiot.
+<span class="transcript-speaker">Unidentified</span>Yeah, he is a smart guy. That's why he blames you for what happened, you fucking idiot.
 
 <span class="transcript-speaker">Monster</span> So anyway, the site that offends you is offline. So if you missed it, heads up.
 
