@@ -23,7 +23,7 @@ $regular-font-size: 18px;
 
 $text-color: #000000;
 $heading-color: #000000;
-$link-color: #000000;
+$link-color: #56784a; // color.scale($light-green, $lightness: -25%)
 
 @import "ed";
 @import "syntax";
