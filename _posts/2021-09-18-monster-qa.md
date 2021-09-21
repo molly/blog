@@ -306,7 +306,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Kirtaner:</span> He's full of energy!
 
-<span class="transcript-speaker">Monster, 0:48:47:</span> Okay, so we de-platformed prolifewhistleblower because they were engaging in [doxing](https://en.wikipedia.org/wiki/Doxing), and we thought that was not a useful practice...
+<span class="transcript-speaker">Monster, 0:48:47:</span> Okay, so [we de-platformed prolifewhistleblower](https://www.washingtonpost.com/nation/2021/09/06/texas-abortion-ban-website/) because they were engaging in [doxing](https://en.wikipedia.org/wiki/Doxing), and we thought that was not a useful practice...
 
 <span class="transcript-speaker">Monacelli:</span> What do you think Joey Camp is doing?
 
@@ -314,13 +314,13 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monacelli:</span> Is Joey Camp doxing? Is Joey Camp doxing? Is Joey Camp doxing?
 
-<span class="transcript-speaker">Monster:</span> Alright, I'll mute you, you're not behaving. Come on, otherwise we're gonna kick you out. Come on. Alright, so I called [Jim Graham](https://www.politico.com/story/2018/07/26/texas-anti-abortion-group-tacks-to-the-right-dividing-state-republicans-708639), executive director, son of the founder of a 46-year-old organization. And I said to Jim, I said, "Jim, what part..." he claims to be a Christian, I think he is. "What part of what you're doing for like outing people for participating in abortion procedures is Christlike? God doesn't like tattlers." And so I advised him to take the site down and redirect it to his [Texas Right for Life](https://www.cbsnews.com/news/planned-parenthood-restraining-order-texas-right-to-life/) site. And, true story, the reason why they couldn't do it that night was because Texas Right for Life was actually hosted in one of the staff's homes. It was not actually at a data center, and they would have been blown up with bandwidth. And so they engaged Rightforge to, who I don't, I didn't know until the next day when they called me, to move their hosts to [RightForge](https://www.foxbusiness.com/technology/big-tech-fight-web-hosting-company-conservatives-cancel-proof-alternative). And that's who they're with now. And we also told them to move their domain. So prolifewhistleblower came to us unannounced and we sent it away. It's doxing and it's not cool. Now, Steve, you have...
+<span class="transcript-speaker">Monster:</span> Alright, I'll mute you, you're not behaving. Come on, otherwise we're gonna kick you out. Come on. Alright, so I called [Jim Graham](https://www.politico.com/story/2018/07/26/texas-anti-abortion-group-tacks-to-the-right-dividing-state-republicans-708639), executive director, son of the founder of a 46-year-old organization. And I said to Jim, I said, "Jim, what part..." he claims to be a Christian, I think he is. "What part of what you're doing for like outing people for participating in abortion procedures is Christlike? God doesn't like tattlers." And so I advised him to take the site down and redirect it to his [Texas Right for Life](https://www.cbsnews.com/news/planned-parenthood-restraining-order-texas-right-to-life/) site. And, true story, the reason why they couldn't do it that night was because Texas Right for Life was actually hosted in one of the staff's homes. It was not actually at a data center, and they would have been blown up with bandwidth. And so they engaged [RightForge](https://www.foxbusiness.com/technology/big-tech-fight-web-hosting-company-conservatives-cancel-proof-alternative) to, who I don't, I didn't know until the next day when they called me, to move their hosts to RightForge. And that's who they're with now. And we also told them to move their domain. So prolifewhistleblower came to us unannounced and we sent it away. It's doxing and it's not cool. Now, Steve, you have...
 
-<span class="transcript-speaker">Monacelli, 0:50:38: Simple question:</span> is Joey Camp doxing?
+<span class="transcript-speaker">Monacelli, 0:50:38:</span> Simple question: is Joey Camp doxing?
 
 <span class="transcript-speaker">Monster:</span> You know what? I think that the content that is on that site... I haven't studied it very closely...
 
-<span class="transcript-speaker">Monacelli, 0:50:52:</span> [You shared a link](https://twitter.com/robmonster/status/1437532355476983813) to it a few days ago to [Chad Loder](https://twitter.com/chadloder).
+<span class="transcript-speaker">Monacelli, 0:50:52:</span> [You shared a link](https://twitter.com/robmonster/status/1437532355476983813) to it a few days ago to [Chad Loder](https://twitter.com/chadloder).[^fn6]
 
 <span class="transcript-speaker">Monster:</span> Yeah, no, I got it.
 
