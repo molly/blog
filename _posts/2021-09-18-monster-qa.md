@@ -1879,12 +1879,6 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-note">[Thalen's recording ends]</span>
 
-<span class="transcript-speaker">Unidentified</span> Inflation would go up <span class="transcript-note">[feedback]</span>
-
-<span class="transcript-speaker">Monster</span> I'll tell you what's really interesting that's coming down, which is, I do think that this whole non-fungible token stuff is super interesting.
-
-<span class="transcript-note">[Thalen's recording ends]</span>
-
 <span class="transcript-speaker">Monster</span> I think you're going to see the emergence of security tokens as a capitalization framework. One of the things that we are actually working on...
 
 <span class="transcript-speaker">Unidentified</span> Those would be regulated.
