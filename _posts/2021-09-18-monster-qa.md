@@ -384,7 +384,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monacelli:</span> Or the [Southern Poverty Law Center](https://en.wikipedia.org/wiki/Southern_Poverty_Law_Center)?
 
-<span class="transcript-speaker">Monster:</span> Southern Poverty Law Center. Not quite the bane of my existence but it's like right up there. [Michael Edison Hayden](https://twitter.com/MichaelEHayden), [_Hatewatch_](https://www.splcenter.org/hatewatch), I mean... These dudes I think are not being truthful. I think that they are engaging in a willful form of deception, and I will happily... I've actually taken his phone call in good faith, I've listened, I've spoken with him. But after you're betrayed multiple times, where you talk to people in good faith and you answer their questions...
+<span class="transcript-speaker">Monster:</span> Southern Poverty Law Center. Not quite the bane of my existence but it's like right up there. [Michael Edison Hayden](https://twitter.com/MichaelEHayden), [_Hatewatch_](https://www.splcenter.org/hatewatch), I mean...[^fn9] These dudes I think are not being truthful. I think that they are engaging in a willful form of deception, and I will happily... I've actually taken his phone call in good faith, I've listened, I've spoken with him. But after you're betrayed multiple times, where you talk to people in good faith and you answer their questions...
 
 <span class="transcript-speaker">Monacelli, 0:56:16:</span> Your conversation with me was not in good faith, Rob. You did not want to say anything on the record.
 
@@ -402,7 +402,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monacelli:</span> ... it's a great idea, Rob, and if you have any corrections or any... if you would like to better explain to folks the connections to the shell companies I identified and the UK servers, I am a journalist and I issue corrections when I'm wrong. But I have to be shown that I'm wrong, and that is why I called you, because I was hoping to get some clarity, which your conversation with me did not provide.
 
-<span class="transcript-speaker">Monster, 0:58:12:</span> Alright, so stand by. Stand by. Just as a gesture of good faith, let's disable the DNS of your... the A record of YourDaddyJoey, shall we?
+<span class="transcript-speaker">Monster, 0:58:12:</span> Alright, so stand by. Stand by. Just as a gesture of good faith, let's disable the DNS of your... the [A record](https://support.dnsimple.com/articles/a-record/) of YourDaddyJoey, shall we?
 
 <span class="transcript-speaker">Monacelli:</span> I would love to do this live.
 
@@ -426,11 +426,11 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 1:00:26:</span> Swastika? What the heck? That's quite a tat. Is that a breast? That's a male breast. Look at that, how about that.
 
-<span class="transcript-speaker">Monacelli:</span> Yeah, weev? Yeah, that guy.
+<span class="transcript-speaker">Monacelli:</span> Yeah, [weev](https://en.wikipedia.org/wiki/Weev)? Yeah, that guy.
 
 <span class="transcript-speaker">Monster:</span> Who is it?
 
-<span class="transcript-speaker">Monacelli:</span> Oh, he's a convicted cybercriminal that was the web host of the <i>Daily Stormer</i>.
+<span class="transcript-speaker">Monacelli:</span> Oh, he's a convicted cybercriminal that was the web host of _The Daily Stormer_.
 
 <span class="transcript-speaker">Monster:</span> Oh, so you guys know who he is? <span class="transcript-note">[loud noise]</span> Oh, okay, he's got an attitude.
 
@@ -440,7 +440,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monacelli, 1:01:48:</span> Also it's great to see it happen somewhat within a reasonable time frame, because Joey's stuff has been on there for years at this point and there's been a lot of people who've tried to get something to happen, and get that stuff removed. And I'm glad it's happened within a few days at this point. Because, yeah, it's helpful and we appreciate it. And I look forward to seeing it propagate on my browser.
 
-<span class="transcript-speaker">Monster:</span> Yeah, the TTL is 300 seconds so it should already be down.
+<span class="transcript-speaker">Monster:</span> Yeah, the [TTL](https://en.wikipedia.org/wiki/Time_to_live) is 300 seconds so it should already be down.
 
 <span class="transcript-speaker">Monacelli:</span> I'm not seeing it.
 
@@ -448,7 +448,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monacelli:</span> I'm refreshing it.
 
-<span class="transcript-speaker">Monster:</span> Yeah, just change your DNS provider. If you were using 8888 use 1111 or something.
+<span class="transcript-speaker">Monster:</span> Yeah, just change your [DNS provider](https://en.wikipedia.org/wiki/Public_DNS_resolver). If you were using [8.8.8.8](https://en.wikipedia.org/wiki/Google_Public_DNS) use [1.1.1.1](https://en.wikipedia.org/wiki/1.1.1.1) or something.
 
 <span class="transcript-speaker">Unidentified:</span> It does look down.
 
@@ -2180,3 +2180,4 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 [^fn6]: [Steven Monacelli](https://twitter.com/stevanzetti) and [Chad Loder](https://twitter.com/chadloder) were two of the first journalists to break the news of the Epik hack on September 13. Shortly after, Monster [replied](https://twitter.com/robmonster/status/1437532355476983813) ([archive](https://web.archive.org/web/20210914231223/https://twitter.com/robmonster/status/1437532355476983813)) to one of Loder's tweets about the hack with a link to the YourDaddyJoey page doxing and defaming Loder, suggesting that Loder had somehow orchestrated the hack to try to have the doxing page removed.
 [^fn7]: In August 2017, BitMitigate, an American cybersecurity company began hosting American neo-Nazi, white supremacist, and Holocaust denial commentary and message board website _The Daily Stormer_. This was in response to GoDaddy and Cloudflare terminating services for the site after it published an article mocking Heather Heyer, the victim of the [vehicle ramming attack](https://en.wikipedia.org/wiki/Charlottesville_car_attack) that occurred at the [Unite the Right rally](https://en.wikipedia.org/wiki/Unite_the_Right_rally) in Charlottesville, Virginia that same month., When Epik acquired BitMitigate in 2019, it was still hosting the website. Monster has said that when Epik discovered it was providing services to the website, it stopped doing so. In a 2021 interview with NPR, Monster said that Epik's connection to The Daily Stormer was "regrettable", and that "The greatest cost of acquiring BitMitigate was not the amount of cash that we paid to buy the technology, but the entanglement." ([Epik (company)](https://en.wikipedia.org/w/index.php?title=Epik_(company)&oldid=1045467815). Wikipedia, September 21, 2021)
 [^fn8]: demonhackers.com was another of Joey Camp's domains, a reference to when [Gab](https://en.wikipedia.org/wiki/Gab_(social_network)) CEO Andrew Torba blamed [a major hack](https://en.wikipedia.org/wiki/Gab_(social_network)#Hacks_and_data_leaks) of the Gab service on "demon hackers", a term which some hackers then jokingly adopted for themselves. The domain redirected to dox pages of hackers on YourDaddyJoey.
+[^fn9]: [Michael Edison Hayden](https://twitter.com/MichaelEHayden) reported extensively on Epik and Rob Monster in a 2019 _Hatewatch_ article titled ["A Problem of Epik Proportions"](https://www.splcenter.org/hatewatch/2019/01/11/problem-epik-proportions).
