@@ -129,7 +129,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Castoro</span> You host at least six that have been found today and their names have been outed.
 
-<span class="transcript-speaker">Nonster</span> No no no. Are they live websites that are actually run by a Proud Boys organization?
+<span class="transcript-speaker">Monster</span> No no no. Are they live websites that are actually run by a Proud Boys organization?
 
 <span class="transcript-speaker">Castoro</span> ... historical data of 10 years, sir. I mean look at who you have on this call.
 
@@ -503,7 +503,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster</span> I agree with that
 
-<span class="transcript-speaker">weeva</span> <span class="transcript-note">[redacted]</span>
+<span class="transcript-speaker">weev</span> <span class="transcript-note">[redacted]</span>
 
 <span class="transcript-speaker">Monster, 1:06:26</span> Here's the part that I agree with. I agree...
 
@@ -645,7 +645,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster</span> Okay, I did not mean to offend.
 
-<span class="transcript-speaker">Unidentifed</span> He's here for the same reason Steven was. There's a site that has all his dox that Joey's running, demonhackers.com.
+<span class="transcript-speaker">Unidentified</span> He's here for the same reason Steven was. There's a site that has all his dox that Joey's running, demonhackers.com.
 
 <span class="transcript-speaker">Monster</span> But which is the site? We took that site down, the problem site.
 
@@ -945,7 +945,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster</span> Oh you know what? You guys can talk amongst yourself. You guys talk. <span class="transcript-note">[Monster leaves]</span>
 
-<span class="transcript-speaker">Unidentified, 2:22:00</span> I will say, though, if it's okay for me to say, that in reference to the word "Nazi": I think the word itself... because, forgive me for saying, I'm pretty... I'm a bit persnickety on language and words even though I can be very loose with my tongue, I admit. But, that word, a lot of other trigger words, are used purely for warfare, regardless of what side you're on. It doesn't matter. It doesn't matter. It's like certain other words that hurt certain other people so much that, you know what, why don't we just not be a-holes to this group of people and just, respectfully, not say this thing they don't want us to say. Just like how, with Muslim people, we give them enough respect because clearly they were really, really upset about the idea of if people in america try to basically satire and make fun of their... their... um, you know...
+<span class="transcript-speaker">Unidentified, 2:22:00</span> I will say, though, if it's okay for me to say, that in reference to the word "Nazi": I think the word itself... because, forgive me for saying, I'm pretty... I'm a bit persnickety on language and words even though I can be very loose with my tongue, I admit. But, that word, a lot of other trigger words, are used purely for warfare, regardless of what side you're on. It doesn't matter. It doesn't matter. It's like certain other words that hurt certain other people so much that, you know what, why don't we just not be a-holes to this group of people and just, respectfully, not say this thing they don't want us to say. Just like how, with Muslim people, we give them enough respect because clearly they were really, really upset about the idea of if people in America try to basically satire and make fun of their... their... um, you know...
 
 <span class="transcript-speaker">HF?, 2:22:53</span> Hey, hey, you're making a massive generalization off of the minute response of a very extreme, small set... dude, my nephew is Muslim. I love Islam. Have you had the fucking food? It's delicious.
 
@@ -1019,7 +1019,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "here for the comedy": "black people aren't cursed but the data is"]</span> Yeah, they're not cursed but the data is. Yeah I agree. Yeah, so, crazy stuff.
 
-<span class="transcript-speaker">Monster, 2:30:42</span> You know, one thing that's kind of cool about this job: I get to do phone calls with a lot of very colorful people. I'm fairly private, so I don't typically kiss and tell, so I try to keep people anonymous where I can, but I get to meet some really colorful people. So that's fun. And actually, I'm  totally down to meet with antifa people, I've met with hardcore neo-Nazis, a guy that basically was like legit vigilante <span class="transcript-note">[unitelligible]</span> type guy... and I was like, "dude, you're not on the site of right". And I think I helped him walk off the battlefield, because what he was doing with vigilante justice was not cool.
+<span class="transcript-speaker">Monster, 2:30:42</span> You know, one thing that's kind of cool about this job: I get to do phone calls with a lot of very colorful people. I'm fairly private, so I don't typically kiss and tell, so I try to keep people anonymous where I can, but I get to meet some really colorful people. So that's fun. And actually, I'm  totally down to meet with antifa people, I've met with hardcore neo-Nazis, a guy that basically was like legit vigilante <span class="transcript-note">[unintelligible]</span> type guy... and I was like, "dude, you're not on the site of right". And I think I helped him walk off the battlefield, because what he was doing with vigilante justice was not cool.
 
 <span class="transcript-speaker">Monster, 2:31:30</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "JP": "One day we're going to get a documentary on Rob Monster"]</span> "...the documentary of Rob Monster..." Yeah, that'd be funny, actually. If you never get to do a movie about the crazy big story. I tell you what, here's something I started. I recommend this highly. So after I read this book <i>History of Providence</i> like three times, and I created this URL historyofprovidence.com where people can read it for free. I developed this practice of keeping it a log. I have a providence log. It's a running log of all the different crazy things that happened in my life. This is definitely going into the providence log, because I didn't expect to have 37 people show up to to rap about life. But, I was hoping to talk to Chad, because he's got like a huge following on Twitter. I'm trying to figure this dude out. But I appreciate you guys showing up.
 
@@ -1048,7 +1048,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified</span> I think not with the headset.
 
-<span class="transcript-speaker">Neal Rauhauser, 2:35:18</span> I see i've been atted <span class="transcript-note">[added? outed?]</span>. How's my audio here?
+<span class="transcript-speaker">Neal Rauhauser, 2:35:18</span> I see I've been atted <span class="transcript-note">[added? outed?]</span>. How's my audio here?
 
 <span class="transcript-speaker">Unidentified</span> It's wonderful.
 
@@ -1369,7 +1369,7 @@ Monster, 3:01: 20: Yeah, it's possible. <span class="transcript-note">[reading t
 
 <span class="transcript-speaker">Monster, 3:02:35</span> Oh yeah, secret data. Yeah. I don't know.
 
-<span class="transcript-speaker">Rauhauser</span> But as we've seen herem just in the last day or week or month or through this year, nothing is really secret. Secrets have a dwell time, and then things are getting dumped in public.
+<span class="transcript-speaker">Rauhauser</span> But as we've seen here just in the last day or week or month or through this year, nothing is really secret. Secrets have a dwell time, and then things are getting dumped in public.
 
 <span class="transcript-speaker">Monster, 3:02:57</span> That's it. I mean, Epstein. I mean, that's some stuff. But I think that they're all right.
 
@@ -1757,7 +1757,7 @@ Monster, 3:01: 20: Yeah, it's possible. <span class="transcript-note">[reading t
 
 <span class="transcript-speaker">Monster, 3:32:00</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob do you think the rapture will happen?"]</span> "Rob, do you think the rapture will happen?" Yeah I think it does. I don't know. <span class="transcript-note">[reading the chat. Full question in chat was from "liken": "flat earth? psyop. round earth? psyop."]</span> Flat earth, round earth, tough call.
 
-<span class="transcript-speaker">Unidentified</span> Willl the rapture happen in the next 30 years?
+<span class="transcript-speaker">Unidentified</span> Will the rapture happen in the next 30 years?
 
 <span class="transcript-speaker">Monster</span> Yeah...
 
