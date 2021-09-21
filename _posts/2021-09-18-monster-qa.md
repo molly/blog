@@ -44,9 +44,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 0:13:49:</span> So we ended up acquiring this company, and it came with a Russian dev team. At the time they were based in the Ukraine, or in the Crimea region. Then there were wars and then they moved to [Krasnodar](https://en.wikipedia.org/wiki/Krasnodar), and they're based there. They're pretty talented, but the legacy codebase of the early Epik... <span class="transcript-note">[reading the chat. Full comment from chat was from "JorgeOrwell": "So you bought some shitty russian code and never fixed it? [MD5s](https://en.wikipedia.org/wiki/MD5). Rob common (sic) man"]</span> Yes, shitty Russian code. We bought some shitty Russian code and we actually didn't really have an opportunity to evaluate that code until we finished, until we really took control over everything. If you look, if you go to Epik Labs, epik.com/labs, we have a full catalog of a lot of other things that we've been developing.
 
-<span class="transcript-speaker">Monster, 0:14:47:</span> Yo, yo, video! [Kirtaner](https://twitter.com/ThatNotoriousK)! <span class="transcript-note">[unintelligible]</span> bro! <span class="transcript-note">[clapping]</span> God bless you bro! You are the man! I was getting tired of talking to myself. Oh man. What's up bro?
+<span class="transcript-speaker">Monster, 0:14:47:</span> Yo, yo, video! [Kirtaner](https://twitter.com/ThatNotoriousK)![^fn3] <span class="transcript-note">[unintelligible]</span> bro! <span class="transcript-note">[clapping]</span> God bless you bro! You are the man! I was getting tired of talking to myself. Oh man. What's up bro?
 
-<span class="transcript-speaker">Kirtaner, 0:15:03:</span> Hello!
+<span class="transcript-speaker">Kirtaner[^fn3], 0:15:03:</span> Hello!
 
 <span class="transcript-speaker">Monster:</span> Where you from?
 
@@ -102,7 +102,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 0:24:02:</span> I'm talking about like arranging to give people beatdowns, and I mean you know. Watch the video, I mean the guy is talking about...
 
-<span class="transcript-speaker">Castoro:</span> Right, but you host [Andy Ngo's](https://en.wikipedia.org/wiki/Andy_Ngo) site, and he posts stuff on like... what's the other site that his guy Trollan[^fn3] runs? It's like AntifaMugshots.com.[^fn3] I mean you literally host sites that result in direct action of people like [Tony Moon](https://www.huffpost.com/entry/californian-filmed-attacking-female-journalist-at-la-anti-vaxx-protest-linked-to-capitol-riot_n_611ac616e4b0f7bc26a8a6f0) coming to my house. Now I can explain that to you offline or online, however you like.
+<span class="transcript-speaker">Castoro:</span> Right, but you host [Andy Ngo's](https://en.wikipedia.org/wiki/Andy_Ngo) site, and he posts stuff on like... what's the other site that his guy Trollan[^fn4] runs? It's like AntifaMugshots.com.[^fn4] I mean you literally host sites that result in direct action of people like [Tony Moon](https://www.huffpost.com/entry/californian-filmed-attacking-female-journalist-at-la-anti-vaxx-protest-linked-to-capitol-riot_n_611ac616e4b0f7bc26a8a6f0) coming to my house. Now I can explain that to you offline or online, however you like.
 
 <span class="transcript-speaker">Monster: 0:24:33:</span> No no, if you want to send me, send me stuff or <span class="transcript-note">[unintelligible]</span> Look, I mean the thing is, here's the deal. I run a company with like seven subsidiaries, 24 business units, you can look at Epik Labs, epik.com/labs, you'll see we have a lot going on. And we're growing really quickly, and so I wouldn't have the ability to keep track of like every page on every customer's website.
 
@@ -110,7 +110,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster:</span> Stop, stop stop.
 
-<span class="transcript-speaker">Castoro:</span> You know about these pages by [replying](https://twitter.com/robmonster/status/1437532355476983813) to Chad Loder's tweets.[^fn4] You brought it up, sir.
+<span class="transcript-speaker">Castoro:</span> You know about these pages by [replying](https://twitter.com/robmonster/status/1437532355476983813) to Chad Loder's tweets.[^fn5] You brought it up, sir.
 
 <span class="transcript-speaker">Monster:</span> Yeah yeah, let me finish. So like, I was privy to the abuse letter that Chad Loder sent, and I looked him up, and I watched his video, and I said, "you know what? This guy does not seem like a nice person." 
 
@@ -2174,5 +2174,6 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 [^fn1]: Twitter permanently suspended @gatewaypundit, a Twitter account run by _The Gateway Pundit_'s founder Jim Hoft, on February 6, 2021, for repeatedly publishing misinformation about the 2020 U.S. presidential election. ([_The Gateway Pundit_](https://en.wikipedia.org/w/index.php?title=The_Gateway_Pundit&oldid=1044204138). Wikipedia, September 21, 2021)
 [^fn2]: After Epik didn't acknowledge the hack, hackers vandalized an Epik support page ([archive of the vandalized page](https://web.archive.org/web/20210915001823/https://www.epik.com/support/knowledgebase/update-they-claim-we-got-hacked-q-says-theyre-lying/)). ([_The Washington Post_](https://www.washingtonpost.com/politics/2021/09/17/battle-election-security-funding-is-back/))
-[^fn3]: According to data from the Epik leak, technologist Michael Trollan allegedly runs [Andy Ngo's](https://en.wikipedia.org/wiki/Andy_Ngo) website and websites including AntifaMugshots.com. AntifaMugshots was a website that attempted to dox people who were believed to be antifa. As of this writing (September 21, 2021), the domain redirects to Ngo's website.
-[^fn4]: Steven Monacelli and Chad Loder were two of the first journalists to break the news of the Epik hack. Shortly after, Monster [replied](https://twitter.com/robmonster/status/1437532355476983813) ([archive](https://web.archive.org/web/20210914231223/https://twitter.com/robmonster/status/1437532355476983813)) to one of Loder's tweets about the hack with a link to the YourDaddyJoey page doxing and defaming Loder, suggesting that Loder had somehow orchestrated the hack to try to have the doxing page removed.
+[^fn3]: Kirtaner is Aubrey Cottle, a member of Anonymous who has been credited by some publications as a founder of the organization. ([_The Atlantic_](https://www.theatlantic.com/technology/archive/2020/08/hacker-group-anonymous-returns/615058/))
+[^fn4]: According to data from the Epik leak, technologist Michael Trollan allegedly runs [Andy Ngo's](https://en.wikipedia.org/wiki/Andy_Ngo) website and websites including AntifaMugshots.com. AntifaMugshots was a website that attempted to dox people who were believed to be antifa. As of this writing (September 21, 2021), the domain redirects to Ngo's website.
+[^fn5]: [Steven Monacelli](https://twitter.com/stevanzetti) and [Chad Loder](https://twitter.com/chadloder) were two of the first journalists to break the news of the Epik hack on September 13. Shortly after, Monster [replied](https://twitter.com/robmonster/status/1437532355476983813) ([archive](https://web.archive.org/web/20210914231223/https://twitter.com/robmonster/status/1437532355476983813)) to one of Loder's tweets about the hack with a link to the YourDaddyJoey page doxing and defaming Loder, suggesting that Loder had somehow orchestrated the hack to try to have the doxing page removed.
