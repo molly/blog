@@ -14,7 +14,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <p>All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.</p>
 
-<b>I have finished transcribing what is available in Thalen's recording on YouTube. I am working the remaining missing portion.</b>
+<b>I have finished transcribing what is available in Thalen's recording on YouTube. The remaining missing portion at the end is in progress.</b>
 </div>
 
 <span class="transcript-speaker">Rob Monster, 0:00:00</span> ... working hypothesis is that it was a backup. And I'm not going to say where the backup was found but I believe it was a backup and it wasn't the live data. I don't think that there is an active vulnerability that would have allowed that scale of data haul. But we're going to find exactly where it was, we're going to find exactly how it was moved, and...
@@ -1878,3 +1878,294 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 <span class="transcript-speaker">Monster</span> I'll tell you what's really interesting that's coming down, which is, I do think that this whole non-fungible token stuff is super interesting.
 
 <span class="transcript-note">[Thalen's recording ends]</span>
+
+<span class="transcript-speaker">Unidentified</span> Inflation would go up <span class="transcript-note">[feedback]</span>
+
+<span class="transcript-speaker">Monster</span> I'll tell you what's really interesting that's coming down, which is, I do think that this whole non-fungible token stuff is super interesting.
+
+<span class="transcript-note">[Thalen's recording ends]</span>
+
+<span class="transcript-speaker">Monster</span> I think you're going to see the emergence of security tokens as a capitalization framework. One of the things that we are actually working on...
+
+<span class="transcript-speaker">Unidentified</span> Those would be regulated.
+
+<span class="transcript-speaker">Monster</span> Yeah, I know, but you can do Reg. S, Reg D. compliant security token offerings and do it at scale. So imagine a world where you have people who can legally participate in multi-stakeholder governance of an enterprise, and we wouldn't <span class="transcript-note">[unintelligible]</span> to be able to participate. I think that's coming.
+
+<span class="transcript-speaker">Unidentified</span> Oh, a DAO. You mean DAOs.
+
+<span class="transcript-speaker">Monster</span> Yep. Smart contracts, I think that that's coming. And I think it can be done in a legal way. We've hired a bunch of people to go work on this Fraktion project, f-r-a-k-t-i-o-n.
+
+<span class="transcript-speaker">HF</span> How's the security of that project? How's the security of that project? Like, if the security of that project isn't 100%, then at every possible chance that contract's going to be altered, right? So, how do you verify that it's 100% secure? Because as I think we've all learned recently, nothing's 100% secure.
+
+<span class="transcript-speaker">Monster</span> You cut out there.
+
+<span class="transcript-speaker">B</span> Contracts can't be altered once they're <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Unidentified</span> Contracts can be hacked, though.
+
+<span class="transcript-speaker">Monster</span> I don't know if you can really hack a smart contract. That would be a very bad
+
+<span class="transcript-speaker">Unidentified</span> You can, they can be hacked, look it up.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Kirtaner</span> I have heard, I know of many smart contracts that have been hacked. Anything can be hacked, period.
+
+<span class="transcript-speaker">Unidentified</span> Can confirm.
+
+<span class="transcript-speaker">Kirtaner</span> Do not fool yourself into thinking otherwise. Anything and everything can be hacked.
+
+<span class="transcript-speaker">Unidentified</span> There's like thirty known vulnerabilities in smart contracts.
+
+<span class="transcript-speaker">Monster</span> I get the feeling that you <span class="transcript-note">[crosstalk]</span> that you've got
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> I bet God could create technology that couldn't be hacked.
+
+<span class="transcript-speaker">Rauhauser</span> The problem is... what Kirt has said there is sort of the philosophical view. And I think it's true, everything can be hacked. But the question is, do you have the time, the money, enough matter in the universe to convert into computing power in order to do it? And the goal...
+
+<span class="transcript-speaker">HF</span> And amphetamines, Neal. Amphetamines.
+
+<span class="transcript-speaker">Rauhauser</span> Yeah, okay, that might be a consideration...
+
+<span class="transcript-speaker">Unidentified</span> That's true the stimulants, they definitely do help out.
+
+<span class="transcript-speaker">Unidentified</span> Can I just say? Cocaine, hell of a drug, bro.
+
+<span class="transcript-speaker">Unidentified</span> Facts.
+
+<span class="transcript-speaker">Monster</span> <span class="transcript-note">[reading the chat, not visible]</span> Hellbat wants to know, <span class="transcript-note">[crosstalk]</span> what do I know about gematria. Do you guys know about gematria? It's kind of interesting.
+
+<span class="transcript-speaker">Unidentified</span> Amphetamines are just the natural way to go, you know?
+
+<span class="transcript-speaker">Unidentified</span> Yeah, it's some kind of woo woo bullshit.
+
+<span class="transcript-speaker">Monster</span> I think it's kind of fascinating. The universe is defined by a lot of math. You look at the music and tones...
+
+<span class="transcript-speaker">Unidentified</span> Fractals.
+
+<span class="transcript-note">[Jitsi drops]</span>
+
+<span class="transcript-speaker">Unidentified</span> Ha ha, PrayerMeeting chat room go brr.
+
+<span class="transcript-speaker">Unidentified</span> <span class="transcript-note">[laughter]</span>
+
+<span class="transcript-note">[Jitsi drops]</span>
+
+<span class="transcript-speaker">Unidentified</span> God is all.
+
+<span class="transcript-speaker">Unidentified</span> <span class="transcript-note">[whispering]</span> God. You are God.
+
+<span class="transcript-note">[Jitsi drops]</span>
+
+<span class="transcript-note">[when Jitsi reconnects there is a period where only some participants are audible in the recording I have]</span>
+<span class="transcript-speaker">Unidentified</span> Is this fucking idiot still rambling on about nothing? When is he going to apologize for getting everyone's data leaked with his shit opsec? His fucking stupid company. He can't even keep his own stream from getting hacked like five times in front of my face right here. What a fucking loser. <span class="transcript-note">[seems to be hearing Monster speaking; in the recording I have, this unidentified person is the only audio for this portion]</span> Yo, I'll go easy on your asshole. <span class="transcript-note">[pause]</span> Shut the fuck up old man. You should be bending over for everyone in this call right now, and begging forgiveness. <span class="transcript-note">[long pause]</span> There's a lot less than you knew, I think. Otherwise you would've been able to prevent this. You would've fucking hired someone who knew how to code.
+
+<span class="transcript-speaker">L</span> Hasn't even Experian been hacked? Isn't that one of the big three major credit card companies? Don't they have the money? What kind of standards are you applying to this man and why are you choosing it on him instead of everyone else? What the hell is this stick up your ass? <span class="transcript-note">[apparently hearing someone else]</span> Oh but no, you don't want to talk to me. You want to talk to people who aren't good at replying back. <span class="transcript-note">[pause]</span> What about your sins? <span class="transcript-note">[long pause]</span>
+
+<span class="transcript-speaker">Monster</span> ...we have most of our hosting capacity in physical infrastructure that we no longer... yeah, you know... AWS doesn't host Epik.com. Maybe a DNS node. <span class="transcript-note">[unintelligible]</span> We are not using them as the primary host. We do run anycast DNS. Gosh guys. What else? Thursday night, man. What are you guys doing on Friday?
+
+<span class="transcript-speaker">Unidentified</span> Hacking.
+
+<span class="transcript-speaker">Monster</span> Hacking. Yeah.
+
+<span class="transcript-speaker">Unidentified</span> Probably hacking.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> Maybe do a show with Gregg Housh if he feels up to it. He was talking to your <span class="transcript-note">[connection issue]</span>
+
+<span class="transcript-speaker">HF</span> How is Housh, I haven't seen him
+
+<span class="transcript-speaker">Monster</span> We set this up...<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> Housh? He's been dealing with a lot.
+
+<span class="transcript-speaker">Monster</span>  <span class="transcript-note">[reading the chat]</span> Somebody asked about the site. PrayerMeeting. Yeah, we bought this name and we set up a free place that people could use to meet instead of going to a church, if they didn't want to go to a church or they couldn't get to a church.
+
+<span class="transcript-speaker">Unidentified</span> Yeah, I think I saw... there's something in that email dump of an employee inbox talking about this. I'm pretty sure.
+
+<span class="transcript-speaker">Monster</span> Yeah, that's possible. I think that the guy's email, I think it was Austin Gilmore(?) that had his email dumped.
+
+<span class="transcript-speaker">Unidentified</span> Honestly I think <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> Do you think the hacker is in here watching? Do you think he's among us?
+
+<span class="transcript-speaker">Monster</span> I don't know.
+
+<span class="transcript-speaker">Unidentified</span> I love that game. Such a good game.
+
+<span class="transcript-speaker">Unidentified</span> Was that a reference to the game? I'm sitting here and I cringed for half a second and then I'm "wait, is he referencing the game or is he just being like, literary?"
+
+<span class="transcript-speaker">HF</span> Rob, would you go on Gregg Housh's show? With Kirt?
+
+<span class="transcript-speaker">Monster</span> I'm embarrassed to say I don't know who he is.
+
+<span class="transcript-speaker">Kirtaner</span> Okay, Gregg Housh is another former member of Anonymous who brought it to public prominence with Project Chanology, the Church of Scientology protests, in 2008. He's a good friend of mine, and he has a Twitch show. A Twitch video podcast. And I'm a regular host on Friday nights with him. And I'm sure he would love to have you on. It would be, we would be nice. We would be nice to you. Fair warning.
+
+<span class="transcript-speaker">Monster</span> Alright, drop me a note and we'll figure it out.
+
+<span class="transcript-speaker">Kirtaner</span> Alright! Cool!
+
+<span class="transcript-speaker">LH</span> Tomorrow?
+
+<span class="transcript-speaker">Kirtaner</span> I don't know if it'd be tomorrow. I'd have to talk to Gregg, he's been dealing with a lot of stuff and not doing the show for the last two or so weeks. But I'll talk to him and I'll extend that invitation.
+
+<span class="transcript-speaker">HF</span> Send him my love, I hope he's doing okay.
+
+<span class="transcript-speaker">Monster</span> So. Fun times guys! I was still hoping Chad would show up. Chad Loder. He was... he lit this flame. So I figured he would show up, but he doesn't seem to want to show up. Anyone know Chad?
+
+<span class="transcript-speaker">HF</span> I mean, I know of Chad. Chad's pretty well respected in the cybersecurity community.
+
+<span class="transcript-speaker">Monster</span> Yeah, he's got a big following.
+
+<span class="transcript-speaker">Rauhauser</span> He's a little aggressive on Twitter but he would absolutely fit in in the more intellectual, more mindful end of this particular conversation.
+
+<span class="transcript-speaker">Monster</span> Yeah.
+
+<span class="transcript-speaker">Unidentified</span> He's quite thoughtful.
+
+<span class="transcript-speaker">Monster</span> Yeah, he seems like a really smart guy with a lot of leadership skills.
+
+Unidentified. Yeah, he is a smart guy. That's why he blames you for what happened, you fucking idiot.
+
+<span class="transcript-speaker">Monster</span> So anyway, the site that offends you is offline. So if you missed it, heads up.
+
+<span class="transcript-speaker">LH</span> There's a few hundred others
+
+<span class="transcript-speaker">Monster</span> Yep.
+
+<span class="transcript-speaker">Rauhauser</span> So besides JoJo Camp... This is a little bit of crosstalk for Kirt here. Other than JoJo Camp, who else in the completely unacceptable websites crew had stuff with Epik? Did we find <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Kirtaner</span> Those are not questions for me, I haven't gone really spelunking through the data yet. I just have a high level overview of what is in it.
+
+<span class="transcript-speaker">Monster</span> Yep. Yeah, so we do have a good abuse department, and they are pretty close to 24/7, so if you see something that is overtly troublesome... take a screenshot. We don't really like to click your links. Take a screenshot, include the link. We actually are developing a software, we've gotten so practiced at dealing with abuse, that we're actually developing a software! We actually have almost finished it, and it will be launched as a multi-tenant software than anybody could then use as like software as a service. Kind of like Zendesk or abuse management. Written by lawyers and technologists so you can kind of follow protocol on abuse ticket management. So we think that might be useful.
+
+<span class="transcript-speaker">HF</span> Is there anything worse than programmers or lawyers, Rob?
+
+<span class="transcript-speaker">Monster</span> Yeah, I know. We actually try to use lawyers in a productive way. I try to avoid lawyers, but...
+
+<span class="transcript-speaker">Unidentified</span> <span class="transcript-note">[laughing]</span> Everyone tries to avoid lawyers, chief.
+
+<span class="transcript-speaker">Jackson</span> The lawyers did the SDLC lifecycle, right? They got it all secure? Is that what happened? Or did you actually hire cybersecurity professionals to audit the software? Or can we just expect an underflow or an overflow or something, and you know, RCE on the servers.
+
+<span class="transcript-speaker">Monster</span> I didn't catch that. I don't understand the question.
+
+<span class="transcript-speaker">Jackson</span> SDLC. Do you know what SDLC is?
+
+<span class="transcript-speaker">Monster</span> No.
+
+<span class="transcript-speaker">Unidentified</span> It's the software development lifecycle.
+
+<span class="transcript-speaker">Monster</span> Oh, yeah yeah yeah, okay got it.
+
+<span class="transcript-speaker">Jackson</span> Probably... probably not great.
+
+<span class="transcript-speaker">Monster</span> So you missed it earlier...
+
+<span class="transcript-speaker">Unidentified</span> They're on the waterfall, John.
+
+<span class="transcript-speaker">Monster</span> Earlier in the call we were talking about, you know, the legacy of the Russian dev team and <span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Jackson</span> <span class="transcript-note">[laughing]</span> the Russian dev team, damn.
+
+<span class="transcript-speaker">Monster</span> ...we've done a lot of acquisitions over the years, and we are substantially retooling. But that legacy code of the Epik registrar, all of that is being replaced.
+
+<span class="transcript-speaker">Unidentified</span> What's your backend, John? Er, what's your backend, Rob?
+
+<span class="transcript-speaker">Monster</span> Yeah.
+
+<span class="transcript-speaker">Unidentified</span> What's your backend?
+
+<span class="transcript-speaker">Monster</span> For those of you who want to do a deep dive on tech, I have really talented guys that I'll be happy to do a breakout session with. I think they'll be fascinating. So if you have an interest in doing...
+
+<span class="transcript-speaker">Jackson</span> Open-source your stack, Rob.
+
+<span class="transcript-speaker">Monster</span> Some of it has been open-sourced... not all of it.
+
+<span class="transcript-speaker">Unidentified</span> <span class="transcript-note">[laughing]</span> Ooh baby!
+
+<span class="transcript-speaker">Kirtaner</span> Some of it was already open-sourced! Involuntarily...
+
+<span class="transcript-speaker">Monster</span> Yeah, yeah. Yeah, I think the most exciting stuff we have was not...
+
+<span class="transcript-speaker">Jackson</span> That'll increase your security posture. You'll have all these pros in here helping you edit it.
+
+<span class="transcript-speaker">Monster</span> No I appreciate that. I think there's an open invitation for folks who've had a chance to look at the code to help plug whatever remaining vulnerabilities might exist. You know, try not to exploit it...
+
+<span class="transcript-speaker">HF</span> Actually, you know what Rob? We should turn this into a paying engagement.
+
+<span class="transcript-speaker">Monster</span> I did!
+
+<span class="transcript-speaker">HF</span> You should put up a bug bounty program.
+
+<span class="transcript-speaker">Monster</span> I'm there! We already have a bug bounty programs. So if you find stuff that's weakly executed...
+
+<span class="transcript-speaker">Jackson</span> ...what?
+
+<span class="transcript-speaker">HF</span> You have a bug bounty program?
+
+<span class="transcript-speaker">Monster</span> We do!
+
+<span class="transcript-speaker">Jackson</span> Where?
+
+<span class="transcript-speaker">Monster</span> So right now it's just an email, but we also are... bugs@epik.com  But what we are also doing, we actually have a software team... We have a cybersecurity team, believe it or not.
+
+<span class="transcript-speaker">Unidentified</span> You should fire them.
+
+<span class="transcript-speaker">Unidentified</span> <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">Unidentified</span> Yes. Yes yes yes.
+
+<span class="transcript-speaker">Monster</span> I'm telling you! We've just hired and assembled a team. A crack team from South Africa. 
+
+<span class="transcript-speaker">Jackson?</span> From South Africa?? You guys are gonna get popped again! Their government just got fucking ransomwared!
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">L?</span> Honestly, I'm working on website security... <span class="transcript-note">[crosstalk]</span>... had a simple website with a simple password, and at one point it kept getting hacked, so I had to keep being smarter about how to make it secure and eventually I figured out a way to code it in such a way that the guy couldn't hack into it. So, technically speaking... 
+
+<span class="transcript-speaker">Monster</span> Yep.
+
+<span class="transcript-speaker">L?</span> ...you can make anything completely secure. It just takes real-time dedication and effort. You'd have to have them look, they're going to have to look through, comb through everything.
+
+<span class="transcript-speaker">HF?</span> Hold on, what's 100% secure?
+
+<span class="transcript-speaker">Unidentified</span> There's no security. No.
+
+<span class="transcript-speaker">L?</span> The more complicated it is, that is.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> ...technologically how it works.
+
+<span class="transcript-speaker">L?</span> Technically, yeah.
+
+<span class="transcript-speaker">Unidentified</span> <span class="transcript-note">[sigh]</span>
+
+<span class="transcript-speaker">Jackson?</span> You can't permanently secure anything, though, because new vulnerabilities come out all the time.
+
+<span class="transcript-speaker">L?</span> Theoretically you can hack anything.
+
+<span class="transcript-speaker">Unidentified</span> Nothing can be completely secure.
+
+<span class="transcript-speaker">Rauhauser</span> Focus this on technology. The real issue here, the real issue here
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified</span> Do you never update your shit?
+
+<span class="transcript-speaker">L?</span> I have a degree in computer science.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Rauhauser</span> The real issue was not the technical <span class="transcript-note">[unintelligible]</span>. It was some of the people who were using Epik that led to the problem. I mean, we've seen JoJo in here tonight finally getting ejected from this particular corner of the Internet. And the idea that there's an improved abuse service is interesting to me, but I suspect that as time goes on and people start looking through these domains that have been registered... you know, I saw something go by on Twitter, that someone's starting to explore who some of the registrants are. And there's literally a cluster of bad actors, of individuals who, it's not a matter of the natural right of free speech, it's...
+
+<span class="transcript-speaker">Unidentified</span> Wring your hands more, you fucking limp-wristed f*****. <span class="transcript-note">[crosstalk]</span> You don't even own anything, shut the fuck up.
+
+<span class="transcript-speaker">L?</span> The worst thing is that even if you code something perfectly, there's an environmental risk to <span class="transcript-note">[unintelligible]</span>. The environmental risk is radioactivity. A single particle from radiation from the outer space can flip a 0 to a 1. It's happened...
+
+<span class="transcript-note">[Jitsi drops]</span>
