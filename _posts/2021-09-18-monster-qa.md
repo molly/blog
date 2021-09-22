@@ -1023,7 +1023,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 2:30:42:</span> You know, one thing that's kind of cool about this job: I get to do phone calls with a lot of very colorful people. I'm fairly private, so I don't typically kiss and tell, so I try to keep people anonymous where I can, but I get to meet some really colorful people. So that's fun. And actually, I'm  totally down to meet with antifa people, I've met with hardcore neo-Nazis, a guy that basically was like legit vigilante <span class="transcript-note">[unitelligible]</span> type guy... and I was like, "dude, you're not on the site of right". And I think I helped him walk off the battlefield, because what he was doing with vigilante justice was not cool.
 
-<span class="transcript-speaker">Monster, 2:31:30:</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "JP": "One day we're going to get a documentary on Rob Monster"]</span> "...the documentary of Rob Monster..." Yeah, that'd be funny, actually. If you never get to do a movie about the crazy big story. I tell you what, here's something I started. I recommend this highly. So after I read this book _istory of Providence_ like three times, and I created this URL historyofprovidence.com where people can read it for free. I developed this practice of keeping it a log. I have a providence log. It's a running log of all the different crazy things that happened in my life. This is definitely going into the providence log, because I didn't expect to have 37 people show up to to rap about life. But, I was hoping to talk to Chad, because he's got like a huge following on Twitter. I'm trying to figure this dude out. But I appreciate you guys showing up.
+<span class="transcript-speaker">Monster, 2:31:30:</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "JP": "One day we're going to get a documentary on Rob Monster"]</span> "...the documentary of Rob Monster..." Yeah, that'd be funny, actually. If you never get to do a movie about the crazy big story. I tell you what, here's something I started. I recommend this highly. So after I read this book _History of Providence_ like three times, and I created this URL historyofprovidence.com where people can read it for free. I developed this practice of keeping it a log. I have a providence log. It's a running log of all the different crazy things that happened in my life. This is definitely going into the providence log, because I didn't expect to have 37 people show up to to rap about life. But, I was hoping to talk to Chad, because he's got like a huge following on Twitter. I'm trying to figure this dude out. But I appreciate you guys showing up.
 
 <span class="transcript-speaker">Monster, 2:32:28:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "nf84": "@Rob, what kind of libertarian are you? A small-gov Republican-lite, a 'left-libertarian', or an anarcho-capitalist?"]</span> "What kind of libertarian are you?" I just believe in small government, and I believe in self-governance. I believe that if you have self-governance, that where people are accountable to each other and love their neighbors as themselves, then they will be less likely to need dictators to put them in jail, and foreign teams, and house sequestering, and stuff like that. That's why I believe in liberty, but I think that liberty as the founding fathers envisioned it was kind of predicated on the assumption that people would be self-governing. And then over the last 50 years we've become progressively a lot less good at self-governing. And now we have a mess. So that's what I would tell you, that's my version of being a libertarian. It's not heavy. I'm not like a... the doctrine of somebody's version of libertarian. I just believe in the idea that liberty and personal accountability work really well together. And the philanthropist thing, which I put on my Twitter, is like, I just think that if you have means and you love your neighbor as yourself, then you can basically use the means that you have to lift people up. I'm a bigger fan of giving people a hand up than a handout.
 
@@ -1223,7 +1223,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Kirtaner:</span> Well, myself and another friend kind of made them look a joke, and then he invited me to be a verified influencer on his platform as a... I don't even know. I don't know why he did that, but I mean it was fun.[^fn16] It was a fun time. He's very nice, very nice gentleman! I liked him.
 
-<span class="transcript-speaker">Monster, 2:52:39:</span> Oh John Matze is here! John Matze's in the house! Get the heck out.
+<span class="transcript-speaker">Monster, 2:52:39:</span> Oh [John Matze](https://en.wikipedia.org/wiki/Parler#Company) is here! John Matze's in the house! Get the heck out.
 
 <span class="transcript-speaker">Kirtaner:</span> Oh! John! My man! I was just talking about how wonderful you are.
 
@@ -1263,7 +1263,6 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">LH:</span> Do you know who David Johnson is?
 
-
 <span class="transcript-speaker">Monster, 2:55:33:</span> I don't, who's David Johnson?
 
 <span class="transcript-speaker">LH:</span> <span class="transcript-note">[laughing]</span> He's everyone.
@@ -1275,7 +1274,6 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <span class="transcript-speaker">Monster:</span> Jainism.
 
 <span class="transcript-speaker">LH:</span> Have you heard of it?
-
 
 <span class="transcript-speaker">Monster:</span> So are you from India? Or where do you come from?
 
@@ -1289,7 +1287,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified:</span> Uh... he's called Rob Monster. I guess that's his real fucking name.
 
-<span class="transcript-speaker">Monster, 2:56:18:</span> It's my real name. My birth name is Robert Willard Monster. Those of you who think I'm related to Rob Zombie, I'm not. My birth name is Robert Willard Monster. And then when I went to college I changed my first name from Robert to Rob... I became known as Rob Monster. So that's how I became Rob Monster. And that was before I knew who Rob Zombie was.
+<span class="transcript-speaker">Monster, 2:56:18:</span> It's my real name. My birth name is Robert Willard Monster. Those of you who think I'm related to [Rob Zombie](https://en.wikipedia.org/wiki/Rob_Zombie), I'm not. My birth name is Robert Willard Monster. And then when I went to college I changed my first name from Robert to Rob... I became known as Rob Monster. So that's how I became Rob Monster. And that was before I knew who Rob Zombie was.
 
 <span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[laughing]</span>
 
@@ -1299,11 +1297,11 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Kirtaner:</span> I love anything funny!
 
-<span class="transcript-speaker">Monster:</span> Alright, that's good. So Lex Luthor. So, so, NPR did this bit where I was referred to as "the Lex Luthor of the Internet". So let me tell you how this went down. Bobby Allyn, who is a lovely charming guy, but he's kind of an operative. <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Is NPR fake news?!?"]</span>  NPR is fake news. Yes, NPR is fake news. They're propagandists. So he came to my home for a two and three-quarter hour interview. I made him a very good latte, he admitted it was a good latte. And we sat down...
+<span class="transcript-speaker">Monster:</span> Alright, that's good. So [Lex Luthor](https://en.wikipedia.org/wiki/Lex_Luthor). So, so, NPR did [this bit](https://www.npr.org/2021/02/08/965515655/meet-rob-monster-the-self-described-lex-luther-of-the-internet) where I was referred to as "the Lex Luthor of the Internet". So let me tell you how this went down. [Bobby Allyn](https://twitter.com/BobbyAllyn), who is a lovely charming guy, but he's kind of an operative. <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Is NPR fake news?!?"]</span>  NPR is fake news. Yes, NPR is fake news. They're propagandists. So he came to my home for a two and three-quarter hour interview. I made him a very good latte, he admitted it was a good latte. And we sat down...
 
 <span class="transcript-speaker">Unidentified:</span> Who the fuck is this clown?
 
-<span class="transcript-speaker">Monster, 2:57:46:</span> ...and then on the basis of this two and three quarter hour interview, he took six sentences of mine and turned it into a hit piece. And the part about "the Lex Luthor of the Internet", he asked me this question: "why do people think... why do you think the media is unkind to you?" And I said to him, I said, "well, with a name Rob Monster, it's like the Lex Luthor of the Internet." So if you wanted to, like, cast a villain to create, I don't know, a negative story, so you could be like the Charlie of Vietnam but on the Internet... Rob Monster would be a really good name, because it sounds like a villain. But I'm not a villain. So that's kind of how I think it went down. And so the scriptwriters who orchestrate this stuff, they decided to make me the villain. What they underestimated is that it's going to cost them some stuff. Anonymous, you guys got it wrong. I don't know who runs... you're not on Twitter, but you guys got it wrong. We don't think...
+<span class="transcript-speaker">Monster, 2:57:46:</span> ...and then on the basis of this two and three quarter hour interview, he took six sentences of mine and turned it into a hit piece. And the part about "the Lex Luthor of the Internet", he asked me this question: "why do people think... why do you think the media is unkind to you?" And I said to him, I said, "well, with a name Rob Monster, it's like the Lex Luthor of the Internet." So if you wanted to, like, cast a villain to create, I don't know, a negative story, so you could be like the [Charlie of Vietnam](https://en.wikipedia.org/wiki/Viet_Cong#Names) but on the Internet... Rob Monster would be a really good name, because it sounds like a villain. But I'm not a villain. So that's kind of how I think it went down. And so the scriptwriters who orchestrate this stuff, they decided to make me the villain. What they underestimated is that it's going to cost them some stuff. Anonymous, you guys got it wrong. I don't know who runs... you're not on Twitter, but you guys got it wrong. We don't think...
 
 <span class="transcript-speaker">LH:</span> David Johnson
 
@@ -1335,17 +1333,17 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified:</span> Yeah you do. That's why you're talking about it.
 
-<span class="transcript-speaker">Monster, 2:59:56:</span> Gosh... Oh yeah, so Wikipedia. I think Wikipedia is 98% useful and 2% arsenic. The problem is you never know what's the arsenic. So Wikipedia is going down the rabbit hole of becoming Snopes, and I hope that they turn from their path because they have basically become the truth ministry, like a very Orwellian way. They're basically cataloging a bunch of media links into a piece and they become the kind of ministry of truth. The arbiter of what's true. And then Google, which pays a lot of money to Wikipedia, they're probably the main sponsor at this point by far. Google then basically amplifies their version of truth.
+<span class="transcript-speaker">Monster, 2:59:56:</span> Gosh... Oh yeah, so Wikipedia. I think Wikipedia is 98% useful and 2% arsenic. The problem is you never know what's the arsenic. So Wikipedia is going down the rabbit hole of becoming [Snopes](https://en.wikipedia.org/wiki/Snopes), and I hope that they turn from their path because they have basically become the truth ministry, like a very Orwellian way. They're basically cataloging a bunch of media links into a piece and they become the kind of ministry of truth. The arbiter of what's true. And then Google, which pays a lot of money to Wikipedia, they're probably the main sponsor at this point by far.[^fn17] Google then basically amplifies their version of truth.
 
-<span class="transcript-speaker">Monster, 3:00:42:</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "MLN": "Wikipedia, do you even understand how the governing of Wikipedia works? Google doesn't pay them"]</span> Yeah, Google does pay them. Google is a very big sponsor of Wikipedia. I'm happy to talk with anybody who wants to discuss it. Look up Larry Sanger on Twitter, if you don't know him. He tells you a lot of stuff about Google... about Wikipedia. He was one of the founders.
+<span class="transcript-speaker">Monster, 3:00:42:</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "MLN": "Wikipedia, do you even understand how the governing of Wikipedia works? Google doesn't pay them"]</span> Yeah, Google does pay them. Google is a very big sponsor of Wikipedia. I'm happy to talk with anybody who wants to discuss it. Look up [Larry Sanger](https://en.wikipedia.org/wiki/Larry_Sanger) on Twitter, if you don't know him. He tells you a lot of stuff about Google... about Wikipedia. He was one of the founders.
 
-<span class="transcript-speaker">HF, 3:01:04:</span> Hey, did you know that Sergey Brin used to hang out with Harvey Weinstein and Wendi Deng?
+<span class="transcript-speaker">HF, 3:01:04:</span> Hey, did you know that [Sergey Brin](https://en.wikipedia.org/wiki/Sergey_Brin) used to hang out with [Harvey Weinstein](https://en.wikipedia.org/wiki/Harvey_Weinstein) and [Wendi Deng](https://en.wikipedia.org/wiki/Wendi_Deng_Murdoch)?
 
 <span class="transcript-speaker">Monster:</span> Yeah, makes sense. It doesn't surprise me.
 
 <span class="transcript-speaker">HF:</span> Yeah, so you've got a serial sexual assaulter and a Chinese spy. Isn't that crazy?
 
-<span class="transcript-speaker">Monster, 3:01: 20:</span> Yeah, it's possible. <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob what do you think of Antifa?"]</span> So somebody asked me about... Hellbat asked me what I think of antifa. I think antifa is an op. I don't think it's organic. I think it's basically an op. And I think that QAnon is an op. I think that... <span class="transcript-note">[crosstalk]</span>
+<span class="transcript-speaker">Monster, 3:01: 20:</span> Yeah, it's possible. <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob what do you think of Antifa?"]</span> So somebody asked me about... Hellbat asked me what I think of antifa. I think antifa is an op. I don't think it's organic. I think it's basically an op. And I think that [QAnon](https://en.wikipedia.org/wiki/QAnon) is an op. I think that... <span class="transcript-note">[crosstalk]</span>
 
 <span class="transcript-speaker">HF:</span> Who runs QAnon, do you think?
 
@@ -1363,23 +1361,23 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 3:02:25:</span> Have access to what?
 
-<span class="transcript-speaker">Unidentified:</span>  Access to your mom.
+<span class="transcript-speaker">Unidentified:</span> Access to your mom.
 
 <span class="transcript-speaker">Unidentified 2:</span> He said access to... I think, secret data.
 
 <span class="transcript-speaker">Monster, 3:02:35:</span> Oh yeah, secret data. Yeah. I don't know.
 
-<span class="transcript-speaker">Rauhauser:</span> But as we've seen herem just in the last day or week or month or through this year, nothing is really secret. Secrets have a dwell time, and then things are getting dumped in public.
+<span class="transcript-speaker">Rauhauser:</span> But as we've seen here just in the last day or week or month or through this year, nothing is really secret. Secrets have a dwell time, and then things are getting dumped in public.
 
-<span class="transcript-speaker">Monster, 3:02:57:</span> That's it. I mean, Epstein. I mean, that's some stuff. But I think that they're all right.
+<span class="transcript-speaker">Monster, 3:02:57:</span> That's it. I mean, [Epstein](https://en.wikipedia.org/wiki/Jeffrey_Epstein). I mean, that's some stuff. But I think that they're all right.
 
-<span class="transcript-speaker">NF:</span> Yeah Trump! Jean Carroll's lawsuit is going forward. He's gonna have to give his DNA in a cup. 
+<span class="transcript-speaker">NF:</span> Yeah Trump! [Jean Carroll's lawsuit](https://en.wikipedia.org/wiki/Donald_Trump_sexual_misconduct_allegations#E._Jean_Carroll_(1995_or_1996)) is going forward. He's gonna have to give his DNA in a cup. 
 
 <span class="transcript-speaker">Monster, 3:03:09:</span> Yeah, yeah. I'm totally driving "Literally a Nazi" crazy doing these private chats. This is pretty funny. Yeah, so I think that there's a lot of truth that's coming out. So what happens is, when you create this crazy period where people feel like they're about to lose everything, there's a saying when people lose everything... when they have nothing left to lose, they lose it.
 
 <span class="transcript-speaker">HF:</span> Oh are you talking about when the money launderers are gonna eventually crash crypto or no? Is that something else?
 
-<span class="transcript-speaker">Monster:</span> I'm not referring to that as much as people who do deathbed confessions. I mean there's a lot of stuff that's coming out now, and free speech platforms like Gab and Parler and BitChute and whatnot. CloutHub. More to come. And these sites basically are trafficking in truth, and of course you have to, like Reddit, like 4chan. You have to kind of shorten...
+<span class="transcript-speaker">Monster:</span> I'm not referring to that as much as people who do deathbed confessions. I mean there's a lot of stuff that's coming out now, and free speech platforms like [Gab](https://en.wikipedia.org/wiki/Gab_(social_network)) and [Parler](https://en.wikipedia.org/wiki/Parler) and [BitChute](https://en.wikipedia.org/wiki/BitChute) and whatnot. [CloutHub](https://www.latimes.com/california/story/2021-01-16/valley-secession-jeff-brain-clouthub-anti-twitter). More to come. And these sites basically are trafficking in truth, and of course you have to, like [Reddit](https://en.wikipedia.org/wiki/Reddit), like [4chan](https://en.wikipedia.org/wiki/4chan). You have to kind of shorten...
 
 <span class="transcript-speaker">HF:</span> Rob, some of these people are talking about killing my relatives. How do you want me to feel about that, man? That hits deep, bro.
 
@@ -1395,7 +1393,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Rauhauser:</span> And we... society-wise, the big picture society-wise, we have what's been labeled as "free speech absolutism". I think that there are problems there. There are issues there as far as jurisdiction, as far as what is acceptable behavior. I mean the internet has basically, of all the things that have been devalued by the Internet over the years, the value of a good punch in the mouth has really been taken away. Because there's a lot of things... even, you look at the people in this chat. There's things that they would just never, never say in person because it would quickly escalate to an etiquette lesson. This  is something that I've been puzzling over since... I don't know, for the last ten years or so. And having had so much trouble with with JoJo Camp in particular, and various people like him over the last decade, I'm at a loss for what we do as a society to correct problems like that without interdicting the natural right of free speech and without harming our economy in the process. I mean it's really a serious puzzle.
 
-<span class="transcript-speaker">Monster, 3:06:44:</span> Yeah. I think that there's a lot of broken processes, but guess what? We get to build it. The word on the street is, World Economic Forum wants to basically have the Great Reset. And as that Reset happens we get to decide what we build better too. On the one side of the duality you have a desire to... emerges a technocratic control grid, Orwellian stuff, universal basic income, nobody owns anything...
+<span class="transcript-speaker">Monster, 3:06:44:</span> Yeah. I think that there's a lot of broken processes, but guess what? We get to build it. The word on the street is, [World Economic Forum](https://en.wikipedia.org/wiki/World_Economic_Forum) wants to basically have the [Great Reset](https://en.wikipedia.org/wiki/Great_Reset).[^fn10] And as that Reset happens we get to decide what we build better too. On the one side of the duality you have a desire to... emerges a technocratic control grid,[^fn18] Orwellian stuff, [universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income), nobody owns anything...
 
 <span class="transcript-speaker">HF:</span> Whoa whoa whoa. How is universal basic income Orwellian?
 
@@ -1437,7 +1435,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">HF:</span> Well they allowed China for a while, but then the God people tried to take over everything, so China stamped down on the God people.
 
-<span class="transcript-speaker">Monster, 3:11:22:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "MLN": "Rob have you ever had a discussion with a wumao?"]</span> MLN said, "have you ever had a discussion with a wumao?" I have no idea what a wumao is. W-u-m-a-o, anybody know? Maybe MLN will say something. I don't know, I'll look it up.
+<span class="transcript-speaker">Monster, 3:11:22:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "MLN": "Rob have you ever had a discussion with a wumao?"]</span> MLN said, "have you ever had a discussion with a [wumao](https://en.wikipedia.org/wiki/50_Cent_Party)?" I have no idea what a wumao is. W-u-m-a-o, anybody know? Maybe MLN will say something. I don't know, I'll look it up.
 
 <span class="transcript-speaker">Rauhauser:</span> Well, wait a minute is that <i>the</i> MLN?
 
@@ -1451,7 +1449,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 3:12:00:</span> <span class="transcript-note">[reading from a webpage]</span> "Wumao are Chinese citizens paid to spread propaganda..." I didn't know that. That's very interesting. I'm not surprised...
 
-<span class="transcript-speaker">Hellbat:</span> Well, are you familiar with that fellow named Guo Wengui?
+<span class="transcript-speaker">Hellbat:</span> Well, are you familiar with that fellow named [Guo Wengui](https://en.wikipedia.org/wiki/Guo_Wengui)?
 
 <span class="transcript-speaker">Monster:</span> Yeah, yes.
 
@@ -1461,7 +1459,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Rauhauser:</span> Hold on, hold on. Someone just credited him as being a Chinese propagandist?
 
-<span class="transcript-speaker">C, 3:12:27:</span> He's anti-CCP.
+<span class="transcript-speaker">C, 3:12:27:</span> He's anti-[CCP](https://en.wikipedia.org/wiki/Chinese_Communist_Party).
 
 <span class="transcript-speaker">HF:</span> No, he's... he's...
 
@@ -1473,11 +1471,11 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster:</span> Got it, control government. Okay, good to know. It's not exactly the first time that play's been played. That's interesting.
 
-<span class="transcript-speaker">HF, 3:12:55:</span> Yeah, you want to know another thing that got played? Here's one for you, Rob. Have you ever heard of the company called Palantir?
+<span class="transcript-speaker">HF, 3:12:55:</span> Yeah, you want to know another thing that got played? Here's one for you, Rob. Have you ever heard of the company called [Palantir](https://en.wikipedia.org/wiki/Palantir_Technologies)?
 
 <span class="transcript-speaker">Monster:</span> Yeah, yeah. They're not a client, as far as I know. But I know them.
 
-<span class="transcript-speaker">HF, 3:13:09:</span> Yeah. Did you know that one of the founders like, beat and raped and tortured and completely mindfucked a young girl? 
+<span class="transcript-speaker">HF, 3:13:09:</span> Yeah. Did you know that one of the founders like, beat and raped and tortured and completely mindfucked a young girl?
 
 <span class="transcript-speaker">Rauhauser:</span> Well...
 
@@ -1501,7 +1499,6 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">C:</span> What you smoking on, Catgod?
 
-
 <span class="transcript-speaker">Catgod:</span> Got some A1 Yolo, got some Cherry Lime Rickey.
 
 <span class="transcript-speaker">Monster, 3:15:57:</span> That's funny.
@@ -1520,7 +1517,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">HF:</span> "Does Rob Monster have a Discord"? Is that what I heard?
 
-<span class="transcript-speaker">Monster:</span> I don't have a Discord. <span class="transcript-note">[crosstalk]</span> I do have a Telegram.
+<span class="transcript-speaker">Monster:</span> I don't have a [Discord](https://en.wikipedia.org/wiki/Discord_(software)). <span class="transcript-note">[crosstalk]</span> I do have a [Telegram](https://en.wikipedia.org/wiki/Telegram_(software)).
 
 <span class="transcript-speaker">Unidentified:</span> I just meant this video chat.
 
@@ -1528,9 +1525,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Rauhauser:</span> Yeah, I think this is a much better platform. This is really handy. Nothing invasive, just get in and talk. 
 
-<span class="transcript-speaker">C:</span> Yeah it's Jitsi. You ain't never heard of Jitsi, Neal?
+<span class="transcript-speaker">C:</span> Yeah it's [Jitsi](https://en.wikipedia.org/wiki/Jitsi). You ain't never heard of Jitsi, Neal?
 
-<span class="transcript-speaker">Monster, 3:18:12:</span> By the way, we self-host this. I encourage you to check it out. You can run Jitsi very easily on any Linux OS, but I would say also there's an app, so this doesn't work... this is an RTC relay so it doesn't work well on mobile phones. But you can install the Jitsi app on iOS or Android and it will work that way. Yeah so you can use it. So you don't need to basically be surveilled on Zoom and whatnot. This is a really good option, that's why we self-host this chat service.
+<span class="transcript-speaker">Monster, 3:18:12:</span> By the way, we self-host this. I encourage you to check it out. You can run Jitsi very easily on any Linux OS, but I would say also there's an app, so this doesn't work... this is an RTC relay so it doesn't work well on mobile phones. But you can install the Jitsi app on iOS or Android and it will work that way. Yeah so you can use it. So you don't need to basically be surveilled on [Zoom](https://en.wikipedia.org/wiki/Zoom_(software)) and whatnot. This is a really good option, that's why we self-host this chat service.
 
 <span class="transcript-speaker">HF:</span> Have they had security <span class="transcript-note">[unintelligible]</span> with the telephone app?
 
@@ -1542,7 +1539,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Rauhauser, 3:19:31:</span> Whoever wrote this scene, Hollywood's not gonna buy it.
 
-<span class="transcript-speaker">Monster, 3:19:32:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "..": "are you taking ivermectin rob ?"]</span> I got a question of if I'm taking Ivermectin. I'm not taking ivermectin.
+<span class="transcript-speaker">Monster, 3:19:32:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "..": "are you taking ivermectin rob ?"]</span> I got a question of if I'm taking [Ivermectin](https://en.wikipedia.org/wiki/Ivermectin). I'm not taking ivermectin.
 
 <span class="transcript-speaker">LH:</span> Ivermectin's mine.
 
@@ -1564,7 +1561,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">LH:</span> Can I buy your ivermectin?
 
-<span class="transcript-speaker">Monster, 3:20:18:</span> That's funny... <span class="transcript-note">[reading the chat. Full question in chat was from "cody": "DID U VACCINATE ROB?"]</span> "Did I vaccinate?" No, I didn't vaccinate, and I haven't taken any action(?) I do take zinc and NAC, and again, try to get out in the sun every day for at least a few minutes. And also I eat a lot of antioxidants. 
+<span class="transcript-speaker">Monster, 3:20:18:</span> That's funny... <span class="transcript-note">[reading the chat. Full question in chat was from "cody": "DID U VACCINATE ROB?"]</span> "Did I vaccinate?" No, I didn't vaccinate, and I haven't taken any action(?) I do take [zinc](https://www.covid19treatmentguidelines.nih.gov/therapies/supplements/zinc/) and [NAC](https://en.wikipedia.org/wiki/Acetylcysteine), and again, try to get out in the sun every day for at least a few minutes. And also I eat a lot of antioxidants. 
 
 <span class="transcript-speaker">LH:</span> Do you like bofa?
 
@@ -1590,7 +1587,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Kirtaner:</span> He might be me <span class="transcript-note">[laughs]</span>
 
-<span class="transcript-speaker">HF:</span> He's the hacker known as 4chan.
+<span class="transcript-speaker">HF:</span> He's the [hacker known as 4chan](https://knowyourmeme.com/memes/the-hacker-known-as-4chan).
 
 <span class="transcript-speaker">LA:</span> More or less.
 
@@ -1608,14 +1605,13 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster:</span> Say that again?
 
-
 <span class="transcript-speaker">Catgod:</span> You don't, you're not one of those fake churches where they say cats don't go to heaven, right?
 
 <span class="transcript-speaker">Monster:</span> I don't know where the pets go. <span class="transcript-note">[crosstalk]</span> I don't know where the cats go. I think God loves us enough that he'll probably allow us to have pets in eternity, but <span class="transcript-note">[crosstalk]</span> I don't think pets are eternal, I don't believe they are. Because God did make it so meat was available to people... <span class="transcript-note">[loud music]</span> ...vegetarian or vegan.
 
 <span class="transcript-speaker">L, 3:23:04:</span> You know how animals like going outside, if you have a pet cat inside, you how their instincts... it's who they are, they being outside? That's what happens. You can't... they might go to heaven if they are instinct or if they choose to for a time, but you're not going to be able to hold them down there. Unless they love you in which case they'll stay with you for a time. It's the same thing as it is down here. They'll stay with you for a time...
 
-<span class="transcript-speaker">HF:</span> I saw that movie. That was Pet Sematary, right?
+<span class="transcript-speaker">HF:</span> I saw that movie. That was [_Pet Sematary_](https://en.wikipedia.org/wiki/Pet_Sematary_(1989_film)), right?
 
 <span class="transcript-speaker">Rauhauser:</span>  ...if you let the cat into heaven, it will just paw at the door all day.
 
@@ -1625,7 +1621,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 3:23:50:</span> We have we have a new guest and we have a badass microphone. In the red sweatshirt. What's going on?
 
-<span class="transcript-speaker">John Jackson:</span> Hey what's up?
+<span class="transcript-speaker">[John Jackson](https://twitter.com/johnjhacking):</span> Hey what's up?
 
 <span class="transcript-speaker">Monster:</span> You got something to say?
 
@@ -1633,9 +1629,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified:</span> Oh my god.
 
-<span class="transcript-speaker">Kirtaner:</span> Hey that's my brother! That's my brother from another mother, John Jackson from Sakura Samurai. What is up!
+<span class="transcript-speaker">Kirtaner:</span> Hey that's my brother! That's my brother from another mother, John Jackson from [Sakura Samurai](https://en.wikipedia.org/wiki/Sakura_Samurai_(hacker_group)). What is up!
 
-<span class="transcript-speaker">Monster, 3:24:12:</span> It is John! It is John. <span class="transcript-note">[crosstalk]</span> There you go, he's back. So earlier John Matze was not an imposter. This is the real John Matze. 
+<span class="transcript-speaker">Monster, 3:24:12:</span> It is John! It is John. <span class="transcript-note">[crosstalk]</span> There you go, he's back. So earlier [John Matze](https://en.wikipedia.org/wiki/Parler#Company) was not an imposter. This is the real John Matze. 
 
 <span class="transcript-speaker">Unidentified:</span> That's not John Matze.
 
@@ -1701,7 +1697,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified:</span> Welcome to the 21st century, man.
 
-<span class="transcript-speaker">Monster, 3:27:35:</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "q": "i wonder if rob is verified on pornhub"]</span> I promise you I don't go to PornHub.
+<span class="transcript-speaker">Monster, 3:27:35:</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "q": "i wonder if rob is verified on pornhub"]</span> I promise you I don't go to [Pornhub](https://en.wikipedia.org/wiki/Pornhub).
 
 <span class="transcript-speaker">Jackson:</span> Oh I do. A lot. <span class="transcript-note">[crosstalk, unintelligible]</span>
 
@@ -1733,7 +1729,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 3:29:53:</span> Makes sense. I do think that the marriage bit is undefiled, and I don't believe the angels or demons get a peek at what goes on in the marriage bedroom behind closed doors. That I think is biblical.
 
-<span class="transcript-speaker">L:</span> "Treat your neighbor as yourself"
+<span class="transcript-speaker">L:</span> "Treat your neighbor as yourself".
 
 <span class="transcript-speaker">Monster:</span> Yeah. Because you know what, it'd be kind of creepy if you basically had to hang out with people in eternity that were like, "yeah I saw you and your wife". That seems really classless.
 
@@ -1753,9 +1749,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Jackson:</span> I know. I fathered a ton of children in the Philippines.
 
-<span class="transcript-speaker">Monster, 3:31:18:</span> There you go. That's really honorable. By the way, we acquired... two weeks ago, we acquired the domain name orphans.com, and we're gonna build a site for funding orphans. It's gonna be fintech for orphans. So, fixing the problem of how do you get funding to all these orphans. <span class="transcript-note">[crosstalk]</span> ... you can connect with people that are part of your virtual family, so you can be a source of encouragement to these kids who have lost their parents. So I'm excited about that project. Anybody who's really passionate about that topic, we're probably going to be hiring some people for that project.
+<span class="transcript-speaker">Monster, 3:31:18:</span> There you go. That's really honorable. By the way, we acquired... two weeks ago, we acquired the domain name orphans.com, and we're gonna build a site for funding orphans. It's gonna be [fintech](https://en.wikipedia.org/wiki/Financial_technology) for orphans. So, fixing the problem of how do you get funding to all these orphans. <span class="transcript-note">[crosstalk]</span> ... you can connect with people that are part of your virtual family, so you can be a source of encouragement to these kids who have lost their parents. So I'm excited about that project. Anybody who's really passionate about that topic, we're probably going to be hiring some people for that project.
 
-<span class="transcript-speaker">Monster, 3:32:00:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob do you think the rapture will happen?"]</span> "Rob, do you think the rapture will happen?" Yeah I think it does. I don't know. <span class="transcript-note">[reading the chat. Full question in chat was from "liken": "flat earth? psyop. round earth? psyop."]</span> Flat earth, round earth, tough call.
+<span class="transcript-speaker">Monster, 3:32:00:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Hellbat": "Rob do you think the rapture will happen?"]</span> "Rob, do you think the [rapture](https://en.wikipedia.org/wiki/Rapture) will happen?" Yeah I think it does. I don't know. <span class="transcript-note">[reading the chat. Full question in chat was from "liken": "flat earth? psyop. round earth? psyop."]</span> [Flat earth](https://en.wikipedia.org/wiki/Modern_flat_Earth_beliefs), round earth, tough call.
 
 <span class="transcript-speaker">Unidentified:</span> Willl the rapture happen in the next 30 years?
 
@@ -1763,7 +1759,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Jackson:</span> Just make sure you hire a cybersecurity team. That would make sense...
 
-<span class="transcript-speaker">L:</span> Hold on hold on. I just want to say, because everyone always has an answer for this. It is plainly written: no. one. knows. but. the. father. So, every single solitary person in the history of the earth, I don't care who you are, <span class="transcript-note">[crosstalk]</span>
+<span class="transcript-speaker">L:</span> Hold on hold on. I just want to say, because everyone always has an answer for this. It is plainly written: no. one. knows. but. the. Father. So, every single solitary person in the history of the earth, I don't care who you are, <span class="transcript-note">[crosstalk]</span>
 
 <span class="transcript-speaker">HF:</span> <span class="transcript-note">[crosstalk, unintelligible]</span> hear me out? <span class="transcript-note">[crosstalk]</span> The problem with people like you is <span class="transcript-note">[crosstalk]</span> ...
 
@@ -1773,7 +1769,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">L:</span> No one should... <span class="transcript-note">[crosstalk]</span> It's also written in Revelation, I think. I forgot if it was Revelation or not. But it's written in the New Testament: no one should want that day. I think that lying about it contributes to the hell that's happening... <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">HF:</span> Why are accelerationists trying to push us towards that day?
+<span class="transcript-speaker">HF:</span> Why are [accelerationists](https://en.wikipedia.org/wiki/Accelerationism) trying to push us towards that day?
 
 <span class="transcript-speaker">L, 3:33:07:</span> There's no such thing as the acceleration. Instead, it slows us down. It's a trap.
 
@@ -1781,19 +1777,19 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Monster, 3:33:18:</span> I mean, God is on the throne, and so if you subscribe to the notion that God controls the duality of good and evil, even the guys who are basically free-will actors, to a certain extent, their steps are directed. You know, like Pharaoh... with the story of the Ten Plagues, it says that God can induce harm(?). So he had to basically endure ten plagues, including losing his son, as all the boys of the Pharaoh's kingdom perished, but God had to harden his heart. Because what rational person basically endures plague after plague of their free will? At some point you'd be like, "okay, enough! I've seen enough supernatural stuff, I'm going to back down". But that's not what happened. That's pretty wild. <span class="transcript-note">[crosstalk]</span> 
+<span class="transcript-speaker">Monster, 3:33:18:</span> I mean, God is on the throne, and so if you subscribe to the notion that God controls the duality of good and evil, even the guys who are basically free-will actors, to a certain extent, their steps are directed. You know, like [Pharaoh](https://en.wikipedia.org/wiki/Pharaohs_in_the_Bible)... with the story of the [Ten Plagues](https://en.wikipedia.org/wiki/Plagues_of_Egypt), it says that God can induce harm(?). So he had to basically endure ten plagues, including losing his son, as all the boys of the Pharaoh's kingdom perished, but God had to harden his heart. Because what rational person basically endures plague after plague of their free will? At some point you'd be like, "okay, enough! I've seen enough supernatural stuff, I'm going to back down". But that's not what happened. That's pretty wild. <span class="transcript-note">[crosstalk]</span> 
 
-<span class="transcript-speaker">HF, 3:34:05:</span> <span class="transcript-note">[crosstalk]</span> duality, Rob. Do you know why duality came about? It actually has to do with accounting. The reason duality came about was actually slightly through Zorostrianism...
+<span class="transcript-speaker">HF, 3:34:05:</span> <span class="transcript-note">[crosstalk]</span> duality, Rob. Do you know why duality came about? It actually has to do with accounting. The reason duality came about was actually slightly through [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)...
 
 <span class="transcript-speaker">Kirtaner:</span> <span class="transcript-note">[laughing]</span>
 
-<span class="transcript-speaker">HF:</span> ...with debits and credits. And that debit and credit system, that duality, that something's either positive or negative, was transferred into religion. Prior to that, humanity was all polytheistic. But after accounting came around, and that affected religion, that's where duality came from in a religious aspect. If you do a comparative study of religions throughout history, you have to go back to the Hittites and the Sumerians and blah blah blah. Like farther back than Jesus and all that.
+<span class="transcript-speaker">HF:</span> ...with debits and credits. And that debit and credit system, that duality, that something's either positive or negative, was transferred into religion. Prior to that, humanity was all polytheistic. But after accounting came around, and that affected religion, that's where duality came from in a religious aspect. If you do a comparative study of religions throughout history, you have to go back to the [Hittites](https://en.wikipedia.org/wiki/Hittites) and the [Sumerians](https://en.wikipedia.org/wiki/Sumerian_religion) and blah blah blah. Like farther back than Jesus and all that.
 
 <span class="transcript-speaker">Monster, 3:35:03:</span> Yeah.
 
 <span class="transcript-speaker">HF:</span> Yeah, actually the whole duality of...
 
-Unidentified (computer-generated voice): This is boring, I'm going to bed.
+<span class="transcript-speaker">Unidentified (computer-generated voice):</span> This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster:</span> Goodnight.
 
@@ -1803,9 +1799,9 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster, 3:35:20:</span> That's funny. Gosh. So... looks like... 
 
-<span class="transcript-speaker">Jackson:</span> I use Arch by the way. Just so everyone on this call knows, I use Arch Linux.
+<span class="transcript-speaker">Jackson:</span> I use Arch by the way. Just so everyone on this call knows, I use [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux).
 
-<span class="transcript-speaker">HF:</span> <span class="transcript-note">[crosstalk]</span> Is there a BlackArch?
+<span class="transcript-speaker">HF:</span> <span class="transcript-note">[crosstalk]</span> Is there a [BlackArch](https://blackarch.org/)?
 
 <span class="transcript-note">[crosstalk]</span>
 
@@ -1819,7 +1815,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Kirtaner:</span> Yes! I too use ArchLinux and I need to tell everyone. That's <span class="transcript-note">[laughing, unintelligible]</span> 
 
-<span class="transcript-speaker">Unidentified:</span> It's just like saying you're a fan of anarchosyndicalism because you like Noam Chomsky or something.
+<span class="transcript-speaker">Unidentified:</span> It's just like saying you're a fan of [anarcho-syndicalism](https://en.wikipedia.org/wiki/Anarcho-syndicalism) because you like [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky) or something.
 
 <span class="transcript-speaker">Unidentified:</span> I just like narcotics, bro. 
 
@@ -1845,17 +1841,17 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">L:</span> You know what's really good for the economy? Honest business practices.
 
-<span class="transcript-speaker">Monster, 3:37:09:</span> Yeah. I think there's too much much control grid stuff coming. But God's on the throne, it all works out. But it's not fun...
+<span class="transcript-speaker">Monster, 3:37:09:</span> Yeah. I think there's too much much control grid[^fn18] stuff coming. But God's on the throne, it all works out. But it's not fun...
 
 <span class="transcript-speaker">Unidentified:</span> Corporations suck.
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[crosstalk, unintelligible]</span> ...NFT good for the economy
+<span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[crosstalk, unintelligible]</span> ...[NFT](https://en.wikipedia.org/wiki/Non-fungible_token) good for the economy
 
 <span class="transcript-speaker">Unidentified:</span> Do you know another thing that's good for the economy? Porn.
 
-<span class="transcript-speaker">HF:</span> Here's the problem with porn though... <span class="transcript-note">[crosstalk, unintelligible]</span> ... and you have a lot of, well, obviously child pornography. Like that guy from the GOP, what was his name? Verastigui? Who actually worked in the Trump White House, and got caught in chats talking about wanting to rape babies.
+<span class="transcript-speaker">HF:</span> Here's the problem with porn though... <span class="transcript-note">[crosstalk, unintelligible]</span> ... and you have a lot of, well, obviously child pornography. Like that guy from the GOP, what was his name? [Verastigui](https://www.politico.com/news/2021/07/09/former-hill-aide-pleads-guilty-child-porn-498937)? Who actually worked in the Trump White House, and got caught in chats talking about wanting to rape babies.
 
 <span class="transcript-speaker">Monster, 3:38:00:</span> Yeah, I think there's a lot of evil depravity out there and a lot of it's being exposed. The independent media is holding a bunch of people accountable, and that's one of the side effects that is in some ways causing some people to kind of adjust course. You just hope that they can adjust course before their stuff gets exposed. And I think God's merciful, up to a point, but then God chases those He loves. So if you have a long history of making stupid choices, eventually that will come up and bite you in the butt. 
 
@@ -1867,7 +1863,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster, 3:38:54:</span> There was a time when, before Epik became more wildly successful, there was a time actually during the time of COVID when a lot of businesses were shutting down, and you couldn't actually borrow any money very easily. And so we had refinanced the house and I used the proceeds of the refinance of the house to keep everybody fully employed at Epik. And that at the time was slightly awkward <span class="transcript-note">[unintelligible]</span> but it all worked out, and we're better off for it.
 
-<span class="transcript-speaker">HF, 3:39:38:</span> You know Rob, if you had universal basic income you wouldn't have had to have done that. 
+<span class="transcript-speaker">HF, 3:39:38:</span> You know Rob, if you had [universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) you wouldn't have had to have done that. 
 
 <span class="transcript-speaker">Monster:</span> No, no, you're wrong.
 
@@ -1875,7 +1871,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified:</span> Inflation would go up <span class="transcript-note">[feedback]</span>
 
-<span class="transcript-speaker">Monster:</span> I'll tell you what's really interesting that's coming down, which is, I do think that this whole non-fungible token stuff is super interesting.
+<span class="transcript-speaker">Monster:</span> I'll tell you what's really interesting that's coming down, which is, I do think that this whole [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible_token) stuff is super interesting.
 
 <span class="transcript-note">[Thalen's recording ends]</span>
 
@@ -1883,11 +1879,11 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified:</span> Those would be regulated.
 
-<span class="transcript-speaker">Monster:</span> Yeah, I know, but you can do Reg. S, Reg. D compliant security token offerings and do it at scale. So imagine a world where you have people who can legally participate in multi-stakeholder governance of an enterprise, and we wouldn't <span class="transcript-note">[unintelligible]</span> to be able to participate. I think that's coming.
+<span class="transcript-speaker">Monster:</span> Yeah, I know, but you can do Reg. S, Reg. D compliant security token offerings and do it at scale. So imagine a world where you have people who can legally participate in [multistakeholder governance](https://en.wikipedia.org/wiki/Multistakeholder_governance) of an enterprise, and we wouldn't <span class="transcript-note">[unintelligible]</span> to be able to participate. I think that's coming.
 
-<span class="transcript-speaker">Unidentified:</span> Oh, a DAO. You mean DAOs.
+<span class="transcript-speaker">Unidentified:</span> Oh, a [DAO](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization). You mean DAOs.
 
-<span class="transcript-speaker">Monster:</span> Yep. Smart contracts, I think that that's coming. And I think it can be done in a legal way. We've hired a bunch of people to go work on this Fraktion project, f-r-a-k-t-i-o-n.
+<span class="transcript-speaker">Monster:</span> Yep. [Smart contracts](https://en.wikipedia.org/wiki/Smart_contract), I think that that's coming. And I think it can be done in a legal way. We've hired a bunch of people to go work on this Fraktion project, f-r-a-k-t-i-o-n.
 
 <span class="transcript-speaker">HF:</span> How's the security of that project? How's the security of that project? Like, if the security of that project isn't 100%, then at every possible chance that contract's going to be altered, right? So, how do you verify that it's 100% secure? Because as I think we've all learned recently, nothing's 100% secure.
 
@@ -1929,7 +1925,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified:</span> Facts.
 
-<span class="transcript-speaker">Monster:</span> <span class="transcript-note">[reading the chat, not visible]</span> Hellbat wants to know, <span class="transcript-note">[crosstalk]</span> what do I know about gematria. Do you guys know about gematria? It's kind of interesting.
+<span class="transcript-speaker">Monster:</span> <span class="transcript-note">[reading the chat, not visible]</span> Hellbat wants to know, <span class="transcript-note">[crosstalk]</span> what do I know about [gematria](https://en.wikipedia.org/wiki/Gematria). Do you guys know about gematria? It's kind of interesting.
 
 <span class="transcript-speaker">Unidentified:</span> Amphetamines are just the natural way to go, you know?
 
@@ -1957,11 +1953,11 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified:</span> Is this fucking idiot still rambling on about nothing? When is he going to apologize for getting everyone's data leaked with his shit opsec? His fucking stupid company. He can't even keep his own stream from getting hacked like five times in front of my face right here. What a fucking loser. <span class="transcript-note">[seems to be hearing Monster speaking; in the recording I have, this unidentified person is the only audio for this portion]</span> Yo, I'll go easy on your asshole. <span class="transcript-note">[pause]</span> Shut the fuck up old man. You should be bending over for everyone in this call right now, and begging forgiveness. <span class="transcript-note">[long pause]</span> There's a lot less than you knew, I think. Otherwise you would've been able to prevent this. You would've fucking hired someone who knew how to code.
 
-<span class="transcript-speaker">L:</span> Hasn't even Experian been hacked? Isn't that one of the big three major credit card companies? Don't they have the money? What kind of standards are you applying to this man and why are you choosing it on him instead of everyone else? What the hell is this stick up your ass? <span class="transcript-note">[apparently hearing someone else]</span> Oh but no, you don't want to talk to me. You want to talk to people who aren't good at replying back. <span class="transcript-note">[pause]</span> What about your sins? <span class="transcript-note">[long pause]</span>
+<span class="transcript-speaker">L:</span> Hasn't even [Experian](https://en.wikipedia.org/wiki/Experian) been hacked? Isn't that one of the big three major credit card companies? Don't they have the money? What kind of standards are you applying to this man and why are you choosing it on him instead of everyone else? What the hell is this stick up your ass? <span class="transcript-note">[apparently hearing someone else]</span> Oh but no, you don't want to talk to me. You want to talk to people who aren't good at replying back. <span class="transcript-note">[pause]</span> What about your sins? <span class="transcript-note">[long pause]</span>
 
 <span class="transcript-note">[audio resumes properly]</span>
 
-<span class="transcript-speaker">Monster:</span> ...we have most of our hosting capacity in physical infrastructure that we no longer... yeah, you know... AWS doesn't host Epik.com. Maybe a DNS node. <span class="transcript-note">[unintelligible]</span> We are not using them as the primary host. We do run anycast DNS. Gosh guys. What else? Thursday night, man. What are you guys doing on Friday?
+<span class="transcript-speaker">Monster:</span> ...we have most of our hosting capacity in physical infrastructure that we no longer... yeah, you know... [AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services) doesn't host Epik.com. Maybe a [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) node. <span class="transcript-note">[unintelligible]</span> We are not using them as the primary host. We do run [anycast](https://en.wikipedia.org/wiki/Anycast) DNS. Gosh guys. What else? Thursday night, man. What are you guys doing on Friday?
 
 <span class="transcript-speaker">Unidentified:</span> Hacking.
 
@@ -1971,7 +1967,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Kirtaner:</span> Maybe do a show with Gregg Housh if he feels up to it. He was talking to your <span class="transcript-note">[connection issue]</span>
+<span class="transcript-speaker">Kirtaner:</span> Maybe do a [show](https://twitter.com/gregghoushshow?lang=en) with [Gregg Housh](https://twitter.com/gregghoush) if he feels up to it. He was talking to your <span class="transcript-note">[connection issue]</span>
 
 <span class="transcript-speaker">HF:</span> How is Housh, I haven't seen him...
 
@@ -1993,7 +1989,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster:</span> I don't know.
 
-<span class="transcript-speaker">Unidentified:</span> I love that game. Such a good game.
+<span class="transcript-speaker">Unidentified:</span> I love [that game](https://en.wikipedia.org/wiki/Among_Us). Such a good game.
 
 <span class="transcript-speaker">Unidentified:</span> Was that a reference to the game? I'm sitting here and I cringed for half a second and then I'm "wait, is he referencing the game or is he just being like, literary?"
 
@@ -2001,7 +1997,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster:</span> I'm embarrassed to say I don't know who he is.
 
-<span class="transcript-speaker">Kirtaner:</span> Okay, Gregg Housh is another former member of Anonymous who brought it to public prominence with Project Chanology, the Church of Scientology protests, in 2008. He's a good friend of mine, and he has a Twitch show. A Twitch video podcast. And I'm a regular host on Friday nights with him. And I'm sure he would love to have you on. It would be, we would be nice. We would be nice to you. Fair warning.
+<span class="transcript-speaker">Kirtaner:</span> Okay, Gregg Housh is another former member of Anonymous who brought it to public prominence with [Project Chanology](https://en.wikipedia.org/wiki/Project_Chanology), the Church of Scientology protests, in 2008. He's a good friend of mine, and he has a Twitch show. A Twitch video podcast. And I'm a regular host on Friday nights with him. And I'm sure he would love to have you on. It would be, we would be nice. We would be nice to you. Fair warning.
 
 <span class="transcript-speaker">Monster:</span> Alright, drop me a note and we'll figure it out.
 
@@ -2013,7 +2009,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">HF:</span> Send him my love, I hope he's doing okay.
 
-<span class="transcript-speaker">Monster:</span> So. Fun times guys! I was still hoping Chad would show up. Chad Loder. He was... he lit this flame. So I figured he would show up, but he doesn't seem to want to show up. Anyone know Chad?
+<span class="transcript-speaker">Monster:</span> So. Fun times guys! I was still hoping [Chad](https://twitter.com/chadloder) would show up. Chad Loder. He was... he lit this flame. So I figured he would show up, but he doesn't seem to want to show up. Anyone know Chad?
 
 <span class="transcript-speaker">HF:</span> I mean, I know of Chad. Chad's pretty well respected in the cybersecurity community.
 
@@ -2031,7 +2027,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster:</span> So anyway, the site that offends you is offline. So if you missed it, heads up.
 
-<span class="transcript-speaker">LH:</span> There's a few hundred others
+<span class="transcript-speaker">LH:</span> There's a few hundred others...
 
 <span class="transcript-speaker">Monster:</span> Yep.
 
@@ -2039,7 +2035,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Kirtaner:</span> Those are not questions for me, I haven't gone really spelunking through the data yet. I just have a high level overview of what is in it.
 
-<span class="transcript-speaker">Monster:</span> Yep. Yeah, so we do have a good abuse department, and they are pretty close to 24/7, so if you see something that is overtly troublesome... take a screenshot. We don't really like to click your links. Take a screenshot, include the link. We actually are developing a software, we've gotten so practiced at dealing with abuse, that we're actually developing a software! We actually have almost finished it, and it will be launched as a multi-tenant software than anybody could then use as like software as a service. Kind of like Zendesk or abuse management. Written by lawyers and technologists so you can kind of follow protocol on abuse ticket management. So we think that might be useful.
+<span class="transcript-speaker">Monster:</span> Yep. Yeah, so we do have a good abuse department, and they are pretty close to 24/7, so if you see something that is overtly troublesome... take a screenshot. We don't really like to click your links. Take a screenshot, include the link. We actually are developing a software, we've gotten so practiced at dealing with abuse, that we're actually developing a software! We actually have almost finished it, and it will be launched as a multi-tenant software than anybody could then use as like software as a service. Kind of like [Zendesk](https://en.wikipedia.org/wiki/Zendesk) for abuse management. Written by lawyers and technologists so you can kind of follow protocol on abuse ticket management. So we think that might be useful.
 
 <span class="transcript-speaker">HF:</span> Is there anything worse than programmers or lawyers, Rob?
 
@@ -2047,7 +2043,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[laughing]</span> Everyone tries to avoid lawyers, chief.
 
-<span class="transcript-speaker">Jackson:</span> The lawyers did the SDLC lifecycle, right? They got it all secure? Is that what happened? Or did you actually hire cybersecurity professionals to audit the software? Or can we just expect an underflow or an overflow or something, and you know, RCE on the servers.
+<span class="transcript-speaker">Jackson:</span> The lawyers did the [SDLC lifecycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle), right? They got it all secure? Is that what happened? Or did you actually hire cybersecurity professionals to audit the software? Or can we just expect an [underflow](https://en.wikipedia.org/wiki/Arithmetic_underflow) or an [overflow](https://en.wikipedia.org/wiki/Integer_overflow) or something, and you know, [RCE](https://en.wikipedia.org/wiki/Arbitrary_code_execution) on the servers.
 
 <span class="transcript-speaker">Monster:</span> I didn't catch that. I don't understand the question.
 
@@ -2063,7 +2059,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster:</span> So you missed it earlier...
 
-<span class="transcript-speaker">Unidentified:</span> They're on the waterfall, John.
+<span class="transcript-speaker">Unidentified:</span> They're on the [waterfall](https://en.wikipedia.org/wiki/Waterfall_model), John.
 
 <span class="transcript-speaker">Monster:</span> Earlier in the call we were talking about, you know, the legacy of the Russian dev team and <span class="transcript-note">[crosstalk]</span>
 
@@ -2079,7 +2075,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster:</span> For those of you who want to do a deep dive on tech, I have really talented guys that I'll be happy to do a breakout session with. I think they'll be fascinating. So if you have an interest in doing...
 
-<span class="transcript-speaker">Jackson:</span> Open-source your stack, Rob.
+<span class="transcript-speaker">Jackson:</span> [Open-source](https://en.wikipedia.org/wiki/Open_source) your stack, Rob.
 
 <span class="transcript-speaker">Monster:</span> Some of it has been open-sourced... not all of it.
 
@@ -2097,9 +2093,9 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster:</span> I did!
 
-<span class="transcript-speaker">HF:</span> You should put up a bug bounty program.
+<span class="transcript-speaker">HF:</span> You should put up a [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program).
 
-<span class="transcript-speaker">Monster:</span> I'm there! We already have a bug bounty programs. So if you find stuff that's weakly executed...
+<span class="transcript-speaker">Monster:</span> I'm there! We already have a bug bounty program. So if you find stuff that's weakly executed...
 
 <span class="transcript-speaker">Jackson:</span> ...what?
 
@@ -2119,7 +2115,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Monster:</span> I'm telling you! We've just hired and assembled a team. A crack team from South Africa. 
 
-<span class="transcript-speaker">Jackson?:</span> From South Africa?? You guys are gonna get popped again! Their government just got fucking ransomwared!
+<span class="transcript-speaker">Jackson?:</span> From South Africa?? You guys are gonna get popped again! [Their government just got fucking ransomwared](https://www.bleepingcomputer.com/news/security/ransomware-encrypts-south-africas-entire-dept-of-justice-network/)!
 
 <span class="transcript-note">[crosstalk]</span>
 
@@ -2149,7 +2145,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified:</span> Nothing can be completely secure.
 
-<span class="transcript-speaker">Rauhauser:</span> Focus this on technology. The real issue here, the real issue here
+<span class="transcript-speaker">Rauhauser:</span> Focus this on technology. The real issue here, the real issue here...
 
 <span class="transcript-note">[crosstalk]</span>
 
@@ -2163,7 +2159,7 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 
 <span class="transcript-speaker">Unidentified:</span> Wring your hands more, you fucking limp-wristed f*****. <span class="transcript-note">[crosstalk]</span> You don't even own anything, shut the fuck up.
 
-<span class="transcript-speaker">L?:</span> The worst thing is that even if you code something perfectly, there's an environmental risk to <span class="transcript-note">[unintelligible]</span>. The environmental risk is radioactivity. A single particle from radiation from the outer space can flip a 0 to a 1. It's happened...
+<span class="transcript-speaker">L?:</span> The worst thing is that even if you code something perfectly, there's an environmental risk to <span class="transcript-note">[unintelligible]</span>. The environmental risk is radioactivity. [A single particle from radiation from the outer space can flip a 0 to a 1](https://en.wikipedia.org/wiki/Soft_error). It's happened...
 
 <span class="transcript-note">[Jitsi drops]</span>
 
@@ -2185,3 +2181,5 @@ Unidentified (computer-generated voice): This is boring, I'm going to bed.
 [^fn14]: This is likely a reference to [LegitScript's](https://en.wikipedia.org/wiki/LegitScript) 2017 [report](https://www.legitscript.com/blog/2017/03/us-registrar-epik-plays-dangerous-game/) about Epik's services to sites selling controlled substances without prescription.
 [^fn15]: The first mainstream news report about Anonymous, published in 2007, described the group as an "Internet hate machine". ([Anonymous (hacker group)](https://en.wikipedia.org/w/index.php?title=Anonymous_(hacker_group)&oldid=1045694224). Wikipedia, September 21, 2021.)
 [^fn16]: Kirtaner is referring to [a security incident in 2020](https://en.wikipedia.org/wiki/Parler#Security) when he was able to use his verified status on Parler to pretend to be another high profile individual. ([Parler](https://en.wikipedia.org/w/index.php?title=Parler&oldid=1045701754). Wikipedia, September 21, 2021.)
+[^fn17]: See the [Wikimedia Foundation's benefactors](https://wikimediafoundation.org/support/benefactors), and information on the relationship between [Google and Wikipedia](https://en.wikipedia.org/wiki/Google_and_Wikipedia).
+[^fn18]: "Technocratic control grid" refers to an aspect of the [Great Reset conspiracy theory](https://www.adl.org/blog/the-great-reset-conspiracy-flourishes-amid-continued-pandemic).
