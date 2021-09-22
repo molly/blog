@@ -10,7 +10,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <div class="note">
 <p>This is a transcript of a portion of the live Q&A session held by <a href="https://en.wikipedia.org/wiki/Epik_(company)">Epik</a> CEO <a href="https://en.wikipedia.org/wiki/Rob_Monster">Rob Monster</a> on September 16, 2021. Most of it is available on <a href="https://www.youtube.com/watch?v=aZ9MFts28XI">YouTube</a>, where it was published by <a href="ttps://twitter.com/MikaelThalen">Mikael Thalen</a>. I have also made a <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">plaintext</a> copy available.</p>
 
-<p><b>I have finished transcribing what is available in Thalen's recording on YouTube. The remaining missing portion at the end is in progress, as is enriching the transcript with informational links (mostly to Wikipedia) where I think additional context may be useful.</b></p>
+<p><b>I have finished transcribing what is available in Thalen's recording on YouTube. The remaining missing portion at the end is in progress.</b></p>
 
 <details>
 <summary>Transcription and copyright details</summary>
