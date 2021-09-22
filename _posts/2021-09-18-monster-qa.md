@@ -1629,7 +1629,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified:</span> Oh my god.
 
-<span class="transcript-speaker">Kirtaner:</span> Hey that's my brother! That's my brother from another mother, John Jackson from [Sakura Samurai](https://en.wikipedia.org/wiki/Sakura_Samurai_(hacker_group)). What is up!
+<span class="transcript-speaker">Kirtaner:</span> Hey that's my brother! That's my brother from another mother, [John Jackson](https://twitter.com/johnjhacking) from [Sakura Samurai](https://en.wikipedia.org/wiki/Sakura_Samurai_(hacker_group)). What is up!
 
 <span class="transcript-speaker">Monster, 3:24:12:</span> It is John! It is John. <span class="transcript-note">[crosstalk]</span> There you go, he's back. So earlier [John Matze](https://en.wikipedia.org/wiki/Parler#Company) was not an imposter. This is the real John Matze. 
 
