@@ -13,9 +13,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <p>I have also made a <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">plaintext</a> copy available.</p>
 <details>
 <summary>Transcription and copyright details</summary>
-<p>The transcript has only been edited for readability (e.g., to remove filler words which do not change meaning) and to remove some of weev's comments (all removals marked inline) which I have no interest in reprinting on my own website. Where relevant, comments from the live chat section have been transcribed for context.</p>
+<p>The transcript has only been edited for readability (e.g., to remove filler words which do not change meaning) and to remove some of weev's comments (all removals marked inline) which I have no interest in reprinting on my own website. Where relevant and possible, comments from the live chat section have been transcribed for context.</p>
 
-All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Source cpyright details are available at the YouTube and SoundCloud links.
+All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Source copyright details are available at the YouTube and SoundCloud links.
 </details>
 </div>
 
