@@ -1941,7 +1941,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, SC2:39:57:</span> Somebody really doesn't want us talking about stuff.
 
-<span class="transcript-speaker">Kirtaner:</span> <span class="transcript-note">[Uninitelligible]</span> demons!
+<span class="transcript-speaker">Kirtaner:</span> <span class="transcript-note">[Unintelligible]</span> demons!
 
 <span class="transcript-speaker">Monster:</span> Demons. Angel of protection. Heavenly Father.
 
@@ -2017,11 +2017,11 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">High Fidelity:</span> Get a really big needle.
 
-<span class="transcript-speaker">Monster, SC2:44:10:</span> No, I think body, soul, spirit, all works, all possessions. You place it at the Lord's feet. If He allows you to be a steward of the things that you have, in order to be able to empower other people to realize their calling, I think that that's an acceptable thing. I don't think that God necessarily expects His people to be, to have poverty. But I will say, when Jesus told His disciples to carry neither scrip nor purse, He understood what it mean to walk with an abundant mindset, and I often say: God's grace is efficient and His logistics are perfect. And some people here might mock me about God's logistics being perfect, but I've found that to be true. The same God that fed the Israelites for forty years, six days a week, with a double portion on Fridays, is the same God who rules and reigns today.
+<span class="transcript-speaker">Monster, SC2:44:10:</span> No, I think body, soul, spirit, all works, all possessions. You place it at the Lord's feet. If He allows you to be a steward of the things that you have, in order to be able to empower other people to realize their calling, I think that that's an acceptable thing. I don't think that God necessarily expects His people to be, to have poverty. But I will say, when Jesus told His disciples to carry neither scrip nor purse, He understood what it meant to walk with an abundant mindset, and I often say: God's grace is efficient and His logistics are perfect. And some people here might mock me about God's logistics being perfect, but I've found that to be true. The same God that fed the Israelites for forty years, six days a week, with a double portion on Fridays, is the same God who rules and reigns today.
 
 <span class="transcript-speaker">Unidentified:</span> God is all.
 
-<span class="transcript-speaker">Monster, SC2:45:20:</span> There's is a crazy book, it's called _Jacob's Pillar_, it's by a guy named E. Raymond Capt, who died at the age of 93. It's a fascinating book. It talks about this thing, you might have heard of it, the [Stone of Scone](https://en.wikipedia.org/wiki/Stone_of_Scone). The Stone of Scone that sits underneath the coronation throne in England. And it just traces the history of the stone. So this is kind of a fascinating chart...
+<span class="transcript-speaker">Monster, SC2:45:20:</span> There is a crazy book, it's called _Jacob's Pillar_, it's by a guy named E. Raymond Capt, who died at the age of 93. It's a fascinating book. It talks about this thing, you might have heard of it, the [Stone of Scone](https://en.wikipedia.org/wiki/Stone_of_Scone). The Stone of Scone that sits underneath the coronation throne in England. And it just traces the history of the stone. So this is kind of a fascinating chart...
 
 <span class="transcript-speaker">Unidentified:</span> I love scones. They taste so good.
 
