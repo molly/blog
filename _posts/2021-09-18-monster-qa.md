@@ -8,7 +8,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 ---
 
 <div class="note">
-<p>This is a transcript of a portion of the live Q&A session held by <a href="https://en.wikipedia.org/wiki/Epik_(company)">Epik</a> CEO <a href="https://en.wikipedia.org/wiki/Rob_Monster">Rob Monster</a> on September 16, 2021. It is compiled from a <a href="https://www.youtube.com/watch?v=aZ9MFts28XI">YouTube</a> recording, where it was published by <a href="ttps://twitter.com/MikaelThalen">Mikael Thalen</a>, as well as from a [Soundcloud](https://soundcloud.com/user-197465089-37602075/rob-monster-ceo-of-epik-discussing-hack-by-anonymous) recording published by "EpikFail". Timestamps from the two recordings are not in sync, so those referring to YouTube are marked with "YT" and those from SoundCloud are "SC".
+<p>This is a transcript of a portion of the live Q&A session held by <a href="https://en.wikipedia.org/wiki/Epik_(company)">Epik</a> CEO <a href="https://en.wikipedia.org/wiki/Rob_Monster">Rob Monster</a> on September 16, 2021. It is compiled from a <a href="https://www.youtube.com/watch?v=aZ9MFts28XI">YouTube</a> recording, where it was published by <a href="ttps://twitter.com/MikaelThalen">Mikael Thalen</a>, as well as from a [Soundcloud](https://soundcloud.com/user-197465089-37602075/rob-monster-ceo-of-epik-discussing-hack-by-anonymous) recording published by "EpikFail". Timestamps from the two recordings are not in sync, so those referring to YouTube are marked with "YT" and those from SoundCloud are "SC".</p>
 
 <p><b>I have finished transcribing what is available in Thalen's recording on YouTube. The remaining missing portion at the end is in progress.</b></p>
 
