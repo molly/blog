@@ -12,8 +12,6 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <p><b>I have finished transcribing what is available in Thalen's recording on YouTube. The remaining missing portion at the end is in progress.</b></p>
 
-<p>I have also made a <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">plaintext</a> copy available.</p>
-
 <details>
 <summary>Transcription and copyright details</summary>
 <p>The transcript has only been edited for readability (e.g., to remove filler words which do not change meaning) and to remove some of weev's comments (all removals marked inline) which I have no interest in reprinting on my own website. Where relevant, comments from the live chat section have been transcribed for context.</p>
@@ -2510,7 +2508,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, SC3:15:10:</span> That's the trouble when you have a bunch of hackers. Every now and then they have to flex their muscles and show you how they hack.
 
-<span class="transcript-speaker">Kirtaner:</span> They don't call them hackers on steroids for no reasons![^fn15]
+<span class="transcript-speaker">Kirtaner:</span> They don't call them hackers on steroids for no reason![^fn15]
 
 <span class="transcript-speaker">Unidentified:</span> And then we have the same guy that claims that just asking people to stop using steroids, metaphorically speaking.
 
