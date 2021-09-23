@@ -10,7 +10,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <div class="note">
 <p>This is a transcript of a portion of the live Q&A session held by <a href="https://en.wikipedia.org/wiki/Epik_(company)">Epik</a> CEO <a href="https://en.wikipedia.org/wiki/Rob_Monster">Rob Monster</a> on September 16, 2021. It is compiled from a <a href="https://www.youtube.com/watch?v=aZ9MFts28XI">YouTube</a> recording, where it was published by <a href="ttps://twitter.com/MikaelThalen">Mikael Thalen</a>, as well as from a [Soundcloud](https://soundcloud.com/user-197465089-37602075/rob-monster-ceo-of-epik-discussing-hack-by-anonymous) recording published by "EpikFail". Timestamps from the two recordings are not in sync, so those referring to YouTube are marked with "YT" and those from SoundCloud are "SC".
 
-I have also made a <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">plaintext</a> copy available.</p>
+<p><b>I have finished transcribing what is available in Thalen's recording on YouTube. The remaining missing portion at the end is in progress.</b></p>
+
+<p>I have also made a <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">plaintext</a> copy available.</p>
 
 <details>
 <summary>Transcription and copyright details</summary>
@@ -1935,23 +1937,113 @@ I have also made a <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661
 
 <span class="transcript-speaker">Unidentified:</span> Fractals.
 
-<span class="transcript-note">[Jitsi drops]</span>
+<span class="transcript-note">[Jitsi drops]:</span>
+
+<span class="transcript-speaker">Monster, SC2:39:57:</span> Somebody really doesn't want us talking about stuff.
+
+<span class="transcript-speaker">Kirtaner:</span> <span class="transcript-note">[Uninitelligible]</span> demons!
+
+<span class="transcript-speaker">Monster:</span> Demons. Angel of protection. Heavenly Father.
 
 <span class="transcript-speaker">Unidentified:</span> Ha ha, PrayerMeeting chat room go brr.
 
+<span class="transcript-speaker">Monster, SC2:40:10:</span> Yeah, PrayerMeeting chat room go brr... That's pretty funny.
+
 <span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[laughter]</span>
 
-<span class="transcript-note">[Jitsi drops]</span>
+<span class="transcript-speaker">Monster, SC2:40:16:</span> Yeah, you know, so... so <span class="transcript-note">[unintelligible]</span> scales. The order of music. David played the harp to cast the demons out of Saul, and so there's mathematical precision and frequency. Mathematical frequency and might. So I think that there's a tremendous amount of insight in the order of math. And also in the [golden ratio](https://en.wikipedia.org/wiki/Golden_ratio), right. You know, 1.41... whatever it is. The distance from here to here, here to here, here to here, here to here. You see order in the universe with the golden ratio. It's hard to imagine that...
+
+<span class="transcript-speaker">Unidentified:</span> And Fibonacci.
+
+<span class="transcript-speaker">Monster, SC2:41:07:</span> [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number). Fibonacci sequences, absolutely. I think God is a mathematician, and a lot of things are governed by math. Gematria is interesting because you look up, go look up like, "Gematria 444". English gematria. You'll find that it's many things. And then look up the gematria of 666 and what's all included there, and you'll probably be surprised by what you discover there. Gematria 444 versus gematria 666. Yeah, there you go. That's an interesting topic for sure.
+
+<span class="transcript-speaker">High Fidelity:</span> That's cool. I actually prefer cocaine to be honest.
+
+<span class="transcript-speaker">Monster, SC2:41:50:</span> Yeah. Cocaine. I never did it. Is it good?
+
+<span class="transcript-speaker">High Fidelity:</span> Uh, sometimes. It really depends on who you get it from, how pure it is...
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified:</span> Religious man asks if cocaine is good, 2021 colorized.
+
+<span class="transcript-speaker">Unidentified:</span> Peyote.
+
+<span class="transcript-speaker">Monster:</span> Yep. <span class="transcript-note">[reading from chat]:</span> "Cocaine is overrated". Yeah, I never tried cocaine, not really part of my program.
+
+<span class="transcript-speaker">Unidentified:</span> Go on a vision quest and take some peyote.
+
+<span class="transcript-note">[crosstalk]:</span>
+
+<span class="transcript-speaker">Kirtaner:</span> Ayahuasca.
+
+<span class="transcript-speaker">High Fidelity:</span> I'd settle for some shrooms, honestly.
+
+<span class="transcript-speaker">Unidentified:</span> Some pure DMT, that's like a dream.
+
+<span class="transcript-speaker">Monster:</span> Yeah.
+
+<span class="transcript-speaker">Rauhauser, SC2:42:35:</span> So the [420chan](https://en.wikipedia.org/wiki/420chan) people have just arrived.
+
+<span class="transcript-speaker">Monster:</span> Yeah? They're arriving?
+
+<span class="transcript-speaker">Unidentified:</span> Oh shit.
+
+<span class="transcript-speaker">Kirtaner:</span> 420chan is my community. I run a harm reduction community that's fifteen years old called 420chan. It is a sister site to 4chan, and big brother to sites that you would know of, like 8chan.
+
+<span class="transcript-speaker">Monster:</span> Yes.
+
+<span class="transcript-speaker">Rauhauser, SC2:43:05:</span> More like a fun uncle than a big brother.
+
+<span class="transcript-speaker">Unidentified:</span> But not like modern-day 8chan. Just when 8chan was called 8chan.
+
+<span class="transcript-speaker">High Fidelity:</span> Did you say "[big brother](https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)) entered the chat"? You said "big brother entered the chat", that's what you said, I heard it.
+
+<span class="transcript-speaker">Unidentified:</span> No, I was talking about 8chan.
+
+<span class="transcript-speaker">Josh:</span> I DMed Kirt on [Signal](https://en.wikipedia.org/wiki/Signal_(software)) like ten minutes ago and sent him like a little snippet of all the stored data on 420chan. It hit 69 gigs, I'm like "going places! Quality."
+
+<span class="transcript-speaker">Monster:</span> That's funny. What's your name?
+
+<span class="transcript-speaker">Josh:</span> I'm Josh, but I've been called so many screen names I might as well have [DID](https://en.wikipedia.org/wiki/Dissociative_identity_disorder).
+
+<span class="transcript-speaker">Monster:</span> There you go.
+
+<span class="transcript-speaker">Monster, SC2:43:43:</span> <span class="transcript-note">[reading chat]:</span> "Am I"... Hellbat asked me if I'm in the top [1%](https://en.wikipedia.org/wiki/We_are_the_99%25) of earners. I don't know. I don't know, don't really keep track. I think the more you have, the more opportunity you have to do good for more people.
+
+<span class="transcript-speaker">High Fidelity:</span> Hey, hey, hey, what about that whole [camel through the eye of a needle](https://en.wikipedia.org/wiki/Eye_of_a_needle) thing? What is that all...
+
+<span class="transcript-speaker">Monster:</span> No no no, I have the answer for that. Which is repudiating...
+
+<span class="transcript-speaker">High Fidelity:</span> Get a really big needle.
+
+<span class="transcript-speaker">Monster, SC2:44:10:</span> No, I think body, soul, spirit, all works, all possessions. You place it at the Lord's feet. If He allows you to be a steward of the things that you have, in order to be able to empower other people to realize their calling, I think that that's an acceptable thing. I don't think that God necessarily expects His people to be, to have poverty. But I will say, when Jesus told His disciples to carry neither scrip nor purse, He understood what it mean to walk with an abundant mindset, and I often say: God's grace is efficient and His logistics are perfect. And some people here might mock me about God's logistics being perfect, but I've found that to be true. The same God that fed the Israelites for forty years, six days a week, with a double portion on Fridays, is the same God who rules and reigns today.
 
 <span class="transcript-speaker">Unidentified:</span> God is all.
 
-<span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[whispering]</span> God. You are God.
+<span class="transcript-speaker">Monster, SC2:45:20:</span> There's is a crazy book, it's called _Jacob's Pillar_, it's by a guy named E. Raymond Capt, who died at the age of 93. It's a fascinating book. It talks about this thing, you might have heard of it, the [Stone of Scone](https://en.wikipedia.org/wiki/Stone_of_Scone). The Stone of Scone that sits underneath the coronation throne in England. And it just traces the history of the stone. So this is kind of a fascinating chart...
 
-<span class="transcript-note">[Jitsi drops]</span>
+<span class="transcript-speaker">Unidentified:</span> I love scones. They taste so good.
 
-<span class="transcript-note">[when Jitsi reconnects there is a period where only some participants are audible in the recording I have]</span>
+<span class="transcript-speaker">Rauhauser:</span> Wait, Rob, Rob. Would you characterize what you just said there, about the nature of abundance and so forth, as being part of the [prosperity gospel](https://en.wikipedia.org/wiki/Prosperity_theology)? Or is that...
 
-<span class="transcript-speaker">Unidentified:</span> Is this fucking idiot still rambling on about nothing? When is he going to apologize for getting everyone's data leaked with his shit [opsec](https://en.wikipedia.org/wiki/Operations_security)? His fucking stupid company. He can't even keep his own stream from getting hacked like five times in front of my face right here. What a fucking loser. <span class="transcript-note">[seems to be hearing Monster speaking; in the recording I have, this unidentified person is the only audio for this portion]</span> Yo, I'll go easy on your asshole. <span class="transcript-note">[pause]</span> Shut the fuck up old man. You should be bending over for everyone in this call right now, and begging forgiveness. <span class="transcript-note">[long pause]</span> There's a lot less than you knew, I think. Otherwise you would've been able to prevent this. You would've fucking hired someone who knew how to code.
+<span class="transcript-speaker">Monster, SC2:45:59:</span> I think the prosperity gospel is a little bit like, carnal. For weak Christians. I don't necessarily think it's wrong to have an abundant mindset. But if your idea is "pray to God to give you a Mercedes", I think that misses the plot. So I think that God... Here's the thing that I figured out. I think that God honors practicians(?) for character attributes. Like, I often pray for five things: wisdom, knowledge, faith, courage, and humility. At times I've also asked for patience and charity. But be careful what you wish for, because if you ask for patience, God will give you the opportunity to test your patience.
+
+<span class="transcript-speaker">Rauhauser, SC2:46:51:</span> Yes, development opportunities. That's a two-part question, because I have been looking at the [QAnonCasualties](https://www.reddit.com/r/QAnonCasualties/), or I don't know if that's the right name for it, but there's a subreddit that's specifically who've lost family members or friends due to QAnon.
+
+<span class="transcript-speaker">Unidentified:</span> Yeah, that is a great read. You should go read that, Rob.
+
+<span class="transcript-speaker">Rauhauser, SC2:47:14:</span> And I have been curious, and I haven't seen this discussed anywhere, but is a failure in economy due to pandemic influencing the people who believe the prosperity gospel, and is that some of what's driving the rise of QAnon? And I've kind of been hoping that Bruce Wilson from [_Talk To Action_](http://www.talk2action.org/user/Bruce%20Wilson) would pick up on this and give us a solid read, but... does this ring a bell at all? Have you seen anything on this?
+
+<span class="transcript-speaker">Monster, SC2:47:50:</span> Well, I mean, I think that times of scarcity have caused people to kind of get back to basics. So when you see like a terrible hurricane, like the one that just struck the Gulf Coast, or terrible flooding, you know. You have all these people who have their preps. Like, they think they've got it figured out. But then something really bad happens and all their [preps](https://en.wikipedia.org/wiki/Survivalism) are trashed. For a lot of people... take the example of [_InfoWars_](https://en.wikipedia.org/wiki/InfoWars). I consider _InfoWars_ to be like a gateway drug for truth. But the problem is, for a lot of people, they kind of idle at this carnal level. Like they go and get guns, they store food, they practice at the range, and all this kind of stuff. But they never actually get around to like spiritual things, because the reality is when you surrender your work to the Lord, He'll order your steps. My favorite proverb, by the way, I read proverbs every day. There are 31 proverbs, so one for every day. I read them out loud.
+
+<span class="transcript-speaker">LH:</span> There's more than 31 proverbs.
+
+<span class="transcript-speaker">Jackson:</span> Every day? You've never missed a day, like ever? 
+
+<span class="transcript-speaker">Monster, SC2:49:02:</span> No, I mean I started that at some point. You develop certain spiritual practices that keep you rooted to the ground, and I believe reading psalms and proverbs out loud is a really good practice. But proverbs, they're short, they're full of wisdom, and [Proverb 16](https://www.bible.com/bible/116/PRO.16.NLT) I think is my favorite. If I had to, like, give my sons and daughters advice, I would say "go study Proverb 16 and you'll probably succeed at the rest of your life". If all you read was Proverb 16.
+
+<span class="transcript-speaker">Unidentified, SC2:49:43:</span> Is this fucking idiot still rambling on about nothing? When is he going to apologize for getting everyone's data leaked with his shit [opsec](https://en.wikipedia.org/wiki/Operations_security)? His fucking stupid company. He can't even keep his own stream from getting hacked like five times in front of my face right here. What a fucking loser. <span class="transcript-note">[seems to be hearing Monster speaking; in the recording I have, this unidentified person is the only audio for this portion]</span> Yo, I'll go easy on your asshole. <span class="transcript-note">[pause]</span> Shut the fuck up old man. You should be bending over for everyone in this call right now, and begging forgiveness. <span class="transcript-note">[long pause]</span> There's a lot less than you knew, I think. Otherwise you would've been able to prevent this. You would've fucking hired someone who knew how to code.
 
 <span class="transcript-speaker">L:</span> Hasn't even [Experian](https://en.wikipedia.org/wiki/Experian) been hacked? Isn't that one of the big three major credit card companies? Don't they have the money? What kind of standards are you applying to this man and why are you choosing it on him instead of everyone else? What the hell is this stick up your ass? <span class="transcript-note">[apparently hearing someone else]</span> Oh but no, you don't want to talk to me. You want to talk to people who aren't good at replying back. <span class="transcript-note">[pause]</span> What about your sins? <span class="transcript-note">[long pause]</span>
 
