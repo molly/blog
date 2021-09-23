@@ -2500,6 +2500,204 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-note">[Jitsi drops]</span>
 
+<span class="transcript-speaker">Kirtaner:</span> <span class="transcript-note">[singing]</span>
+
+<span class="transcript-speaker">Monster:</span> That's a funny one. Some DDoS...
+
+<span class="transcript-speaker">Kirtaner:</span> No for real though, whoever's doing that, stop it. It's fucking annoying.
+
+<span class="transcript-speaker">Unidentified:</span> It low-key is, yeah.
+
+<span class="transcript-speaker">Monster, SC3:15:10:</span> That's the trouble when you have a bunch of hackers. Every now and then they have to flex their muscles and show you how they hack.
+
+<span class="transcript-speaker">Kirtaner:</span> They don't call them hackers on steroids for no reasons![^fn15]
+
+<span class="transcript-speaker">Unidentified:</span> And then we have the same guy that claims that just asking people to stop using steroids, metaphorically speaking.
+
+<span class="transcript-speaker">Monster:</span> Somehow High Fidelity manages to become the moderator every time. I don't know how he does that.
+
+<span class="transcript-speaker">High Fidelity:</span> I am the power.
+
+<span class="transcript-speaker">Unidentified:</span> Black magic fuckery.
+
+<span class="transcript-speaker">Monster:</span> You must have some skills.
+
+<span class="transcript-speaker">High Fidelity:</span> No, I'm just old.
+
+<span class="transcript-speaker">Monster:</span> He's got some skills or something, I don't know.
+
+<span class="transcript-speaker">High Fidelity, SC3:16:00:</span> Hey Rob, the server this is running on, is it a [virtual server](https://en.wikipedia.org/wiki/Virtual_machine) or a physical server?
+
+<span class="transcript-speaker">Monster:</span> I think it's like a, it's a small project, I think we just put it on one of our VPSes. We do host a lot of [VPS](https://en.wikipedia.org/wiki/Virtual_private_server). You can check out [Sibyl.li](https://en.wikipedia.org/wiki/Epik_(company)#Sibyl_Systems) is one of our companies, and then Terrahost.com. Not everybody knows that, but we actually also run a datacenter called Terrahost and we sell a lot of dedicated servers there. But we self-host this. But we'll put it on a bigger dedicated...
+
+<span class="transcript-speaker">High Fidelity:</span> Well, if you're running a virtual machine, you're running a virtual private server, you should be able to on-the-fly, automatically adjust.
+
+<span class="transcript-speaker">Monster, SC3:16:56:</span> Yeah, right. Well it's not like [elastic cloud](https://en.wikipedia.org/wiki/Elastic_cloud_storage), but we could easily put it on a [Proxmox](https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment) instance to just develop more on-demand scalability. It just has not been a priority. We played around with [OpenStack](https://en.wikipedia.org/wiki/OpenStack), I can't say that we've really <span class="transcript-note">[unintelligible]</span> with OpenStack. I'm sure there are people that are more adept at running OpenStack instances.
+
+<span class="transcript-speaker">High Fidelity, SC3:17:23:</span> I was just texting with a friend of mine. You know what the world really needs is a better [hypervisor](https://en.wikipedia.org/wiki/Hypervisor). Because if you look at Proxmox, it's not really enterprise-ready. You can't really administer it centrally, you know? There's [ESXi](https://en.wikipedia.org/wiki/VMware_ESXi), which is okay, but it's really expensive. And then you've got [KVM](https://en.wikipedia.org/wiki/Kernel-based_Virtual_Machine), and that's kind of ehh, I don't know.
+
+<span class="transcript-speaker">Jackson, SC3:17:46:</span> Yo, Lin Wood just said we have, fucking, a mouthbreather in here somewhere. So... shut the fuck up.
+
+<span class="transcript-speaker">Unidentified:</span> Mute all, mute all.
+
+<span class="transcript-speaker">Unidentified:</span> Microphone intensifies.
+
+<span class="transcript-speaker">Unidentified:</span> It's not going to be a PrayerMeeting full of anons if there's not that one guy just breathing into the mic as if it's a fucking Tuesday afternoon and he's gotta make four grand off of [Patreon](https://en.wikipedia.org/wiki/Patreon).
+
+<span class="transcript-speaker">LH:</span> I think it's Catgod.
+
+<span class="transcript-speaker">Catgod:</span> No, it's not, it's fucking Lin's Horse.
+
+<span class="transcript-speaker">LH:</span> Catgod.
+
+<span class="transcript-speaker">High Fidelity:</span> I'm too high to be mod, somebody else take it.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Monster, SC3:18:30:</span> I think you can change me back to the moderator. Then I'll mute...
+
+<span class="transcript-note">[crosstalk, coughing]</span>
+
+<span class="transcript-speaker">Unidentified:</span> When are you going to get your own datacenter, Rob?
+
+<span class="transcript-speaker">Monster, SC3:18:39:</span> We have. We have. 
+
+<span class="transcript-speaker">Unidentified:</span> Mute all, mute all, mute all.
+
+<span class="transcript-speaker">Monster:</span> Yeah we do. You didn't pay attention. We did eleven acquisitions in the last three years. I can assure you.
+
+<span class="transcript-speaker">Jackson:</span> Yeah, fucking pay attention, okay? God. We're all here trying to learn, okay?
+
+<span class="transcript-speaker">Monster:</span> Yeah yeah yeah. I'm just saying, that we do actually run our own datacenters, and we're adding more datacenter capacity as we go forward.
+
+<span class="transcript-speaker">High Fidelity, SC3:19:05:</span> Hey Rob, what do you think...
+
+<span class="transcript-speaker">Unidentified, SC3:19:07:</span> How much of your infrastructure is homed in [Cologix](https://en.wikipedia.org/wiki/Cologix)? Is that like the majority of it, or what? There's an invoice that was in the email thing, I was just curious.
+
+<span class="transcript-speaker">Monster, SC3:19:16:</span> Yeah. Almost none.
+
+<span class="transcript-speaker">Unidentified:</span> Oh okay. Yeah because that was really cheap, I was like "wait a minute".
+
+<span class="transcript-speaker">Monster, SC3:19:22:</span> Yeah, almost none. That was for, like, one client. Enterprise client. We have another really big U.S. datacenter coming online. Really big. We can't... the location will be undisclosed, but it's big.
+
+<span class="transcript-speaker">High Fidelity, SC3:19:40:</span> Did Peter Thiel pay for it?
+
+<span class="transcript-speaker">Monster:</span> What?
+
+<span class="transcript-speaker">High Fidelity:</span> Did [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) pay for it?
+
+<span class="transcript-speaker">Monster:</span> No, no, no. Peter Thiel is not our investor.
+
+<span class="transcript-speaker">High Fidelity:</span> Okay. I don't like him.
+
+<span class="transcript-speaker">Monster:</span> Yeah. I don't know him, I've never met him.
+
+<span class="transcript-speaker">Unidentified:</span> What's the investment?
+
+<span class="transcript-speaker">Monster:</span> What was the investment?
+
+<span class="transcript-speaker">Unidentified:</span> Yeah.
+
+<span class="transcript-speaker">Monster, SC3:20:03:</span> I mentioned it earlier. We raised $32 million from a private investment group, and those funds are allowing us to step on the gas with infrastructure...
+
+<span class="transcript-speaker">Catgod:</span> I've got $10k, what can you make me?
+
+<span class="transcript-speaker">Unidentified:</span> What's your [burn rate](https://en.wikipedia.org/wiki/Burn_rate)?
+
+<span class="transcript-speaker">High Fidelity:</span> Ooh, burn rates. We don't discuss <span class="transcript-note">[crosstalk, unintelligible]</span>
+
+<span class="transcript-speaker">Monster, SC3:20:19:</span> Well, in the past we were very capital efficient. Now we're investing more aggressively, adding significant amounts of capacity. Buying <span class="transcript-note">[unintelligible]</span> equipment, putting it in our own facilities. The objective is just to become more supply chain end-to-end resilient across the entire value chain. There are a lot of layers in the tech stack, as you know, and sometimes when you integrate with third parties you're vulnerable to weak links in the chain.
+
+<span class="transcript-speaker">Monster:</span> <span class="transcript-note">[reading chat]</span> Uh, [Rebekah Mercer](https://en.wikipedia.org/wiki/Rebekah_Mercer), no...
+
+<span class="transcript-speaker">High Fidelity, SC3:21:04:</span> Was that a [SolarWinds](https://en.wikipedia.org/wiki/2020_United_States_federal_government_data_breach) reference? Did you just make a SolarWinds reference?
+
+<span class="transcript-speaker">Catgod:</span> I've got $10k for you, how quickly can you double my money?
+
+<span class="transcript-speaker">Monster:</span> Yeah, you know, we're privately held and we tend to invest at a higher level, but you can send me a note. We're not unwilling...
+
+<span class="transcript-speaker">Monster:</span> <span class="transcript-note">[reading chat]</span> The question was asked, am I a [Freemason](https://en.wikipedia.org/wiki/Freemasonry) or [Illuminati](https://en.wikipedia.org/wiki/Illuminati). No, no, I am not a Freemason, I've never been in a [Lodge](https://en.wikipedia.org/wiki/Masonic_lodge) as a member, and I've never been in the Illuminati.
+
+<span class="transcript-speaker">High Fidelity:</span> We are actually the illuminaughty.
+
+<span class="transcript-speaker">Unidentified:</span> You want to know what the funny thing is, about all the conspiracies surrounding Freemason stuff? Is, in order to actually become a Freemason in a lot of Lodges, you have to become a Catholic first. Which makes about everything sound stupid, but...
+
+<span class="transcript-speaker">Unidentified:</span> You just gotta believe in God.
+
+<span class="transcript-speaker">Monster, SC3:22:01:</span> Yeah. You have to believe in some higher power. If you ever want to go in a deep rabbit hole on that one, pick up a copy of [_Morals and Dogma_](https://en.wikipedia.org/wiki/Morals_and_Dogma_of_the_Ancient_and_Accepted_Scottish_Rite_of_Freemasonry). That book was written by [Albert Pike](https://en.wikipedia.org/wiki/Albert_Pike), he was the inventor of the [Scottish Rite](https://en.wikipedia.org/wiki/Scottish_Rite) of Freemasonry.
+
+<span class="transcript-speaker">Unidentified:</span> He was also in the [KKK](https://en.wikipedia.org/wiki/Ku_Klux_Klan).
+
+<span class="transcript-speaker">Monster:</span> He was. And the sad part is, as I look at it, I think that he was instrumental in getting a bunch of Christians and...
+
+<span class="transcript-speaker">Unidentified:</span> He was one of the first [Grand Wizards](https://en.wikipedia.org/wiki/Grand_Wizard) of the KKK.
+
+<span class="transcript-speaker">Monster:</span> Yeah, no, exactly. So the Scottish Rite of Freemasonry, when you get to the [32nd degree](https://en.wikipedia.org/wiki/Scottish_Rite#Degree_structure) of the Scottish Rite, they tell you that their god is Satan.[^fn20] So if you read their handbook...
+
+<span class="transcript-speaker">Unidentified:</span> The Luciferian doctrine.
+
+<span class="transcript-speaker">Monster:</span> Yeah. If you read _Morals and Dogma_, which is kind of the guidebook of the Scottish Rite, you'll get that when you get to the 32nd degree. But by that point you've, like, compromised yourself so many times with secret oaths and cursed yourself, it's awfully hard to walk out of it.[^fn20] So, fascinating read. <span class="transcript-note">[reading chat]</span> Yeah, there's this whole notion of [Blue Lodges](https://en.wikipedia.org/wiki/Masonic_lodge#Types), like three degrees of Blue Lodges, and then where was the [York Rite](https://en.wikipedia.org/wiki/York_Rite) and the Scottish Rite, but...
+
+<span class="transcript-speaker">Unidentified:</span> There's [Blue Aprons](https://en.wikipedia.org/wiki/Blue_Apron), White Aprons...
+
+<span class="transcript-speaker">High Fidelity, SC3:23:28:</span> Hey, how is Blue Apron? I heard that's a good service.
+
+<span class="transcript-speaker">Unidentified:</span> Those are the lower degree masons.
+
+<span class="transcript-speaker">Monster, SC3:23:40:</span> <span class="transcript-note">[reading chat]</span> "What about UFOs?" I think aliens are actually demons, and I don't think there are extraterrestrial, you know... from other galaxies. I don't believe that.
+
+<span class="transcript-speaker">LH:</span> Do you like cats <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Monster:</span> I don't know.
+
+<span class="transcript-speaker">LH:</span> Pussycats
+
+<span class="transcript-speaker">High Fidelity:</span> Kirt's holding a cat, right? So they're asking if you like...
+
+<span class="transcript-speaker">Unidentified:</span> Oh I was like, "what the hell's the context of this?"
+
+<span class="transcript-speaker">High Fidelity:</span> Or she could have meant vagina, I don't know.
+
+<span class="transcript-speaker">Unidentified:</span> In regards to Freemason stuff, my mom came from the same town as Michelle Harding, which is dumb. And I can confirm that that place, it's a total crackhouse. So, just to give you some idea as to the context of where that woman came from before she wrote [_Michelle Remembers_](Michelle Remembers). Just, ew. Blegh.
+
+<span class="transcript-speaker">Unidentified:</span> What's also interesting is the [Mormon religion](https://en.wikipedia.org/wiki/Mormonism) was pretty much based off Freemasonry. What's his name, [Brigham Young](https://en.wikipedia.org/wiki/Brigham_Young) and all them were all members of the Freemasons.
+
+<span class="transcript-speaker">Monster:</span> Yeah.
+
+<span class="transcript-speaker">Unidentified:</span> I feel like that's just common sense, though. A lot of religions are just based off of each other, with some <span class="transcript-note">[crosstalk, unintelligible]</span>
+
+<span class="transcript-speaker">Monster:</span> Well...
+
+<span class="transcript-speaker">Unidentified:</span> Oh yeah, definitely. All throughout history, conquered people co-opt people's religions and stuff and pass it on, so that way they can rule the people that they just conquered. It's a form of indoctrination.
+
+<span class="transcript-speaker">Monster, SC3:25:07:</span> Yeah. No, I think in the 1800s you had a whole bunch of stuff go off-script. So you had the [Great Awakening](https://en.wikipedia.org/wiki/Great_Awakening) in the 1700s, like, late 1740s. Like the time of John <span class="transcript-note">[unintelligible]</span>. And then when you get to the 1800s, you started to have, like, evolution taught as fact and you had [Jehovah's Witnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses), and [Christian Science](https://en.wikipedia.org/wiki/Christian_Science), you had the [Scofield Bible](https://en.wikipedia.org/wiki/Scofield_Reference_Bible), and Mormonism. And the result was basically amplification of all kinds of confusion. And the mainstreaming of things like Freemasonry as a way to lead people to particular outcomes. And I think to a certain extent...
+
+<span class="transcript-speaker">Unidentified:</span> It was a social network. They used it as social support. That was one of the first social support nets, especially in like the 1800s when the government and all that didn't really give a fuck about you. The Freemasons had like, soup kitchens and bread lines and stuff.
+
+<span class="transcript-speaker">Monster:</span> Yeah.
+
+<span class="transcript-speaker">Unidentified:</span> You think they give a fuck about you now?
+
+<span class="transcript-speaker">Unidentified:</span> Even less so then.
+
+<span class="transcript-speaker">Monster, SC3:26:15:</span> I think back then it was really helpful, like it is now, to know what's up, like what's true. And to a certain group, that was probably as good a source of like, "what's the real deal" as any other. But now we have the Internet and people can go basically search for truth. And unfortunately there's an enormous amount of misinfo and disinfo out there, and it's very easy to kind of go down that rabbit hole and get confused for a very long period of time.
+
+<span class="transcript-speaker">LH:</span> Yeah, but what about if that's your site? Your site hosts the misinfo and disinfo.
+
+<span class="transcript-speaker">Monster:</span> Yeah, the problem is, the problem is...
+
+<span class="transcript-speaker">LH:</span> So shut it down.
+
+<span class="transcript-speaker">Monster, SC3:26:52:</span> Yeah. The problem is, you know... how much of it is, like, organized and how much of it is people who are just searching for truth being willfully ignorant, and who are we to judge? It's one thing when you have...
+
+<span class="transcript-speaker">High Fidelity:</span> You're the guy who hosts their bullshit, Rob. That's who you are to judge. You run it. You should know better. You're an adult man. Listen, the [QAnon](https://en.wikipedia.org/wiki/QAnon) crap? The QAnon crap got [parents to murder their children](https://en.wikipedia.org/wiki/QAnon#US_QAnon_child_murders), Rob.
+
+<span class="transcript-speaker">LH:</span> And kidnap.
+
+<span class="transcript-speaker">Monster:</span> I think the QAnon stuff didn't get out early enough. I think that for many people who are awake, it was apparent that it was a [psyop](https://en.wikipedia.org/wiki/Psychological_warfare). But the thing is, this thing with Wikipedia, it's 98% truth and some percentage of it is arsenic. So, like, how do you know? Right? <span class="transcript-note">[audio cuts out]</span> Is some percent arsenic? You know, debatable. You have to basically be mindful of your thoughts. What stuff do you allow to basically come into your head? Here's an example, a classic acid test. How many of you know what's a witch's [grimoire](https://en.wikipedia.org/wiki/Grimoire)? A grimoire is like a textbook for a witch. And you could say, well, witches are bad and grimoires are bad, and they shouldn't exist. But if someone has the ability to make that information available and people go and study it to find out how witches think and what they do, does that basically allow you to become more mature as a person, to be able to navigate a world that is partly evil and partly good? I think about life as like a soul gym. You basically have an opportunity to walk through this plane, and... imagine the image of [yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang). You've got the white and the dark, black and white, and there's a line going down the middle. I think your greatest workout in the soul gym is sort of borne along that edge. You basically are on the side of good, but you're not far from people who are dark. Being able to draw them out from dark into the light without becoming a part of the dark? How can you have a conversation with a witch if you don't know their playbook? How can you have a conversation... right? If you don't understand how they think? You know, there's this temptation to...
+
+<span class="transcript-note">[Jitsi drops]</span>
+
 <span class="transcript-speaker">Monster:</span> ...really, really, really needed to be able to get ahold of you, they would be able to send you a message. And that means the end of spam. So, we'll see. But, that's one of our high-priority projects and I'm excited to see it come together. I think what it does is it opens up the possibility of creating a level playing field, where you don't have to be a huge company to be able to get people to sign up for your little website. Because one of the big challenges for independent publishers is how do you give them a way to be able to get audience when most people don't want to sign up and save [PII](https://en.wikipedia.org/wiki/Personal_data) with a small website that they may use once and not again. So the framework for portable, [self-sovereign identity](https://en.wikipedia.org/wiki/Self-sovereign_identity) with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) and portable reputation, where you have the ability to basically... it pays to be you and it pays to be good... I think it's an idea that's time has come, and so yeah... <span class="transcript-note">[reading the chat, not visible]</span> Yeah, there's mature tech but it hasn't been implemented from a consumer-centric perspective, so we'll see.
 
 <span class="transcript-speaker">C:</span> We talked about this at [DEF CON](https://en.wikipedia.org/wiki/DEF_CON), High Fidelity, and a lot of the problems we're having is data privacy. All these different states have all these different privacy laws with the states, and also as Americans we don't really have any control over our own data as well. So you have a lot of salesmen and stuff, like we talked about at DEF CON, where like, medical sales reps are targeting communities and finding out demographics of communities in order to sell them medicines. Like in one case, they actually classified a community and tried to patent and copyright some of their genes and stuff. It's actually a really big problem.
@@ -2598,8 +2796,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 [^fn12]: This may be a reference to the fact that Epik has long advertised itself as the "Swiss bank of domains".
 [^fn13]: This is apparently referring to Braden Pollock and Tal Moore. Moore left the board in December 2018, over the company's choice to host Gab. Pollock resigned in June 2020, and said that his departure was because he and Monster "don’t share the same ideology" and because he disagreed with the company's direction. ([Epik (company)](https://en.wikipedia.org/w/index.php?title=Epik_(company)&oldid=1045467815). Wikipedia, September 21, 2021) Pollock's departure is [rumored](https://www.namepros.com/threads/epik-had-a-major-breach.1252094/page-40#post-8401155) to have been because Monster refused to fire an employee who shouted "fuck" during a moment of silence for George Floyd. (The employee [claimed](https://youtu.be/2oTabcNCHNk?t=441), and Rob Monster later [claimed](https://www.namepros.com/threads/braden-pollock-steps-down-from-epik-bod.1194548/page-4#post-7811160), this was because he had dropped his smartphone at that precise moment.)
 [^fn14]: This is likely a reference to [LegitScript's](https://en.wikipedia.org/wiki/LegitScript) 2017 [report](https://www.legitscript.com/blog/2017/03/us-registrar-epik-plays-dangerous-game/) about Epik's services to sites selling controlled substances without prescription.
-[^fn15]: The first mainstream news report about Anonymous, published in 2007, described the group as an "Internet hate machine". ([Anonymous (hacker group)](https://en.wikipedia.org/w/index.php?title=Anonymous_(hacker_group)&oldid=1045694224). Wikipedia, September 21, 2021.)
+[^fn15]: The first mainstream news report about Anonymous, published in 2007, described the group as an "Internet hate machine" and "hackers on steroids". ([Anonymous (hacker group)](https://en.wikipedia.org/w/index.php?title=Anonymous_(hacker_group)&oldid=1045694224). Wikipedia, September 21, 2021.)
 [^fn16]: Kirtaner is referring to [a security incident in 2020](https://en.wikipedia.org/wiki/Parler#Security) when he was able to use his verified status on Parler to pretend to be another high profile individual. ([Parler](https://en.wikipedia.org/w/index.php?title=Parler&oldid=1045701754). Wikipedia, September 21, 2021.)
 [^fn17]: See the [Wikimedia Foundation's benefactors](https://wikimediafoundation.org/support/benefactors), and information on the relationship between [Google and Wikipedia](https://en.wikipedia.org/wiki/Google_and_Wikipedia).
 [^fn18]: "Technocratic control grid" refers to an aspect of the [Great Reset conspiracy theory](https://www.adl.org/blog/the-great-reset-conspiracy-flourishes-amid-continued-pandemic).
 [^fn19]: "The company raked in $13.8 million in a token sale during the [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) gold rush. Now, Substratum is broke. And some investors are crying foul." ([_Decrypt_](https://www.yahoo.com/now/substratum-burns-13-million-ico-213042801.html))
+[^fn20]: This is a common conspiracy theory about Freemasonry. See [Masonic conspiracy theories](https://en.wikipedia.org/wiki/Masonic_conspiracy_theories) and [Christian attitudes towards Freemasonry § Claims of Satan worship and response](https://en.wikipedia.org/wiki/Christian_attitudes_towards_Freemasonry#Claims_of_Satan_worship_and_response)
