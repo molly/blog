@@ -10,8 +10,6 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <div class="note">
 <p>This is a transcript of a portion of the live Q&A session held by <a href="https://en.wikipedia.org/wiki/Epik_(company)">Epik</a> CEO <a href="https://en.wikipedia.org/wiki/Rob_Monster">Rob Monster</a> on September 16, 2021. Most of it is available on <a href="https://www.youtube.com/watch?v=aZ9MFts28XI">YouTube</a>, where it was published by <a href="ttps://twitter.com/MikaelThalen">Mikael Thalen</a>. I have also made a <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">plaintext</a> copy available.</p>
 
-<p><b>I have finished transcribing what is available in Thalen's recording on YouTube. The remaining missing portion at the end is in progress.</b></p>
-
 <details>
 <summary>Transcription and copyright details</summary>
 <p>The transcript has only been edited for readability (e.g., to remove filler words which do not change meaning) and to remove some of weev's comments (all removals marked inline) which I have no interest in reprinting on my own website. Where relevant, comments from the live chat section have been transcribed for context.</p>
@@ -929,7 +927,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, 2:20:32:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "Frustrated Customer": "What is the point of this call??? What are you hoping to achieve here???"]</span> "the point of this call..." The point of this call was actually to get Chad to come online to talk to me in a minute(?) but I haven't seen Chad. Anybody seen Chad? I haven't seen Chad. Who even knows Chad. But Steven bolted.
 
-<span class="transcript-speaker">High Fidelity, 2:20:49:</span> Yeah, you know, the way they treated Chad is really kind of awful you know? [They took pictures of the inside of his house](https://twitter.com/chadloder/status/1440183790668709894), [they filed a false restraining order against him](https://twitter.com/chadloder/status/1433956895652417536?lang=en), and then they put his address up on the Internet for everyone to know! Where he and his <i>child</i>... <span class="transcript-note">[Monster mutes everyone]</span>
+<span class="transcript-speaker">High Fidelity, 2:20:49:</span> Yeah, you know, the way they treated Chad is really kind of awful you know? [They took pictures of the inside of his house](https://twitter.com/chadloder/status/1440183790668709894), [they filed a false restraining order against him](https://twitter.com/chadloder/status/1433956895652417536), and then they put his address up on the Internet for everyone to know! Where he and his <i>child</i>... <span class="transcript-note">[Monster mutes everyone]</span>
 
 <span class="transcript-speaker">Monster:</span> <span class="transcript-note">[muted, but speaking]</span>
 
@@ -1967,7 +1965,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Kirtaner:</span> Maybe do a [show](https://twitter.com/gregghoushshow?lang=en) with [Gregg Housh](https://twitter.com/gregghoush) if he feels up to it. He was talking to your <span class="transcript-note">[connection issue]</span>
+<span class="transcript-speaker">Kirtaner:</span> Maybe do a [show](https://twitter.com/gregghoushshow) with [Gregg Housh](https://twitter.com/gregghoush) if he feels up to it. He was talking to your <span class="transcript-note">[connection issue]</span>
 
 <span class="transcript-speaker">High Fidelity:</span> How is Housh, I haven't seen him...
 
@@ -2161,7 +2159,89 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">L?:</span> The worst thing is that even if you code something perfectly, there's an environmental risk to <span class="transcript-note">[unintelligible]</span>. The environmental risk is radioactivity. [A single particle from radiation from the outer space can flip a 0 to a 1](https://en.wikipedia.org/wiki/Soft_error). It's happened...
 
-<span class="transcript-note">[Jitsi drops]</span>
+<span class="transcript-note">[Jitsi drops. There is a very long period before audio resumes]</span>
+
+<span class="transcript-speaker">Monster:</span> ...really, really, really needed to be able to get ahold of you, they would be able to send you a message. And that means the end of spam. So, we'll see. But, that's one of our high-priority projects and I'm excited to see it come together. I think what it does is it opens up the possibility of creating a level playing field, where you don't have to be a huge company to be able to get people to sign up for your little website. Because one of the big challenges for independent publishers is how do you give them a way to be able to get audience when most people don't want to sign up and save [PII](https://en.wikipedia.org/wiki/Personal_data) with a small website that they may use once and not again. So the framework for portable, [[self-sovereign identity](https://en.wikipedia.org/wiki/Self-sovereign_identity) with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) and portable reputation, where you have the ability to basically... it pays to be you and it pays to be good... I think it's an idea that's time has come, and so yeah... <span class="transcript-note">[reading the chat, not visible]</span> Yeah, there's mature tech but it hasn't been implemented from a consumer-centric perspective, so we'll see.
+
+<span class="transcript-speaker">C:</span> We talked about this at [DEF CON](https://en.wikipedia.org/wiki/DEF_CON), High Fidelity, and a lot of the problems we're having is data privacy. All these different states have all these different privacy laws with the states, and also as Americans we don't really have any control over our own data as well. So you have a lot of salesmen and stuff, like we talked about at DEF CON, where like, medical sales reps are targeting communities and finding out demographics of communities in order to sell them medicines. Like in one case, they actually classified a community and tried to patent and copyright some of their genes and stuff. It's actually a really big problem.
+
+<span class="transcript-speaker">Unidentified:</span> So, I mean, that also... generally speaking, that's not just limited to America, either. Like in terms of lack of legislation to prevent your own... for data being sold to use, whatever. That's a majority of [G20](https://en.wikipedia.org/wiki/G20) countries, with the exception of ones in the European Union.
+
+<span class="transcript-speaker">C:</span> It's just, you look at data privacy in America and it's so easy to find anything about anyone in America. And it's because of that. It's because of the lack of jurisdictions and stuff.
+
+<span class="transcript-speaker">Monster:</span> Yeah. I mean, the raw deal is that, the degree to which there's been catalogs of not just granular details using [cookies](https://en.wikipedia.org/wiki/HTTP_cookie), but right down to, as you probably know, like, IP addresses correlated to physical address. So you actually have people who are comprehensively profiled, like right down to the physical address. You guys probably know more about, like, IPv6 A10(?). But the notion that there are ways to be able to actually pierce through what you think is a functioning [VPN](https://en.wikipedia.org/wiki/Virtual_private_network). I'll tell you guys, there's a project that we're working on. We acquired a company called Substratum, you might want to check it out. It's designed to penetrate the [Great Firewall](https://en.wikipedia.org/wiki/Great_Firewall) of China. VPN and [Tor](https://en.wikipedia.org/wiki/Tor_(network)) doesn't let you do that. We acquired that company a couple months ago, and we're scaling that technology. It was a token at one point, still is, SUB is the token.[^fn19] And we're looking forward to introducing what we call Substratum-ready networks. We have a project called [Toki](https://en.wikipedia.org/wiki/Rob_Monster#Other_companies), Toki.com, you can check it out. And that's basically a decentralized [ISP](https://en.wikipedia.org/wiki/Internet_service_provider) platform. So the idea that you can actually operate with an Internet that's untethered from the Internet, if the Internet becomes intermittent, like in an RV park or for people that are [boondocking](https://www.campendium.com/camping/what-is-boondocking/). But the idea that you can take these technologies, and then combine it with Substratum, so that Toki router can use technology that is capable of being able to bypass the Great Firewall of China. So these are things that are being assembled. For those of you who are wondering, why does Epik get the wrath of certain organizations that are trying to keep us in check, I think part of the reason is because we are building resilient technology. I know you might wonder if we're resilient, but we are building resilient technology. And we have some really capable people that are coming together to build something that essentially will maintain the flow of knowledge so that people can ask questions and seek answers.
+
+<span class="transcript-speaker">Catgod:</span> Hey, Mr. Rob, you should come to Ohio and meet me in Youngstown. And we can start a cat company, and make like $90 million.
+
+<span class="transcript-speaker">Monster:</span> That's funny. Yep.
+
+<span class="transcript-speaker">Catgod:</span> What do you mean that's funny? I'm serious.
+
+<span class="transcript-speaker">Monster:</span> I told you, I'm not a cat guy.
+
+<span class="transcript-speaker">Catgod:</span> We can put $10k in and we can start cloning cats. And get rich.
+
+<span class="transcript-speaker">LH:</span> You can get some horses too.
+
+<span class="transcript-speaker">Monster:</span> Yeah, I told you, I'm not a cat guy. We have dogs.
+
+<span class="transcript-speaker">Catgod:</span> You can just say you're not interested. You don't gotta laugh at my offer to make some money for you.
+
+<span class="transcript-speaker">Unidentified:</span> I was just gonna say... Kirt off in the background having his eyes bug out because he's donated like 400 cats to adoption shelters.
+
+<span class="transcript-speaker">Kirtaner:</span> I have fostered and raised 400 kittens, socialized them. They're feral packs that we took in, socialized, raised until they were around eight weeks old, spayed, neutered, and put out for adoption over the years.
+
+<span class="transcript-speaker">Catgod:</span> What kind of company do you want to make, Rob?
+
+<span class="transcript-speaker">Monster:</span> What kind of company do I want to make? I tell you, go to epik.com/labs, you'll see that we're constantly incubating lots of things. And I'll tell you, it's Substratum. Substratum.net. That's the company we acquired. If you go to epik.com/labs you'll see there's a whole stack of companies and technologies that we've either incubated or acquired, and the rate limiting factor for those companies to kind of blossom and thrive is typically just having enough confident technical leaders and project managers that know how to breathe life into an enterprise. So we're growing, and...
+
+<span class="transcript-speaker">Catgod:</span> Listen, Rob. I'm a young business major. I'm a Mason. We hang out around the same people. Let's me and you partner up, let's do something, and we can make a lot of money. I ain't even asking you to put all the money in, I'm willing to put in $10,000 of my own money.
+
+<span class="transcript-speaker">Monster:</span> You know, here's the funny thing. I'll tell you something that I've learned. That is this: everybody has a gift. Everybody has a talent. God gives everybody a gift or a talent. The biggest thing that I have learned as a manager is to try to help people to figure out what their gift or talent is, and then design a job around that individual.
+
+<span class="transcript-speaker">LH:</span> Catgod needs a job.
+
+<span class="transcript-speaker">Monster:</span> And the way we hire people, is we hire people for gifts and talents. And then we design jobs around them.
+
+<span class="transcript-speaker">Catgod:</span> It also helps to have connections. That's where you come in.
+
+<span class="transcript-speaker">Monster:</span> Yeah. Right. So if I can match persons to the right opportunity, I try and do that.
+
+<span class="transcript-speaker">LH:</span> Why don't you hire Catgod then.
+
+<span class="transcript-speaker">Catgod:</span> That's the step up you have on a lot of people here. You have the connections to go to wherever you said you went to, and have a computer and shit.
+
+<span class="transcript-speaker">Monster:</span> Yep. And then the other thing that's kind of unusual about Epik as an employer...
+
+<span class="transcript-speaker">Catgod:</span> So you gotta share the love now. Return the favor.
+
+<span class="transcript-speaker">Monster:</span> I, I tend to. By creating opportunities and trying to deploy capital to projects that empower people. Yeah, so another thing that's kind of unusual is we don't have quotas...
+
+<span class="transcript-speaker">Catgod:</span> Me and you, me and you could buy all of Youngstown. And turn the <span class="transcript-note">[unintelligible]</span> around.
+
+<span class="transcript-speaker">Monster:</span> That's funny. It's a big world... Yeah, so, no budgets, no timelines, and no quotas. So we tend to kind of take the mindset that says "the world is changing, so we have to be nimble". So we just say okay, what do we think is our thesis around how the world is going to work, design projects and themes around that thesis, and then kind of try to catch a wave. Because the world is changing and oftentimes an idea that you thought might be useful in the future suddenly becomes useful because of changing circumstance. It's really like catching a wave. And so we think that there are some things that are coming on the horizon, where some of the emphasis on resiliency, decentralization could prove really useful. But, in the meantime, we don't go as fast as we would like sometimes, although we do get a lot done in a day, in part because we haven't necessarily secured all the talent that we need to be able to get it done. You guys are solid. We've gone, what, four hours? Five hours? What do we got? It's been like a while.
+
+<span class="transcript-speaker">LH:</span> It's 8am here, so I'm going to go. Goodnight.
+
+<span class="transcript-speaker">Kirtaner:</span> Yeah, we have indeed been going for close to five hours if I'm... I've had a long day. So Rob, Rob, if you want to go to bed, it's on you. I mean... I'm starting to fade myself, I'm sure you'd like to go get some rest. This has been a very long, arduous debacle for you.
+
+<span class="transcript-speaker">Rob:</span> No, no, no, it's all good. But yeah guys, I appreciate you. To the extent that you guys can be looking out for us, so we can kind of get this thing back in the box... You know. And those of you who want to help out, to try to get it back in the box, and get acquainted with us... we'd be happy to get to know you. And we have really fantastic people who I'm happy to introduce and connect you with. Right now it's after midnight, I've got 1,095 unread emails... which is a little bit much. So if I don't get right back to you, don't feel like I don't care. I will do my best to catch up. Just be a little patient with me. But I will do my best to get back to you.
+
+<span class="transcript-speaker">Kirtaner:</span> And thank you. Thank you again for taking down YourDaddyJoey. I appreciate that myself.
+
+<span class="transcript-speaker">Monster:</span> Yeah, no worries. I think it was probably the right thing to do.
+
+<span class="transcript-speaker">Unidentified:</span> Yeah, that guy's a piece of shit.
+
+<span class="transcript-speaker">LH:</span> We'll see you on the [Gregg Show](https://twitter.com/gregghoushshow).
+
+<span class="transcript-speaker">Kirtaner:</span> With love from Anonymous.
+
+<span class="transcript-speaker">Monster:</span> With love from Epik. God bless you guys. Have a fantastic evening and sleep well!
+
+<span class="transcript-speaker">LH:</span> Goodnight!
+
+<span class="transcript-speaker">Monster:</span> Night!
 
 ## Footnotes
 
@@ -2183,3 +2263,4 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 [^fn16]: Kirtaner is referring to [a security incident in 2020](https://en.wikipedia.org/wiki/Parler#Security) when he was able to use his verified status on Parler to pretend to be another high profile individual. ([Parler](https://en.wikipedia.org/w/index.php?title=Parler&oldid=1045701754). Wikipedia, September 21, 2021.)
 [^fn17]: See the [Wikimedia Foundation's benefactors](https://wikimediafoundation.org/support/benefactors), and information on the relationship between [Google and Wikipedia](https://en.wikipedia.org/wiki/Google_and_Wikipedia).
 [^fn18]: "Technocratic control grid" refers to an aspect of the [Great Reset conspiracy theory](https://www.adl.org/blog/the-great-reset-conspiracy-flourishes-amid-continued-pandemic).
+[^fn19]: "The company raked in $13.8 million in a token sale during the [ICO](https://en.wikipedia.org/wiki/Initial_coin_offering) gold rush. Now, Substratum is broke. And some investors are crying foul." ([_Decrypt_](https://www.yahoo.com/now/substratum-burns-13-million-ico-213042801.html))
