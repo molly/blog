@@ -2043,15 +2043,81 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster, SC2:49:02:</span> No, I mean I started that at some point. You develop certain spiritual practices that keep you rooted to the ground, and I believe reading psalms and proverbs out loud is a really good practice. But proverbs, they're short, they're full of wisdom, and [Proverb 16](https://www.bible.com/bible/116/PRO.16.NLT) I think is my favorite. If I had to, like, give my sons and daughters advice, I would say "go study Proverb 16 and you'll probably succeed at the rest of your life". If all you read was Proverb 16.
 
-<span class="transcript-speaker">Unidentified, SC2:49:43:</span> Is this fucking idiot still rambling on about nothing? When is he going to apologize for getting everyone's data leaked with his shit [opsec](https://en.wikipedia.org/wiki/Operations_security)? His fucking stupid company. He can't even keep his own stream from getting hacked like five times in front of my face right here. What a fucking loser. <span class="transcript-note">[seems to be hearing Monster speaking; in the recording I have, this unidentified person is the only audio for this portion]</span> Yo, I'll go easy on your asshole. <span class="transcript-note">[pause]</span> Shut the fuck up old man. You should be bending over for everyone in this call right now, and begging forgiveness. <span class="transcript-note">[long pause]</span> There's a lot less than you knew, I think. Otherwise you would've been able to prevent this. You would've fucking hired someone who knew how to code.
+<span class="transcript-speaker">Unidentified, SC2:49:43:</span> Is this fucking idiot still rambling on about nothing? When is he going to apologize for getting everyone's data leaked with his shit [opsec](https://en.wikipedia.org/wiki/Operations_security)? 
 
-<span class="transcript-speaker">L:</span> Hasn't even [Experian](https://en.wikipedia.org/wiki/Experian) been hacked? Isn't that one of the big three major credit card companies? Don't they have the money? What kind of standards are you applying to this man and why are you choosing it on him instead of everyone else? What the hell is this stick up your ass? <span class="transcript-note">[apparently hearing someone else]</span> Oh but no, you don't want to talk to me. You want to talk to people who aren't good at replying back. <span class="transcript-note">[pause]</span> What about your sins? <span class="transcript-note">[long pause]</span>
+<span class="transcript-speaker">Monster:</span> MLN... I want to hear from MLN. <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-note">[audio resumes properly]</span>
+<span class="transcript-speaker">Unidentified 1:</span> His fucking stupid company. He can't even keep his own stream from getting hacked like five times in front of my face right here. What a fucking loser. 
 
-<span class="transcript-speaker">Monster:</span> ...we have most of our hosting capacity in physical infrastructure that we no longer... yeah, you know... [AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services) doesn't host Epik.com. Maybe a [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) node. <span class="transcript-note">[unintelligible]</span> We are not using them as the primary host. We do run [anycast](https://en.wikipedia.org/wiki/Anycast) DNS. Gosh guys. What else? Thursday night, man. What are you guys doing on Friday?
+<span class="transcript-speaker">Rauhauser:</span> Who is this person who needs to be muted?
 
-<span class="transcript-speaker">Unidentified:</span> Hacking.
+<span class="transcript-speaker">Monster:</span> Yeah, yeah. Go easy on the f-bomb.
+
+<span class="transcript-speaker">Unidentified 1, SC2:50:07:</span> Yo, I'll go easy on your asshole. Shut the fuck up old man. You should be bending over for everyone in this call right now, and begging forgiveness.
+
+<span class="transcript-speaker">Monster:</span> Why is this?
+
+<span class="transcript-speaker">Unidentified 2:</span> Cam up, fatty.
+
+<span class="transcript-speaker">Unidentified 3:</span> Listen, if I could cam up as a dysfunctional autist, you could probably cam up too, my good sir.
+
+<span class="transcript-speaker">Monster:</span> That's funny. That's funny. Well, I guess the guy who runs his mouth... maybe he's not attractive, I don't know.
+
+<span class="transcript-speaker">Unidentified 2:</span> Nah, he's fat as fuck.
+
+<span class="transcript-speaker">Monster:</span> Maybe he has a good singing voice, though. He has kind of like a baritone.
+
+<span class="transcript-speaker">Jackson:</span> That's not very God-like. What happened to turning the other cheek? Just gotta let it slide, you know.
+
+<span class="transcript-speaker">Monster:</span> Well I was going to say, I think there's inner divinity in everyone. So to the point that...
+
+<span class="transcript-speaker">Jackson:</span> I've got a lot of inner divinity. Ton of it. I want to share it with the world.
+
+<span class="transcript-speaker">Unidentified 1:</span> There's a lot less in you, I think. Otherwise you would've been able to prevent this. You would've fucking hired someone who knew how to code.
+
+<span class="transcript-speaker">L, SC2:51:24:</span> Hasn't even [Experian](https://en.wikipedia.org/wiki/Experian) been hacked? Isn't that one of the big three major credit card companies? Don't they have the money? What kind of standards are you applying to this man and why are you choosing it on him instead of everyone else? What the hell is this stick up your ass? <span class="transcript-note">[pause]</span> Oh but no, you don't want to talk to me. You want to talk to people who aren't good at replying back.
+
+<span class="transcript-speaker">High Fidelity, SC2:51:41:</span> You want me to talk to you bro? I'll talk to you. The fact of the matter is he is hosting websites, some of whom are run by federal agents that are mindfucking people into violence.
+
+<span class="transcript-speaker">L:</span> What about your sins?
+
+<span class="transcript-speaker">Monster, SC2:51:53:</span> Well, actually, I think...
+
+<span class="transcript-speaker">High Fidelity:</span> That is the sad fact of the matter.
+
+<span class="transcript-speaker">Unidentified:</span> So you are accusing him of colluding with Feds. That is a big claim, sir.
+
+<span class="transcript-speaker">High Fidelity:</span> I'm not accusing him of that at all. I'm saying we'll probably find out that there are federal officials inside some of those records. I'm not saying Rob knew, <span class="transcript-note">[crosstalk]</span> that would be rude. I don't know Rob.
+
+<span class="transcript-speaker">L, SC2:52:20:</span> Treat it like a courtroom. Treat it like a courtroom. Come in and present your evidence. Come in and present your evidence and then, you know, respectfully. Ask him questions, find out what happened.
+
+<span class="transcript-speaker">High Fidelity:</span> There's a 180 gig torrent out there, bro. Go download... <span class="transcript-note">[crosstalk, unintelligible]</span>
+
+<span class="transcript-speaker">Jackson:</span> There's a lot of evidence out there, man.
+
+<span class="transcript-speaker">L, SC2:52:29:</span> But when your first decision is to come out with a warlike voice and just namecall, well, I mean, you're not going to win anything that way.
+
+<span class="transcript-speaker">High Fidelity:</span> I talk like this all the time, bro.
+
+<span class="transcript-speaker">L:</span> It's unintelligible. It's incomprehensible. The words you speak are noise.
+
+<span class="transcript-speaker">High Fidelity:</span> The words I speak are noise? Excuse me?
+
+<span class="transcript-speaker">L, SC2:52:52:</span> I mean, why do you think there's a big barrier between heaven and down here? Like, for real dude. I have my fucking free will to not have to hear this kind of crap when I'm in heaven.
+
+<span class="transcript-speaker">High Fidelity:</span> Why are you blowing up... <span class="transcript-note">[crosstalk, unintelligible]</span> ...not listening to other people's point of view?
+
+<span class="transcript-speaker">Rauhauser:</span> I agree, this... this...
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Rauhauser:</span> It's really sort of a beta male attitude, you know? No picture, and a big speech... when this is a more enlightened discussion than one might have expected initially in the <span class="transcript-note">[unintelligible]</span> I received to it. And yeah, I think it's just inappropriate. You can go see that crap on Twitter. And it'll boost, that'll get attention there, go ahead and do it man. And don't waste our time.
+
+<span class="transcript-note">[Jitsi drops]</span>
+
+<span class="transcript-speaker">Monster, SC2:54:28:</span> ...we run our own CDN and DDoS mitigation and we have most of our hosting capacity in physical infrastructure that we no longer... yeah, you know... [AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services) doesn't host Epik.com. Maybe a [DNS](https://en.wikipedia.org/wiki/Domain_Name_System) node that we still use there as a part of our [anycast](https://en.wikipedia.org/wiki/Anycast), but no, we are not using them as a primary host. We do run anycast DNS. Gosh guys. What else? Thursday night, man. What are you guys doing on Friday?
+
+<span class="transcript-speaker">Jackson:</span> Hacking.
 
 <span class="transcript-speaker">Monster:</span> Hacking. Yeah.
 
@@ -2059,7 +2125,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Kirtaner:</span> Maybe do a [show](https://twitter.com/gregghoushshow) with [Gregg Housh](https://twitter.com/gregghoush) if he feels up to it. He was talking to your <span class="transcript-note">[connection issue]</span>
+<span class="transcript-speaker">Kirtaner:</span> Maybe do a [show](https://twitter.com/gregghoushshow) with [Gregg Housh](https://twitter.com/gregghoush) if he feels up to it. He was in here earlier tonight.
 
 <span class="transcript-speaker">High Fidelity:</span> How is Housh, I haven't seen him...
 
@@ -2069,11 +2135,11 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Kirtaner:</span> Housh? He's been dealing with a lot.
 
-<span class="transcript-speaker">Monster:</span>  <span class="transcript-note">[reading the chat]</span> Somebody asked about the site. PrayerMeeting. Yeah, we bought this name and we set up a free place that people could use to meet instead of going to a church, if they didn't want to go to a church or they couldn't get to a church.
+<span class="transcript-speaker">Monster, SC2:55:40:</span>  <span class="transcript-note">[reading the chat]</span> Somebody asked about the site. PrayerMeeting. Yeah, we bought this name and we set up a free place that people could use to meet instead of going to a church, if they didn't want to go to a church or they couldn't get to a church.
 
 <span class="transcript-speaker">Unidentified:</span> Yeah, I think I saw... there's something in that email dump of an employee inbox talking about this. I'm pretty sure.
 
-<span class="transcript-speaker">Monster:</span> Yeah, that's possible. I think that the guy's email, I think it was Austin Gilmore(?) that had his email dumped.
+<span class="transcript-speaker">Monster SC2:56:05:</span> Yeah, that's possible. I think that the guy's email, I think it was Austin Gilmore(?) that had his email dumped.
 
 <span class="transcript-speaker">Unidentified:</span> Honestly I think <span class="transcript-note">[crosstalk]</span>
 
@@ -2081,15 +2147,15 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster:</span> I don't know.
 
-<span class="transcript-speaker">Unidentified:</span> I love [that game](https://en.wikipedia.org/wiki/Among_Us). Such a good game.
+<span class="transcript-speaker">Jackson:</span> I love [that game](https://en.wikipedia.org/wiki/Among_Us). Such a good game.
 
-<span class="transcript-speaker">Unidentified:</span> Was that a reference to the game? I'm sitting here and I cringed for half a second and then I'm "wait, is he referencing the game or is he just being like, literary?"
+<span class="transcript-speaker">Unidentified:</span> Was that a reference to the game? I'm sitting here and I cringed for half a second and then I'm like, "wait, is he referencing the game or is he just being like, literary?"
 
 <span class="transcript-speaker">High Fidelity:</span> Rob, would you go on Gregg Housh's show? With Kirt?
 
 <span class="transcript-speaker">Monster:</span> I'm embarrassed to say I don't know who he is.
 
-<span class="transcript-speaker">Kirtaner:</span> Okay, Gregg Housh is another former member of Anonymous who brought it to public prominence with [Project Chanology](https://en.wikipedia.org/wiki/Project_Chanology), the Church of Scientology protests, in 2008. He's a good friend of mine, and he has a Twitch show. A Twitch video podcast. And I'm a regular host on Friday nights with him. And I'm sure he would love to have you on. It would be, we would be nice. We would be nice to you. Fair warning.
+<span class="transcript-speaker">Kirtaner:</span> Okay, Gregg Housh is another former member of Anonymous that brought it to public prominence with [Project Chanology](https://en.wikipedia.org/wiki/Project_Chanology), the Church of Scientology protests, in 2008. He's a good friend of mine, and he has a Twitch show. A Twitch video podcast. Of which I'm a regular host on Friday nights with him. And I'm sure he would love to have you on. It would be, we would be nice. We would be nice to you. Fair warning.
 
 <span class="transcript-speaker">Monster:</span> Alright, drop me a note and we'll figure it out.
 
@@ -2097,11 +2163,11 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">LH:</span> Tomorrow?
 
-<span class="transcript-speaker">Kirtaner:</span> I don't know if it'd be tomorrow. I'd have to talk to Gregg, he's been dealing with a lot of stuff and not doing the show for the last two or so weeks. But I'll talk to him and I'll extend that invitation.
+<span class="transcript-speaker">Kirtaner, SC2:57:20:</span> I don't know if it'd be tomorrow. I'd have to talk to Gregg, he's been dealing with a lot of stuff and not doing the show for the last two or so weeks. But I'll talk to him and I'll extend that invitation.
 
 <span class="transcript-speaker">High Fidelity:</span> Send him my love, I hope he's doing okay.
 
-<span class="transcript-speaker">Monster:</span> So. Fun times guys! I was still hoping [Chad](https://twitter.com/chadloder) would show up. Chad Loder. He was... he lit this flame. So I figured he would show up, but he doesn't seem to want to show up. Anyone know Chad?
+<span class="transcript-speaker">Monster, SC2:57:34:</span> So. Well, fun times guys! I was still hoping [Chad](https://twitter.com/chadloder) would show up. Chad Loder. He was... he lit this flame. So I figured he would show up, but he doesn't seem to want to show up. Anyone know Chad?
 
 <span class="transcript-speaker">High Fidelity:</span> I mean, I know of Chad. Chad's pretty well respected in the cybersecurity community.
 
@@ -2113,9 +2179,9 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified:</span> He's quite thoughtful.
 
-<span class="transcript-speaker">Monster:</span> Yeah, he seems like a really smart guy with a lot of leadership skills.
+<span class="transcript-speaker">Monster:</span> Yeah, no, he seems like a really smart guy with a lot of leadership skills.
 
-<span class="transcript-speaker">Unidentified:</span>Yeah, he is a smart guy. That's why he blames you for what happened, you fucking idiot.
+<span class="transcript-speaker">Unidentified, S258:15:</span>Yeah, he is a smart guy. That's why he blames you for what happened, you fucking idiot.
 
 <span class="transcript-speaker">Monster:</span> So anyway, the site that offends you is offline. So if you missed it, heads up.
 
@@ -2123,23 +2189,23 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster:</span> Yep.
 
-<span class="transcript-speaker">Rauhauser:</span> So besides JoJo Camp... This is a little bit of crosstalk for Kirt here. Other than JoJo Camp, who else in the completely unacceptable websites crew had stuff with Epik? Did we find <span class="transcript-note">[unintelligible]</span>
+<span class="transcript-speaker">Rauhauser, SC2:58:34:</span> So besides JoJo Camp... This is a little bit of crosstalk for Kirt here. Other than JoJo Camp, who else in the completely unacceptable website operators crew had stuff with Epik? Did we find any [James McGibney](https://en.wikipedia.org/wiki/James_McGibney)?
 
-<span class="transcript-speaker">Kirtaner:</span> Those are not questions for me, I haven't gone really spelunking through the data yet. I just have a high level overview of what is in it.
+<span class="transcript-speaker">Kirtaner:</span> I don't... those are not questions for me, I haven't gone really spelunking through the data yet. I just have a high level overview of what is in it.
 
-<span class="transcript-speaker">Monster:</span> Yep. Yeah, so we do have a good abuse department, and they are pretty close to 24/7, so if you see something that is overtly troublesome... take a screenshot. We don't really like to click your links. Take a screenshot, include the link. We actually are developing a software, we've gotten so practiced at dealing with abuse, that we're actually developing a software! We actually have almost finished it, and it will be launched as a multi-tenant software than anybody could then use as like software as a service. Kind of like [Zendesk](https://en.wikipedia.org/wiki/Zendesk) for abuse management. Written by lawyers and technologists so you can kind of follow protocol on abuse ticket management. So we think that might be useful.
+<span class="transcript-speaker">Monster, SC2:59:05:</span> Yep. Yeah, so we do have a good abuse department, and they are pretty close to 24/7, so if you see something that is overtly troublesome... take a screenshot. We don't really like to click your links. Take a screenshot, include the link. We actually are developing a software, we've gotten so practiced at dealing with abuse, that we're actually developing a software! We actually have almost finished it, and it will be launched as a multi-tenant software than anybody could then use as like software as a service. Kind of like [Zendesk](https://en.wikipedia.org/wiki/Zendesk) for abuse management. Written by lawyers and technologists so you can kind of follow protocol on abuse ticket management. So we think that might be useful.
 
-<span class="transcript-speaker">High Fidelity:</span> Is there anything worse than programmers or lawyers, Rob?
+<span class="transcript-speaker">High Fidelity:</span> The only thing worse than programmers are lawyers, Rob.
 
-<span class="transcript-speaker">Monster:</span> Yeah, I know. We actually try to use lawyers in a productive way. I try to avoid lawyers, but...
+<span class="transcript-speaker">Monster, SC2:59:51:</span> Yeah, I know. We actually try to use lawyers in a productive way. I try to avoid lawyers, but...
 
 <span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[laughing]</span> Everyone tries to avoid lawyers, chief.
 
-<span class="transcript-speaker">Jackson:</span> The lawyers did the [SDLC lifecycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle), right? They got it all secure? Is that what happened? Or did you actually hire cybersecurity professionals to audit the software? Or can we just expect an [underflow](https://en.wikipedia.org/wiki/Arithmetic_underflow) or an [overflow](https://en.wikipedia.org/wiki/Integer_overflow) or something, and you know, [RCE](https://en.wikipedia.org/wiki/Arbitrary_code_execution) on the servers.
+<span class="transcript-speaker">Jackson, SC3:00:09:</span> The lawyers did the [SDLC lifecycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle), right? They got it all secure? Is that what happened? Or did you actually hire cybersecurity professionals to audit the software? Or can we just expect an [underflow](https://en.wikipedia.org/wiki/Arithmetic_underflow) or an [overflow](https://en.wikipedia.org/wiki/Integer_overflow) or something, and you know, [RCE](https://en.wikipedia.org/wiki/Arbitrary_code_execution) on the servers.
 
 <span class="transcript-speaker">Monster:</span> I didn't catch that. I don't understand the question.
 
-<span class="transcript-speaker">Jackson:</span> SDLC. Do you know what SDLC is?
+<span class="transcript-speaker">Jackson, SC3:00:36:</span> SDLC. Do you know what SDLC is?
 
 <span class="transcript-speaker">Monster:</span> No.
 
@@ -2153,19 +2219,19 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified:</span> They're on the [waterfall](https://en.wikipedia.org/wiki/Waterfall_model), John.
 
-<span class="transcript-speaker">Monster:</span> Earlier in the call we were talking about, you know, the legacy of the Russian dev team and <span class="transcript-note">[crosstalk]</span>
+<span class="transcript-speaker">Monster:</span> Earlier in the call we were talking about, you know, the legacy of the Russian dev team and...
 
 <span class="transcript-speaker">Jackson:</span> <span class="transcript-note">[laughing]</span> the Russian dev team, damn.
 
-<span class="transcript-speaker">Monster:</span> ...we've done a lot of acquisitions over the years, and we are substantially retooling. But that legacy code of the Epik registrar, all of that is being replaced.
+<span class="transcript-speaker">Monster:</span> ...we've done a lot of acquisitions in the last few years, and we are substantially retooling. But that legacy code of the Epik registrar, all of that is being replaced.
 
-<span class="transcript-speaker">Unidentified:</span> What's your backend, John? Er, what's your backend, Rob?
+<span class="transcript-speaker">Unidentified, SC3:01:09:</span> What's your backend, John? Er, what's your backend, Rob?
 
 <span class="transcript-speaker">Monster:</span> Yeah.
 
 <span class="transcript-speaker">Unidentified:</span> What's your backend?
 
-<span class="transcript-speaker">Monster:</span> For those of you who want to do a deep dive on tech, I have really talented guys that I'll be happy to do a breakout session with. I think they'll be fascinating. So if you have an interest in doing...
+<span class="transcript-speaker">Monster, SC3:01:16:</span> For those of you who want to do a deep dive on tech, I have really talented guys that I'll be happy to do a breakout session with. I think they'll be fascinating. So if you have an interest in doing...
 
 <span class="transcript-speaker">Jackson:</span> [Open-source](https://en.wikipedia.org/wiki/Open_source) your stack, Rob.
 
@@ -2181,7 +2247,7 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster:</span> No I appreciate that. I think there's an open invitation for folks who've had a chance to look at the code to help plug whatever remaining vulnerabilities might exist. You know, try not to exploit it...
 
-<span class="transcript-speaker">High Fidelity:</span> Actually, you know what Rob? We should turn this into a paying engagement.
+<span class="transcript-speaker">High Fidelity, SC3:02:05:</span> Actually, you know what Rob? We should turn this into a paying engagement.
 
 <span class="transcript-speaker">Monster:</span> I did!
 
@@ -2199,41 +2265,41 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Monster:</span> So right now it's just an email, but we also are... bugs@epik.com  But what we are also doing, we actually have a software team... We have a cybersecurity team, believe it or not.
 
-<span class="transcript-speaker">Unidentified:</span> You should fire them.
+<span class="transcript-speaker">Unidentified SC3:02:39:</span> You should fire them.
 
 <span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[laughing]</span>
 
-<span class="transcript-speaker">Unidentified:</span> Yes. Yes yes yes.
+<span class="transcript-speaker">Jackson:</span> Yes. Yes yes yes.
 
 <span class="transcript-speaker">Monster:</span> I'm telling you! We've just hired and assembled a team. A crack team from South Africa. 
 
-<span class="transcript-speaker">Jackson?:</span> From South Africa?? You guys are gonna get popped again! [Their government just got fucking ransomwared](https://www.bleepingcomputer.com/news/security/ransomware-encrypts-south-africas-entire-dept-of-justice-network/)!
+<span class="transcript-speaker">Jackson, SC3:02:53:</span> From South Africa?? You guys are gonna get popped again! [Their government just got fucking ransomwared](https://www.bleepingcomputer.com/news/security/ransomware-encrypts-south-africas-entire-dept-of-justice-network/)!
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">L?:</span> Honestly, I'm working on website security... <span class="transcript-note">[crosstalk]</span>... had a simple website with a simple password, and at one point it kept getting hacked, so I had to keep being smarter about how to make it secure and eventually I figured out a way to code it in such a way that the guy couldn't hack into it. So, technically speaking... 
+<span class="transcript-speaker">L:</span> Honestly, I'm working on website security before... [crosstalk] ...where I had a simple website with a simple password, and at one point it kept getting hacked, so I had to keep being smarter about how to make it secure and eventually I figured out a way to code it in such a way that the guy couldn't hack into it. So, technically speaking... 
 
 <span class="transcript-speaker">Monster:</span> Yep.
 
-<span class="transcript-speaker">L?:</span> ...you can make anything completely secure. It just takes real-time dedication and effort. You'd have to have them look, they're going to have to look through, comb through everything.
+<span class="transcript-speaker">L:</span> ...you can make anything completely secure. It just takes real-time dedication and effort. You'd have to have them look, they're going to have to look through, comb through everything.
 
 <span class="transcript-speaker">High Fidelity?:</span> Hold on, what's 100% secure?
 
 <span class="transcript-speaker">Unidentified:</span> There's no security. No.
 
-<span class="transcript-speaker">L?:</span> The more complicated it is, that is.
+<span class="transcript-speaker">L:</span> The more complicated it is, that is.
 
 <span class="transcript-note">[crosstalk]</span>
 
 <span class="transcript-speaker">Unidentified:</span> ...technologically how it works.
 
-<span class="transcript-speaker">L?:</span> Technically, yeah.
+<span class="transcript-speaker">L:</span> Technically, yeah.
 
 <span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[sigh]</span>
 
-<span class="transcript-speaker">Jackson?:</span> You can't permanently secure anything, though, because new vulnerabilities come out all the time.
+<span class="transcript-speaker">Jackson:</span> You can't permanently secure anything, though, because new vulnerabilities come out all the time.
 
-<span class="transcript-speaker">L?:</span> Theoretically you can hack anything.
+<span class="transcript-speaker">L:</span> Theoretically you can hack anything.
 
 <span class="transcript-speaker">Unidentified:</span> Nothing can be completely secure.
 
@@ -2243,17 +2309,196 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 
 <span class="transcript-speaker">Unidentified:</span> Do you never update your shit?
 
-<span class="transcript-speaker">L?:</span> I have a degree in computer science.
+<span class="transcript-speaker">Unidentified:</span> I have a degree in computer science.
 
 <span class="transcript-note">[crosstalk]</span>
 
-<span class="transcript-speaker">Rauhauser:</span> The real issue was not the technical <span class="transcript-note">[unintelligible]</span>. It was some of the people who were using Epik that led to the problem. I mean, we've seen JoJo in here tonight finally getting ejected from this particular corner of the Internet. And the idea that there's an improved abuse service is interesting to me, but I suspect that as time goes on and people start looking through these domains that have been registered... you know, I saw something go by on Twitter, that someone's starting to explore who some of the registrants are. And there's literally a cluster of bad actors, of individuals who, it's not a matter of the natural right of free speech, it's...
+<span class="transcript-speaker">Rauhauser, 3:04:12:</span> The real issue was not the technical vulnerability of the system so much as it was some of the people who were using Epik that led to the problem. I mean, we've seen JoJo in here tonight finally getting ejected from this particular corner of the Internet. And the idea that there's an improved abuse service is interesting to me, but I suspect that as time goes on and people start looking through these domains that have been registered... you know, I saw something go by on Twitter, that someone's starting to explore who some of the registrants are. And there's literally a cluster of bad actors, of individuals who, it's not a matter of the natural right of free speech, it's...
 
-<span class="transcript-speaker">Unidentified:</span> Wring your hands more, you fucking limp-wristed f*****. <span class="transcript-note">[crosstalk]</span> You don't even own anything, shut the fuck up.
+<span class="transcript-speaker">Unidentified, 3:04:58:</span> Wring your hands more, you fucking limp-wristed f*****. You going to start curating who can and can't use this fucking service? You don't even own it, this other fucking idiot does, why don't you shut the fuck up.
 
-<span class="transcript-speaker">L?:</span> The worst thing is that even if you code something perfectly, there's an environmental risk to <span class="transcript-note">[unintelligible]</span>. The environmental risk is radioactivity. [A single particle from radiation from the outer space can flip a 0 to a 1](https://en.wikipedia.org/wiki/Soft_error). It's happened...
+<span class="transcript-speaker">L:</span> The worst thing is that even if you code something perfectly, there's an environmental risk to <span class="transcript-note">[unintelligible]</span>. The environmental risk is radioactivity. [A single particle from radiation from the outer space can flip a 0 to a 1](https://en.wikipedia.org/wiki/Soft_error). It's happened...
 
-<span class="transcript-note">[Jitsi drops. There is a very long period before audio resumes]</span>
+<span class="transcript-note">[Jitsi drops]</span>
+
+<span class="transcript-speaker">Monster, SC3:06:14:</span> Yeah. Yeah.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">L:</span> You probably just need to put more RAM on whatever server it's on.
+
+<span class="transcript-speaker">Unidentified:</span> That's one of the best traits I know about Kirt is whenever something remotely intense happens, this man bursts open like a bomb.
+
+<span class="transcript-speaker">Kirtaner:</span> Goddamn!
+
+<span class="transcript-speaker">Monster, SC3:06:51:</span> Well guys, been fun visiting. We'll have to do this more often. And I'll happily do another one of these if anybody wants to. But mostly, you gotta bring Chad, because he said...
+
+<span class="transcript-speaker">LH:</span> I thought you said you were going all night. You said you were going to go all night.
+
+<span class="transcript-speaker">Monster:</span> You want me to keep going? What else you got?
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified:</span> You brought a bunch of people together.
+
+<span class="transcript-speaker">LH:</span> Say a prayer.
+
+<span class="transcript-speaker">Jackson:</span> Let us pray.
+
+<span class="transcript-speaker">Monster, SC3:07:28:</span> Heavenly Father, Abba Father, we are just so thankful for this time of fellowship. We know, Lord, that You are sovereign over all good and evil. We have an opportunity to come together as a community all around the world, Lord. People who are in various points of their walk of life...
+
+<span class="transcript-speaker">Unidentified:</span> I like how as he is reading this there is that fucking crazy Simpsons 3D animation playing right below him on my screen. <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">Monster:</span> ... we know that ultimately, Lord, You are directing their steps, and we just thank You, Lord, that You minister to them through Your Holy Spirit, that their trespasses and sins are forgiven, all curses are broken...
+
+<span class="transcript-speaker">Unidentified:</span> I don't give a fuck. <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">Monster:</span> ...and that they will glorify Your name through whatever path You direct them on next. And give you all the glory of Jesus' name. Amen.
+
+<span class="transcript-note">[Various]</span>: Amen.
+
+<span class="transcript-speaker">Catgod:</span> And also bless your cats. Amen.
+
+<span class="transcript-speaker">Monster, SC3:08:16:</span> I don't have any cats. I have a dog, though. That's funny.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Rauhauser:</span> Kitty's asleep on the bed behind me, I was just checking on her.
+
+<span class="transcript-speaker">Unidentified:</span> I see like three Neils!
+
+<span class="transcript-speaker">Unidentified:</span> Yeah, that's something you just get used to. There's a lot of Neils on the scene, there's a lot of Johns in the scene, too.
+
+<span class="transcript-speaker">LH:</span> There a David Johnson, too.
+
+<span class="transcript-speaker">Rauhauser:</span> Davids. There's Davids too.
+
+<span class="transcript-speaker">LH:</span> David Johnson.
+
+<span class="transcript-speaker">Kirtaner:</span> They're all David!
+
+
+<span class="transcript-speaker">Unidentified:</span> Kirt is low-key one of the few unique-named people here. Aubrey is a quirky name, that's not a very common one. That's a good one.
+
+<span class="transcript-speaker">Kirtaner:</span> The only other famous Aubrey I know of is the rapper Drake. And a bit of trivia, I went to grade school with him.
+
+<span class="transcript-speaker">Unidentified:</span> Oh yeah, you said that in [your Reddit AMA](https://www.reddit.com/r/IAmA/comments/jmafy5/i_am_aubrey_cottle_aka_kirtaner_i_am_the_founder) like fucking forever ago I think. Yeah he had said that before somewhere, I forget where.
+
+<span class="transcript-speaker">Jackson:</span> Oh, yeah, Drake.
+
+<span class="transcript-speaker">Unidentified:</span> He went to like, elementary school with him or something. Is Drake Canadian?
+
+<span class="transcript-speaker">Kirtaner:</span> Yeah, Drake is Canadian, he lived in my neighborhood. 
+
+<span class="transcript-speaker">Unidentified:</span> Oh, okay, yeah. I didn't know that, actually. Pretty interesting.
+
+<span class="transcript-speaker">Kirtaner:</span> What? His whole thing is he's the favorite son of the 6, as in the 416, Toronto's area code. Don't you know shit?
+
+<span class="transcript-speaker">Unidentified:</span> I'm from BC, we're uncultured.
+
+<span class="transcript-speaker">Unidentified:</span> Raptors, yo.
+
+<span class="transcript-speaker">Jackson:</span> Drake ate my ass in a parking lot once.
+
+<span class="transcript-speaker">Unidentified:</span> Fucking Canadians.
+
+<span class="transcript-speaker">High Fidelity, SC3:10:02:</span> Tell me more about this maple syrup whiskey. I need this in my life.
+
+<span class="transcript-speaker">Kirtaner:</span> Oh dude! Maple Crown Royal is fucking bomb.
+
+<span class="transcript-speaker">Unidentified:</span> I like the apple Crown Royal, that shit's good as fuck.
+
+<span class="transcript-speaker">Unidentified:</span> I think the funniest thing is that...
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified:</span> I think the funny thing is that there's the running stereotype that Canadian people are supposed to be nice. And then you encounter Kirt, and you're like, that stereotype's out the window real fucking fast.
+
+<span class="transcript-speaker">Kirtaner:</span> Oh, well I am actually very nice. It's my passive aggressiveness that will kill you.
+
+<span class="transcript-note">[Various]</span>: <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">High Fidelity, SC3:10:55:</span> Rob, you've gone quiet, what's on your mind, bro?
+
+<span class="transcript-speaker">Monster:</span> Oh, gosh, you know. It's been a crazy week, you know? I told some folks here at the beginning of the call that yesterday was the hardest day that I can remember. You know? And it's just not everyday that you get that much international attention.
+
+<span class="transcript-speaker">Kirtaner, SC3:11:18:</span> That you get blown out that badly, yeah. It's kind of historic.
+
+<span class="transcript-note">[Various]</span>: <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">Monster:</span> Yeah, it's like on another level. And I kind of acknowledge that as a guy who's endured some stuff over the last few years, I certainly have an appreciation for the ability to confront adversity and to plow through it. Keep chipping away, as I often say.
+
+<span class="transcript-speaker">Jackson:</span> I plow through it all the time, that's the way to go, my man. Just fucking plow it. Just fucking plow it, all day. All day.
+
+<span class="transcript-speaker">Unidentified:</span> _You_ gotta fucking plow through, buddy.
+
+<span class="transcript-speaker">Unidentified:</span> Just let it ride.
+
+<span class="transcript-speaker">Monster:</span> Well, God doesn't give you more than you can handle.
+
+<span class="transcript-speaker">Jackson:</span> Just like, full farmer, you know? Just pull out your plow and just plow the hoes. Just plow em.
+
+<span class="transcript-speaker">High Fidelity, SC3:12:01:</span> Hey, hey who was talking about [Sedo](https://en.wikipedia.org/wiki/Sedo) as the registrar? S-e-d-o? As the registrar of <span class="transcript-note">[unintelligible]</span>
+
+<span class="transcript-speaker">Monster:</span> They're not. Sedo is a marketplace.
+
+<span class="transcript-speaker">Jackson:</span> Plow. I can't stop saying plow.
+
+<span class="transcript-speaker">Unidentified:</span> <span class="transcript-note">[laughing]</span>
+
+<span class="transcript-speaker">Unidentified:</span> I mean, aren't you the one currently working on the Anal Phisher? Didn't Kirt give you that line of work?
+
+<span class="transcript-speaker">Jackson:</span> No, that's not me.
+
+<span class="transcript-speaker">Unidentified:</span> I thought he gave you it.
+
+<span class="transcript-speaker">Jackson:</span> Yeah, but I lost it up my ass. I'm sorry, ok? I lost it up my ass.
+
+<span class="transcript-speaker">Unidentified:</span> I forget who he gave it to. Ehh, what can I say. Shit happens.
+
+<span class="transcript-speaker">Kirtaner:</span> It looks like you need some better buttsec my friend.
+
+<span class="transcript-speaker">High Fidelity:</span> Yeah, that's bad buttsec.
+
+<span class="transcript-speaker">Jackson, SC3:12:32:</span> Nah, I told him, "I'll test it". Like, I'll fucking... connect to the bluetooth thing, stick it up someone's bootyhole, and fucking see if I can get some wifi hashes.
+
+<span class="transcript-speaker">Unidentified:</span> No lube. No lube, John, no lube.
+
+<span class="transcript-speaker">Unidentified:</span> It just hit me as to the chaos of this chat right now.
+
+<span class="transcript-speaker">Jackson:</span> Lube? Who uses... Man, I was in the Marine Corps, they didn't use fucking lube, they just assfucked you, okay? I don't know what to tell you.
+
+<span class="transcript-note">[crosstalk]</span>
+
+<span class="transcript-speaker">Unidentified, SC3:12:55:</span> It just hit me, the chaos of this chat... we go from Rob giving lovely little fucking religious prayers and just teaching everybody shit, to straight, oh, we're shoving shit up our buttholes.
+
+<span class="transcript-speaker">Monster:</span> You know...
+
+<span class="transcript-speaker">Kirtaner, SC3:13:10:</span> You know, I'm actually making, unironically making a hacking tool. A penetration-testing, wifi-cracking buttplug.
+
+<span class="transcript-speaker">Jackson:</span> Yeah, it's not a joke, he really is.
+
+<span class="transcript-speaker">Kirtaner:</span> It vibrates when you catch some wifi <span class="transcript-note">[unintelligible]</span>. For the most intimate physical engagements.
+
+<span class="transcript-speaker">Unidentified:</span> What language you writing it in?
+
+<span class="transcript-speaker">High Fidelity:</span> What's it called?
+
+<span class="transcript-speaker">Kirtaner:</span> It's called the Anal Phisher.
+
+<span class="transcript-speaker">Jackson:</span> He's writing it in [assembly](https://en.wikipedia.org/wiki/Assembly_language).
+
+<span class="transcript-speaker">Unidentified:</span> Well he clearly has to write it in [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)).
+
+<span class="transcript-speaker">Jackson:</span> He's writing it in [COBOL](https://en.wikipedia.org/wiki/COBOL).
+
+<span class="transcript-speaker">Unidentified:</span> Writing it in [brainfuck](https://en.wikipedia.org/wiki/Brainfuck).
+
+<span class="transcript-speaker">Unidentified:</span> Whew, that's a challenge and a half. If you could actually write that shit in brainfuck you have <span class="transcript-note">[unintelligible]</span>.
+
+<span class="transcript-speaker">Monster:</span> Yeah.
+
+<span class="transcript-note">[Jitsi drops]</span>
 
 <span class="transcript-speaker">Monster:</span> ...really, really, really needed to be able to get ahold of you, they would be able to send you a message. And that means the end of spam. So, we'll see. But, that's one of our high-priority projects and I'm excited to see it come together. I think what it does is it opens up the possibility of creating a level playing field, where you don't have to be a huge company to be able to get people to sign up for your little website. Because one of the big challenges for independent publishers is how do you give them a way to be able to get audience when most people don't want to sign up and save [PII](https://en.wikipedia.org/wiki/Personal_data) with a small website that they may use once and not again. So the framework for portable, [self-sovereign identity](https://en.wikipedia.org/wiki/Self-sovereign_identity) with [single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) and portable reputation, where you have the ability to basically... it pays to be you and it pays to be good... I think it's an idea that's time has come, and so yeah... <span class="transcript-note">[reading the chat, not visible]</span> Yeah, there's mature tech but it hasn't been implemented from a consumer-centric perspective, so we'll see.
 
