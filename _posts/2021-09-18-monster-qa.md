@@ -10,11 +10,12 @@ custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on Septemb
 <div class="note">
 <p>This is a transcript of most of the live Q&A session held by <a href="https://en.wikipedia.org/wiki/Epik_(company)">Epik</a> CEO <a href="https://en.wikipedia.org/wiki/Rob_Monster">Rob Monster</a> on September 16, 2021. It is compiled from a <a href="https://www.youtube.com/watch?v=aZ9MFts28XI">YouTube</a> recording, where it was published by <a href="ttps://twitter.com/MikaelThalen">Mikael Thalen</a>, as well as from a <a href="https://soundcloud.com/user-197465089-37602075/rob-monster-ceo-of-epik-discussing-hack-by-anonymous">Soundcloud</a> recording published by "EpikFail". Timestamps from the two recordings are not in sync, so those referring to YouTube are marked with "YT" and those from SoundCloud are "SC".</p>
 
+<p>I have also made a <a href="https://gist.github.com/molly/88eae60e2f9db9031c1661720e827e36">plaintext</a> copy available.</p>
 <details>
 <summary>Transcription and copyright details</summary>
 <p>The transcript has only been edited for readability (e.g., to remove filler words which do not change meaning) and to remove some of weev's comments (all removals marked inline) which I have no interest in reprinting on my own website. Where relevant, comments from the live chat section have been transcribed for context.</p>
 
-<p>All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.</p>
+All additional copyright to this transcript can be considered waived, and it can be freely reused with or without attribution to me. Video copyright details are available at the YouTube link.
 </details>
 </div>
 
