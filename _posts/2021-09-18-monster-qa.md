@@ -2475,7 +2475,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Jackson:</span> Yeah, it's not a joke, he really is.
 
-<span class="transcript-speaker">Kirtaner:</span> It vibrates when you catch some wifi <span class="transcript-note">[unintelligible]</span>. For the most intimate physical engagements.
+<span class="transcript-speaker">Kirtaner:</span> It vibrates when you catch some wifi [WPA2](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access) handshakes. For the most intimate physical engagements.
 
 <span class="transcript-speaker">Unidentified:</span> What language you writing it in?
 
