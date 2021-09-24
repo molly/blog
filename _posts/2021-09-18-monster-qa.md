@@ -2643,11 +2643,11 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, SC3:23:40:</span> <span class="transcript-note">[reading chat]</span> "What about UFOs?" I think aliens are actually demons, and I don't think there are extraterrestrial, you know... from other galaxies. I don't believe that.
 
-<span class="transcript-speaker">LH:</span> Do you like cats <span class="transcript-note">[unintelligible]</span>
+<span class="transcript-speaker">LH:</span> Do you like Kirt's pussy?
 
 <span class="transcript-speaker">Monster:</span> I don't know.
 
-<span class="transcript-speaker">LH:</span> Pussycats
+<span class="transcript-speaker">LH:</span> Do you like Kirt's pussy?
 
 <span class="transcript-speaker">High Fidelity:</span> Kirt's holding a cat, right? So they're asking if you like...
 
