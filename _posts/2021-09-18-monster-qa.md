@@ -1134,11 +1134,11 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT2:46:44:</span> No, no! But I have my hobbies. But, I feel good. I don't drink very much. I had wine today, that was good, we had Communion today. But I don't really drink much, and I try to get to sleep by 11:30 and get up around 6 or 6:30. And then try to take a nap on the weekend. So yeah, what else?
 
-<span class="transcript-speaker">LH:</span> Are you not fasting?
+<span class="transcript-speaker">LinsHorse:</span> Are you not fasting?
 
 <span class="transcript-speaker">Monster, YT2:47:19:</span> I fasted today. I did. I fasted. I did. I fasted from Wednesday afternoon until Thursday evening. 
 
-<span class="transcript-speaker">LH:</span> How can you drink if you're fasting?
+<span class="transcript-speaker">LinsHorse:</span> How can you drink if you're fasting?
 
 <span class="transcript-speaker">Monster:</span> I did fast.
 
@@ -1164,11 +1164,11 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT2:48:41:</span> Yeah. Yeah, not his highest self. So yeah, we gotta work on that. And I commit to working with him to try to be a better version of himself. And in the meantime, we're not going to turn YourDaddyJoey back on, because I think it's divisive, and I think that... needs to basically heal. I mean some of this antifa stuff that has been going on the last year is kind of crazy. I mean it would just be good if we just had a little bit less of like, burning down neighborhoods and stuff that. I think we need to do a little better.
 
-<span class="transcript-speaker">LH:</span> I think that Catgod wants to say a prayer.
+<span class="transcript-speaker">LinsHorse:</span> I think that Catgod wants to say a prayer.
 
 <span class="transcript-speaker">Kirtaner:</span> Catgod!
 
-<span class="transcript-speaker">LH:</span> Catgod, say a prayer.
+<span class="transcript-speaker">LinsHorse:</span> Catgod, say a prayer.
 
 <span class="transcript-speaker">Catgod:</span> <span class="transcript-note">[unintelligible]</span> ...and bless your cats.
 
@@ -1190,7 +1190,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Kirtaner:</span> Give Catgod his five dollars, he won't stop asking! For the love of God, somebody do it already.
 
-<span class="transcript-speaker">LH:</span> Cashapp is $catgodcatgod
+<span class="transcript-speaker">LinsHorse:</span> Cashapp is $catgodcatgod
 
 <span class="transcript-speaker">Rauhauser, YT2:50:49:</span> For those of us who don't have five dollars handy, are we still assisting with homework? 
 
@@ -1204,15 +1204,15 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT2:51:28:</span> Pretty much not. I almost don't watch any television. No time.
 
-<span class="transcript-speaker">LH:</span> What do you think for fun?
+<span class="transcript-speaker">LinsHorse:</span> What do you think for fun?
 
 <span class="transcript-speaker">Monster:</span> You know what, I grow a lot of blueberries. We have like 80 blueberry bushes. And I actually read a ton, I have like two libraries. If you could see the stack of books that are around me, I think you'd be impressed.
 
-<span class="transcript-speaker">LH:</span> Do you read [Parler](https://en.wikipedia.org/wiki/Parler)?
+<span class="transcript-speaker">LinsHorse:</span> Do you read [Parler](https://en.wikipedia.org/wiki/Parler)?
 
 <span class="transcript-speaker">Monster, YT2:51:54:</span> What?
 
-<span class="transcript-speaker">LH:</span> Have you ever read Parler?
+<span class="transcript-speaker">LinsHorse:</span> Have you ever read Parler?
 
 <span class="transcript-speaker">Monster:</span> What's Palmer? Oh the website, Parler. I'm not a member of Parler <span class="transcript-note">[crosstalk]</span> 
 
@@ -1236,11 +1236,11 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT2:53:18:</span> Gosh. How's everybody feeling? You guys... everybody COVID-free?
 
-<span class="transcript-speaker">LH:</span> I feel like... the power of god... I've got nothing. Catgod, say a prayer.
+<span class="transcript-speaker">LinsHorse:</span> I feel like... the power of god... I've got nothing. Catgod, say a prayer.
 
 <span class="transcript-speaker">Catgod:</span> I did.
 
-<span class="transcript-speaker">LH:</span> Louder.
+<span class="transcript-speaker">LinsHorse:</span> Louder.
 
 <span class="transcript-speaker">Rauhauser:</span> Did you get five bucks for it?
 
@@ -1250,7 +1250,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT2:53:44:</span> Yeah well, that's funny. Well I gotta tell you that Satan is burning up because of this video. We did something kind of clever, right? So Satan wants to divide. He wants to basically create divisiveness, hate, polarity, and that polarity is breaking down. There's awakening happening all over the world because people have consensus around truth, and it drives Satan crazy. And satan ultimately loses. He's going to go to the pit. Ultimately he goes to the pit. That's the deal, he knows it, and we know that God wins in the end and Jesus Christ will rule and reign from the <span class="transcript-note">[unintelligible]</span> for a thousand years. That's what I believe. So, it's coming, we're almost there.
 
-<span class="transcript-speaker">LH:</span> Do you think Jesus will save you from the hack?
+<span class="transcript-speaker">LinsHorse:</span> Do you think Jesus will save you from the hack?
 
 <span class="transcript-speaker">Monster, YT2:54:42:</span> I think that Jesus basically allows evil to happen because he gives us free will. But I think that in the end he transmutes evil so when there's injustice... and it's repaid sevenfold. So this hack could happen, it's going to actually repay Epik with a bounty sevenfold. That's God's... <span class="transcript-note">[noise from other participant, unintelligible]</span> ...but when Satan overplays his hand, does something really stupid, then the Lord transmutes that into good.
 
@@ -1260,29 +1260,29 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT2:55:30:</span> He does. That's how it goes. That's God's economic.
 
-<span class="transcript-speaker">LH:</span> Do you know who David Johnson is?
+<span class="transcript-speaker">LinsHorse:</span> Do you know who David Johnson is?
 
 <span class="transcript-speaker">Monster, YT2:55:33:</span> I don't, who's David Johnson?
 
-<span class="transcript-speaker">LH:</span> <span class="transcript-note">[laughing]</span> He's everyone.
+<span class="transcript-speaker">LinsHorse:</span> <span class="transcript-note">[laughing]</span> He's everyone.
 
 <span class="transcript-speaker">Monster:</span> He's everyone. Alright. That's good. You seem pretty enlightened. What do you believe? Is there a plan of salvation in your methodology?
 
-<span class="transcript-speaker">LH:</span> Jainism. Jainism.
+<span class="transcript-speaker">LinsHorse:</span> Jainism. Jainism.
 
 <span class="transcript-speaker">Monster:</span> Jainism.
 
-<span class="transcript-speaker">LH:</span> Have you heard of it?
+<span class="transcript-speaker">LinsHorse:</span> Have you heard of it?
 
 <span class="transcript-speaker">Monster:</span> So are you from India? Or where do you come from?
 
-<span class="transcript-speaker">LH, YT2:56:02:</span> I live in England
+<span class="transcript-speaker">LinsHorse, YT2:56:02:</span> I live in England
 
 <span class="transcript-speaker">Monster:</span> In England.
 
 <span class="transcript-speaker">Catgod:</span> Where's uh... <span class="transcript-note">[unintelligible, cat meowing]</span>.
 
-<span class="transcript-speaker">LH:</span> I'm trying to see the Christian light, which is why I'm here.
+<span class="transcript-speaker">LinsHorse:</span> I'm trying to see the Christian light, which is why I'm here.
 
 <span class="transcript-speaker">Unidentified:</span> Uh... he's called Rob Monster. I guess that's his real fucking name.
 
@@ -1302,7 +1302,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT2:57:46:</span> ...and then on the basis of this two and three quarter hour interview, he took six sentences of mine and turned it into a hit piece. And the part about "the Lex Luthor of the Internet", he asked me this question: "why do people think... why do you think the media is unkind to you?" And I said to him, I said, "well, with a name Rob Monster, it's like the Lex Luthor of the Internet." So if you wanted to, like, cast a villain to create, I don't know, a negative story, so you could be like the [Charlie of Vietnam](https://en.wikipedia.org/wiki/Viet_Cong#Names) but on the Internet... Rob Monster would be a really good name, because it sounds like a villain. But I'm not a villain. So that's kind of how I think it went down. And so the scriptwriters who orchestrate this stuff, they decided to make me the villain. What they underestimated is that it's going to cost them some stuff. Anonymous, you guys got it wrong. I don't know who runs... you're not on Twitter, but you guys got it wrong. We don't think...
 
-<span class="transcript-speaker">LH:</span> David Johnson
+<span class="transcript-speaker">LinsHorse:</span> David Johnson
 
 <span class="transcript-speaker">Monster, YT2:58:56:</span> David Johnson is the propaganda guy from Anonymous? Okay good to know.
 
@@ -1350,11 +1350,11 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">High Fidelity:</span> Noo. Shut up.
 
-<span class="transcript-speaker">LH:</span> Everything's a psyop.
+<span class="transcript-speaker">LinsHorse:</span> Everything's a psyop.
 
 <span class="transcript-speaker">Monster, YT3:01:52:</span> No, no. Guys. So, guys this idea of like... brigading a bunch of people who think they have access to secret information, and they, you know, using different systems. Then they rub up against each other, creating this dichotomy of two polar enemies who think the other side is trying to wipe each other out. And that's where you get the insanity that we've had to endure for the last 18 months. 
 
-<span class="transcript-speaker">LH:</span> <span class="transcript-note">[unintelligible]</span>
+<span class="transcript-speaker">LinsHorse:</span> <span class="transcript-note">[unintelligible]</span>
 
 <span class="transcript-speaker">High Fidelity:</span> I actually know an organization that has access to secret data. It's kind of fun.
 
@@ -1478,7 +1478,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Rauhauser:</span> Well...
 
-<span class="transcript-speaker">LH:</span> I mean, Donald Trump's had abortions...
+<span class="transcript-speaker">LinsHorse:</span> I mean, Donald Trump's had abortions...
 
 <span class="transcript-speaker">Monster, YT3:13:20:</span> <span class="transcript-note">[reading the chat. Full comment in chat was from "Hellbat": "Rob after you log off tonight demonic spirits will enter your home"]</span> So there's somebody here, Hellbat, he's got an attitude issue. He says "after you log off tonight, demonic spirits will enter your home." Heavenly Father, Abba Father, I declare in the name of the Lord Jesus Christ that that will not happen. I bind all demons and all evil spirits, all agents of Satan in the name of the Lord Jesus Christ. Take authority over it and send them to the abyss(?), if they were to come so far. And give You all the glory. Yeah. My God, my God, my God is mighty. He is in you and He is in me.
 
@@ -1508,7 +1508,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT3:16:06:</span> Um, gosh guys. 
 
-<span class="transcript-speaker">LH:</span> <span class="transcript-note">[unintelligible]</span>
+<span class="transcript-speaker">LinsHorse:</span> <span class="transcript-note">[unintelligible]</span>
 
 <span class="transcript-speaker">Monster, YT3:16:12:</span> Sun is setting in... what time is it in Honolulu? Then sun has set. Yom Kippur has ended, I think. So hopefully you made wise choices, and are set for an auspicious rest of the year. And for those of you who are still trying to figure it out: may God bless you, direct your <span class="transcript-note">[unintelligible]</span> May the Holy Spirit minister to you and lead you to a path of righteousness. I'll tell you what, though. I believe everybody has a purpose, everybody has a calling. And when you figure that out, when you surrender to the Lord's will, you will discover your spiritual inheritance and be led to the thing that you were made to perform. The thing that you were intended to accomplish. And you will have treasure for eternity, and I would encourage you to consider the possibility that life in all its complexity is... <span class="transcript-note">[crosstalk]</span> ...that there is a Designer. There is an Architect. And the meaning of life is to figure out the identity of who the Creator is, and what He wants. That would be my very strong encouragement.
 
@@ -1520,7 +1520,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Unidentified:</span> I just meant this video chat.
 
-<span class="transcript-speaker">LH:</span> What's your Telegram?
+<span class="transcript-speaker">LinsHorse:</span> What's your Telegram?
 
 <span class="transcript-speaker">Rauhauser:</span> Yeah, I think this is a much better platform. This is really handy. Nothing invasive, just get in and talk. 
 
@@ -1540,17 +1540,17 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, YT3:19:32:</span> <span class="transcript-note">[reading the chat. Full question in chat was from "..": "are you taking ivermectin rob ?"]</span> I got a question of if I'm taking [Ivermectin](https://en.wikipedia.org/wiki/Ivermectin). I'm not taking ivermectin.
 
-<span class="transcript-speaker">LH:</span> Ivermectin's mine.
+<span class="transcript-speaker">LinsHorse:</span> Ivermectin's mine.
 
 <span class="transcript-speaker">High Fidelity:</span> Don't... don't use that, Rob. That's for animals. 
 
-<span class="transcript-speaker">LH:</span> I take it daily.
+<span class="transcript-speaker">LinsHorse:</span> I take it daily.
 
 <span class="transcript-speaker">Monster, YT3:19:48:</span> I have some, but I haven't taken it...
 
 <span class="transcript-speaker">High Fidelity:</span> No, no, no, no...
 
-<span class="transcript-speaker">LH:</span> Can I have it?
+<span class="transcript-speaker">LinsHorse:</span> Can I have it?
 
 <span class="transcript-speaker">Unidentified:</span> Honestly, the best advice I can give anyone for this stuff, this sickness, is focus on your breathing. If you get sick, just focus on your breathing.
 
@@ -1558,15 +1558,15 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Kirtaner:</span> For those in the audience who were asking if Libby is present, she says hi.
 
-<span class="transcript-speaker">LH:</span> Can I buy your ivermectin?
+<span class="transcript-speaker">LinsHorse:</span> Can I buy your ivermectin?
 
 <span class="transcript-speaker">Monster, YT3:20:18:</span> That's funny... <span class="transcript-note">[reading the chat. Full question in chat was from "cody": "DID U VACCINATE ROB?"]</span> "Did I vaccinate?" No, I didn't vaccinate, and I haven't taken any action(?) I do take [zinc](https://www.covid19treatmentguidelines.nih.gov/therapies/supplements/zinc/) and [NAC](https://en.wikipedia.org/wiki/Acetylcysteine), and again, try to get out in the sun every day for at least a few minutes. And also I eat a lot of antioxidants. 
 
-<span class="transcript-speaker">LH:</span> Do you like bofa?
+<span class="transcript-speaker">LinsHorse:</span> Do you like bofa?
 
 <span class="transcript-speaker">Monster:</span> And I do believe there is a Spirit of Infirmity and I believe that... oh! It's funny, because I was in a prayer meeting yesterday, and after the prayer meeting this soreness that I had in my left shoulder for like a month and a half, I couldn't feel it. I'm completely back to normal, so it's great. 
 
-<span class="transcript-speaker">LH:</span> Rob, do you like bofa?
+<span class="transcript-speaker">LinsHorse:</span> Rob, do you like bofa?
 
 <span class="transcript-speaker">Unidentified:</span> And... out.
 
@@ -2034,7 +2034,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, SC2:47:50:</span> Well, I mean, I think that times of scarcity have caused people to kind of get back to basics. So when you see like a terrible hurricane, like the one that just struck the Gulf Coast, or terrible flooding, you know. You have all these people who have their preps. Like, they think they've got it figured out. But then something really bad happens and all their [preps](https://en.wikipedia.org/wiki/Survivalism) are trashed. For a lot of people... take the example of [_InfoWars_](https://en.wikipedia.org/wiki/InfoWars). I consider _InfoWars_ to be like a gateway drug for truth. But the problem is, for a lot of people, they kind of idle at this carnal level. Like they go and get guns, they store food, they practice at the range, and all this kind of stuff. But they never actually get around to like spiritual things, because the reality is when you surrender your work to the Lord, He'll order your steps. My favorite proverb, by the way, I read proverbs every day. There are 31 proverbs, so one for every day. I read them out loud.
 
-<span class="transcript-speaker">LH:</span> There's more than 31 proverbs.
+<span class="transcript-speaker">LinsHorse:</span> There's more than 31 proverbs.
 
 <span class="transcript-speaker">Jackson:</span> Every day? You've never missed a day, like ever? 
 
@@ -2158,7 +2158,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Kirtaner:</span> Alright! Cool!
 
-<span class="transcript-speaker">LH:</span> Tomorrow?
+<span class="transcript-speaker">LinsHorse:</span> Tomorrow?
 
 <span class="transcript-speaker">Kirtaner, SC2:57:20:</span> I don't know if it'd be tomorrow. I'd have to talk to Gregg, he's been dealing with a lot of stuff and not doing the show for the last two or so weeks. But I'll talk to him and I'll extend that invitation.
 
@@ -2182,7 +2182,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster:</span> So anyway, the site that offends you is offline. So if you missed it, heads up.
 
-<span class="transcript-speaker">LH:</span> There's a few hundred others...
+<span class="transcript-speaker">LinsHorse:</span> There's a few hundred others...
 
 <span class="transcript-speaker">Monster:</span> Yep.
 
@@ -2330,7 +2330,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, SC3:06:51:</span> Well guys, been fun visiting. We'll have to do this more often. And I'll happily do another one of these if anybody wants to. But mostly, you gotta bring Chad, because he said...
 
-<span class="transcript-speaker">LH:</span> I thought you said you were going all night. You said you were going to go all night.
+<span class="transcript-speaker">LinsHorse:</span> I thought you said you were going all night. You said you were going to go all night.
 
 <span class="transcript-speaker">Monster:</span> You want me to keep going? What else you got?
 
@@ -2338,7 +2338,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Unidentified:</span> You brought a bunch of people together.
 
-<span class="transcript-speaker">LH:</span> Say a prayer.
+<span class="transcript-speaker">LinsHorse:</span> Say a prayer.
 
 <span class="transcript-speaker">Jackson:</span> Let us pray.
 
@@ -2366,11 +2366,11 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Unidentified:</span> Yeah, that's something you just get used to. There's a lot of Neils on the scene, there's a lot of Johns in the scene, too.
 
-<span class="transcript-speaker">LH:</span> There a David Johnson, too.
+<span class="transcript-speaker">LinsHorse:</span> There a David Johnson, too.
 
 <span class="transcript-speaker">Rauhauser:</span> Davids. There's Davids too.
 
-<span class="transcript-speaker">LH:</span> David Johnson.
+<span class="transcript-speaker">LinsHorse:</span> David Johnson.
 
 <span class="transcript-speaker">Kirtaner:</span> They're all David!
 
@@ -2541,11 +2541,11 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Unidentified:</span> It's not going to be a PrayerMeeting full of anons if there's not that one guy just breathing into the mic as if it's a fucking Tuesday afternoon and he's gotta make four grand off of [Patreon](https://en.wikipedia.org/wiki/Patreon).
 
-<span class="transcript-speaker">LH:</span> I think it's Catgod.
+<span class="transcript-speaker">LinsHorse:</span> I think it's Catgod.
 
-<span class="transcript-speaker">Catgod:</span> No, it's not, it's fucking Lin's Horse.
+<span class="transcript-speaker">Catgod:</span> No, it's not, it's fucking LinsHorse.
 
-<span class="transcript-speaker">LH:</span> Catgod.
+<span class="transcript-speaker">LinsHorse:</span> Catgod.
 
 <span class="transcript-speaker">High Fidelity:</span> I'm too high to be mod, somebody else take it.
 
@@ -2643,11 +2643,11 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, SC3:23:40:</span> <span class="transcript-note">[reading chat]</span> "What about UFOs?" I think aliens are actually demons, and I don't think there are extraterrestrial, you know... from other galaxies. I don't believe that.
 
-<span class="transcript-speaker">LH:</span> Do you like Kirt's pussy?
+<span class="transcript-speaker">LinsHorse:</span> Do you like Kirt's pussy?
 
 <span class="transcript-speaker">Monster:</span> I don't know.
 
-<span class="transcript-speaker">LH:</span> Do you like Kirt's pussy?
+<span class="transcript-speaker">LinsHorse:</span> Do you like Kirt's pussy?
 
 <span class="transcript-speaker">High Fidelity:</span> Kirt's holding a cat, right? So they're asking if you like...
 
@@ -2679,17 +2679,17 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, SC3:26:15:</span> I think back then it was really helpful, like it is now, to know what's up, like what's true. And to a certain group, that was probably as good a source of like, "what's the real deal" as any other. But now we have the Internet and people can go basically search for truth. And unfortunately there's an enormous amount of misinfo and disinfo out there, and it's very easy to kind of go down that rabbit hole and get confused for a very long period of time.
 
-<span class="transcript-speaker">LH:</span> Yeah, but what about if that's your site? Your site hosts the misinfo and disinfo.
+<span class="transcript-speaker">LinsHorse:</span> Yeah, but what about if that's your site? Your site hosts the misinfo and disinfo.
 
 <span class="transcript-speaker">Monster:</span> Yeah, the problem is, the problem is...
 
-<span class="transcript-speaker">LH:</span> So shut it down.
+<span class="transcript-speaker">LinsHorse:</span> So shut it down.
 
 <span class="transcript-speaker">Monster, SC3:26:52:</span> Yeah. The problem is, you know... how much of it is, like, organized and how much of it is people who are just searching for truth being willfully ignorant, and who are we to judge? It's one thing when you have...
 
 <span class="transcript-speaker">High Fidelity:</span> You're the guy who hosts their bullshit, Rob. That's who you are to judge. You run it. You should know better. You're an adult man. Listen, the [QAnon](https://en.wikipedia.org/wiki/QAnon) crap? The QAnon crap got [parents to murder their children](https://en.wikipedia.org/wiki/QAnon#US_QAnon_child_murders), Rob.
 
-<span class="transcript-speaker">LH:</span> And kidnap.
+<span class="transcript-speaker">LinsHorse:</span> And kidnap.
 
 <span class="transcript-speaker">Monster, SC3:27:30:</span> I think the QAnon stuff didn't get out early enough. I think that for many people who are awake, it was apparent that it was a [psyop](https://en.wikipedia.org/wiki/Psychological_warfare). But the thing is, this thing with Wikipedia, it's 98% truth and some percentage of it is arsenic. So, like, how do you know? Right? <span class="transcript-note">[audio cuts out]</span> Is some percent arsenic? You know, debatable. You have to basically be mindful of your thoughts. What stuff do you allow to basically come into your head? Here's an example, a classic acid test. How many of you know what's a witch's [grimoire](https://en.wikipedia.org/wiki/Grimoire)? A grimoire is like a textbook for a witch. And you could say, well, witches are bad and grimoires are bad, and they shouldn't exist. But if someone has the ability to make that information available and people go and study it to find out how witches think and what they do, does that basically allow you to become more mature as a person, to be able to navigate a world that is partly evil and partly good? I think about life as like a soul gym. You basically have an opportunity to walk through this plane, and... imagine the image of [yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang). You've got the white and the dark, black and white, and there's a line going down the middle. I think your greatest workout in the soul gym is sort of borne along that edge. You basically are on the side of good, but you're not far from people who are dark. Being able to draw them out from dark into the light without becoming a part of the dark? How can you have a conversation with a witch if you don't know their playbook? How can you have a conversation... right? If you don't understand how they think? You know, there's this temptation to...
 
@@ -2697,13 +2697,13 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, SC3:30:31:</span> We were talking about soul gym and the workout that you get by traversing along the edge. Anyway, I think that if you have sites like Gab, and there are people who are misguided, and you have the ability to kind of overcome their lost-ness with something that is not lost, that's better than the alternative of some of these people disappearing to the dark web and engaging in misguidedness, you know, in an echo chamber. Misguided people are out there, and the question is, do you isolate them or do you engage and rehabilitate them? And that's a very difficult question. I tell you, it's a ton of work and most of it's thankless.
 
-<span class="transcript-speaker">LH, SC3:31:13:</span> What were you doing to rehabilitate them?
+<span class="transcript-speaker">LinsHorse, SC3:31:13:</span> What were you doing to rehabilitate them?
 
 <span class="transcript-speaker">Monster:</span> Oh I mean, there are countless times where we talk people off the battlefield when they're misguided. I think there's a URL you can check out, I'll put it in the chat, that shows you some of the examples of... let me see if I can find it. I'll get it for you. It's just, there's many examples. I'll just paste in the chat a section that we did on fighting hate. There are a lot of calls that we end up having as an organization, the culture that we've built as a company is... For example, let's say you deal with people that are nice. That are nice, they're kind, they're appreciative, they're really easy people to talk to. And then at the same time, sometimes you deal with people who are really hateful, angry, mean-spirited. And if you treat it like a soul gym, like a workout, then the people who are not not deserving of your kindness, if you can be kind to them and not lose your cool, then that's <span class="transcript-note">[unintelligible]</span> exercise. You're basically able to see where you're at by seeing what level of... like weev, earlier, that guy would be pretty hard to talk to one-on-one, but if you wanted to get a workout, you could try to talk to the guy and see if you could find some common ground.
 
 <span class="transcript-speaker">Unidentified:</span> weev is a shock jock.
 
-<span class="transcript-speaker">LH:</span> weev has no common ground.
+<span class="transcript-speaker">LinsHorse:</span> weev has no common ground.
 
 <span class="transcript-speaker">Monster, SC3:33:05:</span> No, I get it, I get it. But I think in a private setting...
 
@@ -2731,7 +2731,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, SC3:40:52:</span> Yeah, I did actually. Two kids at the time while we were in Japan. It was the most exhausting time to basically be flying around all over the world, and then being based in <span class="transcript-note">[unintelligible]</span> Japan. It got to the point that I was on a first-name basis with most of the flight attendants and even the people that checked you in...
 
-<span class="transcript-speaker">LH:</span> Yeah you were.
+<span class="transcript-speaker">LinsHorse:</span> Yeah you were.
 
 <span class="transcript-speaker">Monster:</span> ...they would know me by name when I showed up. That was actually the thing that caused me to have an idea to create a company that would allow you do multi-country [market research](https://en.wikipedia.org/wiki/Market_research) using the Internet. At the time, nobody was doing that. So in 1999 I quit the day job, moved from Japan to Seattle, and started this company GMI, Global Market Insite. That was the business that ended up growing really quickly and we ended up selling it for nine figures cash. It was a pretty interesting ride, but the idea of using technology as a platform to be able to empower gathering of intelligence and using it in a way to guide decision-making, that was a pretty fascinating project.
 
@@ -2773,7 +2773,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Catgod:</span> We can put $10k in and we can start cloning cats. And get rich.
 
-<span class="transcript-speaker">LH:</span> You can get some horses too.
+<span class="transcript-speaker">LinsHorse:</span> You can get some horses too.
 
 <span class="transcript-speaker">Monster:</span> Yeah, I told you, I'm not a cat guy. We have dogs.
 
@@ -2791,7 +2791,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster:</span> You know, here's the funny thing. I'll tell you something that I've learned. That is this: everybody has a gift. Everybody has a talent. God gives everybody a gift or a talent. The biggest thing that I have learned as a manager is to try to help people to figure out what their gift or talent is, and then design a job around that individual.
 
-<span class="transcript-speaker">LH:</span> Catgod needs a job.
+<span class="transcript-speaker">LinsHorse:</span> Catgod needs a job.
 
 <span class="transcript-speaker">Monster, 3:54:14:</span> And the way we hire people, is we hire people for gifts and talents. And then we design jobs around them.
 
@@ -2799,7 +2799,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster:</span> Yeah. Right. So if I can match persons to the right opportunity, I try and do that.
 
-<span class="transcript-speaker">LH:</span> Why don't you hire Catgod then.
+<span class="transcript-speaker">LinsHorse:</span> Why don't you hire Catgod then.
 
 <span class="transcript-speaker">Catgod:</span> That's the step up you have on a lot of people here. You have the connections to go to wherever you said you went to, and have a computer and shit.
 
@@ -2813,7 +2813,7 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Monster, SC3:55:14:</span> That's funny. It's a big world... Yeah, so, no budgets, no timelines, and no quotas. So we tend to kind of take the mindset that says "the world is changing, so we have to be nimble". So we just say okay, what do we think is our thesis around how the world is going to work, design projects and themes around that thesis, and then kind of try to catch a wave. Because the world is changing and oftentimes an idea that you thought might be useful in the future suddenly becomes useful because of changing circumstance. It's really like catching a wave. And so we think that there are some things that are coming on the horizon, where some of the emphasis on resiliency, decentralization could prove really useful. But, in the meantime, we don't go as fast as we would like sometimes, although we do get a lot done in a day, in part because we haven't necessarily secured all the talent that we need to be able to get it done. You guys are solid. We've gone, what, four hours? Five hours? What do we got? It's been like a while.
 
-<span class="transcript-speaker">LH:</span> It's 8am here, so I'm going to go. Goodnight.
+<span class="transcript-speaker">LinsHorse:</span> It's 8am here, so I'm going to go. Goodnight.
 
 <span class="transcript-speaker">Kirtaner, SC3:56:39:</span> Yeah, we have indeed been going for close to five hours if I'm... I've had a long day. So Rob, Rob, if you want to go to bed, it's on you. I mean... I'm starting to fade myself, I'm sure you'd like to go get some rest. This has been a very long, arduous debacle for you.
 
@@ -2825,13 +2825,13 @@ All additional copyright to this transcript can be considered waived, and it can
 
 <span class="transcript-speaker">Unidentified:</span> Yeah, that guy's a piece of shit.
 
-<span class="transcript-speaker">LH:</span> We'll see you on the [Gregg Show](https://twitter.com/gregghoushshow).
+<span class="transcript-speaker">LinsHorse:</span> We'll see you on the [Gregg Show](https://twitter.com/gregghoushshow).
 
 <span class="transcript-speaker">Kirtaner:</span> With love from Anonymous.
 
 <span class="transcript-speaker">Monster:</span> With love from Epik. God bless you guys. Have a fantastic evening and sleep well!
 
-<span class="transcript-speaker">LH:</span> Goodnight!
+<span class="transcript-speaker">LinsHorse:</span> Goodnight!
 
 <span class="transcript-speaker">Monster:</span> Night!
 
