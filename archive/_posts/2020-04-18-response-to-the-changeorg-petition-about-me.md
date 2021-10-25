@@ -13,7 +13,7 @@ custom_excerpt: "A rebuttal to the claims made about me in a Change.org petition
 
 I'm pleased to write that Change.org has come to a decision on my report and removed the petition as a violation of their community guidelines:
 
-!<img src="https://i.imgur.com/BUExEGO.png" alt="Change.org email reply" />
+<img src="https://i.imgur.com/BUExEGO.png" alt="Change.org email reply" />
 
 I will leave this post in place, as I do think it provides useful background into this issue with Epik, which appears to be ongoing.
 
