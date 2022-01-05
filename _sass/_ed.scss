@@ -931,3 +931,45 @@ h3.title-text a {
   color: #333;
   font-style: italic;
 }
+
+.tweet {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+
+  a.tweet-link {
+    text-decoration: none;
+    color: #618853;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+}
+
+.blog-images-horizontal, .blog-images-single {
+  display: flex;
+  margin-top: 20px;
+
+  .image, .image img {
+    object-fit: contain;
+    max-height: 300px;
+  }
+
+  .image:not(:first-child) {
+    margin-left: 10px;
+  }
+}
+
+.blog-images-horizontal.wide, .blog-images-single.wide {
+  flex-direction: column;
+  
+  .image:not(:first-child) {
+    margin-left: 0px;
+    margin-top: 10px;
+  }
+}
+
+.blog-images-horizontal.tall, .blog-images-single.tall {
+  .image, .image img {
+    max-height: 500px;
+  }
+}
