@@ -799,3 +799,32 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
   oh, if anyone's looking for the documents i've been referring to, i've copied them here:
   (<a href="https://drive.google.com/drive/folders/1T89xdCGx05o2JzPLZ_3zyZffwhpURZAY" target="_blank">Google Drive</a>)
 </div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1478919081122222080" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> did you think it couldn't get worse? it sure can!
+  <div class="blog-images-single">
+    <div class="image">
+      <img alt="Twitter conversation: Lil Head Ass “EBAY” @widesauce: .@cryptoland  what will the age of consent be in Cryptoland? 
+      CRYPTOLAND @cryptoland: Mental maturity should be more than enough! ;)" src="https://pbs.twimg.com/media/FIYs80fXwAkoAc3?format=png&name=900x900" />
+    </div>
+  </div>
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1478919296633999369" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> caveat: i haven't been able to independently verify this (can't find an archive link), but there is a deleted reply from the cryptoland account on the <a href="https://twitter.com/widesauce/status/1478813777638281216" target="_blank">original tweet</a>.
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1478919431707316234" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> :( was it something i said?
+  <div class="blog-images-single">
+    <div class="image">
+     <img alt="Screenshot of Twitter showing I'm blocked. Screen reads: CRYPTOLAND @cryptoland You're blocked" draggable="true" src="https://pbs.twimg.com/media/FIYtUWVWYAYMkGb?format=jpg&name=medium" />
+    </div>
+  </div>
+</div>
