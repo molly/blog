@@ -7,6 +7,12 @@ comments: false
 custom_excerpt: "An unrolled copy of my livetweets of the Cryptoland hell-video."
 ---
 
+
+<div class="note">
+  <p>Here's an easier-to-follow version of my <a href="https://twitter.com/molly0xFFF/status/1478500436873293828" target="_blank">tweet thread</a> about the absolute fever dream that is the "Cryptoland" promotional video.</p>
+  <p>If you got a kick out of this, you might like my project: <a href="http://web3isgoinggreat.com/" target="_blank">Web3 Is Going Great</a>.</p>
+</div>
+
 <div class="tweet">
   <a href="https://twitter.com/molly0xFFF/status/1478500436873293828" target="_blank" class="tweet-link">
     <i class="fab fa-twitter" aria-hidden="true"></i>

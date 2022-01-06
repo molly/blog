@@ -943,6 +943,10 @@ h3.title-text a {
     cursor: pointer;
     margin-right: 10px;
   }
+
+  iframe {
+    max-width: 100%;
+  }
 }
 
 .blog-images-horizontal, .blog-images-single {
