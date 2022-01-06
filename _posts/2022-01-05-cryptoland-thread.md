@@ -476,7 +476,7 @@ person 2: 'im sure when the CEO joins voice chat with us again he will disclose 
     >Quoted tweet</a
   >
   by
-  <a href="https://twitter.com/Grady_Booch" target="_blank">@MadBastard_v2</a>]<br/>Okay, so I did a little looking up, and
+  <a href="https://twitter.com/MadBastard_v2" target="_blank">@MadBastard_v2</a>]<br/>Okay, so I did a little looking up, and
   apparently, the island that they're planning on using for this is Nananu-i-cake, in Fiji.<br/><br/>Looks like a nice place.
   Except it's a tiny island. Not even a mile across it's widest part.<br/><br/>And.... some people live there already.
 </div>
@@ -818,6 +818,13 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
   </a> caveat: i haven't been able to independently verify this (can't find an archive link), but there is a deleted reply from the cryptoland account on the <a href="https://twitter.com/widesauce/status/1478813777638281216" target="_blank">original tweet</a>.
 </div>
 <div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479104005930242048" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> archive link found 🙃<br/><br/>[<a href="https://twitter.com/widesauce/status/1479000806011539458" target="_blank">Quoted tweet</a> by
+  <a href="https://twitter.com/widesauce" _target="blank">@widesauce</a>]<br/>Got ‘em (again) (<a href="https://web.archive.org/web/20220105195133/twitter.com/cryptoland/status/1478815174232621059" target="_blank">archive.org</a>)
+</div>
+<div class="tweet">
   <a href="https://twitter.com/molly0xFFF/status/1478919431707316234" target="_blank" class="tweet-link">
     <i class="fab fa-twitter" aria-hidden="true"></i>
     <span class="sr-only">Twitter</span>
@@ -825,6 +832,17 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
   <div class="blog-images-single">
     <div class="image">
      <img alt="Screenshot of Twitter showing I'm blocked. Screen reads: CRYPTOLAND @cryptoland You're blocked" draggable="true" src="https://pbs.twimg.com/media/FIYtUWVWYAYMkGb?format=jpg&name=medium" />
+    </div>
+  </div>
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479106123575676944" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> "orchestrated attack"
+  <div class="blog-images-single">
+    <div class="image">
+    <img alt="Discord message from &quot;Cryptopher&quot;: @everyone We are getting targeted by low/no life trolls lately on social media and here on discord. They are spreading FUD, do not worry they will get tired of it soon. Looks like an orchestrated attack, some bots are also used so it can be the competition or just some normies/teenagers having fun. We are investigating and will act accordingly. [Pepe the frog grimace emoji] Special thx to our awesome mods who are helping cleaning them out [Pepe the frog emoji with crown]&quot;" src="https://pbs.twimg.com/media/FIbXLgyUYA8wE29?format=jpg&name=medium">
     </div>
   </div>
 </div>
