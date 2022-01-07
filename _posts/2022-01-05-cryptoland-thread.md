@@ -24,7 +24,7 @@ custom_excerpt: "An unrolled copy of my livetweets of the Cryptoland hell-video.
   <iframe
     width="560"
     height="315"
-    src="https://www.youtube-nocookie.com/embed/RiHopGox5cU"
+    src="https://www.youtube-nocookie.com/embed/npc48Kb3Xn0"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
