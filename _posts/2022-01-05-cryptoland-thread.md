@@ -844,7 +844,7 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
     <span class="sr-only">Twitter</span>
   </a>more shady business:<br/><br/>[<a href="https://twitter.com/Hahaitsfunny/status/1479458412517855232" target="_blank">Quoted tweet</a> by
   <a href="https://twitter.com/Hahaitsfunny" _target="blank">Hahaitsfunny</a>]<br/>
-  <div class="blog-images-single">
+  <div class="blog-images-single tall">
     <div class="image">
       <img alt="Instagram message exchange with Bartosz Domiczek First message is cut off; begins: 'project out there - cryptoland.is - which claims that you helped work on and produce concept art, and that you are affiliated with the project. While I would be remiss if that were true, because being a part of ponzi schemes and fraudulently trying to attract investors is never cool - I have a feeling that the work highlighted in the video is not yours.' Reply: 'Hi! Thanks for letting me know. I did some concepts for them a few years ago but I am not affiliated with this project whatsoever. I will request them to take down my name from the site.'" draggable="true" src="https://pbs.twimg.com/media/FIgXlWNXoAYsToD?format=jpg&name=large" />
     </div>
@@ -899,5 +899,6 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
 <div class="tweet">
   <a href="https://twitter.com/molly0xFFF/status/1479615575194284035" target="_blank" class="tweet-link">
     <i class="fab fa-twitter" aria-hidden="true"></i>
-    <span class="sr-only">Twitter</span> if so, they probably wouldn't want people to see this extremely self-indulgent "Cryptoland founders" video they made: (<a href="https://peertube.social/w/w88Xz8DZQDVAzcLqZM8s8d" target="_blank">link</a>)
-  </div>
+    <span class="sr-only">Twitter</span>
+  </a> if so, they probably wouldn't want people to see this extremely self-indulgent "Cryptoland founders" video they made: (<a href="https://peertube.social/w/w88Xz8DZQDVAzcLqZM8s8d" target="_blank">link</a>)
+</div>
