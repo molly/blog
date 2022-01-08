@@ -845,7 +845,9 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
   </a>more shady business:<br/><br/>[<a href="https://twitter.com/Hahaitsfunny/status/1479458412517855232" target="_blank">Quoted tweet</a> by
   <a href="https://twitter.com/Hahaitsfunny" _target="blank">Hahaitsfunny</a>]<br/>
   <div class="blog-images-single">
-    <img alt="Instagram message exchange with Bartosz Domiczek First message is cut off; begins: 'project out there - cryptoland.is - which claims that you helped work on and produce concept art, and that you are affiliated with the project. While I would be remiss if that were true, because being a part of ponzi schemes and fraudulently trying to attract investors is never cool - I have a feeling that the work highlighted in the video is not yours.' Reply: 'Hi! Thanks for letting me know. I did some concepts for them a few years ago but I am not affiliated with this project whatsoever. I will request them to take down my name from the site.'" draggable="true" src="https://pbs.twimg.com/media/FIgXlWNXoAYsToD?format=jpg&name=large" class="css-9pa8cd">
+    <div class="image">
+      <img alt="Instagram message exchange with Bartosz Domiczek First message is cut off; begins: 'project out there - cryptoland.is - which claims that you helped work on and produce concept art, and that you are affiliated with the project. While I would be remiss if that were true, because being a part of ponzi schemes and fraudulently trying to attract investors is never cool - I have a feeling that the work highlighted in the video is not yours.' Reply: 'Hi! Thanks for letting me know. I did some concepts for them a few years ago but I am not affiliated with this project whatsoever. I will request them to take down my name from the site.'" draggable="true" src="https://pbs.twimg.com/media/FIgXlWNXoAYsToD?format=jpg&name=large" />
+    </div>
   </div>
 </div>
 <div class="tweet">
@@ -864,8 +866,10 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
   fortunately decentralized services have existed since long before web3, and someone seems to have re-uploaded it to <a href="https://peertube.social/w/iHHqNQvf3h9NW8Hu6ejg4H" target="_blank">peertube</a>
 
   <div class="blog-images-single">
-    <img alt="Hi Molly White, Due to a copyright takedown notice that we received, we had to take down your video from YouTube: Video title: Cryptoland presentation
-    Video url: https://www.youtube.com/watch?v=npc48Kb3Xn0 Takedown issued by: Cryptoland This means that your video can no longer be played on YouTube. You received a copyright strike. You now have 1 copyright strike. If you get multiple copyright strikes, we’ll have to disable your account. To prevent that from happening, please don't upload videos containing copyrighted content that you aren’t allowed to use." src="https://pbs.twimg.com/media/FIiZL6KXsAIEcvf?format=jpg&name=medium" />
+    <div class="image">
+      <img alt="Hi Molly White, Due to a copyright takedown notice that we received, we had to take down your video from YouTube: Video title: Cryptoland presentation
+      Video url: https://www.youtube.com/watch?v=npc48Kb3Xn0 Takedown issued by: Cryptoland This means that your video can no longer be played on YouTube. You received a copyright strike. You now have 1 copyright strike. If you get multiple copyright strikes, we’ll have to disable your account. To prevent that from happening, please don't upload videos containing copyrighted content that you aren’t allowed to use." src="https://pbs.twimg.com/media/FIiZL6KXsAIEcvf?format=jpg&name=medium" />
+    </div>
   </div>
 </div>
 <div class="tweet">
