@@ -838,3 +838,62 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
     </div>
   </div>
 </div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479106123575676944" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a>more shady business:<br/><br/>[<a href="https://twitter.com/Hahaitsfunny/status/1479458412517855232" target="_blank">Quoted tweet</a> by
+  <a href="https://twitter.com/Hahaitsfunny" _target="blank">Hahaitsfunny</a>]<br/>
+  <div class="blog-images-single">
+    <img alt="Instagram message exchange with Bartosz Domiczek First message is cut off; begins: 'project out there - cryptoland.is - which claims that you helped work on and produce concept art, and that you are affiliated with the project. While I would be remiss if that were true, because being a part of ponzi schemes and fraudulently trying to attract investors is never cool - I have a feeling that the work highlighted in the video is not yours.' Reply: 'Hi! Thanks for letting me know. I did some concepts for them a few years ago but I am not affiliated with this project whatsoever. I will request them to take down my name from the site.'" draggable="true" src="https://pbs.twimg.com/media/FIgXlWNXoAYsToD?format=jpg&name=large" class="css-9pa8cd">
+  </div>
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479106123575676944" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a>and they used stolen assets in the animation:<br/><br/>[<a href="https://twitter.com/kamilabianchi/status/1478764298746974210" target="_blank">Quoted tweet</a> by
+  <a href="https://twitter.com/kamilabianchi" _target="blank">kamilabianchi</a>]<br/>Hello, you have been using my Seagull Rig to advertise your product. This is not authorised. Can you please remove it from all your videos/ campaigns?
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479601153948147713" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a>apparently cryptoland, a project entirely based on the "ideology" of crypto, goes running to centralized interventions when it suits them.
+
+  fortunately decentralized services have existed since long before web3, and someone seems to have re-uploaded it to <a href="https://peertube.social/w/iHHqNQvf3h9NW8Hu6ejg4H" target="_blank">peertube</a>
+
+  <div class="blog-images-single">
+    <img alt="Hi Molly White, Due to a copyright takedown notice that we received, we had to take down your video from YouTube: Video title: Cryptoland presentation
+    Video url: https://www.youtube.com/watch?v=npc48Kb3Xn0 Takedown issued by: Cryptoland This means that your video can no longer be played on YouTube. You received a copyright strike. You now have 1 copyright strike. If you get multiple copyright strikes, we’ll have to disable your account. To prevent that from happening, please don't upload videos containing copyrighted content that you aren’t allowed to use." src="https://pbs.twimg.com/media/FIiZL6KXsAIEcvf?format=jpg&name=medium" />
+  </div>
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479601155495841794" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> i wonder why this project suddenly no longer wants people to watch the video they spent so much time and money on?<br/><br/>the video is also available on the wayback machine, though their player can be slow and they are more susceptible to takedowns: (<a href="https://web.archive.org/web/20220107005114/https://www.youtube.com/watch?v=RiHopGox5cU" target="_blank">link</a>)
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479601726961459200" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> so much for "the future of the web will be decentralized, immutable, and free from the meddling of big tech companies"
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479605761726685185" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> as a little treat, the lovely and undoubtedly extremely attractive person who uploaded the video to peertube also shared this extended cut of the animation (nearly twice as long) in case anyone truly wishes to torture themselves: (<a href="https://peertube.social/w/nzEJmpNEpTmxfoae1MN8jW">link</a>)
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479615573403316227" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> i'm wondering if the founders are trying to distance themselves from the project in taking down this video but not the one w just the animation. that's what they did with another project that went up in flames after they doxxed someone (see <a href="https://twitter.com/molly0xFFF/status/1478515283291693059" target="_blank">previous tweet</a>)
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479615575194284035" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span> if so, they probably wouldn't want people to see this extremely self-indulgent "Cryptoland founders" video they made: (<a href="https://peertube.social/w/w88Xz8DZQDVAzcLqZM8s8d" target="_blank">link</a>)
+  </div>
