@@ -902,3 +902,43 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
     <span class="sr-only">Twitter</span>
   </a> if so, they probably wouldn't want people to see this extremely self-indulgent "Cryptoland founders" video they made: (<a href="https://peertube.social/w/w88Xz8DZQDVAzcLqZM8s8d" target="_blank">link</a>)
 </div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479974074986209286" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a>lol
+  <div class="blog-images-single tall">
+    <div class="image">
+      <img alt="Cease and Desist Letter for Defamation of Character
+      Legal Department <legal@cryptoland.is> 7:24 PM (5 minutes ago) to me
+      Dear Ms. White,
+      It has come to our attention that you have been making statements about Cryptoland that are both false and misleading. These statements constitute libel since they defame both Cryptoland and its founders.
+      We demand you immediately cease and desist making these false and libellous statements, delete them from any platform and issue a public apology on all platforms where the libellous statements have been placed.
+      Please be advised that, if you fail to fulfil the petition above, we will have no choice but to take the appropriate legal steps to protect Cryptoland’s reputation, including seeking relief in a court of law for monetary damages.
+      Sincerely,
+      Cryptoland Legal Team" src="https://pbs.twimg.com/media/FInsjDCWYAI_oNF?format=jpg&name=medium" />
+    </div>
+  </div>
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479974074986209286" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a><div class="blog-images-single">
+    <div class="image">
+      <img alt="Molly White
+        7:37 PM (1 minute ago)
+        to Legal
+        Dear Legal Team,
+        I have removed all of the false statements.
+        Sincerely,
+        Molly White" src="https://pbs.twimg.com/media/FInuX26WUAAQ4Mq?format=jpg&name=medium" />
+    </div>
+  </div>
+</div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1479979770842685441" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> and i sincerely apologize for each and every one of them
+</div>
