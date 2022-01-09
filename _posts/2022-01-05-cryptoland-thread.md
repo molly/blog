@@ -942,3 +942,14 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
     <span class="sr-only">Twitter</span>
   </a> and i sincerely apologize for each and every one of them
 </div>
+<div class="tweet">
+  <a href="https://twitter.com/molly0xFFF/status/1480253089487724547" target="_blank" class="tweet-link">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+    <span class="sr-only">Twitter</span>
+  </a> "cease and decease" (<a href="https://twitter.com/cryptoland/status/1480236809531838464" target="_blank">tweet link</a>)
+  <div class="blog-images-single">
+    <div class="image">
+      <img alt="CRYPTOLAND @cryptoland Replying to  @xellios83  and  @williamlegate We are not impersonating anyone. Sending a letter of cease and decease is a perfectly legit tool to ask a person to stop spreading misinformation." src="https://pbs.twimg.com/media/FIrsVzyX0AEp8O7?format=jpg&name=medium" />
+    </div>
+  </div>
+</div>
