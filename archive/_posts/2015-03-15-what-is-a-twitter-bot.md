@@ -6,7 +6,7 @@ publication-date: 2015-03-15
 comments: true
 custom_excerpt: "The first of a two-part series on Twitter bots, in which I explain what Twitter bots are and show some examples."
 ---
-<em>This is the first of a two-part series on Twitter bots. This covers what they are and some examples. The [next post]({{ site.baseurl }}{% post_url 2015-03-18-how-to-create-a-twitter-bot %}) discusses how to create them.</em>
+<em>This is the first of a two-part series on Twitter bots. This covers what they are and some examples. The [next post]({{ site.baseurl }}/how-to-create-a-twitter-bot) discusses how to create them.</em>
 
 Those of you who know me personally probably know about my fascination with bots: Wikipedia bots, IRC bots, Tumblr bots... and especially Twitter bots. My first exposure to a Twitter bot was probably <a href="http://tinysubversions.com/">Darius Kazemi's</a> <a href="https://twitter.com/twoheadlines">@TwoHeadlines</a>, a Twitter bot that takes two unrelated news headlines and combines them:
 
@@ -132,4 +132,4 @@ Image bots do cool things to existing images or create new ones, then tweet them
 
 <h2 id="createyourown">Create your own</h2>
 
-Now that you've read about what Twitter bots are and seen some examples, check out the [next post]({{ site.baseurl }}{% post_url 2015-03-18-how-to-create-a-twitter-bot %}) to learn how to create them!
+Now that you've read about what Twitter bots are and seen some examples, check out the [next post]({{ site.baseurl }}/how-to-create-a-twitter-bot) to learn how to create them!

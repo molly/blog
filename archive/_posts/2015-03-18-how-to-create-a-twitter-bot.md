@@ -7,7 +7,7 @@ comments: true
 custom_excerpt: "The second of a two-part series on Twitter bots, in which I show you how to create your own Twitter bot."
 ---
 
-<em>This is the second of a two-part series on Twitter bots. This post discusses how to create them. The [previous post]({{ site.baseurl }}{% post_url 2015-03-15-what-is-a-twitter-bot %}) covers what they are and some examples.</em>
+<em>This is the second of a two-part series on Twitter bots. This post discusses how to create them. The [previous post]({{ site.baseurl }}/what-is-a-twitter-bot) covers what they are and some examples.</em>
 
 I write all my Twitter bots in Python, so I'll focus on that in this post. That being said, you can write a Twitter bot in just about any language you please, and there is no shortage of <a href="https://dev.twitter.com/overview/api/twitter-libraries/">Twitter API wrappers</a>; the general strategy remains the same.
 
@@ -101,7 +101,7 @@ api <span class="token operator">=</span> tweepy<span class="token punctuation">
 
 <h3 id="createtweets">Create tweets</h3>
 
-This bit is somewhat up to you. [Part I]({{ site.baseurl }}{% post_url 2015-03-15-what-is-a-twitter-bot %}) of this series explains some types of bots and gives some examples, which might provide some inspiration. You'll need to create the content yourself, but I can give you some resources that I've found to be really useful:
+This bit is somewhat up to you. [Part I]({{ site.baseurl }}/what-is-a-twitter-bot) of this series explains some types of bots and gives some examples, which might provide some inspiration. You'll need to create the content yourself, but I can give you some resources that I've found to be really useful:
 
 <ul>
 <li>News headlines: <a href="http://open-platform.theguardian.com/">Guardian API</a>, <a href="http://news.google.com/news?pz=1&amp;cf=all&amp;ned=us&amp;hl=en&amp;output=rss">Google News RSS</a> (needs to be parsed)</li>

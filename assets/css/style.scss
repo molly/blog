@@ -21,8 +21,8 @@ $regular-font-size: 20px;
   Make sure to leave color-scheme in config file empty for granular control
 */
 
-$text-color: #000000;
-$heading-color: #000000;
+$text-color: #444444;
+$heading-color: #444444;
 $link-color: #56784a; // color.scale($light-green, $lightness: -25%)
 
 @import "ed";
