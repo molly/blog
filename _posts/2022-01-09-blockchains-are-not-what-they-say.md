@@ -18,7 +18,7 @@ These fall apart under further scrutiny.
 
 One extremely common phenomenon when discussing issues surrounding blockchain-based technologies is that proponents will often switch between discussing the theoretical implementations of these ecosystems and discussing the ecosystems we have today as it suits their argument.
 
-If you bring up the question of whether the major centralized exchanges could all decide based on instructions from an oppressive government to freeze exchange of tokens belonging to a dissident, you’ll be told that that’s no problem in their theoretical world where a Bitcoin is a Bitcoin and if an exchange won’t accept yours, you can just find and exchange that will. 
+If you bring up the question of whether the major centralized exchanges could all decide based on instructions from an oppressive government to freeze exchange of tokens belonging to a dissident, you’ll be told that that’s no problem in their theoretical world where a Bitcoin is a Bitcoin and if an exchange won’t accept yours, you can just find an exchange that will. 
 
 But then if you bring up the question of how these ecosystems will handle someone who decides they want to make an NFT out of child sexual abuse material, they will usually point to solutions[^fn0] predicated on the enormously centralized nature of NFT marketplaces that we’ve ended up in practice: delist the NFT from OpenSea or a handful of other exchanges so that the vast majority of people trading NFTs never see it, and maybe send a takedown request to the centralized service like AWS that is hosting the actual file.
 
