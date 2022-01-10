@@ -35,7 +35,7 @@ body {
   overflow-x: hidden;
 }
 
-html {
+html, body {
   font-family: $main-font;
   font-size: 16px;
   line-height: 1.5;
@@ -114,7 +114,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: $heading-font;
   margin-bottom: .5rem;
-  font-weight: 300;
+  font-weight: 600;
   color: $heading-color;
   letter-spacing: -.025rem;
   line-height: 1.25;
@@ -258,7 +258,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title a {
   font-family: "Playfair Display", serif;
-  color: #96B78A;
+  color: #56784a;
   text-decoration: none;
 }
 
@@ -333,7 +333,7 @@ h3.masthead-title {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: $main-font, Helvetica, Arial, sans-serif;
   font-size: .875rem;/* 15px*/
   color: rgba(255,255,255,.6);
   background-color: #202020;
