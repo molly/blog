@@ -21,7 +21,7 @@ One extremely common phenomenon when discussing issues surrounding blockchain-ba
 
 For example, if you bring up the question of whether the major centralized exchanges could each decide based on instructions from an oppressive government to freeze exchange of tokens belonging to a dissident, you’ll be told that that’s no problem in their theoretical world where a Bitcoin is a Bitcoin and if an exchange won’t accept yours, you can easily find an exchange that will. 
 
-But then if you bring up the question of how these ecosystems will handle someone who decides they want to make an NFT out of child sexual abuse material, they will usually point to solutions[^fn0] predicated on the enormously centralized nature of NFT marketplaces that we’ve ended up with in practice: delist the NFT from OpenSea or a handful of other exchanges so that the vast majority of people trading NFTs never see it, and maybe send a takedown request to the centralized service like AWS that is hosting the actual file.
+But then if you bring up the question of how these ecosystems will handle someone who decides they want to make an NFT out of child sexual abuse material, they will usually point to solutions[^fn0] predicated on the enormously centralized nature of NFT marketplaces that we’ve ended up with in practice: delist the NFT from OpenSea or a handful of other exchanges so that the vast majority of people trading NFTs never see it, and maybe send a takedown request if there is a centralized service like AWS that is hosting the actual file.
 
 For the purposes of this essay, I will be discussing how these technologies work in practice today, rather than how they could possibly work, maybe, in some future world.
 
