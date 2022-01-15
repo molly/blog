@@ -15,4 +15,5 @@ It was such a reevaluation that led me to shift my stance on blockchains and cry
 
 My thoughts on the subject are too long to comfortably detail in one post, and so I will be uploading them in parts as I finish writing. I have written these with the assumption that people have a base understanding of concepts including the blockchain, cryptocurrencies, and NFTs — the _Web3 is Going Just Great_ [glossary](https://web3isgoinggreat.com/glossary) may be a useful resource if a term is unfamiliar. 
 
-* ["Blockchain-based systems are not what they say they are"](https://blog.mollywhite.net/blockchains-are-not-what-they-say). January 9, 2022.
+* ["Blockchain-based systems are not what they say they are"]({{ site.baseurl }}{% post_url 2022-01-09-blockchains-are-not-what-they-say %}). January 9, 2022.
+* ["It's not still the early days"]({{ site.baseurl }}{% post_url 2022-01-14-its-not-still-the-early-days %}). January 14, 2022.
