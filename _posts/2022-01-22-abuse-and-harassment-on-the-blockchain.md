@@ -32,6 +32,8 @@ One commonly-touted feature of blockchains is their immutability: once data is w
 
 Even ignoring the doors this opens for malicious actors, immutable social network content is horrifying given what people post themselves. Imagine if the cringy posts by a twelve-year-old were guaranteed to be available in perpetuity as soon as they were saved. Or if the ill-conceived, drunken ramblings of a person who had few too many were there forever, not deleteable the following day. Imagine if a person uploading a photo of the cookies they just baked didn't realize until after they hit "post" that the envelope on the table in the background showed their home address.
 
+## Airdrops
+
 Furthermore, tokens can be "airdropped" to specific addresses, with no consent required by the recipient. Often used as a way to distribute free NFTs for giveaways and other promotional campaigns, there is nothing stopping someone from airdropping NFTs with abusive content—doxing, revenge porn, child sexual abuse imagery, threats, etc.—into someone's wallet. Some platforms automatically display airdropped NFTs until they are manually hidden by users, increasing the impact of such an attack. And even if someone hides or burns an NFT of this sort, the transaction and its contents remain immutably on the blockchain for anyone to see.
 
 -----
