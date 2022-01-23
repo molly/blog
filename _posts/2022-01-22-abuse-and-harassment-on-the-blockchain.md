@@ -8,7 +8,7 @@ custom_excerpt: "In the frenzy to attract venture capital funding and draw new u
 post_collection: "blockchain"
 ---
 
-In order to responsibly develop new technologies, it is critical to ask "how will this be used for evil?" Technology companies employ red teamers, risk assessors, and ethicists to do just that, or at least so they can say they are. Software engineers have formed initiatives like the Ethical Source movement,[^fn0] recognizing the importance of asking this question when doing the work that we do.
+In order to responsibly develop new technologies, it is critical to ask "how will this be used for evil?" Technology companies employ red teamers, risk assessors, and ethicists to do just that, or at least so they can say they are. Software engineers have formed initiatives like the Ethical Source movement,[^fn0] recognizing the importance of deeply considering this question.
 
 "How will this technology be used to harass and abuse people?" is a form of that question that too often goes unasked, particularly given that the demographics of people who are most at risk for abuse and harassment tend to be underrepresented in the industry. Apple apparently didn't put much thought into how its AirTag location tracking discs could be misused by stalkers and domestic abusers.[^fn1][^fn2] Target didn't realize how its attempts to market to expectant mothers might out pregnant teenagers to their families.[^fn3] Slack didn't foresee how people might use its invitation feature to send people harassing messages they couldn't block.[^fn4] 
 
