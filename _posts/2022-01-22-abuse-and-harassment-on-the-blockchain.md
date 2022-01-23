@@ -46,6 +46,9 @@ With blockchains, the ability to easily create new addresses is a feature and in
 
 There is surprisingly little discussion of the enormous potential for abuse built in to blockchain-based technologies, and I've barely even scraped the surface here. Indeed, I did a search for "blockchain harassment" and found little more than promotional materials for some startup apparently solving workplace harassment  ~\*~ with the blockchain ~\*~ (god help me). Both the web3 space and its group of outspoken critics have, to date, struck me as *overwhelmingly* male, which I suspect plays a role in this. Though often described as though it will somehow solve all of the inequalities that are built in to society, the leaders in the blockchain space don't appear to actually be thinking about a lot of them.
 
+-----
+
+# Notes
 [^fn0]: [Ethical Source](https://ethicalsource.dev/principles/)
 [^fn1]: Ingram, David (December 23, 2021). ["A tracking device made by Apple is showing up in suspected crimes"](https://www.nbcnews.com/news/apple-airtag-showing-up-crimes-rcna9416). _NBC News_.
 [^fn2]: Wilson, Mark (April 29, 2021). ["Apple AirTags could enable domestic abuse in terrifying ways"](https://www.fastcompany.com/90630404/apple-airtags-could-enable-domestic-abuse-in-terrifying-ways). _Fast Company_.
