@@ -28,26 +28,17 @@
           box-sizing: border-box;
 }
 
-html,
-body {
+html {
+  font-size: 16px;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
 }
 
-html, body {
-  font-family: $main-font;
-  font-size: 16px;
-  line-height: 1.5;
-}
-
-@media (min-width: 38em) {
-  html {
-    font-size: $regular-font-size;
-  }
-}
-
 body {
+  font-family: $main-font;
+  font-size: 1rem;
+  line-height: 1.5rem;
   color: $text-color;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -79,23 +70,11 @@ body {
 */
 
 .container {
-  max-width: 38rem;
+  max-width: 50rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
   margin-right: auto;
-}
-
-@media (min-width: 38em) {
-  .container {
-    max-width: 32rem;
-  }
-}
-
-@media (min-width: 56em) {
-  .container {
-    max-width: 38rem;
-  }
 }
 
 /* Links*/
