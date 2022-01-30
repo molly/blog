@@ -8,9 +8,7 @@ custom_excerpt: "Originally published in the Wikipedia Signpost: Should the Wiki
 post_collection: "blockchain"
 ---
 
-<dd>Originally published in the <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2022-01-30/Opinion" target="_blank"><i>Wikipedia Signpost</i></a> on January 30, 2022.</dd>
-
-<dd>*GorillaWarfare is Molly White, a software engineer and longtime Wikipedia editor. She has been editing the English Wikipedia since 2006, has served several terms on the Arbitration Committee, and is an administrator and functionary.*</dd>
+<dd><p><small>Originally published in the <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2022-01-30/Opinion" target="_blank"><i>Wikipedia Signpost</i></a> on January 30, 2022.</small></p><p><i>GorillaWarfare is Molly White, a software engineer and longtime Wikipedia editor. She has been editing the English Wikipedia since 2006, has served several terms on the Arbitration Committee, and is an administrator and functionary.</i></p></dd>
 
 When the Wikimedia Foundation first began accepting cryptocurrency donations in 2014,[^fn1] it was still fairly nascent technology. Cryptocurrencies resonated with many in [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) communities and in the Wikimedia movement more specifically, and cryptocurrency projects tended to share similar ideals: privacy, anonymity, decentralization, freedom.
 
