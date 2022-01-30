@@ -18,3 +18,4 @@ My thoughts on the subject are too long to comfortably detail in one post, and s
 * ["Blockchain-based systems are not what they say they are"]({{ site.baseurl }}{% post_url 2022-01-09-blockchains-are-not-what-they-say %}). January 9, 2022.
 * ["It's not still the early days"]({{ site.baseurl }}{% post_url 2022-01-14-its-not-still-the-early-days %}). January 14, 2022.
 * ["Abuse and harassment on the blockchain"]({{ site.baseurl }}{% post_url 2022-01-22-abuse-and-harassment-on-the-blockchain %}). January 22, 2022.
+* Wikipedia _Signpost_: ["The Wikimedia Foundation's acceptance of cryptocurrency donations"]({{ site.baseurl }}{% post_url 2022-01-30-wikimedia-foundation-cryptocurrency-donations %}). January 30, 2022.
