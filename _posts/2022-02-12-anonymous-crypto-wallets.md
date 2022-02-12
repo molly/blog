@@ -8,7 +8,7 @@ custom_excerpt: "How straightforward is it really to transact anonymously with t
 post_collection: "blockchain"
 ---
 
-In [a previous essay]({{ site.baseurl }}{% post_url 2022-01-22-abuse-and-harassment-on-the-blockchain %}), I wrote about some of the downsides of public ledgers that are particularly severe if a wallet is publicly tied to a person’s real-life identity. One frequently proposed solution to this problem is for users to create multiple anonymous wallets to be used for transactions that require more privacy, and this is a topic I would like to delve into a bit more.[^fn1]
+In ["Abuse and harassment on the blockchain"]({{ site.baseurl }}{% post_url 2022-01-22-abuse-and-harassment-on-the-blockchain %}), I wrote about some of the downsides of public ledgers that are particularly severe if a wallet is publicly tied to a person’s real-life identity. One frequently proposed solution to this problem is for users to create multiple anonymous wallets to be used for transactions that require more privacy, and this is a topic I would like to delve into a bit more.[^fn1]
 
 ## Levels of anonymity
 
