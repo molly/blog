@@ -63,7 +63,7 @@ Read the follow-up to this post, "[Cryptocurrency off-ramps, and the pressure to
 [^fn1]: It is worth acknowledging that there are "privacycoins" like Monero that enable private, anonymous transactions, though they have their own unique sets of issues as a result that are out of scope for this post. These are not the focus of this essay, which is instead focused on the most popular cryptocurrencies (Bitcoin, Ethereum, etc.) which feature public transaction records.
 [^fn2]: In what one might reasonably call [the early days]({{ site.baseurl }}{% post_url 2022-01-14-its-not-still-the-early-days %})...
 [^fn3]: "[Average Price of Electricity to Ultimate Customers by End-Use Sector](https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a)", U.S. Energy Information Administration.
-[^fn4]: This is not a given with VPNs, which oven themselves require self-identification or store extensive logs that could be used to identify a user.
+[^fn4]: This is not a given with VPNs, which often themselves require self-identification or store extensive logs that could be used to identify a user.
 [^fn5]: Exposing one's real IP allows websites and apps to trivially see approximate geolocation of a user, and with a subpoena to an ISP can sometimes reveal specific user identities.
 [^fn6]: "[Cryptocurrency Crime and Anti-Money Laundering Report](https://ciphertrace.com/2020-year-end-cryptocurrency-crime-and-anti-money-laundering-report/)". Mastercard, February 2021.
 [^fn7]: "[Know your customer](https://en.wikipedia.org/wiki/Know_your_customer)". Wikipedia. February 12, 2022.
