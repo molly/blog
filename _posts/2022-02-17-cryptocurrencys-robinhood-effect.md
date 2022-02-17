@@ -26,6 +26,8 @@ Adding to the brewing disaster is the absolute Wild West nature of the cryptocur
 
 Much like options trading, engaging with cryptocurrency is often described as “investing”—a responsible-sounding word that tends to invoke ideas of 401ks or mutual funds. The reality can be much more like gambling—except sometimes people might actually face better odds pulling the lever on the slot machine. And with the increasingly low barriers to entry, combined with aggressive marketing campaigns, poor understanding of various project mechanics and the associated risk, and irresponsible outside reporting on cryptocurrency projects, more and more people will be risking far more than they can stand to lose.
 
+## Notes
+
 [^fn1]: "[Robinhood Has Lured Young Traders, Sometimes With Devastating Results](https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html)". _The New York Times_. July 8, 2020.
 [^fn2]: "[Robinhood has settled a lawsuit over the death of a 20-year-old who died by suicide last year thinking he lost $730,000 on the stock-trading app](https://www.businessinsider.com/robinhood-settled-suit-suicide-20-year-old-trader-alex-kearns-2021-7)". _Business Insider_. July 1, 2021.
 [^fn3]: "[BlockFi to Pay Largest SEC Fine Ever for a Crypto Case](https://www.barrons.com/articles/blockfi-largest-sec-fine-crypto-case-51644855079)". _Barron's_. February 14, 2022.
