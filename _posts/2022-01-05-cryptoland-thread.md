@@ -953,3 +953,6 @@ Cryptolander 2: you actually are clueless, maybe take 10 mins from typing and go
     </div>
   </div>
 </div>
+
+
+{% include disclosure.html %}

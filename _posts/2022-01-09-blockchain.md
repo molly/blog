@@ -24,3 +24,5 @@ My thoughts on the subject are too long to comfortably detail in one post, and s
 
 ## Related
 * Wikipedia _Signpost_: ["The Wikimedia Foundation's acceptance of cryptocurrency donations"]({{ site.baseurl }}{% post_url 2022-01-30-wikimedia-foundation-cryptocurrency-donations %}). January 30, 2022.
+
+{% include disclosure.html %}

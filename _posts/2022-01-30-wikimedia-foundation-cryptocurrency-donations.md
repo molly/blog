@@ -34,3 +34,5 @@ The most impactful result of the WMF's acceptance of cryptocurrencies has been t
 [^fn9]: Makarov, Igor; Schoar, Antoinette (October 13, 2021). ["Blockchain Analysis of the Bitcoin Market"](https://papers.ssrn.com/abstract=3942181). *[National Bureau of Economic Research](https://en.wikipedia.org/wiki/National_Bureau_of_Economic_Research)*.
 [^fn10]: ["Talk:Fundraising/2020-21 Report"](https://meta.wikimedia.org/wiki/Talk:Fundraising/2020-21_Report). *[Meta-Wiki](https://en.wikipedia.org/wiki/Meta-Wiki)*. Retrieved January 22, 2022.
 [^fn11]: ["Privacy Notice"](https://bitpay.com/). *[BitPay](https://en.wikipedia.org/wiki/BitPay)*. December 13, 2021. Retrieved January 22, 2022.
+
+{% include disclosure.html %}

@@ -39,3 +39,5 @@ Much like options trading, engaging with cryptocurrency is often described as â€
 [^fn9]: "[Robinhood is fined $70 million over misleading customers and system outages.](https://www.nytimes.com/2021/06/30/technology/robinhood-fined-misleading-customers.html)". _The New York Times_. June 30, 2021.
 [^fn10]: "[GameStop short squeeze](https://en.wikipedia.org/wiki/GameStop_short_squeeze)". Wikipedia. February 17, 2022.
 [^fn11]: "[Decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance)". Wikipedia. February 17, 2022.
+
+{% include disclosure.html %}

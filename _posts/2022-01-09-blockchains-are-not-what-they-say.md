@@ -60,3 +60,5 @@ The immutability of this new world means that if you send someone your tokens, n
 [^fn5]: ["Vulcan Forged users lose a collective $135 million in hack"](https://web3isgoinggreat.com/?id=2021-12-13-2), _Web3 Is Going Great_.
 [^fn6]: ["CoinMarketCap Glitch 'Sent' BTC, ETH to Billions; Affected Coinbase, Crypto.com"](https://cryptonews.com/news/coinmarketcap-glitch-sent-btc-eth-billions-affected-coinbase-cryptocom-yahoo-finance.htm), _CryptoNews_. December 15, 2021.
 [^fn7]: [The Dao](https://en.wikipedia.org/wiki/The_DAO_(organization)). Wikipedia.
+
+{% include disclosure.html %}
