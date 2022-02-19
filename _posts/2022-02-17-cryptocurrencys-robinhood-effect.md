@@ -26,6 +26,7 @@ Adding to the brewing disaster is the absolute Wild West nature of the cryptocur
 
 Much like options trading, engaging with cryptocurrency is often described as “investing”—a responsible-sounding word that tends to invoke ideas of 401ks or mutual funds. The reality can be much more like gambling—except sometimes people might actually face better odds pulling the lever on the slot machine. And with the increasingly low barriers to entry, combined with aggressive marketing campaigns, poor understanding of various project mechanics and the associated risk, and irresponsible outside reporting on cryptocurrency projects, more and more people will be risking far more than they can stand to lose.
 
+
 ## Notes
 
 [^fn1]: "[Robinhood Has Lured Young Traders, Sometimes With Devastating Results](https://www.nytimes.com/2020/07/08/technology/robinhood-risky-trading.html)". _The New York Times_. July 8, 2020.
@@ -39,5 +40,3 @@ Much like options trading, engaging with cryptocurrency is often described as �
 [^fn9]: "[Robinhood is fined $70 million over misleading customers and system outages.](https://www.nytimes.com/2021/06/30/technology/robinhood-fined-misleading-customers.html)". _The New York Times_. June 30, 2021.
 [^fn10]: "[GameStop short squeeze](https://en.wikipedia.org/wiki/GameStop_short_squeeze)". Wikipedia. February 17, 2022.
 [^fn11]: "[Decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance)". Wikipedia. February 17, 2022.
-
-{% include disclosure.html %}

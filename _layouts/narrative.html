@@ -13,6 +13,9 @@ layout: default
   </p>
   {{ content }}
   {% if page.post_collection %}
+    {% if page.post_collection == "blockchain" %}
+      {% include disclosure.html %}
+    {% endif %}
     <div><small><a href="{{ site.baseurl }}/{{ page.post_collection }}">← Back to the collection</a></small></div>
   {% endif %}
 </div>

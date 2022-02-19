@@ -70,5 +70,3 @@ Read the follow-up to this post, "[Cryptocurrency off-ramps, and the pressure to
 [^fn8]: ["Bitcoin ATM"](https://en.wikipedia.org/wiki/Bitcoin_ATM)". Wikipedia. February 12, 2022.
 [^fn9]: "[Cryptocurrency tumbler"](https://en.wikipedia.org/wiki/Cryptocurrency_tumbler). Wikipedia. February 12, 2022.
 [^fn10]: "[Dark web](https://en.wikipedia.org/wiki/Dark_web)". Wikipedia. February 12, 2022.
-
-{% include disclosure.html %}

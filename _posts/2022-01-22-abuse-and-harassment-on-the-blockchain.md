@@ -63,5 +63,3 @@ There is surprisingly little discussion of the enormous potential for abuse buil
 [^fn7]: ["Adidas learns the hard way that limiting the number of NFTs one person can buy is hard"](https://web3isgoinggreat.com/?id=2021-12-17-2). _Web3 Is Going Great_.
 [^fn8]: Except when it's not, as I describe in [another blog post]({{ site.baseurl }}{% post_url 2022-01-09-blockchains-are-not-what-they-say %}).
 [^fn9]: ["InterPlanetary File System"](https://en.wikipedia.org/wiki/InterPlanetary_File_System) (January 22, 2022). Wikipedia.
-
-{% include disclosure.html %}
