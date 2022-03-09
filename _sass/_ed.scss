@@ -931,6 +931,7 @@ h3.title-text a {
 .blog-images-horizontal, .blog-images-single {
   display: flex;
   margin-top: 20px;
+  margin-bottom: 10px;
 
   .image, .image img {
     object-fit: contain;
