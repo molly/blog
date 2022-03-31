@@ -22,6 +22,7 @@ My thoughts on the subject are too long to comfortably detail in one post, and s
 * "[Cryptocurrency off-ramps, and the pressure towards centralization]({{ site.baseurl }}{% post_url 2022-02-12-off-ramps %})". February 12, 2022.
 * "[Cryptocurrency's Robinhood effect]({{ site.baseurl }}{% post_url 2022-02-17-cryptocurrencys-robinhood-effect %})". February 17, 2022.
 * "[The Edited Latecomer's Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto)". March 25, 2022.
+* "[The Axie Infinity hack, what happened, and why people keep talking about bridges]({{ site.baseurl }}{% post_url 2022-03-30-axie-hack %})". March 30, 2022.
 
 ## Related
 * Wikipedia _Signpost_: ["The Wikimedia Foundation's acceptance of cryptocurrency donations"]({{ site.baseurl }}{% post_url 2022-01-30-wikimedia-foundation-cryptocurrency-donations %}). January 30, 2022.

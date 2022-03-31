@@ -958,6 +958,24 @@ h3.title-text a {
   }
 }
 
+.blog-images-single.full-width {
+  .image, .image img {
+    width: 100%;
+    max-height: none;
+  }
+}
+
+.blog-images-float {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  
+  .image, .image img {
+    max-height: 300px;
+    max-width: 300px;
+  }
+}
+
 .disclosure {
   font-size: 0.9rem; 
   font-style: italic;
