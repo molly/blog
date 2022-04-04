@@ -43,6 +43,7 @@ body {
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+  margin: 0;
 }
 
 .content {
@@ -979,4 +980,15 @@ h3.title-text a {
 .disclosure {
   font-size: 0.9rem; 
   font-style: italic;
+}
+
+.copyright-footer {
+  background-color:#96B78A;
+  font-size: 0.8em;
+  line-height: 0.8em;
+  color: #000000;
+
+  a {
+    color: #000000;
+  }
 }

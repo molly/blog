@@ -3,7 +3,6 @@ layout: narrative
 title: "FAQ: Gamergate arbitration case on Wikipedia"
 author: Molly White
 publication-date: 2015-02-03
-comments: true
 custom_excerpt: "What happened with the <i>Gamergate</i> arbitration case on Wikipedia?"
 ---
 

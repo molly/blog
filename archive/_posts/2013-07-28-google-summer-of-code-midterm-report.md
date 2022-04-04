@@ -3,7 +3,6 @@ layout: narrative
 title: "Google Summer of Code: Midterm status report"
 author: Molly White
 publication-date: 2013-07-28
-comments: true
 custom_excerpt: "A midterm update on what I've accomplished in Google Summer of Code."
 ---
 

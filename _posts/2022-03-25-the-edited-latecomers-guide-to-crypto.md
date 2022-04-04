@@ -3,7 +3,6 @@ layout: narrative
 title: "The Edited Latecomer's Guide to Crypto"
 author: Molly White
 publication-date: 2022-03-25
-comments: false
 custom_excerpt: "Around fifteen researchers and critics have annotated a thinly-veiled cryptocurrency advertisement that ran in the New York Times. We try to provide the editorial scrutiny and critical perspectives that the piece so irresponsibly lacked."
 post_collection: "blockchain"
 ---

@@ -3,7 +3,6 @@ layout: narrative
 title: "Abuse and harassment on the blockchain"
 author: Molly White
 publication-date: 2022-01-22
-comments: false
 custom_excerpt: "In the frenzy to attract venture capital funding and draw new users and investors into blockchain technologies, \"how will this technology be used to harass and abuse people?\" is going unasked. While blockchain proponents speak about a \"future of the web\" based around public ledgers, anonymity, and immutability, those of us who have been harassed online look on in horror as obvious vectors for harassment and abuse are overlooked, if not outright touted as features." 
 post_collection: "blockchain"
 ---

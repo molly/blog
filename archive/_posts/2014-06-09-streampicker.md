@@ -3,7 +3,6 @@ layout: narrative
 title: "Building a better alarm clock"
 author: Molly White
 publication-date: 2014-06-09
-comments: true
 custom_excerpt: "Because not everyone wants to wake up to a beeping noise."
 ---
 

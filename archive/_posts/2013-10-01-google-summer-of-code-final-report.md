@@ -3,7 +3,6 @@ layout: narrative
 title: "Google Summer of Code: Final report"
 author: Molly White
 publication-date: 2013-10-01
-comments: true
 custom_excerpt: "An overview of I've accomplished in Google Summer of Code."
 ---
 

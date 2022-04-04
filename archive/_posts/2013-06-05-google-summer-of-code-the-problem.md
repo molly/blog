@@ -3,7 +3,6 @@ layout: narrative
 title: "Google Summer of Code: The Problem"
 author: Molly White
 publication-date: 2013-06-05
-comments: true
 custom_excerpt: "What do I plan to tackle during Google Summer of Code?"
 ---
 

@@ -3,7 +3,6 @@ layout: narrative
 title: "Cryptoland: Unrolling my livetweets of the video from hell"
 author: Molly White
 publication-date: 2022-01-05
-comments: false
 custom_excerpt: "An unrolled copy of my livetweets of the Cryptoland hell-video."
 ---
 

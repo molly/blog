@@ -3,7 +3,6 @@ layout: narrative
 title: "Cryptocurrency's Robinhood effect"
 author: Molly White
 publication-date: 2022-02-17
-comments: false
 custom_excerpt: "Cryptocurrency trading is experiencing a \"Robinhood effect\", where lower barriers to entry are combining with aggressive marketing and outside hype to draw inadequately informed traders into what is described as \"investing\", but looks a lot more like gambling." 
 post_collection: "blockchain"
 ---

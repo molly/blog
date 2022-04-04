@@ -3,7 +3,6 @@ layout: narrative
 title: "What is a Twitter bot?"
 author: Molly White
 publication-date: 2015-03-15
-comments: true
 custom_excerpt: "The first of a two-part series on Twitter bots, in which I explain what Twitter bots are and show some examples."
 ---
 <em>This is the first of a two-part series on Twitter bots. This covers what they are and some examples. The [next post]({{ site.baseurl }}/how-to-create-a-twitter-bot) discusses how to create them.</em>

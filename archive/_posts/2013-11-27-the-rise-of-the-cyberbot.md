@@ -3,7 +3,6 @@ layout: narrative
 title: "The rise of the cyberbot"
 author: Molly White
 publication-date: 2013-11-27
-comments: true
 custom_excerpt: "The making of @cyberprefixer, a cyberpunk dystopian news ticker."
 ---
 

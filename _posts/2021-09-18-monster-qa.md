@@ -3,7 +3,6 @@ layout: narrative
 title: "Transcript of Rob Monster's live Q&A following the Epik breach"
 author: Molly White
 publication-date: 2021-09-18
-comments: false
 custom_excerpt: "Transcript of a live Q&A session held by Rob Monster on September 16, 2021."
 ---
 

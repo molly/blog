@@ -4,59 +4,37 @@
   {% include head.html %}
 
   <body class="theme-base-{{site.color-scheme}}">
+    <div class="force-full-height">
 
-    <!-- This if statement decides which sidebar to use -->
-    {% if page.toc %}
-    {% include sidebar-toc.html %}
-    {% else %}
-    {% include sidebar.html %}
-    {% endif %}
+      <!-- This if statement decides which sidebar to use -->
+      {% if page.toc %}
+      {% include sidebar-toc.html %}
+      {% else %}
+      {% include sidebar.html %}
+      {% endif %}
 
-    <!--
-      Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS
-      collisions with our real content.
-    -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
-            <br><small>{{ site.tagline }}</small>
-          </h3>
+      <!--
+        Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS
+        collisions with our real content.
+      -->
+      <div class="wrap">
+        <div class="masthead">
+          <div class="container">
+            <h3 class="masthead-title">
+              <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
+              <br><small>{{ site.tagline }}</small>
+            </h3>
+          </div>
+        </div>
+
+        <div class="container content" id="main">
+          {{ content }}
         </div>
       </div>
 
-      <div class="container content" id="main">
-        {{ content }}
-      </div>
-
-      {% if page.comments %}
-      <div class="container comments" id="comments">
-        <div id="disqus_thread"></div>
-        <script>
-
-        /**
-        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-        /*
-        var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-        };
-        */
-        (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = 'https://mollywhite.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-        })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-      </div>
-      {% endif %}
-    </div>
-
-
+      <footer class="copyright-footer">
+        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+      </footer>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 

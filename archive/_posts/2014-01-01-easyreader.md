@@ -3,7 +3,6 @@ layout: narrative
 title: "Creating a more readable Wikipedia"
 author: Molly White
 publication-date: 2014-01-01
-comments: true
 custom_excerpt: "Long Wikipedia pages can be tough on the eyes—let's make them easier."
 ---
 

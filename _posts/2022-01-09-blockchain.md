@@ -3,7 +3,6 @@ layout: narrative
 title: "The blockchain collection"
 author: Molly White
 publication-date: 2022-01-09
-comments: false
 custom_excerpt: "Some of my thoughts on blockchains and the technologies built atop them."
 ---
 

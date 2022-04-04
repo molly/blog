@@ -3,7 +3,6 @@ layout: narrative
 title: "Wikipedia Signpost: The Wikimedia Foundation's acceptance of cryptocurrency donations"
 author: Molly White
 publication-date: 2022-01-30
-comments: false
 custom_excerpt: "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so." 
 post_collection: "blockchain"
 ---

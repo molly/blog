@@ -3,7 +3,6 @@ layout: narrative
 title: "It's not still the early days"
 author: Molly White
 publication-date: 2022-01-14
-comments: false
 custom_excerpt: "When I speak about the inefficiency of popular blockchains, or mention that we seem to be hurtling towards a \"web3\" so centralized it challenges big tech's firm grasp on today's web, or point out that somehow no one has managed to find a positive use for blockchains that wouldn't be better served by one of the many more performant databases we have available to us these days, I often hear \"it's the early days\"."
 post_collection: "blockchain"
 ---

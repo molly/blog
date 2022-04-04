@@ -3,7 +3,6 @@ layout: narrative
 title: "Abuse on the blockchain (Lecture transcript)"
 author: Molly White
 publication-date: 2022-03-07
-comments: false
 custom_excerpt: "\"Abuse on the blockchain\". A guest lecture by Molly White at Stanford University on March 7, 2022. This lecture was for two courses that run in parallel—POLISCI 243C: The Politics of Internet Abuse, and CS 152: Trust and Safety Engineering. There is also a Q&A portion at the end."
 post_collection: "blockchain"
 ---

@@ -3,7 +3,6 @@ layout: narrative
 title: "Response to the Change.org petition about me"
 author: Molly White
 publication-date: 2020-04-18
-comments: true
 custom_excerpt: "A rebuttal to the claims made about me in a Change.org petition"
 ---
 

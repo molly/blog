@@ -3,7 +3,6 @@ layout: narrative
 title: "Anonymous cryptocurrency wallets are not so simple"
 author: Molly White
 publication-date: 2022-02-12
-comments: false
 custom_excerpt: "How straightforward is it really to transact anonymously with today's popular cryptocurrencies?" 
 post_collection: "blockchain"
 ---

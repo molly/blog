@@ -3,7 +3,6 @@ layout: narrative
 title: "Blockchain-based systems are not what they say they are"
 author: Molly White
 publication-date: 2022-01-09
-comments: false
 custom_excerpt: "If you go out seeking to learn why blockchains and the systems built atop them are apparently the future of our web, you’ll begin to see some common themes. These fall apart under further scrutiny."
 post_collection: "blockchain"
 ---
