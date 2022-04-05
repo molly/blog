@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-01-22
 custom_excerpt: "In the frenzy to attract venture capital funding and draw new users and investors into blockchain technologies, \"how will this technology be used to harass and abuse people?\" is going unasked. While blockchain proponents speak about a \"future of the web\" based around public ledgers, anonymity, and immutability, those of us who have been harassed online look on in horror as obvious vectors for harassment and abuse are overlooked, if not outright touted as features." 
 post_collection: "blockchain"
+cc: true
 ---
 
 In order to responsibly develop new technologies, it is critical to ask "how will this be used for evil?" Technology companies employ red teamers, risk assessors, and ethicists to do just that, or at least so they can say they are. Software engineers have formed initiatives like the Ethical Source movement,[^fn0] recognizing the importance of deeply considering this question.

@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-01-14
 custom_excerpt: "When I speak about the inefficiency of popular blockchains, or mention that we seem to be hurtling towards a \"web3\" so centralized it challenges big tech's firm grasp on today's web, or point out that somehow no one has managed to find a positive use for blockchains that wouldn't be better served by one of the many more performant databases we have available to us these days, I often hear \"it's the early days\"."
 post_collection: "blockchain"
+cc: true
 ---
 
 When I speak about the inefficiency of popular blockchains, or mention that we seem to be hurtling towards a "web3" so centralized it challenges big tech's firm grasp on today's web, or point out that somehow no one has managed to find a positive use for blockchains that wouldn't be better served by blockchainless technologies, I often hear "it's the early days". "Give it a chance". "People are still figuring all this blockchain stuff out, ironing out the kinks".

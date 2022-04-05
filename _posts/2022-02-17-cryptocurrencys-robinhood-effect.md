@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-02-17
 custom_excerpt: "Cryptocurrency trading is experiencing a \"Robinhood effect\", where lower barriers to entry are combining with aggressive marketing and outside hype to draw inadequately informed traders into what is described as \"investing\", but looks a lot more like gambling." 
 post_collection: "blockchain"
+cc: true
 ---
 
 On Sunday, a hundred million people gathered to watch the American Super Bowl. Throughout the event, they were treated to something new compared to previous Super Bowls: ads for cryptocurrency platforms including Coinbase, Crypto.com, and FTX. Each of these companies offers an easy on-ramp into cryptocurrencies—in fact, Coinbase’s whole ad was about making it simple for people to scan the QR code that bounced around their screen for an entire minute. This took them to download the app and sign up for the product. The sign-up flow is quick and relatively painless, at least for a finance product: username and password, email, name, and an attestation that you are over 18. Then verify your email address and identification, connect your bank account, and you can buy and sell cryptocurrencies to your heart’s content.

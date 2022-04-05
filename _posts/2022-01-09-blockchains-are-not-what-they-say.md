@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-01-09
 custom_excerpt: "If you go out seeking to learn why blockchains and the systems built atop them are apparently the future of our web, you’ll begin to see some common themes. These fall apart under further scrutiny."
 post_collection: "blockchain"
+cc: true
 ---
 
 If you go out seeking to learn from their proponents why blockchains and the systems built atop them are apparently the future of our web, you’ll begin to see some common themes. Two of the ones I see most frequently are:

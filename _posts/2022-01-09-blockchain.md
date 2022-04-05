@@ -4,6 +4,7 @@ title: "The blockchain collection"
 author: Molly White
 publication-date: 2022-01-09
 custom_excerpt: "Some of my thoughts on blockchains and the technologies built atop them."
+cc: true
 ---
 
 Until recently, my feelings towards blockchains and cryptocurrency have been ones of apathy and mild annoyance. I have been apathetic towards and mildly annoyed by many things—Bluetooth headphones, most “smart home” devices—and have found my general well-being is best served by just ignoring them and moving on with my life. Pick my battles, right? But I do try to balance my curmudgeonliness with a willingness to revisit my opinions, and some periodic reevaluations of my stances have resulted in change—in fact, I now have a pair of Bluetooth headphones that I use daily and quite like (despite my continued annoyance that I can’t use them while they’re charging, and their propensity to try to connect to any device besides the one I am using).

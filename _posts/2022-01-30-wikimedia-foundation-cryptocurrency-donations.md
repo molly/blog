@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-01-30
 custom_excerpt: "Originally published in the Wikipedia Signpost: Should the Wikimedia Foundation continue to accept cryptocurrency donations? One editor doesn't think so." 
 post_collection: "blockchain"
+cc: true
 ---
 
 <dd><p><small>Originally published in the <a href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2022-01-30/Opinion" target="_blank"><i>Wikipedia Signpost</i></a> on January 30, 2022.</small></p><p><i>GorillaWarfare is Molly White, a software engineer and longtime Wikipedia editor. She has been editing the English Wikipedia since 2006, has served several terms on the Arbitration Committee, and is an administrator and functionary.</i></p></dd>
