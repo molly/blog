@@ -977,6 +977,18 @@ h3.title-text a {
   }
 }
 
+.with-caption {
+  display: flex;
+  flex-direction: column;
+
+  .caption {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.8em;
+    padding: 5px 0;
+  }
+}
+
 .disclosure {
   font-size: 0.9rem; 
   font-style: italic;
