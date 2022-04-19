@@ -13,6 +13,8 @@ post_collection: "blockchain"
   The content in this lecture overlaps quite a lot with two of my essays: "<a href="https://blog.mollywhite.net/abuse-and-harassment-on-the-blockchain/">Abuse and harassment on the blockchain</a>" and "<a href="https://blog.mollywhite.net/anonymous-crypto-wallets/">Anonymous cryptocurrency wallets are not so simple</a>".
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hXBZ-BXfCSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="blog-images-single">
   <div class="image">
     <a href="https://www.mollywhite.net/storage/slides/Abuse%20on%20the%20blockchain.png"><img src="https://www.mollywhite.net/storage/slides/Abuse%20on%20the%20blockchain.png" alt="Abuse on the blockchain"/></a> 
