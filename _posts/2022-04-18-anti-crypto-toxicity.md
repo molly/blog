@@ -7,7 +7,7 @@ custom_excerpt: "Crypto is known for its toxicity towards outsiders. Similar att
 post_collection: "blockchain"
 ---
 
-The more ideological people who are advocating for cryptocurrencies and blockchain-based technologies are asking a lot of the right questions. Questions like:
+Some of the more ideological people who are advocating for cryptocurrencies and blockchain-based technologies are asking a lot of the right questions. Despite crypto's unquestionably right-libertarian roots, and the continuing prevalence of those politics in crypto today, we're also seeing people asking questions like:
 
 - How can we create a more equitable financial system, where everyone has access to banking services?
 - How can we reduce the power that a small few currently hold over the web?
@@ -20,7 +20,7 @@ The more ideological people who are advocating for cryptocurrencies and blockcha
 - How can we address inequities on a global scale?
 - How can we create self-governing communities around shared interests or goals?
 
-Outside of this group of people with ideological hopes for crypto, many more people are asking very similar versions of these questions in hopes of changing their own circumstances. How can *I* get access to financial services I need? How can *I* improve my own untenable financial situation? How can *I* make a fair living from my art? How can *I* get access to financial opportunities that I can't access as a result of where I was born or where I currently live?
+Outside of this group of people with ideological hopes for crypto and what they see as its potential to create a more equitable society, many more people are asking very similar versions of these questions in hopes of changing their own circumstances. How can *I* get access to financial services I need? How can *I* improve my own untenable financial situation? How can *I* make a fair living from my art? How can *I* get access to financial opportunities that I can't access as a result of where I was born or where I currently live?
 
 I think it is clear to most people who are familiar with my work where I stand on cryptocurrencies and blockchain-based technologies as a potential solution to some or all of these questions.
 
@@ -28,7 +28,7 @@ But I also think that these proposed solutions are enormously attractive to peop
 
 And I really can't fault someone for deciding to hitch their wagon to crypto and web3 because they are hopeful that those salesmen might be on to something. I can disagree with them, I can explain my point of view, I can think that their engagement is in some small way enabling something I fundamentally disagree with and believe to be harmful—but I can't believe that buying some crypto, collecting an NFT, or joining a DAO automatically make someone a bad person.
 
-Now, of course there are other people involved in crypto projects, too, who are asking other questions. Questions like, "How can I make myself massively wealthy, even at the expense of others?" or "How can I take advantage of the pseudonymity of crypto to evade accountability for my actions?". Even, "how can I use this to destabilize society even further?" These people may be truly evil, and should be held to account for it. But when you come across someone on Twitter with a hexagon-shaped profile picture, your chances are *at least* as good that you've come across someone in the first bucket than in the second. I would like to think there are far more people in that first bucket.
+Now, of course there are other people involved in crypto projects, too, who are asking other questions. Questions like, "How can I make myself massively wealthy, even at the expense of others?" or "How can I take advantage of the pseudonymity of crypto to evade accountability for my actions?" Even, "how can I use this to destabilize society even further?" or "how can I become the lord of my own [Bitcoin citadel](https://www.independent.co.uk/voices/bitcoin-el-salvador-crypto-b1966267.html)?" These people may be truly evil, and should be held to account for it. But when you come across someone on Twitter with a hexagon-shaped profile picture, your chances are *at least* as good that you've come across someone in the first bucket than in the second. I would like to think there are far more people in that first bucket.
 
 I've spoken before about the toxicity of the pro-crypto crowd. The people who flood into replies on Twitter if someone says they don't like their project of choice, to tell them to "have fun staying poor", that they're "not going to make it", or often much worse. They relentlessly attack those who speak out against crypto, and even those who just dare to ask questions or express a little skepticism. Many have actively embraced this toxicity—indeed, Nico ZM [said](https://www.ft.com/content/f18a0e38-ffc4-4e11-8b82-a6c22a27ea36) on stage at Bitcoin Miami 2021 that "Not only do I think bitcoin toxicity is important, I think it's absolutely necessary."
 
