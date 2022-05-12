@@ -71,7 +71,7 @@ Will there remain *any* market for unique digital copies of artwork if the NFT s
 
 ## Acknowledgements
 This blog post refers to two podcast episodes:
-* "[w*b3, and N/F/Ts, w/ Dan Olson](https://anchor.fm/digitallyrare/episodes/wb3--and-NFTs--w-Dan-Olson-e1a7r2u)". *Digitally Rare*, by Jonathan Mann and Matt Condon. November 13, 2021.
+* "[w\*b3, and N/F/Ts, w/ Dan Olson](https://anchor.fm/digitallyrare/episodes/wb3--and-NFTs--w-Dan-Olson-e1a7r2u)". *Digitally Rare*, by Jonathan Mann and Matt Condon. November 13, 2021.
 * "[NFTs, Naming Stars and Other Technologies](https://anchor.fm/when-the-music-stops/episodes/NFTs--Naming-Stars-and-Other-Technologies-e11lth5)" with Anton Lukashov. *When the Music Stops* by Aviv Milner. Published May 27, 2021.
 
 I was unsurprised to discover after writing my blog post that I was not the first person to come up with this general solution. Credit must be given to Terence Eden's "[An NFT without a Blockchain. No gas fees. No Eth. No gatekeepers](https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/)", Bernard Fickser's "[How to Create Non-Fungible Tokens Without Cryptocurrency](https://www.expensivity.com/creating-nfts-without-crypto/)", and surely others for arriving at largely the same idea before I did.
