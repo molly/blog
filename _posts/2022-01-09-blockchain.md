@@ -24,7 +24,7 @@ My thoughts on the subject are too long to comfortably detail in one post, and s
 * "[The Axie Infinity hack, what happened, and why people keep talking about bridges]({{ site.baseurl }}{% post_url 2022-03-30-axie-hack %})". March 30, 2022.
 * "[On anti-crypto toxicity]({{ site.baseurl }}{% post_url 2022-04-18-anti-crypto-toxicity %})". April 18, 2022.
 * "[The NFT creation user journey]({{ site.baseurl }}{% post_url 2022-05-11-the-nft-creation-user-journey %})". May 11, 2022.
-* "[Digital artists' post-bubble hopes for NFTs don't need a blockchain]({{ site.baseurl }}{% post_url 2022-05-11-digital-artists-post-bubble-vision-for-nfts %})". May 11, 2022.
+* "[Digital artists' post-bubble hopes for NFTs don't need a blockchain]({{ site.baseurl }}{% post_url 2022-05-11-digital-artists-post-bubble-hopes-for-nfts-dont-need-a-blockchain %})". May 11, 2022.
 
 ## Related
 * Wikipedia _Signpost_: ["The Wikimedia Foundation's acceptance of cryptocurrency donations"]({{ site.baseurl }}{% post_url 2022-01-30-wikimedia-foundation-cryptocurrency-donations %}). January 30, 2022.
