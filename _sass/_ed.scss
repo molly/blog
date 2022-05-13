@@ -971,9 +971,12 @@ h3.title-text a {
   margin-left: 10px;
   margin-bottom: 10px;
   
-  .image, .image img {
-    max-height: 300px;
+  .image {
     max-width: 300px;
+    
+    img {
+      max-height: 300px;
+    }
   }
 }
 
