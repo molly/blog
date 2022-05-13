@@ -9,7 +9,9 @@ post_collection: "blockchain"
 
 <div class="blog-images-float with-caption">
   <div class="image">
-    <img src="https://mollywhite.net/storage/lukashov_untitled20.webp" />
+    <a href="https://www.antonlukashov.com/artwork?pgid=k3fm9mlb-cc114abf-9487-4646-9548-454efc69e79b" target="_blank">
+      <img src="https://mollywhite.net/storage/lukashov_untitled20.webp" alt="Digital artwork reproduced in oil paints. The painting depicts hands, but the images are fragmented and glitchy. The painting uses white and light purple and blue colors." />
+    </a>
     <div class="caption">
       <i>Untitled #20</i> by <a href="https://www.antonlukashov.com/artwork" target="_blank">Anton Lukashov</a>.<br/>Reproduced with permission, all rights reserved.
     </div>
