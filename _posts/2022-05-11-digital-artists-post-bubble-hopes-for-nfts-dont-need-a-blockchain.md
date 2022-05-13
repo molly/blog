@@ -7,6 +7,13 @@ custom_excerpt: "Some digital artists who create NFTs, particularly those who we
 post_collection: "blockchain"
 ---
 
+<div class="blog-images-float with-caption">
+  <div class="image">
+    <img src="https://mollywhite.net/storage/lukashov_untitled20.webp" />
+    <span class="caption"><i>Untitled #20</i> by <a href="https://www.antonlukashov.com/artwork" target="_blank">Anton Lukashov</a>. Reproduced with permission, all rights reserved.</span>
+  </div>
+</div>
+
 Some digital artists who create NFTs, particularly those who were already trying to earn a living in digital art before NFTs came along, have described their interest in its "post-bubble" potential as the future of digital art. They see the NFT explosion of 2021 into 2022 for what it is: speculative mania more driven by get-rich-quick mentality rather than any love for the images associated with NFTs. For some such artists, this bubble brought along with it an audience—either the subset of collectors who *are* interested in the artistic value of their NFTs, or for a select few, speculative buyers who made their artwork the target of such speculation. Some artists speak positively of an end to this mania, hoping that the mega-wealthy speculators will lose interest in NFTs, taking along with them the incentives for those who churn out scammy NFT projects and endless iterations of low-effort NFT collections that have helped solidify NFTs' mainstream association more with ugly and unoriginal mass-produced JPEGs than with any sort of digital artistry. 
 
 They see NFTs as a possible solution to a very real problem that digital artists and admirers of digital art alike have been grappling with since the advent of the medium. While a painter or a sculptor using physical media might create a single unique artwork and sell it to a gallery or collector, digital artists create various types of digital files. These files, by nature, can be boundlessly reproduced with next to no effort. As I understand it, the audience of galleries and collectors who seek to collect digital art is considerably smaller than those who collect physical artwork, and many—collectors or members of the general public—don't view digital art as having similar value. It's not a unique or even particularly new problem—relatively easily reproducible artwork has existed since the dawn of printmaking and, later, photography—but as the ease of reproduction increases, humans tend to have a harder time mentally associating value to instances of the art itself.

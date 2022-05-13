@@ -977,6 +977,17 @@ h3.title-text a {
   }
 }
 
+@media (max-width: 480px) {
+  .blog-images-float {
+    float: none;
+
+    .image, .image img {
+      max-width: none;
+      margin: 0 auto;
+    }
+  }
+}
+
 .with-caption {
   display: flex;
   flex-direction: column;
