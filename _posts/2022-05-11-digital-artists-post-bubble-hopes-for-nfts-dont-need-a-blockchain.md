@@ -10,7 +10,9 @@ post_collection: "blockchain"
 <div class="blog-images-float with-caption">
   <div class="image">
     <img src="https://mollywhite.net/storage/lukashov_untitled20.webp" />
-    <span class="caption"><i>Untitled #20</i> by <a href="https://www.antonlukashov.com/artwork" target="_blank">Anton Lukashov</a>. Reproduced with permission, all rights reserved.</span>
+    <div class="caption">
+      <i>Untitled #20</i> by <a href="https://www.antonlukashov.com/artwork" target="_blank">Anton Lukashov</a>.<br/>Reproduced with permission, all rights reserved.
+    </div>
   </div>
 </div>
 
