@@ -78,7 +78,7 @@ The distinction largely doesn't matter.
 
 Groups that operate under the guise of inclusion, regardless of their intentions, are serving the greater goal of crypto that keeps the whole thing afloat: finding ever more fools to buy in so that the early investors can take their profits. And it is those latecomers who are ultimately left holding the bag.
 
-With projects that sought to provide services and opportunities to members of marginalized groups who had previously not had access, but on bad terms that ultimately disadvantaged them, we saw predatory inclusion. With projects that seek to create new communities of marginalized people to draw them in to risky speculative markets rife with scams and fraud, we are seeing predatory community.
+With projects that seek to provide services and opportunities to members of marginalized groups who have previously not had access, but on bad terms that ultimately disadvantaged them, we see predatory inclusion.[^fn21] With projects that seek to create new communities of marginalized people to draw them in to risky speculative markets rife with scams and fraud, we are now seeing predatory *community*.
 
 ## Notes
 [^fn1]: [Archived version of the Fame Lady Squad website](https://web.archive.org/web/20210716125647/http://www.fameladysquad.com/).
