@@ -25,6 +25,7 @@ My thoughts on the subject are too long to comfortably detail in one post, and s
 * "[On anti-crypto toxicity]({{ site.baseurl }}{% post_url 2022-04-18-anti-crypto-toxicity %})". April 18, 2022.
 * "[The NFT creation user journey]({{ site.baseurl }}{% post_url 2022-05-11-the-nft-creation-user-journey %})". May 11, 2022.
 * "[Digital artists' post-bubble hopes for NFTs don't need a blockchain]({{ site.baseurl }}{% post_url 2022-05-11-digital-artists-post-bubble-hopes-for-nfts-dont-need-a-blockchain %})". May 11, 2022.
+* "[Predatory community]({{ site.baseurl }}{% post_url 2022-05-20-predatory-community %})". May 20, 2022.
 
 ## Related
 * Wikipedia _Signpost_: ["The Wikimedia Foundation's acceptance of cryptocurrency donations"]({{ site.baseurl }}{% post_url 2022-01-30-wikimedia-foundation-cryptocurrency-donations %}). January 30, 2022.
