@@ -8,7 +8,7 @@ post_collection: "blockchain"
 cc: true
 ---
 
-A man sits at his computer and types out the story he has fabricated for the Fame Lady Squad NFT project: "we wanted to create an image of a strong and independent woman of the NFT community." The project draws in $1.5&nbsp;million from buyers, who talk of their excitement when they found a project they felt was bringing diversity to an overwhelmingly male space, and that was "all about women's empowerment".[^fn1] They later find out that the "all-female led project" created by "Cindy", "Kelda", and "Andrea" was in fact created by a group of three white men from Russia. Before that, they were "Sayara" and "Aita", creating the "Cyber City Girls Club" to "support female and Asian artists and make charities to fight Asian Hate crimes."[^fn2] And before that, they'd come up with "BLM Cards": NFTs created to "depict the greatest Black People in NFT, and also collect money to donate to Black Charities". They designed two prototype cards, depicting George Floyd and Michael Jackson, then apparently abandoned the project.[^fn3][^fn4]
+A man sits at his computer and types out the story he has fabricated for the Fame Lady Squad NFT project: "we wanted to create an image of a strong and independent woman of the NFT community." The project draws in $1.5&nbsp;million from buyers, who talk of their excitement when they found a project they felt was bringing diversity to an overwhelmingly male space, and that was "all about women's empowerment".[^fn1] They later find out that the "all-female led project" created by "Cindy", "Kelda", and "Andrea" was in fact created by a group of three white men.
 
 <div class="blog-images-float with-caption">
   <div class="image">
@@ -20,6 +20,8 @@ A man sits at his computer and types out the story he has fabricated for the Fam
     </div>
   </div>
 </div>
+
+Before that, these men were "Sayara" and "Aita", creating the "Cyber City Girls Club" to "support female and Asian artists and make charities to fight Asian Hate crimes."[^fn2] And before that, they'd come up with "BLM Cards": NFTs created to "depict the greatest Black People in NFT, and also collect money to donate to Black Charities". They designed two prototype cards, depicting George Floyd and Michael Jackson, then apparently abandoned the project.[^fn3][^fn4]
 
 A Latino man promises that his business will bank unbanked communities: "As a son of an immigrant, I saw firsthand as a child how my mother struggled without access to her money. This company was built to empower those like my mom." He encourages other Latin Americans to buy his company's crypto tokens in an initial coin offering (ICO), ultimately raising more than $9 million. The SEC ultimately charges him with fraud,[^fn5] and it turns out he has a history of allegedly running multi-level marketing (MLM) schemes and investment fraud targeting the elderly.[^fn6]
 
