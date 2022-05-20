@@ -101,5 +101,4 @@ With projects that seek to provide services and opportunities to members of marg
 [^fn18]: The Dogecoin Millionaire (April 17, 2022). "[Why Elon Buying Twitter Is Bullish for DOGECOIN](https://youtu.be/lpPYqYGO_Mo?t=584)". (Timestamp 9:44).
 [^fn19]: Tiku, Nitasha (April 6, 2022). "[Famous women join the crypto hustle, but it could cost their fans](https://www.washingtonpost.com/technology/2022/04/06/women-crypto-nft/)" _The Washington Post_.
 [^fn20]: "[WTF is an NFT?!? Crypto for Beginners + BIG SURPRISE!](https://www.youtube.com/watch?v=fSeoG9H8_xQ)" BFF. January 26, 2022.
-[^fn21]: See Seamster and Charron-Chénier's 2017 "[Predatory Inclusion and Education Debt: Rethinking the Racial Wealth Gap
-](https://journals.sagepub.com/doi/abs/10.1177/2329496516686620)" and Taylor's 2019 *[Race for Profit](https://uncpress.org/book/9781469663883/race-for-profit/)*.
+[^fn21]: See Seamster and Charron-Chénier's 2017 "[Predatory Inclusion and Education Debt: Rethinking the Racial Wealth Gap](https://journals.sagepub.com/doi/abs/10.1177/2329496516686620)" and Taylor's 2019 *[Race for Profit](https://uncpress.org/book/9781469663883/race-for-profit/)*.
