@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-05-11
 custom_excerpt: 'Projects that seek to create new communities of marginalized people to draw them in to risky speculative markets rife with scams and fraud are demonstrating "predatory community".'
 post_collection: "blockchain"
+cc: true
 ---
 
 <div class="blog-images-float with-caption">
@@ -15,13 +16,18 @@ post_collection: "blockchain"
     </div>
   </div>
 </div>
+
 A man sits at his computer and types out the story he has fabricated for the Fame Lady Squad NFT project: "we wanted to create an image of a strong and independent woman of the NFT community." The project draws in $1.5&nbsp;million from buyers, who talk of their excitement when they found a project they felt was bringing diversity to an overwhelmingly male space, and that was "all about women's empowerment".[^fn1] They later find out that the "all-female led project" created by "Cindy", "Kelda", and "Andrea" was in fact created by a group of three white men from Russia. Before that, they were "Sayara" and "Aita", creating the "Cyber City Girls Club" to "support female and Asian artists and make charities to fight Asian Hate crimes."[^fn2] And before that, they'd come up with "BLM Cards": NFTs created to "depict the greatest Black People in NFT, and also collect money to donate to Black Charities". They designed two prototype cards, depicting George Floyd and Michael Jackson, then apparently abandoned the project.[^fn3][^fn4]
 
 A Latino man promises that his business will bank unbanked communities: "As a son of an immigrant, I saw firsthand as a child how my mother struggled without access to her money. This company was built to empower those like my mom." He encourages other Latin Americans to buy his company's crypto tokens in an initial coin offering (ICO), ultimately raising more than $9 million. The SEC ultimately charges him with fraud,[^fn5] and it turns out he has a history of allegedly running multi-level marketing (MLM) schemes and investment fraud targeting the elderly.[^fn6]
 
 More and more crypto communities spring up around facets of identity. "Maricoin" promises to be the "first cryptocurrency created by and for the LGTBIQ+ community" (despite, bafflingly, being named after a Spanish homophobic slur).[^fn7] Randi Zuckerburg releases a parody music video titled "We're All Gonna Make It",  which she says she created to be a "rallying cry for the women of web3". Matt Binder writes in *Mashable* that "it looks, sounds, and feels like something you'd see at a LuLaRoe convention to get people hyped about asking their friends if they would like to invest in a new business opportunity."[^fn8] SXSW hosts panels and events titled "Black in Web3: Now and the Future"[^fn9] and "Women Rocking Web3"[^fn10] and "Breaking the Blockchain Boys Club".[^fn11] One event promises to discuss "segments of the population that could benefit but aren't being included [in web3]: underserved communities; from middle America to BIPOC to women, rural and the LGBTQ+ communities". It is titled, apparently unironically, "Web3 For the Rest of Us", despite the fact that "the rest of us" that they seem to be alluding to are probably not the same people who are buying $1,400-2,000+ SXSW tickets.[^fn12]
 
----
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
 
 In crypto, you will hear that "community" is everything. Fan clubs form around individual coins, and NFT projects nearly always have a Discord or Telegram chat room where their collectors (or hopefuls) gather. People wish each other "[gm](https://web3isgoinggreat.com/glossary#gm)" and "gn" and chat about their days, their families, and, of course, their crypto.
 
@@ -31,7 +37,7 @@ In crypto, you will hear that "community" is everything. Fan clubs form around i
   <div class="image">
     <img src="https://mollywhite.net/storage/cryptomeme.png" alt='Three frames: 1. A woman asks "Whats your sign? Im a Leo." 2. Wojack says "Fuck off I dont believe in that made up nonsense." 3. Grinning Wojack says "So true!!!" looking at overlaid ads or YouTube splash screens showing captions like "Super undervalued 100x in 2021"' />
     <div class="caption">
-      From [r/CryptocurrencyMemes](https://www.reddit.com/r/cryptocurrencymemes/comments/m2rlx0/not_a_financial_advisor_btw/).
+      From <a href="https://www.reddit.com/r/cryptocurrencymemes/comments/m2rlx0/not_a_financial_advisor_btw/" target="_blank">r/CryptocurrencyMemes</a>.
     </div>
   </div>
 </div>
@@ -67,6 +73,8 @@ Crypto communities have sprung up based around gender, nationality, ethnicity, s
 By forming these communities around aspects of peoples' identities that they hold very dear, it amplifies those ties to the communities that makes them harder to leave, and that make selling assets feel like a betrayal. It's one thing to sell off some Bitcoin if your "investment" isn't going as well as you hoped, or conversely, if you want to take some profits and rebalance a portfolio. It's another thing entirely to do that when your asset is what makes you a part of a "World of Women" community, and where selling may feel like a betrayal to the people you've formed relationships with or to the ideological causes the group supports.
 
 This is only more true when you've been told that buying this NFT—your Boss Beauty or Hijabi Queen or Flower Girl or Crypto Coven or Rebel Society or MetaSikh—was *empowering*, you were *breaking the glass ceiling*, you were *pushing back against the crypto white boy's club*. In many ways, the identity-based crypto communities—particularly the women-focused ones that are overwhelmingly made up of white women—are reminiscent of multi-level marketing schemes, which also prey on identity and community to increase their reach. Many MLMs hawk beauty products, weight loss supplements, and women's clothing—all appealing to women—and encourage the formation of social groups among their sellers that co-opt the language of friendship and feminism, promising to uplift one another, empower one another, and fight back against the male-dominated corporate world. The #bossbabe #girlboss lingo of MLMs feels right at home in the emerging women-in-crypto space these days, where groups of beautiful women "investors" take photos clinking mimosas at brunch, show off their CryptoChick profile pictures, and receive airdropped NFTs of friendship bracelets symbolizing their membership in the girls-only club. The rhetoric often echoes the same sort of "Lean In feminism" pushed by Sheryl Sandberg in the early 2010s that encouraged women to be assertive in the workplace and grab themselves seats at the metaphorical table—without upsetting the apple cart too much, of course. "We have watched a lot of these bros get together and earn a lot of money, and I think we deserve to be in this space just as much," said Gwyneth Paltrow, encouraging women to buy NFTs in January 2022. "I think that there's a high probability that crypto will really be the future and even though some people are still skeptical I think it's here to stay and we should really be part of it," she said—only months before NFTs and crypto in general would experience a serious downturn, and Paltrow's excited NFT posts would trail off to nothing.[^fn19][^fn20]
+
+-----
 
 Some of these identity-based groups and projects are outright frauds. The interest in diversifying crypto has also caused a boom in projects focused around diversity, which have found interested buyers in members of marginalized groups as well as those hoping to support them. And this interest, of course, has drawn the scammers hoping to cash in as well: there are many instances now of men pretending to be women and promoting "women-led" NFT projects. Affinity fraud has also become rampant—the practice where scammers appeal to specific groups that have formed around shared identity.
 
