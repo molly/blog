@@ -88,8 +88,8 @@ With projects that sought to provide services and opportunities to members of ma
 
 ## Notes
 [^fn1]: [Archived version of the Fame Lady Squad website](https://web.archive.org/web/20210716125647/http://www.fameladysquad.com/).
-[^fn2]. [Archived version of the Cyber City Girls Club website](https://archive.ph/PbsWY).
-[^fn3]. [BLM Cards NFT Twitter account](https://twitter.com/BlmNft).
+[^fn2]: [Archived version of the Cyber City Girls Club website](https://archive.ph/PbsWY).
+[^fn3]: [BLM Cards NFT Twitter account](https://twitter.com/BlmNft).
 [^fn4]: Stokel-Walker, Chris (August 12, 2021). ["This $1.5 million 'women-led' NFT project was actually run by Russian dudes"](https://www.inputmag.com/culture/fame-lady-squad-nft-women-men-scandal-scam). _Input_.
 [^fn5]: "[SEC Charges Issuer for Conducting Fraudulent and Unregistered Digital Asset Security Offering](https://www.sec.gov/litigation/litreleases/2021/lr25157.htm)" (Press release). U.S Securities and Exchange Commission. August 4, 2021.
 [^fn6]: "[Uulala Review: Oscar Garcia triples down on securities fraud](https://behindmlm.com/mlm-reviews/uulala-review-oscar-garcia-triples-down-on-securities-fraud/)". _Behind the MLM_. October 29, 2021.
