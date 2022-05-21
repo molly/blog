@@ -23,7 +23,7 @@ A man sits at his computer and types out the story he has fabricated for the Fam
 
 Before that, these men were "Sayara" and "Aita", creating the "Cyber City Girls Club" to "support female and Asian artists and make charities to fight Asian Hate crimes."[^fn2] And before that, they'd come up with "BLM Cards": NFTs created to "depict the greatest Black People in NFT, and also collect money to donate to Black Charities". They designed two prototype cards, depicting George Floyd and Michael Jackson, then apparently abandoned the project.[^fn3][^fn4]
 
-A Latino man promises that his business will bank unbanked communities: "As a son of an immigrant, I saw firsthand as a child how my mother struggled without access to her money. This company was built to empower those like my mom." He encourages other Latin Americans to buy his company's crypto tokens in an initial coin offering, ultimately raising more than $9&nbsp;million. The SEC ultimately charges him with fraud,[^fn5] and it turns out he has a history of allegedly running multi-level marketing schemes and investment fraud targeting the elderly.[^fn6]
+A Latino man promises that his business will bank unbanked communities: "As a son of an immigrant, I saw firsthand as a child how my mother struggled without access to her money. This company was built to empower those like my mom." He encourages other Latin Americans to buy his company's crypto tokens in an initial coin offering, raising more than $9&nbsp;million. The SEC ultimately charges him with fraud,[^fn5] and it turns out he has a history of allegedly running multi-level marketing schemes and investment fraud targeting the elderly.[^fn6]
 
 More and more crypto communities spring up around facets of identity. "Maricoin" promises to be the "first cryptocurrency created by and for the LGTBIQ+ community" (despite, bafflingly, being named after a Spanish homophobic slur).[^fn7]
 
@@ -98,7 +98,7 @@ Most of these groups appear to be sincere—run by people who are who they say t
 
 The distinction largely doesn't matter.
 
-Groups that operate under the guise of inclusion, regardless of their intentions, are serving the greater goal of crypto that keeps the whole thing afloat: finding ever more fools to buy in so that the early investors can take their profits. And it is those latecomers who are ultimately left holding the bag.
+Groups that operate under the guise of inclusion, regardless of their intentions, are serving the greater goal of crypto that keeps the whole thing afloat: finding ever more fools to buy in so that the early investors can take their profits. And it is those latecomers who are left holding the bag in the end.
 
 With projects that seek to provide services and opportunities to members of marginalized groups who have previously not had access, but on bad terms that ultimately disadvantaged them, we see predatory inclusion.[^fn21] With projects that seek to create new communities of marginalized people to draw them in to risky speculative markets rife with scams and fraud, we are now seeing predatory *community*.
 
