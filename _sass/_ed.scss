@@ -775,6 +775,10 @@ a.footnote {
   font-size: .66rem;
 }
 
+*:target {
+  background-color: rgb(150, 183, 138, 0.3)
+}
+
 /*Bibliography styles*/
 ol.bibliography {
   list-style-type:none;
