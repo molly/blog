@@ -54,7 +54,7 @@ Racism, homophobia, transphobia, and other forms of bigotry are also common sigh
 
 When a white community manager from SuperRare held a disastrous Twitter Space to apparently try to do damage control for racist tweets that she had written in the past, Black members of the crypto community who spoke up in the Space were immediately inundated with vile and threatening racist messages.[^fn14]
 
-When the leader of ENS stood by his previous statements that "homosexual acts are evil" and "transgenderism doesn't exist", many in the crypto community seemed more horrified at the possibility that he could be "cancelled" than at the beliefs he was espousing.[^fn15]
+When a leader of ENS[^fn22] stood by his previous statements that "homosexual acts are evil" and "transgenderism doesn't exist", many in the crypto community seemed more horrified at the possibility that he could be "cancelled" than at the beliefs he was espousing.[^fn15]
 
 Although the communities of "cryptobros" on Twitter and Discord and Reddit and 4chan sometimes seem large, in reality there is fairly small subset of the population that is both terminally online enough `and drawn to and actively participate in these communities. Plenty of people who otherwise might be interested in crypto are repelled by the "cryptobro" aspect, and either engage without crypto without becoming a part of its "community", or forego it altogether.
 
@@ -124,3 +124,4 @@ With projects that seek to provide services and opportunities to members of marg
 [^fn19]: Tiku, Nitasha (April 6, 2022). "[Famous women join the crypto hustle, but it could cost their fans](https://www.washingtonpost.com/technology/2022/04/06/women-crypto-nft/)" _The Washington Post_.
 [^fn20]: "[WTF is an NFT?!? Crypto for Beginners + BIG SURPRISE!](https://www.youtube.com/watch?v=fSeoG9H8_xQ)" BFF. January 26, 2022.
 [^fn21]: See Seamster and Charron-Chénier's 2017 "[Predatory Inclusion and Education Debt: Rethinking the Racial Wealth Gap](https://journals.sagepub.com/doi/abs/10.1177/2329496516686620)" and Taylor's 2019 *[Race for Profit](https://uncpress.org/book/9781469663883/race-for-profit/)*.
+[^fn22]: Ethereum Name Service, and the reason you keep seeing ".eth" suffixes everywhere.
