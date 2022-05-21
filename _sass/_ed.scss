@@ -983,6 +983,7 @@ h3.title-text a {
 @media (max-width: 480px) {
   .blog-images-float {
     float: none;
+    margin-left: 0;
 
     .image, .image img {
       max-width: none;
