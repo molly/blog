@@ -29,7 +29,7 @@ More and more crypto communities spring up around facets of identity. "Maricoin"
 
 Randi Zuckerburg releases a parody music video titled "[We're All Gonna Make It](https://twitter.com/randizuckerberg/status/1498425277734690816)", which she says she created to be a "rallying cry for the women of web3". Matt Binder writes in *Mashable* that "it looks, sounds, and feels like something you'd see at a LuLaRoe convention to get people hyped about asking their friends if they would like to invest in a new business opportunity."[^fn8]
 
-SXSW 2022 hosts panels and events titled "Black in Web3: Now and the Future"[^fn9] and "Women Rocking Web3"[^fn10] and "Breaking the Blockchain Boys Club".[^fn11] One event promises to discuss "segments of the population that could benefit but aren't being included [in web3]: underserved communities; from middle America to BIPOC to women, rural and the LGBTQ+ communities". It is titled, apparently unironically, "Web3 For the Rest of Us", despite the fact that "the rest of us" that they seem to be alluding to are probably not among the people who paid $1,400-$2,000 for a ticket to SXSW.[^fn12]
+SXSW 2022 hosts panels and events titled "Black in Web3: Now and the Future"[^fn9] and "Women Rocking Web3"[^fn10] and "Breaking the Blockchain Boys Club".[^fn11] One event promises to discuss "segments of the population that could benefit but aren't being included [in web3]: underserved communities; from middle America to BIPOC to women, rural and the LGBTQ+ communities". It is titled, apparently unironically, "Web3 For the Rest of Us", despite the fact that "the rest of us" that they seem to be alluding to are probably not among the people who paid $1,400–$2,000 for a ticket to SXSW.[^fn12]
 
 -----
 
