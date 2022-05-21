@@ -56,7 +56,7 @@ When a white community manager from SuperRare held a disastrous Twitter Space to
 
 When a leader of ENS[^fn22] stood by his previous statements that "homosexual acts are evil" and "transgenderism doesn't exist", many in the crypto community seemed more horrified at the possibility that he could be "cancelled" than at the beliefs he was espousing.[^fn15]
 
-Although the communities of "cryptobros" on Twitter and Discord and Reddit and 4chan sometimes seem large, in reality there is fairly small subset of the population that is both terminally online enough and drawn to actively participating in these communities. Plenty of people who otherwise might be interested in crypto are repelled by the "cryptobro" aspect, and either engage without crypto without becoming a part of its "community", or forego it altogether.
+Although the communities of "cryptobros" on Twitter and Discord and Reddit and 4chan sometimes seem large, in reality there is fairly small subset of the population that is both terminally online enough and drawn to actively participating in these communities. Plenty of people who otherwise might be interested in crypto are repelled by the cryptobro aspect, and either engage with crypto without becoming a part of its community, or forego it altogether.
 
 This is bad for crypto. There is nothing crypto needs more right now than more people.
 
