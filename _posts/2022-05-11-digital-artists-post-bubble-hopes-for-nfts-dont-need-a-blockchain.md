@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-05-11
 custom_excerpt: "Some digital artists who create NFTs, particularly those who were already trying to earn a living in digital art before NFTs came along, have described their interest in its \"post-bubble\" potential as the future of digital art. What they are describing doesn't require a blockchain."
 post_collection: "blockchain"
+cc: true
 ---
 
 <div class="blog-images-float with-caption">

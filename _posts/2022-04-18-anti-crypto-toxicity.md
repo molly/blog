@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-04-18
 custom_excerpt: "Crypto is known for its toxicity towards outsiders. Similar attitudes are emerging from some who oppose crypto."
 post_collection: "blockchain"
+cc: true
 ---
 
 Some of the more ideological people who are advocating for cryptocurrencies and blockchain-based technologies are asking a lot of the right questions. Despite crypto's unquestionably right-libertarian roots, and the continuing prevalence of those politics in crypto today, we're also seeing people asking questions like:

@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-05-11
 custom_excerpt: "All it takes to create a free-to-mint NFT is three complex steps and $100. The future of art is upon us!"
 post_collection: "blockchain"
+cc: true
 ---
 
 An artist creates a piece of digital artwork. To create their first ever NFT, they have to pick a blockchain. Let’s go with Ethereum—it’s the most popular. Now which platform? OpenSea, I guess. Also the most popular. They open the site and go to create an account. “You need an Ethereum wallet to use OpenSea.” Right.

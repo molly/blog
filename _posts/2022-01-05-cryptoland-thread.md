@@ -20,7 +20,7 @@ custom_excerpt: "An unrolled copy of my livetweets of the Cryptoland hell-video.
   an up-and-coming crypto scam—er, project—has managed to dunk on cryptobros better than any satirist i've seen so far,
   with one of the most painful-to-watch youtube videos i've seen in a while. join me in hell as we watch this together:
 
-  <iframe title="Cryptoland presentation" src="https://peertube.social/videos/embed/8f7e61ed-47ab-4e82-a5c2-5a7d5e8bcb33" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/x26fUL_YB14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </div>
 <div class="tweet">
   <a href="https://twitter.com/molly0xFFF/status/1478500607468228611" target="_blank" class="tweet-link">
