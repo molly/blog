@@ -8,6 +8,8 @@ post_collection: "blockchain"
 cc: true
 ---
 
+*This is an appendix of sorts to "[Digital artists' post-bubble hopes for NFTs don't need a blockchain]({{ site.baseurl }}{% post_url 2022-05-11-digital-artists-post-bubble-hopes-for-nfts-dont-need-a-blockchain %})".*
+
 An artist creates a piece of digital artwork. To create their first ever NFT, they have to pick a blockchain. Let’s go with Ethereum—it’s the most popular. Now which platform? OpenSea, I guess. Also the most popular. They open the site and go to create an account. “You need an Ethereum wallet to use OpenSea.” Right.
 
 They don’t have a digital wallet, so they have to create one. They’ll have to pick one, but we’ll say they go with MetaMask, a popular and somewhat user-friendly crypto wallet that’s installed as a browser extension. They go to the Chrome web store and add it to their browser, then they create an account and pick a password. They’re then presented with their “secret backup phrase”—different from their password, and not chosen by them. This is what MetaMask calls the 12-word seed phrase that really protects the account. They write that down on a piece of paper, probably wondering what on earth it is, and put it someplace safe. Finally finished, they see their shiny new Ethereum wallet address—a 42-character hexadecimal string that uniquely identifies this wallet on the blockchain.
