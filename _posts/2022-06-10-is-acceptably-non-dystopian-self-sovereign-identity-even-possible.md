@@ -156,7 +156,7 @@ But as more and more developers and companies and "blockchain visionaries" seek 
 
 ## Acknowledgements
 This blog post refers to the following podcast episodes and writings:
-* "[Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen](https://www.youtube.com/watch?v=TbyVyVNsyys)". *Bankless*, by David Hoffman. June 8, 2022.
+* "[Soulbound: On or off Chain? \| Vitalik Buterin and Evin McMullen](https://www.youtube.com/watch?v=TbyVyVNsyys)". *Bankless*, by David Hoffman. June 8, 2022.
 * "[Disco: A Digital Backpack For the LARP That Is Your Life, w/ Evin McMullen](https://anchor.fm/digitallyrare/episodes/Disco-A-Digital-Backpack-For-the-LARP-That-Is-Your-Life-e1gcqff)". *Digitally Rare*, by Jonathan Mann and Matt Condon. March 28, 2022.
 * Weyl, E. Glen; Ohlhaver, Puja; Buterin, Vitalik. "[Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)". May 10, 2022.
 * Sheldrake, Philip. "[The dystopia of self-sovereign identity](https://generative-identity.org/the-dystopia-of-self-sovereign-identity-ssi/)". *Generative Identity*. October 19, 2020.
