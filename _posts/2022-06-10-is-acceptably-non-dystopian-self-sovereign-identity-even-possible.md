@@ -50,7 +50,7 @@ Self-sovereign identity is not a field where "move fast, break things" is accept
 
 -----
 
-## The trilemma of online identity
+## The trilemma of digital identity
 <div class="blog-images-float with-caption">
   <div class="image">
     <img src="https://mollywhite.net/storage/blockchain-trilemma.svg" alt="A triangle, with the three points labeled 'decentralization', 'security', and 'scalability'." />
