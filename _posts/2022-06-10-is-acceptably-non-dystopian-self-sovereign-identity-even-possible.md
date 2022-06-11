@@ -68,7 +68,7 @@ Some crypto-literate readers will already be familiar with the blockchain trilem
   <div class="image">
     <img src="https://mollywhite.net/storage/identity-trilemma.svg" alt="A triangle, with the three points labeled 'privacy', 'decentralization', and 'Sybil resistance'." />
     <div class="caption">
-      The digital identity trilemma
+      The digital identity trilemma<a href="#fn:fn1" class="footnote">11</a>
     </div>
   </div>
 </div>
