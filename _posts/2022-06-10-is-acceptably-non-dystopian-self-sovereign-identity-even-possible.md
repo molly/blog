@@ -1,9 +1,9 @@
 ---
 layout: narrative
-title: "Is \"acceptably non-dystopian\" self-sovereign identity even possible?"
+title: "Is &#34;acceptably non-dystopian&#34; self-sovereign identity even possible?"
 author: Molly White
 publication-date: 2022-06-10
-custom_excerpt: "In the recent paper about soulbound NFTs, Vitalik Buterin et. al. write that they aim to build technology that is \"acceptably non-dystopian\". Do any of today's self-sovereign identity projects fit that bill?"
+custom_excerpt: "In the recent paper about soulbound NFTs, Vitalik Buterin et. al. write that they aim to build technology that is &#34;acceptably non-dystopian&#34;. Do any of today's self-sovereign identity projects fit that bill?"
 post_collection: "blockchain"
 cc: true
 ---
