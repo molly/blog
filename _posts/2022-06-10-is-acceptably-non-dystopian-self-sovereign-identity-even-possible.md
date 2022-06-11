@@ -100,7 +100,7 @@ These attestations, proponents argue, would enable a much more robust level of i
 
 -----
 
-### Soulbound tokens and negative attestations
+## Soulbound tokens and negative attestations
 
 A recent episode of the *Bankless* podcast featured Vitalik Buterin and Evin McMullen discussing the pros and cons of Buterin’s brainchild, soulbound tokens, and McMullen’s preferred form of attestation, verifiable credentials.
 
@@ -166,7 +166,7 @@ This blog post refers to the following podcast episodes and writings:
 ## Notes
 [^fn1]: A similar trilemma, called the "[Decentralized Identity Trilemma](https://maciek.blog/dit/)", was proposed by Maciek Lascus in August 2018.
 [^fn2]: Guo, Eileen; Renaldi, Adi. "[Deception, exploited workers, and cash handouts: How Worldcoin recruited its first half a million test users](https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/)". *MIT Technology Review*. April 6, 2022.
-[^fn3]: "[Soulbound: On or off Chain? | Vitalik Buterin and Evin McMullen](https://www.youtube.com/watch?v=TbyVyVNsyys)". *Bankless*, by David Hoffman. June 8, 2022. Quote occurs at 43:47.
+[^fn3]: "[Soulbound: On or off Chain? \| Vitalik Buterin and Evin McMullen](https://www.youtube.com/watch?v=TbyVyVNsyys)". *Bankless*, by David Hoffman. June 8, 2022. Quote occurs at 43:47.
 [^fn4]: Bongiovanni, Ivano; Renaud, Karen, Aleisa, Noura. "[The privacy paradox: we claim we care about our data, so why don’t our actions match?](https://theconversation.com/the-privacy-paradox-we-claim-we-care-about-our-data-so-why-dont-our-actions-match-143354)". *The Conversation*. July 29, 2020.
 [^fn5]: "[Disco: A Digital Backpack For the LARP That Is Your Life, w/ Evin McMullen](https://anchor.fm/digitallyrare/episodes/Disco-A-Digital-Backpack-For-the-LARP-That-Is-Your-Life-e1gcqff)". *Digitally Rare*, by Jonathan Mann and Matt Condon. March 28, 2022. Quote occurs at 15:37.
 [^fn6]: Sheldrake, Philip. "[The dystopia of self-sovereign identity](https://generative-identity.org/the-dystopia-of-self-sovereign-identity-ssi/)". *Generative Identity*. October 19, 2020.
