@@ -3,7 +3,7 @@ layout: narrative
 title: "Is &#34;acceptably non-dystopian&#34; self-sovereign identity even possible?"
 author: Molly White
 publication-date: 2022-06-10
-custom_excerpt: "In the recent paper about soulbound NFTs, Vitalik Buterin et al. write that they aim to build technology that is &#34;acceptably non-dystopian&#34;. Do any of today's self-sovereign identity projects fit that bill?"
+custom_excerpt: "In the recent paper about &#34;soulbound&#34; tokens, Vitalik Buterin et al. write that they aim to build technology that is &#34;acceptably non-dystopian&#34;. Do any of today's self-sovereign identity projects fit that bill?"
 post_collection: "blockchain"
 cc: true
 ---
@@ -104,7 +104,7 @@ Some projects dream of a future state where all achievements are represented on-
 
 ## Verifiable attestations
 
-Much of the recent conversation around digital identity is not focused specifically on the Sybil problem, but instead on **verifiable attestations**: attestations from one verifiable party about another verifiable party that a statement is true. Though the term "credential" is frequently used by those familiar with W3C's Verifiable Credentials proposal, the concept might be more accurately described as a "verifiable statement" or "verifiable attestation". Actual implementations vary, from the W3C's Verifiable Credentials to Vitalik Buterin's "soulbound NFTs". For now, I will refer to the broad concept encompassing both of these implementations as "verifiable attestations".
+Much of the recent conversation around digital identity is not focused specifically on the Sybil problem, but instead on **verifiable attestations**: attestations from one verifiable party about another verifiable party that a statement is true. Though the term "credential" is frequently used by those familiar with W3C's Verifiable Credentials proposal, the concept might be more accurately described as a "verifiable statement" or "verifiable attestation". Actual implementations vary, from the W3C's Verifiable Credentials to Vitalik Buterin's "soulbound tokens". For now, I will refer to the broad concept encompassing both of these implementations as "verifiable attestations".
 
 Proposed use cases for verifiable attestations do encompass what most would think of as "credentials" today: A university might attest that a student earned a given diploma. A government might attest that a person is a citizen. A state might attest that a driver earned their driver's license. An employer might attest that an employee works for them.
 
