@@ -62,7 +62,7 @@ Self-sovereign identity is not a field where "move fast, break things" is accept
 
 Trilemmas are a set of three goals, where all three are not simultaneously achievable.
 
-Some crypto-literate readers will already be familiar with the blockchain trilemma proposed by Vitalik Buterin: decentralization, scalability, and security. Blockchains end up making tradeoffs in one goal to achieve the other two (though there are those who argue all three can be achieved, but that's another subject entirely).
+Some crypto-literate readers will already be familiar with the blockchain trilemma: decentralization, scalability, and security. Blockchains end up making tradeoffs in one goal to achieve the other two (though there are those who argue all three can be achieved, but that's another subject entirely).
 
 <div class="blog-images-float with-caption">
   <div class="image">
