@@ -86,6 +86,17 @@ By forming these communities around aspects of peoples' identities that they hol
 
 This is only more true when you've been told that buying this NFT—your Boss Beauty or Hijabi Queen or Flower Girl or Crypto Coven or Rebel Society or MetaSikh—was *empowering*, you were *breaking the glass ceiling*, you were *pushing back against the crypto white boy's club*. In many ways, the identity-based crypto communities—particularly the women-focused ones that are overwhelmingly made up of white women—are reminiscent of multi-level marketing schemes, which also prey on identity and community to increase their reach. Many MLMs hawk beauty products, weight loss supplements, and women's clothing—all appealing to women—and encourage the formation of social groups among their sellers that co-opt the language of friendship and feminism, promising to uplift one another, empower one another, and fight back against the male-dominated corporate world.
 
+<div class="blog-images-float with-caption">
+  <div class="image">
+    <a href="https://twitter.com/natbrunell/status/1459018728910196738" target="_blank">
+      <img src="https://mollywhite.net/storage/bitcoindinner.jpeg" alt="Six women sit around a table at a restaurant with drinks and empty plates" />
+    </a>
+    <div class="caption">
+      <a href="https://twitter.com/natbrunell/status/1459018728910196738" target="_blank">Photo</a> from Natalie Brunell of her "weekly #Bitcoin dinner with my girlfriends who are new BTC investors"
+    </div>
+  </div>
+</div>
+
 The #bossbabe #girlboss lingo of MLMs feels right at home in the emerging women-in-crypto space these days, where groups of beautiful women "investors" take photos clinking mimosas at brunch, show off their CryptoChick profile pictures, and receive airdropped NFTs of friendship bracelets symbolizing their membership in the girls-only club.
 
 The rhetoric often echoes the same sort of "*[Lean In](https://en.wikipedia.org/wiki/Lean_In)* feminism" pushed by Sheryl Sandberg in the early 2010s that encouraged women to be assertive in the workplace and grab themselves seats at the metaphorical table—without upsetting the apple cart too much, of course. "We have watched a lot of these bros get together and earn a lot of money, and I think we deserve to be in this space just as much," said Gwyneth Paltrow, encouraging women to buy NFTs in January 2022. "I think that there's a high probability that crypto will really be the future, and even though some people are still skeptical I think it's here to stay and we should really be part of it," she said—only months before NFTs and crypto in general would experience a serious downturn, and Paltrow's crypto and NFT posts would trail off to nothing.[^fn19][^fn20]
