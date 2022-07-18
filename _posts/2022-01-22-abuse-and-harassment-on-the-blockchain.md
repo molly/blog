@@ -60,6 +60,6 @@ There is surprisingly little discussion of the enormous potential for abuse buil
 [^fn4]: Statt, Nick (March 24, 2021). [https://www.theverge.com/2021/3/24/22348422/slack-connect-direct-message-abuse-harassment](https://www.theverge.com/2021/3/24/22348422/slack-connect-direct-message-abuse-harassment). _The Verge_.
 [^fn5]: Heaven, Will Douglas (June 17, 2021). ["Bias isn't the only problem with credit scores—and no, AI can't help"](https://www.technologyreview.com/2021/06/17/1026519/racial-bias-noisy-data-credit-scores-mortgage-loans-fairness-machine-learning/). _MIT Technology Review_.
 [^fn6]: ["Predictive policing"](https://en.wikipedia.org/wiki/Predictive_policing) (January 22, 2022). Wikipedia.
-[^fn7]: ["Adidas learns the hard way that limiting the number of NFTs one person can buy is hard"](https://web3isgoinggreat.com/?id=2021-12-17-2). _Web3 Is Going Great_.
+[^fn7]: ["Adidas learns the hard way that limiting the number of NFTs one person can buy is hard"](https://web3isgoinggreat.com/?id=2021-12-17-2). _Web3 is Going Just Great_.
 [^fn8]: Except when it's not, as I describe in [another blog post]({{ site.baseurl }}{% post_url 2022-01-09-blockchains-are-not-what-they-say %}).
 [^fn9]: ["InterPlanetary File System"](https://en.wikipedia.org/wiki/InterPlanetary_File_System) (January 22, 2022). Wikipedia.

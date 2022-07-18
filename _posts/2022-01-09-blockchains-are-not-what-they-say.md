@@ -55,8 +55,8 @@ The immutability of this new world means that if you send someone your tokens, n
 [^fn0]: I use the term “solution” extremely loosely here, as I don’t think a system where CSA material still remains available, but most people don’t see it, can reasonably be considered an acceptable solution.
 [^fn1]: ["What Coinbase’s entry into the NFT market means for OpenSea"](https://qz.com/2073503/coinbase-poses-a-threat-to-openseas-nft-dominance/), _Quartz_. October 14, 2021.
 [^fn2]: ["Amazon outage causes seven hour disruption at crypto exchanges, raises questions on 'decentralisation'"](https://www.businessinsider.in/investment/news/aws-outage-shows-that-dexs-arent-are-decentralised-as-expected/articleshow/88186644.cms), _Business Insider_. December 9, 2021.
-[^fn3]: ["Polygon loses $2 million to a vulnerability"](https://web3isgoinggreat.com/?id=2021-12-04-2), _Web3 Is Going Great_.
-[^fn4]: ["Visor Finance is hacked for about $8.2 million"](https://web3isgoinggreat.com/?id=2021-12-21-2), _Web3 Is Going Great_.
-[^fn5]: ["Vulcan Forged users lose a collective $135 million in hack"](https://web3isgoinggreat.com/?id=2021-12-13-2), _Web3 Is Going Great_.
+[^fn3]: ["Polygon loses $2 million to a vulnerability"](https://web3isgoinggreat.com/?id=2021-12-04-2), _Web3 is Going Just Great_.
+[^fn4]: ["Visor Finance is hacked for about $8.2 million"](https://web3isgoinggreat.com/?id=2021-12-21-2), _Web3 is Going Just Great_.
+[^fn5]: ["Vulcan Forged users lose a collective $135 million in hack"](https://web3isgoinggreat.com/?id=2021-12-13-2), _Web3 is Going Just Great_.
 [^fn6]: ["CoinMarketCap Glitch 'Sent' BTC, ETH to Billions; Affected Coinbase, Crypto.com"](https://cryptonews.com/news/coinmarketcap-glitch-sent-btc-eth-billions-affected-coinbase-cryptocom-yahoo-finance.htm), _CryptoNews_. December 15, 2021.
 [^fn7]: [The Dao](https://en.wikipedia.org/wiki/The_DAO_(organization)). Wikipedia.

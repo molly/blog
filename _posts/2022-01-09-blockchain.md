@@ -27,6 +27,7 @@ I have written these with the assumption that people have a base understanding o
 * "[Digital artists' post-bubble hopes for NFTs don't need a blockchain]({{ site.baseurl }}{% post_url 2022-05-11-digital-artists-post-bubble-hopes-for-nfts-dont-need-a-blockchain %})". May 11, 2022.
 * "[Predatory community]({{ site.baseurl }}{% post_url 2022-05-20-predatory-community %})". May 20, 2022.
 * "[Is 'acceptably non-dystopian' self-sovereign identity even possible?]({{ site.baseurl }}{% post_url 2022-06-10-is-acceptably-non-dystopian-self-sovereign-identity-even-possible %})". June 10, 2022.
+* "[Cryptocurrency 'market caps' and notional value]({{ site.baseurl }}{% post_url 2022-07-17-cryptocurrency-market-caps-and-notional-value %})". July 17, 2022.
 
 ## Related
 * Wikipedia _Signpost_: ["The Wikimedia Foundation's acceptance of cryptocurrency donations"]({{ site.baseurl }}{% post_url 2022-01-30-wikimedia-foundation-cryptocurrency-donations %}). January 30, 2022.
