@@ -1,6 +1,7 @@
 ---
 layout: narrative
-title: "Cryptocurrency &#34;market caps&#34; and notional value"
+title: >
+  Cryptocurrency "market caps" and notional value
 author: Molly White
 publication-date: 2022-07-17
 custom_excerpt: "A naive equation works well when estimating the value of small quantities of popular crypto tokens, but it's also being used to estimate values of illiquid tokens and the market capitalization of all of crypto. Journalists are publishing misinformation and uncritically repeating these figures, helping to prop up the belief that crypto is a far larger industry than in reality."

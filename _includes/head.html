@@ -11,36 +11,39 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
   <!-- Dublin Core metadata for Zotero -->
-  <meta name="DC.title" content="{{ page.title }}" />
+  <meta name="DC.title" content="{{ page.title | replace: '"', "'" }}" />
   <meta name="DC.creator" content="{{ page.author }}" />
   <meta name="DC.contributor" content="{{ page.editor }}" />
   <meta name="DC.date" content="{{ page.publication-date }}" />
   <meta name="DC.rights" content="{{ page.rights }}" />
   <meta name="DC.source" content="{{ site.title }}" />
 
-    <!-- Open Graph metadata -->
-    <meta property="og:title" content="{{page.title}}" />
-    {% if page.layout == "narrative" and page.custom_excerpt %}
-      <meta property="og:description" content="{{ page.custom_excerpt }}">
-    {% else %}
-      <meta property="og:description" content="Blog posts by Molly White, a senior software engineer and independent researcher.">
-    {% endif %}
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
-    <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/mollyandmax.png" />
-    <meta property="og:image:width" content="200" />
-    <meta property="og:image:height" content="200" />
+  <!-- Open Graph metadata -->
+  <meta property="og:title" content="{{page.title | replace: '"', "'" }}" />
+  {% if page.layout == "narrative" and page.custom_excerpt %}
+  <meta property="og:description" content="{{ page.custom_excerpt }}">
+  {% else %}
+  <meta property="og:description"
+    content="Blog posts by Molly White, a senior software engineer and independent researcher.">
+  {% endif %}
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
+  <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/mollyandmax.png" />
+  <meta property="og:image:width" content="200" />
+  <meta property="og:image:height" content="200" />
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }}
+    {{ site.title }}
     {% else %}
-      {{ page.title }}
+    {{ page.title }}
     {% endif %}
   </title>
 
   <!-- CSS link -->
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;600&family=Playfair+Display&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;600&family=Playfair+Display&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap"
+    rel="stylesheet">
 
   <link rel="stylesheet" href="https://www.mollywhite.net/css/main.css" />
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
@@ -52,6 +55,6 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="https://blog.mollywhite.net/feed.xml" />
-  
+
   <script src="https://kit.fontawesome.com/de718e8b04.js" crossorigin="anonymous"></script>
 </head>
