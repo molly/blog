@@ -77,7 +77,7 @@ When NFTs are stolen, large numbers are thrown around without any clarity as to 
 
 I'm guilty of sentences like this myself—it's an easy habit to slip into.
 
-This serves to legitimize cryptocurrency as though it is a much bigger industry than in reality, with far more actual money floating around than there really is. It also serves to perpetuate the narratives that NFTs are "worth" far more than they could likely fetch at auction, or tend to appreciate in value dramatically, encouraging more people to buy in to projects that are likely to result in losses. Stories about "crypto-millionaires" or -billionaires encourage more people to put their real money into the system—something it desperately needs—not realizing that they may be exchanging it for "gains" on a screen that can never translate into reality.
+This serves to legitimize cryptocurrency as though it is a much bigger industry than in reality, with far more actual money floating around than there really is. It also serves to perpetuate the narratives that NFTs are "worth" far more than they could likely fetch at auction, or tend to appreciate in value dramatically, encouraging more people to buy in to projects that are likely to result in losses. Stories about "crypto-millionaires" or -billionaires encourage more people to put their real money into the system—something it desperately needs—not realizing that they may be exchanging it for "gains" on a screen that can never be realized.
 
 ## What needs to change?
 
