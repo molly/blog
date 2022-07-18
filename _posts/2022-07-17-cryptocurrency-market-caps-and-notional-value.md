@@ -84,6 +84,10 @@ Crypto exchanges and trackers should be clear about how market caps are being ca
 
 Finally, journalists need to understand the true meaning of "market cap" and the "value" of cryptocurrency, and convey that to their readers. Careful word choice can make a difference: I often write about "Crypto tokens notionally valued at $X", or "NFTs priced at $X", or "theft of crypto tokens priced at $X (based on the token value before the hack)". More than anything, journalists should question everything in an industry where there is *always* an incentive to promote, inflate, and exaggerate.
 
+# Further reading
+* Castor, Amy. "['How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate questions](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/)". January 20, 2021.
+* Gerard, David. "[Your guide to the crypto crash — Terra UST, Bitcoin and El Salvador ](https://davidgerard.co.uk/blockchain/2022/05/21/your-guide-to-the-crypto-crash-terra-ust-bitcoin-and-el-salvador/)". May 21, 2022.
+
 # Notes
 
 [^fn1]: Tether (USDT) and Circle's USDC are the top two USD-pegged stablecoins, and both have at various times claimed to always have $1 in cash in a bank account for each token. By now it has been shown that this was not true for either token ([Tether](https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9), [USDC](https://www.bloomberg.com/news/articles/2021-08-11/coinbase-drops-promise-of-token-s-cash-backing-that-wasn-t-true)). Tether, for its part, has mostly stopped trying to make this claim and now just claims to be backed by *something*; USDC claims that *now, for real this time,* it is backed by cash <small>and US treasuries</small>. Neither has been properly audited to confirm their claims.
@@ -98,7 +102,3 @@ Finally, journalists need to understand the true meaning of "market cap" and the
 [^fn10]: Reyburn, Scott. "[JPG File Sells for $69 Million, as 'NFT Mania' Gathers Pace](https://www.nytimes.com/2021/03/11/arts/design/nft-auction-christies-beeple.html)", _The New York Times_. March 11, 2021.
 [^fn11]: Castor, Amy. "[Metakovan, the mystery Beeple art buyer, and his NFT/DeFi scheme](https://amycastor.com/2021/03/14/metakovan-the-mystery-beeple-art-buyer-and-his-nft-defi-scheme/)". March 14, 2021.
 [^fn12]: "[Justin Bieber "bought" an NFT for $1.3 million. But he didn't pay for it.](https://web.archive.org/web/20220602104111/https://dirtybubblemedia.substack.com/p/justin-bieber-bought-an-nft-for-13?s=r)". Dirty Bubble Media. February 3, 2022.
-
-# Further reading
-* Castor, Amy. "['How can $24B in tethers move a $650B Bitcoin market cap?' and other mathematically illiterate questions](https://amycastor.com/2021/01/20/how-can-24b-in-tethers-move-a-650b-bitcoin-market-cap-and-other-mathematically-illiterate-questions/)". January 20, 2021.
-* Gerard, David. "[Your guide to the crypto crash — Terra UST, Bitcoin and El Salvador ](https://davidgerard.co.uk/blockchain/2022/05/21/your-guide-to-the-crypto-crash-terra-ust-bitcoin-and-el-salvador/)". May 21, 2022.
