@@ -25,6 +25,8 @@ The goal of highlighting these excerpts is to illustrate this, and shed some lig
 
 All case filings can be viewed on [Stretto](https://cases.stretto.com/Celsius/court-docket/). Individual letters are linked alongside their excerpts. I have published similar excerpts [on Twitter](https://twitter.com/molly0xFFF/status/1550160830762782724), and will be continuing to update that thread and this post as new letters are entered. New letters will go at the top of this post, which is in reverse order based on docket number.
 
+If anyone is looking to submit a letter of their own, [this Reddit post](https://www.reddit.com/r/CelsiusNetwork/comments/w2x7f2/how_to_submit_a_letter_to_the_judge_and_contact/) seems to explain how.
+
 ## Background
 On June 12, 2022, the cryptocurrency lending firm Celsius Network suspended customer withdrawals, swaps, and transfers. On July 13, the company filed for Chapter 11 bankruptcy. Users have been unable to withdraw crypto stored in Celsius accounts. Users with loans open are still having to add collateral to maintain their loans, despite not knowing if they'll be able to retrieve their collateral. Some have been forcibly liquidated even though they intended to add collateral to open loans, due to needing to go through the overloaded Celsius support team.
 
