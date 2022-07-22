@@ -52,7 +52,7 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 [Doc 135](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000072.pdf), filed July 21, 2022:
 
-> As a personal plea, in which I am echoed by numerous depositors. I am a retail investor with a good portion of my life savings on the platform. I put my crypto assets as well as a good portion of my bank savings in Celsius relying on the fraudulent  assertions of the Celsius executive management team, who attested repeatedly that our interest payments were based on  over‐collateralized loans with delta neutral risk. I also recommended this platform to friends, who are now also in the same  situation.
+> As a personal plea, in which I am echoed by numerous depositors. I am a retail investor with a good portion of my life savings on the platform. I put my crypto assets as well as a good portion of my bank savings in Celsius relying on the fraudulent  assertions of the Celsius executive management team, who attested repeatedly that our interest payments were based on  over-collateralized loans with delta neutral risk. I also recommended this platform to friends, who are now also in the same  situation.
 
 -----
 
