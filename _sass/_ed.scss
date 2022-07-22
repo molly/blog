@@ -164,7 +164,6 @@ blockquote {
   margin: 0 0 20px 0;
   color: $text-color;
   border-left: none;
-  font-style: italic;
 }
 
 blockquote p:last-child {
@@ -1023,10 +1022,6 @@ h3.title-text a {
   a {
     color: #000000;
   }
-}
-
-.celsius-excerpt {
-  font-style: normal;
 }
 
 .inserted-note {
