@@ -34,6 +34,12 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 138](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000075.pdf), filed July 22, 2022:
+
+> I, myself, have a little over $20,000 in stable coins frozen in Celsius' earn program. Not having access to that amount of money is devastating because I worked hard to save that up and could be using that money to pay off debt or bills in a time when prices, and inflation, are running rampant.
+
+---
+
 [Doc 137](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000074.pdf), filed July 22, 2022:
 
 > I am the mother of <span class="inserted-note">[redacted]</span> who filed claim. As she mentioned she is a single mother of 2 daughters, and she has supported me and my husband for whole her life. She is struggling hard for living. 
@@ -46,7 +52,7 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 > It was devastating to learn, when withdrawals were stopped on June 12th and the truth started to come out, that they took my carefully accumulated life savings, part of which were the proceeds from the family home I had just sold in late 2020 in preparation for a downsized retirement, and recklessly exposed them to enormous risk, mismanagement and loss.
 
-> Today, not many months from retirement, I face financial ruin and a very bleak future if those funds are not made whole to me again and in kind. I divided my investment between a US dollar stable coin USDC to earn high yield now to live on; and some pristine cryptos that have an incredible upside potential, in the next five to ten years, to grow to several million dollars to keep me in my old age and to pass on to my children
+> Today, not many months from retirement, I face financial ruin and a very bleak future if those funds are not made whole to me again and in kind. I divided my investment between a US dollar stable coin USDC to earn high yield now to live on; and some pristine cryptos that have an incredible upside potential, in the next five to ten years, to grow to several million dollars to keep me in my old age and to pass on to my children.
 
 -----
 
