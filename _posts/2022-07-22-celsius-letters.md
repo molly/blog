@@ -34,6 +34,21 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 153](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000115.pdf), filed July 22, 2022:
+
+> Even worst I convinced my wife to take her money from her bank and converted into usdc to deposit into Celsius, now she has 12.000 Euros in Celsius account. Since I started to buy Bitcoin in 2018, I saved every euro from my salary to invest in a future where I could feel safe and protect my family, now I feel that lost all after they canceled withdrawals and I want to die, my life has become a complete mess, a lot of depression and I have one month not sleeping and feeling miserable due Celsius.
+
+> I have right now 1,80 BTC <span class="inserted-note">[~$42,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> in Celsius and that’s the money I’m planning to give to my daughter when I pass away, please help us many people is suffering due Alex.
+
+-----
+
+[Doc 152](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000111.pdf), filed July 21, 2022:
+
+> I wanted you to know that I have my life savings held up in a Celsius Network account. The impact of not being able to withdraw my deposits has left my family in limbo and uncertainty of what the future holds for us financially.
+> The filing of bankruptcy by Celsius Network LLC has added a lot of stress to me and my family. Depending on the outcome, we will need to delay our retirement plans and continue to be in the work force instead of enjoying our retirement. We will be forced to make up for the deposits we will potentially lose.
+
+-----
+
 [Doc 149](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000107.pdf), filed July 22, 2022:
 
 > I am a depositor with Celsius and I currently have 7.1599751 BTC (Bitcoin) <span class="inserted-note">[~$73,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> + 54.666429 ETH (Ethereum) <span class="inserted-note">[~$86,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> locked on the platform, some of which is being used as collateral on various loans. I have already been liquidated on 4 of those loans as it was not possible to pay off the loan (which I had the money to do so) due to the locked status that Celsius imposed on it’s customers. 
