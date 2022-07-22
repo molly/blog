@@ -33,5 +33,6 @@ I have written these with the assumption that people have a base understanding o
 * Wikipedia _Signpost_: ["The Wikimedia Foundation's acceptance of cryptocurrency donations"]({{ site.baseurl }}{% post_url 2022-01-30-wikimedia-foundation-cryptocurrency-donations %}). January 30, 2022.
 * Stanford University: ["Abuse on the blockchain" (Lecture transcript)]({{ site.baseurl }}{% post_url 2022-03-07-abuse-on-the-blockchain-lecture %}). March 7, 2022.
 * "[The Edited Latecomer's Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto)". March 25, 2022.
+* "[Excerpts from letters to the judge in the Celsius Network bankruptcy case]({{ site.baseurl }}{% post_url 2022-07-22-celsius-letters %})". July 22, 2022.
 
 {% include disclosure.html %}
