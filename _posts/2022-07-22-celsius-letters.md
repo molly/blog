@@ -34,6 +34,28 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 137](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000074.pdf), filed July 22, 2022:
+
+> I am the mother of <span class="inserted-note">[redacted]</span> who filed claim. As she mentioned she is a single mother of 2 daughters, and she has supported me and my husband for whole her life. She is struggling hard for living. 
+
+---
+
+[Doc 136](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000073.pdf), filed July 21, 2022:
+
+> I am writing to you today as one of the thousands of unsecured creditors in the Celsius case who listened to the promises of Alex Mashinsky and transferred my entire retirement and life savings into Celsius in order to receive yield. I did this because I was led to believe that this was a safe alternative to a bank savings account. Alex Mashinsky told us, whereas banks charge customers up to 29.9% interest on credit card debt using customer money and keep all of it for themselves, with Celsius we share the interest with you and eliminate the risk...
+
+> It was devastating to learn, when withdrawals were stopped on June 12th and the truth started to come out, that they took my carefully accumulated life savings, part of which were the proceeds from the family home I had just sold in late 2020 in preparation for a downsized retirement, and recklessly exposed them to enormous risk, mismanagement and loss.
+
+> Today, not many months from retirement, I face financial ruin and a very bleak future if those funds are not made whole to me again and in kind. I divided my investment between a US dollar stable coin USDC to earn high yield now to live on; and some pristine cryptos that have an incredible upside potential, in the next five to ten years, to grow to several million dollars to keep me in my old age and to pass on to my children
+
+-----
+
+[Doc 135](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000072.pdf), filed July 21, 2022:
+
+> As a personal plea, in which I am echoed by numerous depositors. I am a retail investor with a good portion of my life savings on the platform. I put my crypto assets as well as a good portion of my bank savings in Celsius relying on the fraudulent  assertions of the Celsius executive management team, who attested repeatedly that our interest payments were based on  over‐collateralized loans with delta neutral risk. I also recommended this platform to friends, who are now also in the same  situation.
+
+-----
+
 [Doc 132](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000062.pdf), filed July 21, 2022:
 
 > I (58 years old) saved hard for my pension gap that I have in order to bridge two years financially without any worries. before I start receiving state pension and old age pension. Now that has become very insecure and you are my (our) savior so as not to end up in a financial hole later. I will soon need my money to be able to eat and live.
