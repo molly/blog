@@ -34,6 +34,28 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 132](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000062.pdf), filed July 21, 2022:
+
+> I (58 years old) saved hard for my pension gap that I have in order to bridge two years financially without any worries. before I start receiving state pension and old age pension. Now that has become very insecure and you are my (our) savior so as not to end up in a financial hole later. I will soon need my money to be able to eat and live.
+
+> My wife ... (56 years old) has also opened a Celsius account on my advice and she has largely deposited her savings into it. My 80-year-old mother ... also opened an account through me because the interest on the bank in the Netherlands has become 0% and she can continue to pay her bills carefree. After seeing another AMA of Alex M, the last one, was also where he said; open an account with us, it's safe, you can win $1000 bonus!!! Finally, on June 11, 2022, my 23-year-old son opened an account and deposited his piece of bitcoin into it and a week later everything was locked. He was shocked and angry with me and said because of you I am now in this misery.
+
+> Judge Glenn, I could cry and feel very guilty for advising my family to Celsius. In retrospect it sounded too good to be true, we say in the Netherlands.
+
+-----
+
+[Doc 131](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000060.pdf), filed July 21, 2022:
+
+> On May 27th, 2022, after viewing several recent videos of Alex Mashinsky promising that my crypto assets would be safe and that I would receive 6.50% APY on my BTC and 6.00% APY on my ETH, I transferred 0.868842 BTC <span class="inserted-note">[~$25,400 on <a href="https://finance.yahoo.com/quote/BTC-USD/history/">date of deposit</a>]</span> & 11.670072 ETH <span class="inserted-note">[~$21,000 on <a href="https://finance.yahoo.com/quote/ETH-USD/history/">date of deposit</a>]</span> onto the Celsius Network. I was also promised $550 in 30 to 90 days as a promotion to entice me to transfer my assets to Celsius. I found that after I transferred my crypto assets that the actual APY quoted was only on a small portion of my holdings. Still, the actual APY was about the same as I was receiving else ware, so I decided to stay with Celsius to receive the promotional rewards. Just 16 days later, and after receiving no APY or rewards, I was informed that I could no longer withdrawal my assets.
+
+-----
+
+[Doc 129](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000058.pdf), filed July 21, 2022:
+
+> I am a Brazilian worker and I put all my money on this platform, as ALEX (CEO) said that we would be safe from the risks of banks and would offer a loan with an interest rate compatible with the market. It makes no sense to disappear with the money where it has a collateral, that is, I deposited 200,000 USD in bitcoin to withdraw the loan of 50,000 USD. The goal was not to have to sell my bitcoins during this market rally. Therefore, the collateral was practically 4x, or in some cases 2x, the loan amount.
+
+-----
+
 [Doc 127](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000054.pdf), filed July 21, 2022:
 
 > I placed my entire EIDL <span class="inserted-note">[<a href="https://www.sba.gov/funding-programs/loans/covid-19-relief-options/covid-19-economic-injury-disaster-loan/about-covid-19-eidl">Economic Injury Disaster Loan</a>]</span> loan, $525,000 in Celsius to earn an APY to help pay back the 3.9% interest on the loan while I was in the process of deciding on if I would keep the EIDL or use it on my business.
