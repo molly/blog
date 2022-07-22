@@ -7,6 +7,16 @@ custom_excerpt: "People with funds locked in Celsius Network have been sending l
 post_collection: "blockchain"
 ---
 
+-----
+
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+
+-----
+
 People with funds locked in Celsius Network have been sending letters to the judge presiding over the Chapter 11 bankruptcy case. These are excerpts from those letters.
 
 It's important to understand that schemes like this in the cryptocurrency industry are hurting real people who are often suffering losses they can't afford. Regardless of what you may believe about individuals' decisions to put significant amounts of money into Celsius, blame lies with the executives creating and running these companies and with the U.S. legal and regulatory system for allowing companies like this to operate.
