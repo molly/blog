@@ -30,9 +30,15 @@ If anyone is looking to submit a letter of their own, [this Reddit post](https:/
 ## Background
 On June 12, 2022, the cryptocurrency lending firm Celsius Network suspended customer withdrawals, swaps, and transfers. On July 13, the company filed for Chapter 11 bankruptcy. Users have been unable to withdraw crypto stored in Celsius accounts. Users with loans open are still having to add collateral to maintain their loans, despite not knowing if they'll be able to retrieve their collateral. Some have been forcibly liquidated even though they intended to add collateral to open loans, due to needing to go through the overloaded Celsius support team.
 
-Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users received a percentage rate of return either in the $CEL token or in the same tokens they were holding. In April 2022, Celsius stopped allowing non-accredited investors in the United States to keep Earn accounts, in order to comply with U.S. regulations. With Custody accounts, coins are stored and can be transferred, swapped, or used for loan collateral, but do not accumulate the rewards of the Earn accounts.
+Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users received a percentage rate of return either in the $CEL token or in the same tokens they were holding. In April 2022, Celsius stopped allowing non-accredited investors in the United States to keep Earn accounts, in order to comply with U.S. regulations. With Custody accounts, coins are stored and could be transferred, swapped, or used for loan collateral, but did not accumulate the rewards of the Earn accounts.
 
 ## Excerpts
+
+[Doc 140](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000082.pdf), filed July 21, 2022:
+
+> Thousands of everyday hard-working people and families stand to lose more than they can recover in their lifetime, while Alex Mashinsky, the CEO of Celsius will walk away a wealthier businessman. This is not justice. This is not right.
+
+-----
 
 [Doc 138](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000075.pdf), filed July 22, 2022:
 
