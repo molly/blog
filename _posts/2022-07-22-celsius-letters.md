@@ -34,6 +34,18 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 143](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000087.pdf), filed July 22, 2022:
+
+> I have well over $1,300,000 in this custody account which was worth almost $2,700,000 less than 12 months ago. I chose to move it into the custody account under the assumption that it was safe due to the well-understood definition of a “custodian” as well as Celsius’s own terms and conditions...
+
+-----
+
+[Doc 142](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000086.pdf), filed July 21, 2022:
+
+> I am a hardworking middle class husband and  father who is struggling to make ends meet, every single week. At the moment, I have under  $1,000 in my Wells Fargo checking account, which, as a result of the freeze, is my only source  of funds to provide for my family. I live in California, where everything is egregiously expensive,  and there is absolutely no way that I can continue to provide without access to my assets at  Celsius. I request an immediate release of my funds under several pretenses, the first and  foremost reason being that this is an EMERGENCY situation, simply to keep a roof over  my family and food on their table.
+
+-----
+
 [Doc 140](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000082.pdf), filed July 21, 2022:
 
 > Thousands of everyday hard-working people and families stand to lose more than they can recover in their lifetime, while Alex Mashinsky, the CEO of Celsius will walk away a wealthier businessman. This is not justice. This is not right.
