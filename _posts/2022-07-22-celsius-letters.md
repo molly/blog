@@ -34,6 +34,50 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 149](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000107.pdf), filed July 22, 2022:
+
+> I am a depositor with Celsius and I currently have 7.1599751 BTC (Bitcoin) <span class="inserted-note">[~$73,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> + 54.666429 ETH (Ethereum) <span class="inserted-note">[~$86,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> locked on the platform, some of which is being used as collateral on various loans. I have already been liquidated on 4 of those loans as it was not possible to pay off the loan (which I had the money to do so) due to the locked status that Celsius imposed on it’s customers. 
+
+> This accounts for almost all of my life savings which I invested in over a year ago and placed in my Celsius account earlier this year before the company collapsed. This is my life savings from more than 10 years of hard work and I cannot tell you how distressed and lost I am about what to do.
+
+> Some of this collateral was also funds that my family asked me to invest for them and I cannot bring myself to tell them what’s happened and am extremely depressed and have basically shut down mentally and cannot work or see friends due to this deep depression. I will never recover from this financial loss.
+
+-----
+
+[Doc 148](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000106.pdf), filed July 21, 2022:
+
+> If I were to never get my funds back I would recover, it would take time and some of the life goals I have would be set back further than I would like. But many people would be taking such a devasting blow that recovering would, at least seem, almost impossible. To build homes. To start families. To invest in businesses. To escape debt. To feed themselves. The list of possibilities better than allowing these crooks to get away with customer funds is infinite.
+
+-----
+
+[Doc 147](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000102.pdf), filed July 21, 2022: 
+
+> Like many others, I had savings deposited into Celsius Network. I believe the total amount was about $5000 when Celsius froze all withdrawals. This may not be a lot of money to some but it is a lot of money to me and I worked hard to obtain it. I trusted Celsius Network with my savings as they advertised I could withdraw my money at all times. This wasn’t actually the case.
+
+-----
+
+[Doc 146](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000094.pdf), filed July 21, 2022:
+
+> I personally have 1.67+ BTC <span class="inserted-note">[~$39,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> and 83.9+ ETH <span class="inserted-note">[~$128,000 on <a href="https://ycharts.com/indicators/ethereum_price">date of filing</a>]</span> being held by Celsius. I am a retired school teacher and funds of that magnitude are highly significant to me.
+
+-----
+
+[Doc 145](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000091.pdf), filed July 22, 2022:
+
+> Currently I have my entire life savings & retirement invested in Celsius in the stable coin USDC in the amount of $205,001.66 I cannot begin to tell you the level of devastation and horror I felt when Celsius froze withdrawals.
+
+> Having my funds frozen has been devastating to me and my family both financially, mentally, and physically. I cannot sleep most nights and am over-whelmed with worry and dread for my family’s future. I have two small children. A 3-year-old daughter and a 2-year-old son. I am the sole bread winner for my family, and I pride myself on making smart financial and parental decisions for them to provide a better life and a bright/positive future.
+
+> I was going to be using my funds to finish building my home and complete the construction of my property that has already been underway for over 1 year. I am currently left scrambling trying to figure out ways to get myself out of this mess that Celsius has put me in. 
+
+-----
+
+[Doc 144](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000090.pdf), filed July 21, 2022:
+
+> My wife and I are Celsius customers who have approximately $140,000 locked on Celsius.... Many lives have been destroyed by Celsius.
+
+-----
+
 [Doc 143](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000087.pdf), filed July 22, 2022:
 
 > I have well over $1,300,000 in this custody account which was worth almost $2,700,000 less than 12 months ago. I chose to move it into the custody account under the assumption that it was safe due to the well-understood definition of a “custodian” as well as Celsius’s own terms and conditions...
