@@ -34,6 +34,46 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 160](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000131.pdf), filed July 22, 2022:
+
+> I put all my personal savings that were sitting in a bank account for various needs. Including purchasing a car in the very near future, maintaining my home, vacation savings, and extra funds for unexpected events.
+
+> Well I had an unexpected event. Carpet in my house got ruined. The carpet was growing mold and making myself and family sick. So we had to replace it before we ended up in the hospital from constantly breathing in mold. I had to sell some of my retirement investments in order to pay for the carpet. Had I had the savings that I transferred to Celsius, I would not have had to dip into my retirement funds.
+
+> I also had a long weekend vacation planned. I was going to use my savings to pay for it. Again I had to sell retirement investments to pay for the vacation.
+
+> I also sold $50,000 from my retirement investments and put them into Celsius. It took me years and years to save that money. Not sure if Ill ever get that back.
+
+> At the time of this letter I have over $99,000 with Celsius. $50,000 being from retirement and $49,000 being my personal savings.
+
+-----
+
+[Doc 159](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000130.pdf), filed July 21, 2022:
+
+> I have approx. 7,000 worth of assets stuck on Celsius. To some that may not be much. To others like myself, it is a huge part of my investment. You may be thinking that I deserve this and I’ve should have gotten out before Celsius paused withdrawals. Maybe so. But I hope there is a part of you that sees many people losing out on their investments/life savings. It’s a real shame that this happened to people who like myself are just trying to improve their quality of life by increasing their net worth.
+
+-----
+
+[Doc 158](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000125.pdf), filed July 21, 2022:
+
+I'm from Brazil and I have 0.1 BTC <span class="inserted-note">[~$2,300 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> on my earn account. I know it can be considered a low amount when compared to other users, but for me it is a significant amount.
+
+-----
+
+[Doc 157](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000122.pdf), filed July 22, 2022:
+
+> I am a single mother of 2 daughters who are going to college next year. I have supported my parents and my daughters by myself for whole life. I am struggling hard for living.
+> I saw Celsius advertisement and promotion through media and deposited my cryptos which I purchase at the top price from Coinbase Pro last December. My cryptos on the Celsius are maybe not big money for Mr. Mashinsky and his high salaried staffs ($30,000 monthly income after filing Chapter 11), but it is huge amount of money for my poor family. Like many other depositors, I and my family are severely impacted both in financial and mental health by the bankruptcy and locked up cryptos. I always check the app if my cryptos are still there. I can’t focus my job or sleep.
+> I deposited my cryptos on the Celsius because they always claim that Celsius is SAFER than traditional banks or even other Crypto companies through the medias.
+
+-----
+
+[Doc 156](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000121.pdf), filed July 22, 2022:
+
+> This has an immense impact on my life and finances as I have almost $43,000 frozen in my account without the ability to access. Like many others, I am very close to retirement and based on information shared, felt that this was a very good platform.
+
+-----
+
 [Doc 155](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000119.pdf), filed July 22, 2022:
 
 > I, like many others, have my 6 six figure life savings currently trapped within Celsius Network. I made the decision to move my cryptocurrency which I have been slowly building up since 2017 to Celsius Network due to my understanding that they were providing loans that were over-collateralized to individuals and institutions.
