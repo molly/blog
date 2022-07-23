@@ -11,7 +11,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
 
   <!-- Dublin Core metadata for Zotero -->
-  <meta name="DC.title" content="{{ page.title | replace: '"', "'" }}" />
+  <meta name="DC.title" content="{{ page.title | replace: '"', "'" | strip_newlines }}" />
   <meta name="DC.creator" content="{{ page.author }}" />
   <meta name="DC.contributor" content="{{ page.editor }}" />
   <meta name="DC.date" content="{{ page.publication-date }}" />
@@ -19,9 +19,9 @@
   <meta name="DC.source" content="{{ site.title }}" />
 
   <!-- Open Graph metadata -->
-  <meta property="og:title" content="{{page.title | replace: '"', "'" }}" />
+  <meta property="og:title" content="{{page.title | replace: '"', "'" | strip_newlines }}" />
   {% if page.layout == "narrative" and page.custom_excerpt %}
-  <meta property="og:description" content="{{ page.custom_excerpt | replace: '"', "'"  }}">
+  <meta property="og:description" content="{{ page.custom_excerpt | replace: '"', "'" | strip_newlines }}">
   {% else %}
   <meta property="og:description"
     content="Blog posts by Molly White, a senior software engineer and independent researcher.">
@@ -34,9 +34,9 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:creator" content="@molly0xfff" />
   <meta name="twitter:creator:id" content="545445165" />
-  <meta name="twitter:title" content="{{page.title | replace: '"', "'" }}" />
+  <meta name="twitter:title" content="{{page.title | replace: '"', "'" | strip_newlines }}" />
   {% if page.layout == "narrative" and page.custom_excerpt %}
-  <meta name="twitter:description" content="{{ page.custom_excerpt | replace: '"', "'" }}">
+  <meta name="twitter:description" content="{{ page.custom_excerpt | replace: '"', "'" | strip_newlines }}">
   {% else %}
   <meta name="twitter:description"
     content="Blog posts by Molly White, a senior software engineer and independent researcher.">
