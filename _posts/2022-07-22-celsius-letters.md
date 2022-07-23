@@ -56,7 +56,7 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 [Doc 158](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000125.pdf), filed July 21, 2022:
 
-I'm from Brazil and I have 0.1 BTC <span class="inserted-note">[~$2,300 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> on my earn account. I know it can be considered a low amount when compared to other users, but for me it is a significant amount.
+> I'm from Brazil and I have 0.1 BTC <span class="inserted-note">[~$2,300 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> on my earn account. I know it can be considered a low amount when compared to other users, but for me it is a significant amount.
 
 -----
 
