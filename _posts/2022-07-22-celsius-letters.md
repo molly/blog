@@ -34,6 +34,20 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 155](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000119.pdf), filed July 22, 2022:
+
+> I, like many others, have my 6 six figure life savings currently trapped within Celsius Network. I made the decision to move my cryptocurrency which I have been slowly building up since 2017 to Celsius Network due to my understanding that they were providing loans that were over-collateralized to individuals and institutions.
+
+-----
+
+[Doc 154](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000117.pdf), filed July 21, 2022:
+
+> I have—at this time--$120,000.00-worth of hard-earned funds in Celsius...
+
+> The amount of Crypto that I’ve entrusted to these criminals represents a massive portion of my entire savings. A portion of this Crypto was purchased with money earned from 20-year EE Bonds that I purchased every month while I served as a Rifleman (0311) in the USMC, from which my discharge was Honorable. ... The funds that I’ve invested have taken a lifetime to raise. Life will be hard without these funds, even if there are no emergencies. If there is an emergency, then there is simply no way that I could stand against it without these funds; it is crucial that they are returned to me. 
+
+-----
+
 [Doc 153](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907222280000000115.pdf), filed July 22, 2022:
 
 > Even worst I convinced my wife to take her money from her bank and converted into usdc to deposit into Celsius, now she has 12.000 Euros in Celsius account. Since I started to buy Bitcoin in 2018, I saved every euro from my salary to invest in a future where I could feel safe and protect my family, now I feel that lost all after they canceled withdrawals and I want to die, my life has become a complete mess, a lot of depression and I have one month not sleeping and feeling miserable due Celsius.
