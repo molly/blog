@@ -4,7 +4,7 @@ title: >
   Stop saying "They shouldn't have invested more than they could afford to lose"
 author: Molly White
 publication-date: 2022-07-22
-custom_excerpt: "It's apparently easy for people to castigate those who've just lost everything by repeating this refrain, but it excuses the dissemination of the narrative that crypto is a solution for people who don't have money they could afford to lose."
+custom_excerpt: "It's apparently easy for people to say this to castigate those who've just lost everything, but it only excuses the dissemination of the narrative that crypto is a solution for people who don't have money they could afford to lose."
 post_collection: "blockchain"
 cc: true
 ---
