@@ -51,7 +51,7 @@ So "don't invest more than you can afford to lose" is tough advice to swallow fo
 
 It's apparently easy for people to castigate those who've just lost everything by repeating this refrain, in the same way it seems to be easy for people to only start pointing out the "obvious Ponzi" or "clear scam" projects only after everything crumbles. And it's tempting, to those steeped in crypto, because it serves to place the blame with the individual, rather than with the platform, the particular segment of crypto that failed, or—God forbid—with crypto and its culture as a whole.
 
-Doing this only excuses the messaging that we have been seeing everywhere we look—in crypto media but also in supposedly reputable news publications, in advertising, on social media and from influencers, and certainly from crypto companies themselves—that crypto is an "investment", or the future of money, or the democratization version of finance that will finally give the average person a fair shake.
+Doing this only excuses the messaging that we have been seeing everywhere we look—in crypto media but also in supposedly reputable news publications, in advertising, on social media and from influencers, and certainly from crypto companies themselves—that crypto is an "investment", or the future of money, or the democratized version of finance that will finally give the average person a fair shake.
 
 ---
 
