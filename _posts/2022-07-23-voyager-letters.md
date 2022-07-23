@@ -53,13 +53,13 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 
 > My family worked for over 24 years to build a family business together that was all our blood, sweat, tears and that took us away from our families for years. We worked hard and long for those twenty-four years. In December of 2020, we sold our family business for a small share for each of us (five owners). I took about ½ of my proceeds from the sale of our company and put it into Voyager on their crypto application. I felt that the money, based on their claims, was safe, FDIC insured and that I was making an investment for the long term.
 
-> I have four children aged 16 years, 12 years, 11 years and 8 years old currently. That money was an investment into their futures to pay for their college. I put over $350,000 into USD coin because of the promises of “safety and security,” from Voyager and 9% interest and “FDIC insured,” USD coin. I also put over $700,000 more in Bitcoin and Ethereum that are now decimated, but that’s on me. I take responsibility for investment and risk, but the Voyager leaders and Voyager Digital, LLC needs to take responsibility for giving us back what we are due, in full
+> I have four children aged 16 years, 12 years, 11 years and 8 years old currently. That money was an investment into their futures to pay for their college. I put over $350,000 into USD coin because of the promises of “safety and security,” from Voyager and 9% interest and “FDIC insured,” USD coin. I also put over $700,000 more in Bitcoin and Ethereum that are now decimated, but that’s on me. I take responsibility for investment and risk, but the Voyager leaders and Voyager Digital, LLC needs to take responsibility for giving us back what we are due, in full.
 
 -----
 
 [Doc 114](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307202280000000080.pdf), filed July 20, 2022:
 
-> I am a current customer/depositor of Voyager who has been investing a major portion of my savings into cryptocurrency using Voyager services. I now feel regretful for believing into their marketing strategy and potentially losing my family’s life savings
+> I am a current customer/depositor of Voyager who has been investing a major portion of my savings into cryptocurrency using Voyager services. I now feel regretful for believing into their marketing strategy and potentially losing my family’s life savings.
 
 -----
 
@@ -75,7 +75,7 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 
 [Doc 108](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307202280000000022.pdf), filed July 19, 2022:
 
-> I write as an unsecured creditor who has deposited her entire life savings into the USDC stablecoin under the consistent confirmation of CEO Stephen Ehrlich that we owned our assets. I would have NEVER in a million years taken my hard earned money and put it into an asset that I believed I was not the custodian of. I am not a gambler; the USDC stablecoin does not fluctuate from the US dollar and is “regulated and licensed by institutions that maintain full reserves of the equivalent fiat currency in a 1 USDC : 1 USD ratio.
+> I write as an unsecured creditor who has deposited her entire life savings into the USDC stablecoin under the consistent confirmation of CEO Stephen Ehrlich that we owned our assets. I would have NEVER in a million years taken my hard earned money and put it into an asset that I believed I was not the custodian of. I am not a gambler; the USDC stablecoin does not fluctuate from the US dollar and is “regulated and licensed by institutions that maintain full reserves of the equivalent fiat currency in a 1 USDC : 1 USD ratio."
 
 -----
 
