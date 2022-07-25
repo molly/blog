@@ -72,14 +72,19 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 [Doc 177](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907252280000000097.pdf), filed July 22, 2022:
 
 > I feel really betrayed from Alex Mashinsky and his company Celsius. He published so many videos in the last two years about how good Celsius is, that all customers are protected because of a high insurance from Celsius. Mr Mashinsky also said that the funds of customers are always accessible. I have over $76000 US Dollar worth of funds on Celsius...
+
 -----
 
 [Doc 175](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907252280000000068.pdf), filed July 22, 2022:
 
 > I too, was led to believe that Celsius was the “safest, most transparent home for crypto”, and for that reason held almost the entirety of my assets with them - emphasis on past tense.
+
 > Now, I am presently in a position whereby I can’t make rent and I am well behind with my tax savings as I had entrusted them to look after my funds. I am in major need of money and feeling somewhat helpless, especially as a small holder; powerless.
+
 > I was a keen purchaser of and believer in Luna Classic – for a decentralised future - before its collapse and for the seasons stated above, also kept 100% of my Luna (equating to 85% of my cryptocurrency wealth) with Celsius. Following the de-pegging of UST and the collapse of Luna I was desperate and resentful, as well as having the overwhelming feeling of stupidity on my own part.
-> However, all was not lost as I still had money – worth roughly $1300 today – on Celsius, which may be pennies to some but would drag me from the hole I find myself in. I am particularly interested in my 770 MATIC, which again wouldn’t be worth writing about for most, but to me represents a chance at a better future for myself and a chance to eventually begin to average into that asset once more with the hope of being in a better financial situation in years to come.
+
+> However, all was not lost as I still had money – worth roughly $1300 today – on Celsius, which may be pennies to some but would drag me from the hole I find myself in. I am particularly interested in my 770 MATIC <span class="inserted-note">[~$700 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span>, which again wouldn’t be worth writing about for most, but to me represents a chance at a better future for myself and a chance to eventually begin to average into that asset once more with the hope of being in a better financial situation in years to come.
+
 > As things stand, I have roughly 100 Euro in my bank account with a personal loan of 130 to repay monthly, and no means to even make the rest up. As mentioned before with my tax savings, I am in the first year of self-employment so things are very, very hard anyway. The jump, believe it or not, was due to the fact that I had managed to accumulate almost $15000 with Luna and therefore had a ‘safety blanket’ to see me through the opening stages of my new adventure, yet here I am.
 
 -----
