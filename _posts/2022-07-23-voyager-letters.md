@@ -30,6 +30,25 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 
 ## Excerpts
 
+-----
+
+[Doc 146](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307252280000000111.pdf), filed July 25, 2022:
+
+> I have spent years saving, investing, + trading crypto assets to build what was a life changing amount of money that I would one day sell to provide college + other needs for my family. I ... had deposited 100 ethereum <span class="inserted-note">[~$160,000 on <a href="https://ycharts.com/indicators/ethereum_price">date of filing</a>]</span> on to Voyager Digital's trading platform. ... My family's future is ruined if they just get to not return my assets. Even if I'm only given half back + then years later given or paid back the rest to me, this will ruin my future, my dauther's future + cost the government hundreds of thousands in capital gains I would pay when I do plan to sell. My plan was to stake my ETH when Eth 2.0 went live earning my family income to progress on.
+
+> Losing 100 ETH will ruin my family. At market peak that was 480,000 dollars + I was waiting for next cycle to sell out. They are stealing basically at least 1/2 million dollars value from my family. Even if they work out a payment plan to pay us back. I'm on board with that, we just can't afford to lose 100 ETH that took 6 years + thousands of dollars of savings. My life's savings would be wiped out.
+
+
+-----
+
+[Doc 142](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307252280000000019.pdf), filed July 21, 2022:
+
+> I am sincerely asking for the best possible remedy and “financial relief” and compensation due the severity & impact the organization Voyager has had & the negligence use of its customers' purchases and funds in addition to the restriction of access & withdrawals. My purchases are of crypto-currencies are a estimated worth of $ 100,000.
+
+> I am a victim of crpto-currency fraud & believe Voyager Digital is operated by civil fraudulent criminals who lured customers with false advertising and since have altered all of their business information online & are strategically attempting to rob its account holders and investors and proclaims to be bankrupt but is still operating business while also paying its staff and lawyers. 
+
+-----
+
 [Doc 124](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307212280000000016.pdf), filed July 20, 2022:
 
 > I write as a customer of Voyager, a technologist, and a believer in the mission and potential of blockchain technologies, particularly bitcoin and ethereum.
