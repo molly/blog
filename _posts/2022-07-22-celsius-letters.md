@@ -36,6 +36,32 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 230](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000114.pdf), filed July 23, 2022:
+
+> I deposited money on the Celsius platform as a retail investor who wanted a chance to actually make the gains that the ultra wealthy and rich have done for years. But it turns out it was too good to be true. In total I have about 60% of my partner and my savings on their Earn platform between several cryptocurrencies currently as of this writing totaling $10,649.91.
+
+-----
+
+[Doc 229](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000113.pdf), filed July 23, 2022:
+
+> Thank you for hearing the voices of our community. My crypto holdings in Celsius were most of my life savings. The loss of these funds puts my family into the worst financial situation before the possible recession starts. I'm a young professional who has also taken care of my parents and am now more than ever frightened to lose my job.
+
+-----
+
+[Doc 228](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000111.pdf), filed July 23, 2022:
+
+> I do have my hard working money for the past three years deposited in Celsius and I just find out I can’t withdraw, I’m a 56 old man with out job due to the low jobs in construction and hard to find something else special at my age and I’m asking please for help to get my money out from Celsius .
+
+-----
+
+[Doc 227](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000110.pdf), filed July 23, 2022:
+
+> My wife and I are teachers. The little that we have saved we had invested in Celsius.
+
+> Please do not liquidate our crypto and converting it to US dollars. 18k may not seem like a lot, but it is a lifetime of saving for us. This will inevitably greatly affect our future and the future of our children.
+
+-----
+
 [Doc 225](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000108.pdf), filed July 23, 2022:
 
 > I am the eldest son from the Philippines, who deposited my cryptocurrency to the company Celsius Network. My account balance is in the low five figure range when denominated in US Dollars. Me and my family are severely impacted financially due to bankruptcy, caused by the CEO Alex Mashinky and his colleagues at Celsius Network.
