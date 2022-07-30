@@ -36,9 +36,23 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 198](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000041.pdf), filed July 25, 2022:
+
+> I write to you to let you know the devastating impact that Celsius is having on my life. My husband and I put in a combined amount of $138,000 USD into Celsius trusting their intent and care for customers. The thought of losing that amount of money is horrifying. That was our life savings. It was our chance of having a baby, and funding medical expenses. It was our chance of taking care of our parents as they age. Since the halt of withdrawals, I have not been able to sleep or eat properly. I have been emotionally distressed which is impacting my marriage and my life. I feel like I just cannot get up each day and keep going. My mother, who passed away of cancer when I was 19, left me with some money that I put into Celsius. If I do not get that back, I will end my life as the loss will impact my family and I significantly.
+
 -----
 
-[Doc 196](), filed July 22, 2022:
+[Doc 197](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000038.pdf), filed July 23, 2022:
+
+> My aunt is a 72 year old domestic helper. She’s been working all her life to support her family while taking care of mine. Specifically, she's been working with my family for the last 33 years. Needless to say a domestic helper’s salary barely covers living expenses for her family, yet alone savings. As a sign of gratitude, I created a Celsius account for her as a way to build and grow her retirement fund so she can go back to her home country and live her remaining year in relative comfort, as she deserves.
+
+> From small monthly deposits, and a few lucky decisions later, he account grew to USD40k in slightly under 2 years. This made her a millionaire back home which allows her to live a decade (based on life expectancy) in great comfort, the ideal retirement. She was due to retire in August 2022 and I was only planning to pull assets out of her account in mid August.
+
+> Needless to say, I now can’t withdraw assets from Celsius and she no longer has a comfortable retirement to look forward to. She continues to be employed by my family which we are more than happy to have her. But at 72, and weeks from retirement, I cannot begin to imagine how debilitatingly disappointed she must feel. It’s with great disappointment that I acknowledge Alex to be a fraud. Justice will take care of him eventually, and I hope that justice will be prioritised for depositors as punishment to Alex and any other relevant parties would not make us whole. Only a strong
+
+-----
+
+[Doc 196](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000037.pdf), filed July 22, 2022:
 
 > I have most of my long term savings, including a downpayment for a house in California, which is a significant amount tied up in Celsius, because since day 1 I believed that everything is all backed up, deposits are safe, there is enough collateral and so on. How can you face your spouse and tell her that all the savings and the downpayment for the house are gone?
 
