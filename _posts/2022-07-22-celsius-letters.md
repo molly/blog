@@ -36,6 +36,53 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+-----
+
+[Doc 250](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000036.pdf), July 26, 2022:
+
+> I am a 40 year old father of 3 from Australia that had his life savings in a Celsius earn account and his entire superannuation stored in a SMSF Celsius account. On 29/03/22 both accounts came to a total of $561,901.79AUD (6.34BTC & 36.78 ETH)
+
+> This has had an immense impact on my life and my financial future looks extremely grim.
+
+> I feel humiliated, angry, anxious and have had many sleepless nights coming to the realisation the all my funds I have been saving for my childrens future for the past 20+ years has been gambled away by a liar and a fraud
+
+> I would also like to add my father's situation into this letter, he is a 65 year old retired man ... who I convinced to invest his stake in Crypto currency into Celsius as a "safe haven". Given my comfort level with Celsius, thanks to all the lies I was fed by Alex and the team listed above, he followed my advice and his crypto stake money was invested into Celsius. His current holdings are 14.926298 Ethereum, 1.032703 BTC, 6890.110949 USD and 54.959432 PolkaDot, which was worth on 29/03/22 $154,256.70AUD.
+
+-----
+
+[Doc 247](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000034.pdf), filed July 24, 2022:
+
+> I am a small investor from Spain, that put all his savings into crypto on Celsius, hoping
+they would grow slowly over the years and be safe. These savings were intended to
+help leverage the effort of sending three children to university and, if possible, our
+retirement. Now all these hopes and dreams are in danger.
+
+-----
+
+[Doc 243](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000027.pdf), filed July 22, 2022:
+
+> We are a common family trying to generate some extra income by taking risk as banks do not ay any interest, We deposited several Crypto currencies into Celcius Networj because they were advertising healvily and saying they are different. THey care for the small investors. They took our cyrpto coins and currencies and loaned out to people without proper collatrals against it.
+
+> Now we lost everything, we needed to pay our daughters studen loan, parents medical bills with the earnings from crypto but all is locked up in Celcius.
+
+-----
+
+[Doc 242](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000026.pdf), filed July 22, 2022:
+
+> The fact that Celsius is regulated by the state of New York and SEC compliant was a significant reason I decided to trust Alex and move my money on to this platform. I must ask what is the point of regulations if these regulations at the end of the day don’t hold any water? Regulations are supposed to provide security. Hasn’t anything been learned since the 2008 financial crisis? SEC compliant is this not the case and loans can be made without collateral? Should we trust anything with these claims?
+
+> My deposits into Celsius are one crypto currency and the other is a stable coin. I trusted that my money was safe on Celsius because of the fact that Celsius is regulated in the United States, so it must be safe, since they would never be able to make uncollateralized loans using my USDC coins as collateral, the regulatory body would never allow such a thing, especially after the 2008 financial crisis. This was my thought process, so it would have been better if they were not regulated in New York, because then I would have assumed that my money is not safe.
+
+-----
+
+[Doc 240](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000024.pdf), filed July 22, 2022:
+
+> \[I\] have been a Celsius user since 2021 and have a good amount of our family savings with them that we cannot access since June 12. I was using Celsius to generate yield and even gave up some collateral to take loans out to generate more yield. 
+
+> Life throws people enough curveballs as it is and I feel this was a 100 mph fastball straight to the face.
+
+-----
+
 [Doc 230](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000114.pdf), filed July 23, 2022:
 
 > I deposited money on the Celsius platform as a retail investor who wanted a chance to actually make the gains that the ultra wealthy and rich have done for years. But it turns out it was too good to be true. In total I have about 60% of my partner and my savings on their Earn platform between several cryptocurrencies currently as of this writing totaling $10,649.91.
