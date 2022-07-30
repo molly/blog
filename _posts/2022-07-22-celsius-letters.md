@@ -36,9 +36,29 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+-----
+
+[Doc 218](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000091.pdf), filed July 25, 2022:
+
+> I currently have 1 Bitcoin and 15 Etherium stuck in the Celcius network. I have been investing in Crypto since 2017 and I ended up stumbling on Celcius' network back on April 13th. I am currently not an accredited investor. Everything was fine of course until my life was turned upside down when Celsius announced on June 13th they were freezing our accounts. Since then I haven’t slept much, knowing that five years of hard work are now down the drain. The most infuriating part is that their employees continue to be paid, and for what, I have no idea. As customers we cannot do anything with our Crypto other than log onto the app and watch our money in purgatory. Only my wife and a close friend know, I’m too ashamed to let anyone else know.
+
+-----
+
+[Doc 217](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000090.pdf), filed July 22, 2022:
+
+> I personally have about over a million dollars in BTC and Ethereum, in todays prices, that I can’t withdraw from Celsius, not including the 500,000 CEL token that I haven’t counted. Most of us are feeling very stupid and ashamed. We have been conned by the ultimate con artist. This company has ruined peoples lives.
+
+-----
+
+[Doc 214](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000083.pdf), filed July 22, 2022:
+
+> Clearly Celsius made many missteps and I too feel misled and have suffered enough financial harm that it will impair the way I live for the rest of my life. 
+
+-----
+
 [Doc 213](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000081.pdf), filed July 23, 2022:
 
-I am a crypto investor in Celsius Platform, resident and citizen of India. Ever since Celsius has blocked the withdrawals and transfers of currency, I lost the access to my 3.15 Bitcoin <span class="inserted-note">[~$71,500 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> which were invested on this platform across 2 accounts. This money is my lifetime saving and my families and my future were depending on it. I chose Celsius as they often claimed to be very secure and an alternative to a bank, but I was wrong. There may be investors who lost much more than me, but for me these 3.15 Bitcoin mean half of a lifetime, something I could never afford or imagine to lose.
+> I am a crypto investor in Celsius Platform, resident and citizen of India. Ever since Celsius has blocked the withdrawals and transfers of currency, I lost the access to my 3.15 Bitcoin <span class="inserted-note">[~$71,500 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> which were invested on this platform across 2 accounts. This money is my lifetime saving and my families and my future were depending on it. I chose Celsius as they often claimed to be very secure and an alternative to a bank, but I was wrong. There may be investors who lost much more than me, but for me these 3.15 Bitcoin mean half of a lifetime, something I could never afford or imagine to lose.
 
 -----
 
