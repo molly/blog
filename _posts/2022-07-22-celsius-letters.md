@@ -36,6 +36,24 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 213](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000081.pdf), filed July 23, 2022:
+
+I am a crypto investor in Celsius Platform, resident and citizen of India. Ever since Celsius has blocked the withdrawals and transfers of currency, I lost the access to my 3.15 Bitcoin <span class="inserted-note">[~$71,500 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> which were invested on this platform across 2 accounts. This money is my lifetime saving and my families and my future were depending on it. I chose Celsius as they often claimed to be very secure and an alternative to a bank, but I was wrong. There may be investors who lost much more than me, but for me these 3.15 Bitcoin mean half of a lifetime, something I could never afford or imagine to lose.
+
+-----
+
+[Doc 212](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000078.pdf), filed July 22, 2022:
+
+> My mother died from Multiple Myeloma (blood cancer) in 2018 and I was a beneficiary of her Trust. I used most of that inherited money to buy bitcoin and a few altcoins in 2019. After seeing Celsius advertised on Youtube channels and after reading about Mashinsky, I decided to move my crypto into a Celsius Earn account so I could earn interest on my crypto. It was a modest amount of interest. About $25 per week in interest payments but I trusted this was the right move. I’m 56 years old. Alex Mashinsky has bankrupted my retirement.
+
+> I could go on for several more pages about how we investors were lied to, misled, tricked and defrauded, and how Mashinsky and his friends looted the investor’s crypto, took insanely risky bets with our crypto, and tried to launder money through an Israeli crime ring but I have exhausted my desire to live. My passing is 100% the fault of Alex Mashinsky. Mashinsky and his crime ring have stolen over $60,000 from me.
+
+-----
+
+[Doc 206](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000058.pdf), filed July 23, 2022:
+
+> I am a retail investor with asset valuing approximately $32,200 on the Celsius platform. This sum might not mean much to some people, but it constitutes about half my life savings and has dire implications for myself and my family.
+
 -----
 
 [Doc 205](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000057.pdf), filed July 25, 2022:
