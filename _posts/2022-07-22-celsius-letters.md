@@ -17,6 +17,8 @@ post_collection: "blockchain"
 
 -----
 
+_Trigger warning: Discussions of suicide._
+
 People with funds locked in Celsius Network have been sending letters to the judge presiding over the Chapter 11 bankruptcy case. These are excerpts from those letters.
 
 It's important to understand that schemes like this in the cryptocurrency industry are hurting real people who are often suffering losses they can't afford. Regardless of what you may believe about individuals' decisions to put significant amounts of money into Celsius, blame lies with the executives creating and running these companies and with the U.S. legal and regulatory system for allowing companies like this to operate.
@@ -33,6 +35,24 @@ On June 12, 2022, the cryptocurrency lending firm Celsius Network suspended cust
 Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users received a percentage rate of return either in the $CEL token or in the same tokens they were holding. In April 2022, Celsius stopped allowing non-accredited investors in the United States to keep Earn accounts, in order to comply with U.S. regulations. With Custody accounts, coins are stored and could be transferred, swapped, or used for loan collateral, but did not accumulate the rewards of the Earn accounts.
 
 ## Excerpts
+
+-----
+
+[Doc 196](), filed July 22, 2022:
+
+> I have most of my long term savings, including a downpayment for a house in California, which is a significant amount tied up in Celsius, because since day 1 I believed that everything is all backed up, deposits are safe, there is enough collateral and so on. How can you face your spouse and tell her that all the savings and the downpayment for the house are gone?
+
+> I live in United States of America, one of the greatest nations in this world, we are not in some 3rd world country swamped with corruption on all levels, and people robbing people on the streets as a profession. Why wasn't Celsius overseen by the necessary institutions, I'm sure to get a licenses to operate the way Celsius has, there are government institutions that must oversee those balance sheets, the loans, the money, the lending. How is it even possible that a company gambles away billions of dollars, because it's growing too fast and betting on a future where crypto currency value only grows in the short and long term, now this is extremely risky. Where was the oversight?
+
+-----
+
+[Doc 195](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000036.pdf), filed July 23, 2022:
+
+> I had 95% of my life savings in Celsius as I was made to believe that it was a safe and secure account where I could earn 1% interest on my bitcoin. I had 21.7 of them <span class="inserted-note">[~AU$705,000, ~US$493,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> in their across 3 accounts. I deposit 13.2 bitcoins <span class="inserted-note">[~AU$429,000, ~US$300,000]</span>36 minutes before I receieved the email saying no more withdrawals and it has come to my attention that withdrawals had been halted long before the email was sent out and so it was misleading of celsius to continue accepting deposits knowing full well they were insolvent and my money was about to disappear.
+
+> I have less than $30k now in my bank account, I have more than $330k AUD owning to the Australian Tax Office, and I have a $1.19m mortgage that is about to explode to a 16% interest rate because I will very soon be defaulting on my payment.
+
+> I have suicidal thoughts and the only reason I hadn't already taken my life was the burden that would leave my family, and I have lost 15% of my body weight in 6 weeks from the stress of suddenly losing everything that i've spent my entire life building. Worst of all, my mother split my home with me so if I default on the home she'll be homeless at 60 years of age with no other savings and her rock bottom to a place with no out will be on my hands and I just don't see a way where I can recover.
 
 -----
 

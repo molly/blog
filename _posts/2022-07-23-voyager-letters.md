@@ -30,6 +30,7 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 
 ## Excerpts
 
+
 -----
 
 [Doc 146](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307252280000000111.pdf), filed July 25, 2022:
