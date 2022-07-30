@@ -36,11 +36,29 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 225](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000108.pdf), filed July 23, 2022:
+
+> I am the eldest son from the Philippines, who deposited my cryptocurrency to the company Celsius Network. My account balance is in the low five figure range when denominated in US Dollars. Me and my family are severely impacted financially due to bankruptcy, caused by the CEO Alex Mashinky and his colleagues at Celsius Network.
+
+> Both my parents are senior citizens, whom I care for and my assets currently held in Celsius were intended to support them in their last years in comfort. I pray I will soon see most of my funds returned soon.
+
+-----
+
+[Doc 222](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000095.pdf), filed July 26, 2022:
+
+> First of all, I am well aware of the accountability resting upon me for where I invest my money and will own what is mine. Looking back, obviously I should have done a greater due diligence before entrusting Celsius with my hard earned dollars, which sadly is all in their Earn account. This is one of the most devastating experiences of my life but even more painful, is that I advised my three sons to invest with Celsius and now they also are facing tremendous losses as well.
+
+-----
+
+[Doc 221](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000094.pdf), filed July 22, 2022:
+
+> I am a Celsius customer, currently with about $16,933.65 (as of July 20, 2022) worth of deposits that are locked up in Celsius earned account. ... $16,933.65 may not mean a lot of what was $36k - now down since crypto market is down, but it is 70% of my life savings. ... Losing all my savings will have irreparable consequences on the well-being of myself and my family. I am the bread winner of the family and thought I was doing the right and safe thing by putting my cryptos in Celsius because they claimed to be most safe and are for the little people. I am ashamed, humiliated, and disgusted that I put all my trust into a company that has now been revealed as clearly participated in a near fraudulent activity. I will be spending years trying to make back the money I lost.
+
 -----
 
 [Doc 218](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000091.pdf), filed July 25, 2022:
 
-> I currently have 1 Bitcoin and 15 Etherium stuck in the Celcius network. I have been investing in Crypto since 2017 and I ended up stumbling on Celcius' network back on April 13th. I am currently not an accredited investor. Everything was fine of course until my life was turned upside down when Celsius announced on June 13th they were freezing our accounts. Since then I haven’t slept much, knowing that five years of hard work are now down the drain. The most infuriating part is that their employees continue to be paid, and for what, I have no idea. As customers we cannot do anything with our Crypto other than log onto the app and watch our money in purgatory. Only my wife and a close friend know, I’m too ashamed to let anyone else know.
+> I currently have 1 Bitcoin <span class="inserted-note">[~$22,600 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> and 15 Etherium <span class="inserted-note">[~$24,000 on <a href="https://ycharts.com/indicators/ethereum_price">date of filing</a>]</span> stuck in the Celcius network. I have been investing in Crypto since 2017 and I ended up stumbling on Celcius' network back on April 13th. I am currently not an accredited investor. Everything was fine of course until my life was turned upside down when Celsius announced on June 13th they were freezing our accounts. Since then I haven’t slept much, knowing that five years of hard work are now down the drain. The most infuriating part is that their employees continue to be paid, and for what, I have no idea. As customers we cannot do anything with our Crypto other than log onto the app and watch our money in purgatory. Only my wife and a close friend know, I’m too ashamed to let anyone else know.
 
 -----
 
