@@ -36,6 +36,20 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+-----
+
+[Doc 205](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000057.pdf), filed July 25, 2022:
+
+> The deposit amount consists of savings of both my parents and my savings from a combined working history of over 65 years. The emotional and mental stress that I have suffered from having my deposits frozen is considerable and I am trying to keep myself from falling into a deeper mental and emotional hole. Suffering from chronic back pain since eighteen years old-over 35 years and no longer having access to my deposits, I have applied for welfare to make ends meet in the future since employment prospects are minimal with my condition and age.
+
+-----
+
+[Doc 204](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000052.pdf), filed July 22, 2022:
+
+> I am a retired senior citizen of the USA. I saw no opportunity to earn interest on my life savings in a traditional bank and inflation is at record highs. I trusted Celsius to give me a reasonable rate of return on my life’s savings of about 5%, which I hold in stable coin, BTC and ETH. I own no CEL. I was mislead by Mr. M, who said that Celsius loans were over collateralized and that my money was safe. Now, I am facing financial ruin. Please do whatever is possible to save depositors’ money and please allow us to benefit from increases in crypto prices that will surely come at some point in the future. In the meantime, I pray for all of us who are suffering financially and emotionally because of Mr. M. The mental pressure is almost unbearable. The actions of Mr. M. have created unspeakable misery for many people and I am sure will result in suicides. I’m crying as I write this and feel sorry for us all. I would appreciate anything you can do to help make us whole. 
+
+-----
+
 [Doc 198](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907262280000000041.pdf), filed July 25, 2022:
 
 > I write to you to let you know the devastating impact that Celsius is having on my life. My husband and I put in a combined amount of $138,000 USD into Celsius trusting their intent and care for customers. The thought of losing that amount of money is horrifying. That was our life savings. It was our chance of having a baby, and funding medical expenses. It was our chance of taking care of our parents as they age. Since the halt of withdrawals, I have not been able to sleep or eat properly. I have been emotionally distressed which is impacting my marriage and my life. I feel like I just cannot get up each day and keep going. My mother, who passed away of cancer when I was 19, left me with some money that I put into Celsius. If I do not get that back, I will end my life as the loss will impact my family and I significantly.
