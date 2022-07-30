@@ -48,7 +48,7 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 > From small monthly deposits, and a few lucky decisions later, he account grew to USD40k in slightly under 2 years. This made her a millionaire back home which allows her to live a decade (based on life expectancy) in great comfort, the ideal retirement. She was due to retire in August 2022 and I was only planning to pull assets out of her account in mid August.
 
-> Needless to say, I now can’t withdraw assets from Celsius and she no longer has a comfortable retirement to look forward to. She continues to be employed by my family which we are more than happy to have her. But at 72, and weeks from retirement, I cannot begin to imagine how debilitatingly disappointed she must feel. It’s with great disappointment that I acknowledge Alex to be a fraud. Justice will take care of him eventually, and I hope that justice will be prioritised for depositors as punishment to Alex and any other relevant parties would not make us whole. Only a strong
+> Needless to say, I now can’t withdraw assets from Celsius and she no longer has a comfortable retirement to look forward to. She continues to be employed by my family which we are more than happy to have her. But at 72, and weeks from retirement, I cannot begin to imagine how debilitatingly disappointed she must feel.
 
 -----
 
