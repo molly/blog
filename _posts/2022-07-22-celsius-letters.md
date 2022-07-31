@@ -36,6 +36,103 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 290](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907292280000000182.pdf), filed July 27, 2022:
+
+> I consider myself a fiscal conservative investor and would not risk and avoid speculation. Since the 2008 financial crisis, I had become cautious of the financial markets and that led me to exploring alternatives. This is when I came across Bitcoin and started to research. 
+
+> Gradually, after becoming a trusted follower of Mr. Mashinsky and Celsius Network, I decided to move a substantial part of my investment/retirement into Celsius.
+
+-----
+
+[Doc 283](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907292280000000021.pdf), filed July 27, 2022:
+
+> Having lost money in Terra Luna collapse earlier and looking at my crypto holdings decreasing in value because of the bear market, I was convinced by Alex Mashinsky that depositing my remaining crypto to Celsius makes sense as this way they can generate interests and hopefully offset some of my losses. When I deposited my remaining crypto to Celsius, 2 days later, Alex Mashinsky paused all withdrawals. 
+
+> The funds I deposited to Celsius are hard earned money. I worked long hours for those money and saved for many years. They represent my life’s savings and part of my retirement plan.
+
+-----
+
+[Doc 279](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907282280000000044.pdf), filed July 28, 2022:
+
+> I am a retired Dutch citizen.
+
+> Like many others i never thought of transferring all my pension savings as an investment (as Celsius seems to be calling it suddenly after filing for Chapter 11) but from one savings account to another... Also most of us — elderly; risk avoiding depositers — deposited in stable coins because at our age, one can't speculate on highly volatile assets such as crypto currencies. Many of us — as we are not able to access our savings — can't now pay for medium or bigger 'calamities' in our households, unless that is why we did set aside our savings for.
+
+-----
+
+[Doc 278](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907282280000000041.pdf), filed July 28, 2022:
+
+> I am a Celsius customer with around $30, 000 USD of deposits locked up in the platform.
+
+> I have a large chunk of my retirement funds in this organization and will be severely affected by any loss.
+
+-----
+
+[Doc 273](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000099.pdf), filed July 27, 2022:
+
+> I personally know dozens of individuals who have been tremendously affected by what has unfolded at Celsius over the last 6 weeks, including my entire immediate family.
+
+> Once I transferred my entire portfolio to Celsius (approximately 47 BTC), I began taking 1% interest loans on a portion of my BTC. Within days of being on their platform, my entire account was frozen (over a $1,000,000 in assets). I didn’t even have the opportunity to withdraw the loan I took from Celsius even though I gave them 4x in collateral.
+
+> As it stands, I have lost my entire life savings on Celsius and am now in the process of selling my home.
+
+-----
+
+[Doc 272](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000094.pdf), filed July 26, 2022:
+
+> At the time of my deposit, it was worth approximately $100,000. Since the freeze of assets, my overall disposition has left me depressed most days. I am in my late 50s and making this money back is difficult at my age.
+
+-----
+
+[Doc 271](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000090.pdf), filed July 26, 2022:
+
+> In Celsius, I have not only my hard-earned savings. I have recommended it to other family members and now I am liable to bear the entire loss because I passed on those scammers' promises. 
+
+-----
+
+[Doc 267](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000084.pdf), filed July 27, 2022:
+
+> I'm 75 years old, a retired research scientist and have been investing for well over 50 years and investing in cryptocurrencies for over 6 years now.
+
+> I did not retire until 69 years old to have a sufficient nest egg for retirement and have invested a good portion of my total assets in cryptos. While I have done well with cryptos until Celsius' bankruptcy, the loss of cryptos that are stored at Celsius would have a significant impact on my retirement, the proper care for my wife (who is ill and I am her caregiver), as well as my estate.
+
+-----
+
+[Doc 266](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000082.pdf), filed July 25, 2022:
+
+> I had been earning and holding this bitcoin for the last 6 years and it was my and my family's everything all the savings we had for our future, I didn't sell this bitcoin and took loans against it because I believed Celsius to hold on to them, but then they didn't give me a possibility to add collateral or pay these loans back to get my collateral back to me, I could've sold it at 69k but didn't and now Celsius just liquidated it illegally by not giving me a way to handle this.
+
+-----
+
+[Doc 262](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000059.pdf), filed July 24, 2022:
+
+> I am a 30% Disabled Veteran. I stand to lose about $38,000 worth of Crypto from this case. It is a significant amount of money to me!
+
+> I don't know how much longer I'll be able to work physically? I have several misalignments in my spine and many pinched nerves. You wouldn't know it by looking at me and how I work. I generally don't mention it, but it's a reality for me. I'm trying to secure the future this company seemed to promise.
+-----
+
+[Doc 261](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000058.pdf), filed July 24, 2022:
+
+> In total I have deposited $3,000 into Celsius. I know that this may not sound like a large amount especially when hearing about the millions of dollars Celcius would like to continue to pay its employees. Losing this will have irreparable consequences on my well-being and will take me years to recover.
+
+> I am in need of withdrawing my funds immediately as I am in dire need of my funds during this time.
+
+-----
+
+[Doc 259](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000056.pdf), filed July 24, 2022:
+
+> I am one of the Celsius users that has been affected. Unfortunately I have all of my life savings held on the Celsius platform. My family trusted me to store their Bitcoin on my Celsius account as well. However, we did not expect to be blindsided. This was a lot of money that we were going to use as leverage for a better life - not having to live paycheck to paycheck, not having to worry about rent due, being able to pay off our debt and college tuition. It may not seem like a lot to the majority of people, but two years of our savings and investments have been robbed from us. For a low/middle class family, this whole situation is very daunting and extremely stressful.
+
+-----
+
+[Doc 258](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000052.pdf), filed July 22, 2022:
+
+> I am a disabled citizen who is dependent on government assistance. I feel it will help to shed light to the desperation I feel if I give you an idea of the extent of my disability. I broke my neck when I was 21 and this left me a quadriplegic, paralyzed from the neck down, and wheelchair bound. I recently turned 40. Aside from government assistance, I try my hardest to do my part and get work whenever and wherever I can. I am able to achieve this with the aid of my elderly mother who is unable to work herself.
+
+> As you can imagine, finances have always been tight so Crypto currency was my one hope of some sense of financial security . Since 2015 I bought what I could with the $8.00 hourly pay I was given as an event staff in hopes that maybe someday I can secure basic necessities for me and my family. I'm no "big fish". The small fortune that Celcius has taken away from me was my life-savings that I have been building with sweat and sacrifice for 12 years and because of my situation this also includes sacrifices my mother has made. It is indeed small compared to other investors, but it carried with it my big hope for financial security.
+
+> I do not seek luxuries, Your Honor. I only wanted to be able to afford basic necessities. Please help me be whole again as this situation Celsius created is wreaking havoc on my mental health. There have been many sleepless nights since Celsius halted withdrawals and this has made me really anxious about my future. I already suffered a tragic loss of my ability to ever walk again and did my best to be strong and fight to start over with my life. This financial blow by Celsius has caused me depressed and unable to work, my confidence is gone. I feel humiliated and defeated.
+
 -----
 
 [Doc 250](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000036.pdf), July 26, 2022:
@@ -44,7 +141,7 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 > This has had an immense impact on my life and my financial future looks extremely grim.
 
-> I feel humiliated, angry, anxious and have had many sleepless nights coming to the realisation the all my funds I have been saving for my childrens future for the past 20+ years has been gambled away by a liar and a fraud
+> I feel humiliated, angry, anxious and have had many sleepless nights coming to the realisation the all my funds I have been saving for my childrens future for the past 20+ years has been gambled away by a liar and a fraud.
 
 > I would also like to add my father's situation into this letter, he is a 65 year old retired man ... who I convinced to invest his stake in Crypto currency into Celsius as a "safe haven". Given my comfort level with Celsius, thanks to all the lies I was fed by Alex and the team listed above, he followed my advice and his crypto stake money was invested into Celsius. His current holdings are 14.926298 Ethereum, 1.032703 BTC, 6890.110949 USD and 54.959432 PolkaDot, which was worth on 29/03/22 $154,256.70AUD.
 
