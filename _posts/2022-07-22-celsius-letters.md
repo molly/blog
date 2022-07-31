@@ -109,6 +109,7 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 > I am a 30% Disabled Veteran. I stand to lose about $38,000 worth of Crypto from this case. It is a significant amount of money to me!
 
 > I don't know how much longer I'll be able to work physically? I have several misalignments in my spine and many pinched nerves. You wouldn't know it by looking at me and how I work. I generally don't mention it, but it's a reality for me. I'm trying to secure the future this company seemed to promise.
+
 -----
 
 [Doc 261](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907272280000000058.pdf), filed July 24, 2022:
