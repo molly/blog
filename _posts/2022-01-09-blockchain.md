@@ -36,6 +36,6 @@ I have written these with the assumption that people have a base understanding o
 * "[The Edited Latecomer's Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto)". March 25, 2022.
 * "[Excerpts from letters to the judge in the Celsius Network bankruptcy case]({{ site.baseurl }}{% post_url 2022-07-22-celsius-letters %})". July 22, 2022.
 * "[Excerpts from letters to the judge in the Voyager Network bankruptcy case]({{ site.baseurl }}{% post_url 2022-07-23-voyager-letters %})". July 23, 2022.
-* "[Statement on regulating digital assets]({{ site.baseurl }}{% post_url 2022-07-27-fsoc-statement-regulating-digital-assets %})". July 27, 2022.
+* "[Statement to the Financial Stability Oversight Council: Regulating digital assets]({{ site.baseurl }}{% post_url 2022-07-27-fsoc-statement-regulating-digital-assets %})". July 27, 2022.
 
 {% include disclosure.html %}
