@@ -36,8 +36,6 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
------
-
 [Doc 388](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908082280000000069.pdf), filed August 6, 2022:
 
 > About a year ago, I transferred around $30,000USD (most of my savings)...

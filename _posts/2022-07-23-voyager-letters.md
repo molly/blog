@@ -30,6 +30,41 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 
 ## Excerpts
 
+[Doc 224](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308032280000000082.pdf), filed August 3, 2022:
+
+> I am a loyal Voyager customer since April 2021. Specifically, a Navigator. Navigator is Voyager’s highest tier in their Loyalty Program...  I became a Navigator on June 29th, 2 days before the news got released via email and Voyager’s Twitter account of the platform being suspended for trades, deposits, withdrawals, and loyalty rewards. 
+
+> My intentions for buying/adding crypto assets were to hold all of them long term as I believe in blockchain technology and the projects associated with the assets I valued and bought in Voyager’s platform. The $54,000 + US Dollars I invested in platform to buy crypto assets was for future financial growth. I held that cash for a very long time before committing to invest it all in their platform while the market was down to increase the possibility of profitability while managing risk tolerance. I spent a great amount of time, patience, and strategy to build on my financial future and to learn that my work can potentially be taken away from me by a company I trusted, a publicly traded company, who has a great platform, a strong balance sheet, and had a great reputation, is highway robbery, and in a nutshell fraud.
+
+-----
+
+[Doc 188](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308012280000000102.pdf), filed August 1, 2022:
+
+> I am one of the many Voyager Crypto users that entrusted the company with my hard-earned & long saved investments. I was well aware of the high risk to cryptocurrencies while investing and did my best to mitigate the risk by utilizing larger exchanges & companies with my investments. However, like many others, I am now without access or control to my money/crypto. The risk I didn't foresee was the failure of some of the largest companies in the industry to fall with any large shift in the value of cryptocurrencies.
+
+-----
+
+[Doc 172](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307292280000000190.pdf), filed July 29, 2022:
+
+> I feel I represent the average customer who believed the Voyager platform was safe to invest on and hold for long term. They claimed or at least threw around the term FDIC insured, so why wouldn't I think my money and investments would be safe? I definitely feel mislead, as I'm sure all customers do at this point. I have lost retirement money in the sum of over 25k... I don't claim to know a lot about crypto, but I feel that in some ways it could be worth investing in the future. After hearing about Bitcoin years ago and missing the boat, I wanted to invest in crypto.... Thank god all the people I told about joining Voyager did not do it. I would feel worse than I do now. Losing my money hurts enough w/o friends and family losing money too(because of me). I have not revealed my total losses to anyone. I feel ashamed that I fell for something that truly seemed legit.
+
+-----
+
+[Doc 164](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307292280000000059.pdf), filed July 26, 2022:
+
+> Beginning on Sunday 08:08 AM July 25th, 2021, I was encountered by an intricate online scammer which was unbeknownst to me at the time. The scammer managed to gain access to my voyager account, email, and bank account. I became aware of this as late as September 28th, 2021. Since then, I have been working tirelessly to have transactions reversed. I even submitted a ticket to the voyager team through the platform explaining that I was compromised, and I never received a reply... I am aware that FDIC will kick in to assist users financially. I am hoping I too will be considered due to the very unfortunate nature of what has occurred to me. I have lost my entire life ssavings.
+
+-----
+
+[Doc 155](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307282280000000024.pdf), filed July 27, 2022:
+
+> At the moment, a majority of my lifelong assets, accumulated through some ups and more downs as an entrepreneur, are locked on Voyager with no telling if, when and how much of them I will gain access to again. My savings to buy a home, build and support a family, and invest in my future, are all locked away in that account. Yet, I must consider myself fortunate: many other Voyager customers have expressed in online forums their contemplation of suicide, having no money to make rent or pay for their daughter’s college education…. As anxious and sick to my stomach as the thought of what has happened makes me, I cope by reminding myself, “it could be much worse.”
+
+-----
+
+[Doc 150](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307262280000000021.pdf), filed July 25, 2022:
+
+> I currently have around 31K frozen on the Voyager exchange. Losing this money with no end in sight has been unbearable for my family and I. I wake up most nights and just walk up and down the stairs contemplating on my own mistakes and wondering if this will ever end. My anxiety has been a struggle. Having hope one day, and the next day have it dashed away.
 
 -----
 
