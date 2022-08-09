@@ -36,6 +36,162 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+-----
+
+[Doc 388](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908082280000000069.pdf), filed August 6, 2022:
+
+> About a year ago, I transferred around $30,000USD (most of my savings)...
+
+> In 2021, I paid taxes on all my 1046 $USD earnings in the form of 1099-MISC. Not only am I not able to access any of these investments I once considered safe, but I was taxed on earnings that I may never see, in addition to potentially never seeing my savings again.
+
+-----
+
+[Doc 387](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908082280000000068.pdf), filed August 6, 2022:
+
+> I am one of the depositors in Celsius I have my life-saving funds currently locked in the platform. I am still feeling confused, having mental trauma and the current Celsius debacle has gotten myself into a financial constraint that somewhat changed and restricted my usual day to day life. With that, I am seeking help urgently from you, as I am feeling helpless at the moment.
+
+-----
+
+[Doc 386](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908082280000000065.pdf), filed August 7, 2022:
+
+> As I sit here behind my computer, I am almost at a loss for words due to the gross misrepresentation by Celsius Network LLC. In the past 6 weeks, the unexpected freeze of my accounts and subsequent filing of bankruptcy has disrupted both my and my family’s life. The stress of this event on both myself, and my family is beyond words. I don’t know how to express the guilt, the frustration, the shame, the self-doubt, and absolute anger that I am feeling regarding the burden I have caused and placed on my family
+
+> This is the 1st day in a week that I’ve been able to be in my home and sit in front of my computer to type out this letter. Because of the anxiety I am feeling over this event, I have become depressed, moody and have even been drinking in an attempt to decrease my stress. Last week my wife of 17 years asked me to leave our home due to my emotional turmoil and unpredictability. I have missed work this past week as I have sought out help for behavioral counseling and marital counseling as my wife essentially left me last week over a depressive episode due to this. How do I explain to my daughters that the financial nest egg that would have been their start to a better future is now “frozen”, and we may never see those assets again. How do I possibly rebuild that nest egg now? Most importantly, how do I begin the healing process with my wife and my daughters over this?
+
+-----
+
+[Doc 383](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908082280000000060.pdf), filed August 6, 2022:
+
+> I made the decision to move my entire cryptocurrency portfolio, which at the time of writing this is over 80% of my life savings, to the Celsius platform on June 11th - just 24 hours before it was revealed that withdrawals were paused and all accounts were frozen. The total monetary investment is in excess of $80,000. It is mostly invested in Bitcoin, some Ethereum and over $6000 in USDC stablecoin.
+
+> My funds are in a "custody account", which from what I understand should remain in my control, but unfortunately this is not the case. I never earned a single cent from Celsius, never used their earn program and it's a bitter pill to swallow that the freeze was announced as soon as I trustfully moved my assets there.
+
+> Over the 10 years I have lived in the United States, I have worked very hard for my money at the United States Postal Service as a mail carrier. I have saved my money diligently with the hope of one day buying a house, and my recent investments were part of a plan to help achieve that. I don't wish to be rich, just to build a comfortable future for my loved ones and I.
+
+-----
+
+[Doc 366](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908052280000000032.pdf), filed August 4, 2022:
+
+> I deposited money on the Celsius platform as a retail investor who sought an opportunity for a safe, conservative investment. I am an “average Joe” of average means, I work full time as a registered nurse and I am raising a newborn daughter. I am not a rich man, I work hard, I serve my community and I abide by the law.
+
+> Over the course of about one year, I purchased about $10,0000 worth of bitcoin and deposited it into Celsius for long term storage as these funds are dedicated to a down payment for a house and meeting the needs of my daughter.
+
+-----
+
+[Doc 356](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908042280000000073.pdf), filed August 4, 2022:
+
+> As a Celsius account holder with an initial principal balance of approximately $125,000 (of which I have withdrawn/transferred out $0 since my initial transfer into Celsius), a substantial portion of my life’s savings... It had taken me many years to be convinced enough to move a sizeable portion of my family’s savings from mutual funds into crypto. I purchased cryptocurrencies because I was made aware of Celsius Network, where I would have the opportunity to bank my cryptocurrencies somewhere that I could earn weekly interest, credited to my account in-kind, while holding for the long term... It was November 29, 2021 when I first started buying BTC, ETH, LINK, MATIC, and SNX and transferring it all into my Celsius account. I quickly got to a point where my family and I were satisfied by the amount of money we had parked in Celsius, and our plan was to let it ride for the next 5-10 years. We thought our investment was protected, but little did we know this was a Ponzi scheme all along – an investment fraud that pays new investors with funds collected from new investors. I believe Celsius qualifies, because as the markets crashed and people stopped putting money in, and rather started to panic and take their money out, the company went defunct. However, this still baffles me, because my ~$125,000 of investment that I thought Celsius was a safe haven for, became locked out. One would think if a BTC was worth 50K, and it went to 25K, you could technically access your BTC at the 25K if you needed to. This is not the case, and is heart breaking.
+
+-----
+
+[Doc 353](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908042280000000059.pdf), filed August 1, 2022:
+
+> Today, August 1, I have no access to my Crypto funds (20.156131 ETH <span class="inserted-note">[~$34,000 on <a href="https://ycharts.com/indicators/ethereum_price">date of filing</a>]</span>, that were worth 71.888,66 USD at the time I deposited them on October 7, 2021). This situation seems unfair to me, because that is my money, my life savings. I trusted them. I´m from Argentina, a third world country where the US Dollar worth a lot of money to us (a Dollar is worth almost 300 Pesos). I decided to protect myself from the inflation of my country by having my savings in crypto and I trusted Celsius by depositing my money with them to obtain a small profit that would allow me to live at the exchange rate of the US dollar. Now I have nothing. I quit my job, to live off the rewards from Celsius, just like Alex Mashinsky encouraged us to do at the AMA's on YouTube... Now, I can’t access my money due to this mishandling by Celsius, I am full of debts and can’t pay my rent. I’m desperate and I feel like I'm living a nightmare. I really hope all this ends soon and be able to have access to my money to continue living.
+
+-----
+
+[Doc 347](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908042280000000034.pdf), filed August 4, 2022:
+
+> I do have to admit, the higher-than-normal interest payout for stablecoins is what attracted me to Celsius. Currently, I have deposited $19,596.14 USDC statblecoins, over the past 12 months. This money (USDC) was to be withdrawn yearly to pay my house property taxes, house insurance, and family living expenses. My point is, I did not invest in something risky, since I knew I needed this money monthly/yearly.
+
+-----
+
+[Doc 345](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908042280000000020.pdf), filed August 3, 2022:
+
+> I started working on my first job with my father when I was 14 years old, and I have not stopped working ever since. I am also used to keeping money in my monthly savings account. When I was a teenager, I learnt more about investments and got into the investing world. I became an investor in the stock market and I multiplied my assets in a conscious and planned way. In 2020, I decided to start researching the cryptocurrency market, and I have embarked on this journey since then.
+
+> I invested all my capital accumulated in these years due to honest work as a simple salesman with an income of roughly $234.30/month. I converted all my assets into cryptocurrencies (stocks, my apartment and a car). Therefore, I decided, in 2021, after searching about Celsius, to use half of it to apply for the loan program and the other half to keep aside to pay off the loans at some point in the future, always acting in good faith when in business with an entity or a person. I have always paid off my debts.
+
+> Today, I come to Your Excellency asking you to consider my situation. I know the amount in my account may not seem like much to many in the US, but it means a lot to people from developing countries, like me, and losing that amount would have an immeasurable impact on my current life and my future. Seeing the money I saved as a 14-year-old boy lost like this out of the blue is heartbreaking. 
+
+-----
+
+[Doc 341](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908032280000000058.pdf), filed August 3, 2022:
+
+> I have been trying my best to write to you for the past two weeks, but I am just so depressed that it has been a real chore. The fact that past 11 years of saving my money, then rolling it into Bitcoin 2020 that was stored in what I thought was a relatively ‘safe’ bet has now been greatly compromised. I have sweated, bled, cried, and worked 50+ hours weeks for 10 + years, not to mention out of those 7 and half years I went to school full time and worked full time and was going to use this as my nest egg to pay my student loans which payment begins assuming in January 2023. To be here now only feels that I have been deceived, taken advantage of, and held hostage for what I thought this entire time was MINE. ... This is supposed to be some of the happiest moments of my life where I just graduated college with an awesome engineering degree, moved to a new exotic big city, earned a dream career in a top fortune 100 company and someone is just trying to walk away legally with my assets that I worked so hard and their defense is its in the terms of agreement and its social medias fault?????? NO! I don’t walk 40%, 50%, 60%, 70%, 80%, 90%, 95%, I want all Back because it is MINE!!!! If anything, I should be suing for emotional damages!! I won’t and don’t believe in that sort of thing though. I just want what is MINE! I can wait because I never planned on selling it. It is intended for generations of [writer's surname]’s down the line, and this is not just money. Its Bitcoin!!! Anyways I digress other people have been doing a great job of expressing of how I am feeling because the shame, the anger, deep sadness, the humiliation, irresponsibility (I convinced a friend to put roughly a 3rd of a bitcoin in to Celsius too) anxiety I feel is immense, and while I am managing my mental health with resources from my new job, it is still extreme distracting, and I know the courts will determine what is just and what isn’t.
+
+-----
+
+[Doc 333](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908022280000000050.pdf), filed July 28, 2022:
+
+> I'm a Celsius depositor at risk of losing much of my life savings that is locked on Celsius. I'm a 72-year-old woman who supports myself with parttime work and social security. It took me four years of buying BTC and ETH in small increments to accrue the 1 Bitcoin <span class="inserted-note">[~$23,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span>, 7 ETH <span class="inserted-note">[~$11,500 on <a href="https://ycharts.com/indicators/ethereum_price">date of filing</a>]</span> that are now locked in Celsius. I planned to hold these assets in a safe crypto 'bank' and wait for them to increase in value so I could pay off my mortgage. Only without a mortgage payment will I be able to exist on just social security. I'm now facing the loss of my savings and a future of mortgage payments I can't pay due to Celsius' fraud against depositors.
+
+-----
+
+[Doc 329](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908022280000000019.pdf), filed July 29, 2022:
+
+> I have been retired for over a decade and my wife and I have invested approximately one half of our life savings in the Celsius Network Rewards Account. Upon learning of the Creditors Committee, I considered applying but learned that this committee would be most likely made up of creditors with significant assets invested. While this looks to be the case, I wish to point out that on a percentage of total wealth basis few would exceed our loss.
+
+-----
+
+[Doc 321](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000082.pdf), filed July 26, 2022:
+
+> I also share a similar story to many other depositors who have modest amounts of their net worth locked in Celsius. I am just a little retired old lady living on a fixed income with some investments but am no way rich or even well-off. I also know that many people are speculators, not someone like myself who is searching for ways to supplement Social Security income, especially during a high inflationary environment.
+
+> I purchased my small amount of crypto hoping just to earn enough to help me weather a few years, kind of a safety net. It's not a lot of money and I never expected it to be, but I didn't think it would disappear, especially with a company that was touted as "safe."
+
+-----
+
+[Doc 318](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000077.pdf), filed July 28, 2022:
+
+> I'm reaching out to you as a Secured Creditor in Celsius who has been a VIP client of Celsius since September 2021.
+
+> Before joining Celsius, I did tremendous research and talked with Celsius customer service, who promised me that my funds were safe because **I controlled the keys to my wallet**. I trusted the company and I decided to pour all of my life savings with the company, lending them $632,329.03. ...
+
+> I must also say that the whole time I was a customer, I was solicited by Taylor Hendrickson, Celsius Corporate & VIP Account Manager, who begged me to become an **accredited investor**, since I owned significant amounts of bitcoins and other assets. He warned me saying that if I do not become an accredited investor, I would not be able to collect any more interest because New Jersey gave Celsius a cease & desist order to stop them from fraudulently enticing more customers with the promise of high interest bearing account, which Mashinsky claimed was safer than a bank. ...
+
+> I have absolutely no money left in my bank account now, and if I do not get my money back, I will be out in the streets with nothing to show for it. I plead with you, please help the individual clients of Celsius first, ahead of corporate clients. We will lose the roof over our head if we do not get our money back.
+
+-----
+
+[Doc 317](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000071.pdf), filed July 25, 2022:
+
+> Judge Glenn, I have sadly read letter after letter from disappointed to desperate account holders whose money has been frozen at best, and lost at worst by Celsius management. It breaks my heart to read these letters pleading for some kind of justice for the "little people". I consider myself one of these little people, not special or connected. I'm 71 years old, retired, and have money in the low six figures tied up in Celsius. Since I'm retired, I'll never have an opportunity to replace those funds. I don't know if I'll ever get any of my deposits back, but I am lucky in that regard. I won't starve and will still have a place to live. The money, foolishly, was for my heirs. I can't bring myself to let them know that I have lost their money, eventhough they didn't know it was housed in Celsius. In the end, I can only blame myself.
+
+-----
+
+[Doc 314](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000037.pdf), filed August 1, 2022:
+
+> It is really hard to write this letter as I lost my life savings that I've worked for more than 20 years. I am one of the people who actually did research and spend a lot of hours learning about Celcius before putting life savings there. I actively follow their reports, in fact, a few days before they paused the funds, they (Alex Mashinsky) still gave us assurance that our funds were totally safe.
+
+-----
+
+[Doc 312](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000032.pdf), filed August 1, 2022:
+
+> As background, I am a medical professional working to support Oncology research, so I am not an expert on cryptocurrency or bankruptcy legal expert. I am one of the creditors with well over six figures of my savings invested on this platform. I've been oscillating between angry and depressed with this experience over the last two months with no access to my assets. I will not rest until depositors are made whole without a so called "haircut" on our funds deposited. Just like most people during this financial crisis created primarily by our government and financial governing bodies, I was trying to gain a little income to offset inflation caused by the Federal Reserve pushing rates to zero, buying up of all U.S debt/bonds, and the government flooding the market with a ridiculous excess of money supply and liquidity. Holding USD or cash in traditional banks with zero percent interest meant you were making no interest and losing significant buying power relative to the parabolic, historic inflation rate. Aside from the stable coin USDC, I only invested in the largest and safest crypto investments while primarily earning a modest rate of return with Celsius right now of 2.5% BTC and 4% ETH. Celsius and Alex Mashinsky fraudulently mislead depositors on their risk model or I would have never invested on this platform.
+
+-----
+
+[Doc 311](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000029.pdf), filed July 29, 2022:
+
+> I have a significant amount of digital assets in the borrow/loans part of Celsius network that has been frozen over the past month. In total I have 7 loans adding up to almost 50 bitcoin <span class="inserted-note">[~$1.18 million on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> and 160 eth <span class="inserted-note">[~$252,000 on <a href="https://ycharts.com/indicators/ethereum_price">date of filing</a>]</span>.
+
+-----
+
+[Doc 310](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000027.pdf), filed August 1, 2022:
+
+> My sister... introduced me to deposit my coins in Cesius. She is very cautious for what she is doing all the time but I can't believe this issue for her and myself even for my mother...
+
+-----
+
+[Doc 309](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000025.pdf), filed July 29, 2022:
+
+> Sadly my mother passed away recently and on 8 March 2022, with my father having passed away in 2018, I deposited $143,200 of inheritance in Bitcoin with Celsius. This represented the majority of my parents’ lives of hard work. With these funds I obtained a loan with Celsius, receiving $35,767 USD for the above collateral.
+
+-----
+
+[Doc 307](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000023.pdf), filed July 29, 2022:
+
+> Your honor this case has impacted the lives of potentially tens of thousands around the world, including my life savings as a retired school teacher... I too feel misled and have suffered significant financial harm that will impair the way I live for the rest of my living years. 
+
+-----
+
+[Doc 306](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908012280000000022.pdf), filed July 29, 2022:
+
+> I am a 22 years old psychology student from Romania, Europe who worked hard to save some money - with the idea: save now, so you will not have to work for the rest of your life. I studied, I worked 2 jobs and I managed to save 0.036285 BTC (822$ on date of filing). I took no loans and I planned to withdraw my money after 5 years, to buy a house. I feel betrayed, lied & scammed by Alex Mashinsky and the company. They assured us every week that everything is fine & they showed us false data.
+
+-----
+
 [Doc 290](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174907292280000000182.pdf), filed July 27, 2022:
 
 > I consider myself a fiscal conservative investor and would not risk and avoid speculation. Since the 2008 financial crisis, I had become cautious of the financial markets and that led me to exploring alternatives. This is when I came across Bitcoin and started to research. 
