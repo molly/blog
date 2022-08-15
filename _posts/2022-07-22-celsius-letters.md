@@ -36,6 +36,80 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 439](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908122280000000071.pdf), filed August 12, 2022:
+
+> I am a retired American citizen, living in Thailand. I invested three generations family wealth in my life savings with Celsius. Unfortunately, Celsius filed for bankruptcy.
+
+> I would like to have my assets returned to me. I turn 70 years old at the end of July 2022. I do not know about lawyers. I could not afford them in this present situation.
+
+> Could you please award me my assets and have them returned to me?
+
+> Why do I ask for my assets, rather than a dollar value? The reason is: I bought some Bitcoin at around $58,800 per Bitcoin. It went up to $69,000 per Bitcoin. Bitcoin is now around $20,000 per coin. I would rather have my Bitcoins, instead of the present cash value, as I believe the value will appreciate again, once the Bear Market is over and a Bull Market begins again.
+
+-----
+
+[Doc 435](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908122280000000027.pdf), filed August 11, 2022:
+
+> The lives of 1.8 million people are facing a financial crisis that never should have existed.
+
+> The issues we are up against remind many of a “modern Enron” via misrepresented communications and mismanaged regulatory compliance of a financial company, Celsius. ...
+
+> My creditor stake in Celsius is valued at nearly $110,000. As a professional in digital ledger technology and innovation that drives economic advancement in major companies, I can assure you that the technology that Celsius represents is not what led to its destruction.
+
+-----
+
+[Doc 434](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908122280000000022.pdf), filed August 10, 2022:
+
+> I have 22.43053 Bitcoin <span class="inserted-note">[~$520,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> and 171.934290 Ether <span class="inserted-note">[~$292,000 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> frozen in Celsius in there earn account.
+
+> I think that Celsius should be sold or liquidated. They clearly mismanaged my funds with poor risk management and poor selection of investments. At the very least the management should be replaced.
+
+-----
+
+[Doc 422](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908112280000000027.pdf), filed August 10, 2022:
+
+> I’m 29 y/o from France. Several years ago, I launched my online business and coaching activity, I had been dreaming about it for several years and had to fight against my parents who were reluctant. I worked hard, more than 10 hours a day during these years to prove to them that I could do it. It paid off and I decided to invest my hard earned money to strengthen my financial independence. I'm thrifty and not a big spender
+
+> Last year, I deposited $81,000 in Celsius because all indications were that it was safe and I wanted to start generating income on those savings, rather than buying an apartment or letting that money "sleep" in the bank.
+
+-----
+
+[Doc 419](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908112280000000020.pdf), filed August 9, 2022:
+
+> I am a 69-year-old Blind retired physician who has put cash I would ordinarily keep in a bank into this platform. They indicated the safety and conservativeness with which they proposed to do business including loans, etc.
+
+> I had been a customer of Blockfi and transferred all my holdings to Celsius which turned out to be a very bad decision. They had indicated in some of their calls that Blockfi was in trouble and that they paid higher interest rates on crypto. If I had left my savings on Blockfi I would be in a better position today. Not only that but I also paid income tax on the "Interest" that I "earned" on the platform.
+
+-----
+
+[Doc 407](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908092280000000140.pdf), filed August 9, 2022:
+
+> The platform has $ 7000 owned by me and I hope you understand. About a year ago, I transferred around $ 7000 USD (most of my savings) in the form of: 0.082224 BTC Bitcoin <span class="inserted-note">[~$1,950 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span> (in the "Earn" account) 0.818848 ETH Ethereum <span class="inserted-note">[~$1,450 on <a href="https://ycharts.com/indicators/ethereum_price">date of filing</a>]</span> (in the "Earn" account) This is money that I honestly earned by making a lot of sacrifices. The crisis has brought me to my knees! I can't believe I was foolish enough to believe CEO Alex Mashinsky's words promising the Celsius Network LLC platform would replace the banks! He set up a great disinformation campaign, everyone believed in the solidity of the project. The bear market has revealed the cards, has revealed the reality. It was all a gamble, they played with our money!
+
+-----
+
+[Doc 405](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908092280000000135.pdf), filed August 9, 2022:
+
+> My name is Brandon Lawrence. I am writing the letter for the same reason as many, I am one of the little guys. I put my life savings and trust into Celsius and co. Even worse, I took out a margin loan on Robinhood for $50,000 for a Bitcoin at near it’s high, then I sent it to Celsius to offset the monthly margin interest. I also sent a Bitcoin from when I was buying a little bit here and there around 2018 and up. It was my nest egg. Now when I go to work, I drink water and eat any scraps I can find for lunch. Everyday I am still paying for the bitcoin I do not have, with interest. I am in deep depression and do not know if I can pull myself out of this.
+
+-----
+
+[Doc 403](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908092280000000126.pdf), filed August 9, 2022:
+
+> Both my wife and I are depositors in Celsius and have three young boys ages 11, 17, and 20. We are unaccredited USA investors that were lured into Celsius based on promises, directly from the CEO, that our deposits are safe and can be withdrawn at any time. The CEO of Celsius stated several times that Celsius is better and safer than a bank, and those sentiments are reflected in their advertising.
+
+-----
+
+[Doc 397](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908092280000000031.pdf), filed August 8, 2022:
+
+> During my life, I have escaped domestic abuses perpetrated within a 28 year marriage; Raised an orphan as an older adult without any support. I have survived a brain tumor, while coping with polycystic kidney disease, debilitating arthritis, and extreme fibromyalgia.
+
+> During the years of raising my son a a single mother, I scrimped and saved for a meager retirement. Regretfully I placed 70% of my funds in the "Earn Account" in Celsius Network. ...
+
+> Now, as a single senior citizen I face kidney dialysis. Additionally, I will be forced to sell my home, return to work and possibly rely on government relief to make up for this deception.
+
+-----
+
 [Doc 388](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908082280000000069.pdf), filed August 6, 2022:
 
 > About a year ago, I transferred around $30,000USD (most of my savings)...
