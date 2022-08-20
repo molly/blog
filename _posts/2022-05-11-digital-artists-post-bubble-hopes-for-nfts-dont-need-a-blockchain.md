@@ -4,6 +4,10 @@ title: "Digital artists' post-bubble hopes for NFTs don't need a blockchain"
 author: Molly White
 publication-date: 2022-05-11
 custom_excerpt: "Some digital artists who create NFTs, particularly those who were already trying to earn a living in digital art before NFTs came along, have described their interest in its \"post-bubble\" potential as the future of digital art. What they are describing doesn't require a blockchain."
+social-image: "https://mollywhite.net/storage/lukashov_untitled20.webp"
+social-image-alt: "Digital artwork reproduced in oil paints. The painting depicts hands, but the images are fragmented and glitchy. The painting uses white and light purple and blue colors."
+social-image-width: 300
+social-image-height: 299
 post_collection: "blockchain"
 cc: true
 ---

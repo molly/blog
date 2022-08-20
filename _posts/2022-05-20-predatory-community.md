@@ -5,6 +5,10 @@ author: Molly White
 publication-date: 2022-05-11
 custom_excerpt: 'Projects that seek to create new communities of marginalized people to draw them in to risky speculative markets rife with scams and fraud are demonstrating "predatory community".'
 post_collection: "blockchain"
+social-image: "https://mollywhite.net/storage/bitcoindinner.jpeg"
+social-image-alt: "Six women sit around a table at a restaurant with drinks and empty plates"
+social-image-width: 300
+social-image-height: 218
 cc: true
 ---
 

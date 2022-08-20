@@ -4,6 +4,10 @@ title: "Is &#34;acceptably non-dystopian&#34; self-sovereign identity even possi
 author: Molly White
 publication-date: 2022-06-10
 custom_excerpt: "In the recent paper about &#34;soulbound&#34; tokens, Vitalik Buterin et al. write that they aim to build technology that is &#34;acceptably non-dystopian&#34;. Do any of today's self-sovereign identity projects fit that bill?"
+social-image: "https://mollywhite.net/storage/identity-trilemma.svg"
+social-image-alt: "A triangle, with the three points labeled 'privacy', 'decentralization', and 'Sybil resistance'."
+social-image-width: 601
+social-image-height: 390
 post_collection: "blockchain"
 cc: true
 ---
