@@ -4,7 +4,7 @@ title: "Is &#34;acceptably non-dystopian&#34; self-sovereign identity even possi
 author: Molly White
 publication-date: 2022-06-10
 custom_excerpt: "In the recent paper about &#34;soulbound&#34; tokens, Vitalik Buterin et al. write that they aim to build technology that is &#34;acceptably non-dystopian&#34;. Do any of today's self-sovereign identity projects fit that bill?"
-social-image: "https://mollywhite.net/storage/identity-trilemma.svg"
+social-image: "https://mollywhite.net/storage/identity-trilemma.png"
 social-image-alt: "A triangle, with the three points labeled 'privacy', 'decentralization', and 'Sybil resistance'."
 social-image-width: 601
 social-image-height: 390
@@ -57,7 +57,7 @@ Self-sovereign identity is not a field where "move fast, break things" is accept
 ## The trilemma of digital identity
 <div class="blog-images-float with-caption">
   <div class="image">
-    <img src="https://mollywhite.net/storage/blockchain-trilemma.svg" alt="A triangle, with the three points labeled 'decentralization', 'security', and 'scalability'." />
+    <img src="https://mollywhite.net/storage/blockchain-trilemma.png" alt="A triangle, with the three points labeled 'decentralization', 'security', and 'scalability'." />
     <div class="caption">
       The blockchain trilemma
     </div>
@@ -70,7 +70,7 @@ Some crypto-literate readers will already be familiar with the blockchain trilem
 
 <div class="blog-images-float with-caption">
   <div class="image">
-    <img src="https://mollywhite.net/storage/identity-trilemma.svg" alt="A triangle, with the three points labeled 'privacy', 'decentralization', and 'Sybil resistance'." />
+    <img src="https://mollywhite.net/storage/identity-trilemma.png" alt="A triangle, with the three points labeled 'privacy', 'decentralization', and 'Sybil resistance'." />
     <div class="caption">
       The digital identity trilemma<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">11</a></sup>
     </div>
