@@ -327,10 +327,6 @@ h3.masthead-title {
 }
 
 /* Sidebar content*/
-.sidebar {
-  background-color: #96B78A;
-}
-
 .sidebar a {
   font-weight: normal;
   color: #fff;
@@ -421,6 +417,33 @@ a.sidebar-nav-item:focus {
   background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #96B78A 20%, #96B78A 40%, #fff 40%, #fff 60%, #96B78A 60%, #96B78A 80%, #fff 80%, #fff 100%);
   background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #96B78A 20%, #96B78A 40%, #fff 40%, #fff 60%, #96B78A 60%, #96B78A 80%, #fff 80%, #fff 100%);
   background-image:         linear-gradient(to bottom, #fff, #fff 20%, #96B78A 20%, #96B78A 40%, #fff 40%, #fff 60%, #96B78A 60%, #96B78A 80%, #fff 80%, #fff 100%);
+}
+
+.theme-base-whitespace .sidebar-toggle:before {
+  display: inline-block;
+  width: 1rem;
+  height: .75rem;
+  content: "";
+  background-image: -webkit-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:    -moz-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:     -ms-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+  background-image:         linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
+}
+
+.theme-base-whitespace .sidebar-toggle:active,
+.theme-base-whitespace #sidebar-checkbox:focus ~ .sidebar-toggle,
+.theme-base-whitespace #sidebar-checkbox:checked ~ .sidebar-toggle {
+  color: #fff;
+  background-color: #444;
+}
+
+.theme-base-whitespace .sidebar-toggle:active:before,
+.theme-base-whitespace #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+.theme-base-whitespace #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+  background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, #444 20%, #444 40%, #fff 40%, #fff 60%, #444 60%, #444 80%, #fff 80%, #fff 100%);
+  background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #444 20%, #444 40%, #fff 40%, #fff 60%, #444 60%, #444 80%, #fff 80%, #fff 100%);
+  background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #444 20%, #444 40%, #fff 40%, #fff 60%, #444 60%, #444 80%, #fff 80%, #fff 100%);
+  background-image:         linear-gradient(to bottom, #fff, #fff 20%, #444 20%, #444 40%, #fff 40%, #fff 60%, #444 60%, #444 80%, #fff 80%, #fff 100%);
 }
 
 @media (min-width: 30.1em) {
@@ -536,7 +559,18 @@ a.sidebar-nav-item:focus {
   Applies custom color schemes by adding the appropriate class to the `body`. Based on colors from
   Base16: http://chriskempson.github.io/base16/#default.
 */
-/* Molly */
+/* Newsletter */
+.theme-base-whitespace .sidebar,
+.theme-base-whitespace .sidebar-toggle:active,
+.theme-base-whitespace #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #eeeeee;
+
+  a {
+    color: #444444;
+  }
+}
+
+/* Blog */
 .theme-base-molly .sidebar,
 .theme-base-molly .sidebar-toggle:active,
 .theme-base-molly #sidebar-checkbox:checked ~ .sidebar-toggle {
@@ -1024,9 +1058,25 @@ h3.title-text a {
   }
 }
 
+.theme-base-whitespace .copyright-footer {
+  background-color:#96B78A;
+  font-size: 0.8em;
+  line-height: 0.8em;
+  color: #000000;
+
+  a {
+    color: #000000;
+  }
+}
+
 .inserted-note {
   color: #999;
   a {
     color: #999;
   }
+}
+
+.site-logo {
+  margin: 0 auto;
+  max-width: 300px
 }

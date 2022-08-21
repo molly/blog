@@ -11,7 +11,7 @@ sitemap: false
 
 /* FONTS */
 $main-font: "Noto Serif", serif; 
-$heading-font: "Noto Serif", serif;
+$heading-font: "DecimaMonoDecimaMono", Courier, monospace;
 $regular-font-size: 20px;
 
 
@@ -23,7 +23,13 @@ $regular-font-size: 20px;
 
 $text-color: #444444;
 $heading-color: #444444;
-$link-color: #56784a; // color.scale($light-green, $lightness: -25%)
+$link-color: #007AB3; 
+
+@font-face {
+  font-family: "DecimaMonoDecimaMono";
+  src: url('https://mollywhite.net/storage/DecimaMonoDecimaMono/font.woff2') format('woff2'), url('https://mollywhite.net/storage/DecimaMonoDecimaMono/font.woff') format('woff');
+}
+
 
 @import "ed";
 @import "syntax";
