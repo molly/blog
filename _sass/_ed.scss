@@ -320,6 +320,12 @@ h3.masthead-title {
           transition: all .3s ease-in-out;
 }
 
+/* Style and "hide" the sidebar*/
+.theme-base-whitespace .sidebar {
+  font-family: $heading-font;
+  font-size: 1rem;
+}
+
 @media (min-width: 30em) {
   .sidebar {
     font-size: .75rem;/* 14px*/
@@ -440,10 +446,10 @@ a.sidebar-nav-item:focus {
 .theme-base-whitespace .sidebar-toggle:active:before,
 .theme-base-whitespace #sidebar-checkbox:focus ~ .sidebar-toggle:before,
 .theme-base-whitespace #sidebar-checkbox:checked ~ .sidebar-toggle:before {
-  background-image: -webkit-linear-gradient(to bottom, #fff, #fff 20%, #444 20%, #444 40%, #fff 40%, #fff 60%, #444 60%, #444 80%, #fff 80%, #fff 100%);
-  background-image:    -moz-linear-gradient(to bottom, #fff, #fff 20%, #444 20%, #444 40%, #fff 40%, #fff 60%, #444 60%, #444 80%, #fff 80%, #fff 100%);
-  background-image:     -ms-linear-gradient(to bottom, #fff, #fff 20%, #444 20%, #444 40%, #fff 40%, #fff 60%, #444 60%, #444 80%, #fff 80%, #fff 100%);
-  background-image:         linear-gradient(to bottom, #fff, #fff 20%, #444 20%, #444 40%, #fff 40%, #fff 60%, #444 60%, #444 80%, #fff 80%, #fff 100%);
+  background-image: -webkit-linear-gradient(to bottom, #444, #444 20%, #eee 20%, #eee 40%, #444 40%, #444 60%, #eee 60%, #eee 80%, #444 80%, #444 100%);
+  background-image:    -moz-linear-gradient(to bottom, #444, #444 20%, #eee 20%, #eee 40%, #444 40%, #444 60%, #eee 60%, #eee 80%, #444 80%, #444 100%);
+  background-image:     -ms-linear-gradient(to bottom, #444, #444 20%, #eee 20%, #eee 40%, #444 40%, #444 60%, #eee 60%, #eee 80%, #444 80%, #444 100%);
+  background-image:         linear-gradient(to bottom, #444, #444 20%, #eee 20%, #eee 40%, #444 40%, #444 60%, #eee 60%, #eee 80%, #444 80%, #444 100%);
 }
 
 @media (min-width: 30.1em) {
@@ -1034,6 +1040,10 @@ h3.title-text a {
   display: flex;
   flex-direction: column;
 
+  img {
+    margin-bottom: 0.5rem;
+  }
+
   .caption {
     text-align: center;
     font-style: italic;
@@ -1058,17 +1068,6 @@ h3.title-text a {
   }
 }
 
-.theme-base-whitespace .copyright-footer {
-  background-color:#96B78A;
-  font-size: 0.8em;
-  line-height: 0.8em;
-  color: #000000;
-
-  a {
-    color: #000000;
-  }
-}
-
 .inserted-note {
   color: #999;
   a {
@@ -1076,7 +1075,59 @@ h3.title-text a {
   }
 }
 
-.site-logo {
-  margin: 0 auto;
-  max-width: 300px
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.twitter-tweet {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.theme-base-whitespace {
+  .masthead h1 {
+    font-size: 3rem;
+    font-weight: 100;
+  }
+
+  .title-link, .title-link:hover {
+    color: #444444;
+    text-decoration: none;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+    margin-top: 2rem;
+  }
+  
+  .copyright-footer {
+    background-color: transparent;
+    font-style: italic;
+    font-size: 0.9rem; 
+    margin-bottom: 20px;
+    height: auto
+  }
+
+  .masthead-links {
+    font-size: 14px;
+    font-family: $heading-font;
+  }
+
+  .sidebar-nav {
+    margin-top: 10px;
+  }
+
+  code {
+    color: #444444
+  }
+
+  ul ul {
+    margin-bottom: 0
+  }
 }
