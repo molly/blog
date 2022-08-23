@@ -1058,14 +1058,9 @@ h3.title-text a {
 }
 
 .copyright-footer {
-  background-color:#96B78A;
   font-size: 0.8em;
   line-height: 0.8em;
   color: #000000;
-  height: 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
   a {
     color: #000000;
@@ -1087,6 +1082,16 @@ h3.title-text a {
 .twitter-tweet {
   margin-left: auto;
   margin-right: auto;
+}
+
+.theme-base-molly {
+  .copyright-footer {
+    background-color:#96B78A;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
 }
 
 .theme-base-whitespace {
@@ -1113,7 +1118,7 @@ h3.title-text a {
   .copyright-footer {
     background-color: transparent;
     font-style: italic;
-    font-size: 0.9rem; 
+    text-align: center;
     margin-bottom: 20px;
     height: auto
   }
