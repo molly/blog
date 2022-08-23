@@ -4,8 +4,8 @@ title: "Announcing the Whitespace newsletter and a Patreon"
 author: Molly White
 publication-date: 2022-08-21
 custom_excerpt: "Introducing the Whitespace newsletter and my Patreon, and a little more on what's next for me."
+post_collection: "blockchain"
 cc: true
-disclosure: true
 ---
 
 I've launched a [Patreon](https://www.patreon.com/mollywhite/membership), and would be delighted if you would consider supporting or sharing.

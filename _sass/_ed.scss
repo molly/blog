@@ -1062,6 +1062,10 @@ h3.title-text a {
   font-size: 0.8em;
   line-height: 0.8em;
   color: #000000;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
   a {
     color: #000000;
