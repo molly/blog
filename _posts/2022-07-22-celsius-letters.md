@@ -88,20 +88,21 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 -----
 [Doc 564](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908222280000000023.pdf), filed August 1, 2022:
 
-The most recent event of locking our funds has caused immeasurable suffering and pain to many of the depositors and though i cannot share the grievances of all, i, for one, have had to deal with incapacity to fully execute the care required for my aging parents due to the locked funds in my Celsius platform.
+> The most recent event of locking our funds has caused immeasurable suffering and pain to many of the depositors and though i cannot share the grievances of all, i, for one, have had to deal with incapacity to fully execute the care required for my aging parents due to the locked funds in my Celsius platform.
 
 > It is one of the worst and painful feelings in the world to be strip off the duty (filial piety) to help your loved ones and i hope i would be given the power to resume that again. ...
 
 > P.S. I have also included some screenshots from my emails with Celsius who have neglected the needs of someone in dire need of help, however little. Their recent actions are more self-serving and have completely neglect of the roles and responsibilities of a company who are sincere in helping their depositors. 
 
-[![Email screenshot. From sender: "Hi Celsius Could we look at some partial withdrawals, please? I desperately need help with my mum's medical bills at this time and the point of having assets in Celsius in the first place was to have that sort of liquidity. I am not seeking the complete withdrawals of my funds but at least the coins listed above so i can use the funds to provide aid for mum. She means the world to me. I have already sought help from my friends and family but there is so much they can do. Sincerely hope you can help me with this. i understand that the amount isn't much but it is something really I need to assess presently. My mum is sick and we need the money for her healthcare. =(( Thank you." From Customer Care Expert (Celsius Network): "Hello (redacted), Not at this time. We sympathize with your need to transfer assets because of a medical emergency, however, in light of this recent situation, we cannot process any withdrawals. We will make note of your request and take it into consideration once possible. More information is available in a blog posted at blog celsius.network. For additional assistance, please reply to this email or simply call us at 1-866-HODL-NOW (1-866-463-5669). We are looking forward to your call. Best regards and HODL on! Read our FAQS and learn more from our Help Center https://support.celsius.network/hc/en-us"](https://www.mollywhite.net/storage/celsius-564-att1.png)](https://www.mollywhite.net/storage/celsius-564-att1.png)
+> [![Email screenshot. From sender: "Hi Celsius Could we look at some partial withdrawals, please? I desperately need help with my mum's medical bills at this time and the point of having assets in Celsius in the first place was to have that sort of liquidity. I am not seeking the complete withdrawals of my funds but at least the coins listed above so i can use the funds to provide aid for mum. She means the world to me. I have already sought help from my friends and family but there is so much they can do. Sincerely hope you can help me with this. i understand that the amount isn't much but it is something really I need to assess presently. My mum is sick and we need the money for her healthcare. =(( Thank you." From Customer Care Expert (Celsius Network): "Hello (redacted), Not at this time. We sympathize with your need to transfer assets because of a medical emergency, however, in light of this recent situation, we cannot process any withdrawals. We will make note of your request and take it into consideration once possible. More information is available in a blog posted at blog celsius.network. For additional assistance, please reply to this email or simply call us at 1-866-HODL-NOW (1-866-463-5669). We are looking forward to your call. Best regards and HODL on! Read our FAQS and learn more from our Help Center https://support.celsius.network/hc/en-us"](https://www.mollywhite.net/storage/celsius-564-att1.png)](https://www.mollywhite.net/storage/celsius-564-att1.png)
 
 -----
 [Doc 563](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908222280000000022.pdf), filed July 30, 2022:
-This is my state of mind, Your Honor : here are pictures of my house that I am renovating alone. I had planned to hire a professional building firm to do this work and enjoy my vacations. However, the situation with Celsius locked all my funds made me less financially confident to make this through professionals. So, I am doing this myself alone with basic tools and equipments at high risk.
 
-![Photograph of the exterior of an old brick building. A portion of the wall has been demolished and it's possible to see in to the home and the basement](https://www.mollywhite.net/storage/celsius-563-att1.png)
-![Two photos of the exterior of an old brick building. A portion of the wall has been demolished and it's possible to see in to the home and the basement](https://www.mollywhite.net/storage/celsius-563-att2.png)
+> This is my state of mind, Your Honor : here are pictures of my house that I am renovating alone. I had planned to hire a professional building firm to do this work and enjoy my vacations. However, the situation with Celsius locked all my funds made me less financially confident to make this through professionals. So, I am doing this myself alone with basic tools and equipments at high risk.
+
+> ![Photograph of the exterior of an old brick building. A portion of the wall has been demolished and it's possible to see in to the home and the basement](https://www.mollywhite.net/storage/celsius-563-att1.png)
+> ![Two photos of the exterior of an old brick building. A portion of the wall has been demolished and it's possible to see in to the home and the basement](https://www.mollywhite.net/storage/celsius-563-att2.png)
 
 > I am one of the victims of the Celsius Network case. I have tens of thousands of dollars held on my Celsius Network account.
 
@@ -115,7 +116,7 @@ This is my state of mind, Your Honor : here are pictures of my house that I am r
 -----
 [Doc 559](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908222280000000013.pdf), filed July 27, 2022:
 
-My life savings are on Celsius (3 Bitcoin <span class="inserted-note">[~$68,800 on <a href="https://finance.yahoo.com/quote/BTC-USD/history/">date of filing</a>]</span> and 10 Ethereum <span class="inserted-note">[~$16,400 on <a href="https://finance.yahoo.com/quote/ETH-USD/history/">date of filing</a>]</span>). It took me years after a ruinous divorce to make the money to purchase my Crypto and a whole year of researching the best place to put it. Like all the others I believed Alex Mashinsky was an honest man. I was deceived.
+> My life savings are on Celsius (3 Bitcoin <span class="inserted-note">[~$68,800 on <a href="https://finance.yahoo.com/quote/BTC-USD/history/">date of filing</a>]</span> and 10 Ethereum <span class="inserted-note">[~$16,400 on <a href="https://finance.yahoo.com/quote/ETH-USD/history/">date of filing</a>]</span>). It took me years after a ruinous divorce to make the money to purchase my Crypto and a whole year of researching the best place to put it. Like all the others I believed Alex Mashinsky was an honest man. I was deceived.
 
 -----
 [Doc 558](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908222280000000012.pdf), filed July 26, 2022:
@@ -163,14 +164,14 @@ My life savings are on Celsius (3 Bitcoin <span class="inserted-note">[~$68,800 
 -----
 [Doc 530](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908172280000000077.pdf), filed August 17, 2022:
 
-> As we approached the recent bear market I thought this was a safe place to HODL my assets. Shortly before the freeze I decided I wanted completely out of Celsius and started to move my assets into the custody wallet and started to update my wallet addresses so I can deposit my funds to my Exodus wallet for safe keeping. Unfortunately, for me I was a day late and the freeze occurred while I was changing my addresses and so now the majority of my funds are in Custody. The remaining is locked up in a $30,000 loan that I can fulfill, if I can receive my collateral back of 6.18 BTC.
+> As we approached the recent bear market I thought this was a safe place to HODL my assets. Shortly before the freeze I decided I wanted completely out of Celsius and started to move my assets into the custody wallet and started to update my wallet addresses so I can deposit my funds to my Exodus wallet for safe keeping. Unfortunately, for me I was a day late and the freeze occurred while I was changing my addresses and so now the majority of my funds are in Custody. The remaining is locked up in a $30,000 loan that I can fulfill, if I can receive my collateral back of 6.18 BTC <span class="inserted-note">[~$147,800 on <a href="https://ycharts.com/indicators/bitcoin_price">date of filing</a>]</span>.
 
 -----
 [Doc 529](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908172280000000072.pdf), filed July 22, 2022:
 
 > I would like to take a moment of your time; I had a personal injury settlement and was in contact with Celsius 7 times prior to me depositing my personal injury funds into their company and purchasing crypto coins. I was assured that Celsius was not only completely safe to hold and purchase coins, they would help produce high interest returns so my family would be able to maintain my health needs. I have been left paralyzed on my right side and my wife has the full-time job of taking care of my personal needs after my accident.
 
-> At the time Celsius froze all accounts we only had a few thousand dollars that was not invested with Celsius. We are now in jeopardy of losing our home and everything we own not to mention having money for basic living, food, utilities, and medical care. I have spoken to Celsius, Stretto, and Kirkland & Ellis. Celsius and Stretto stated "that basically I would have a better guess as what will happen then they do", Kirkland & Ellis haven't returned any emails or calls. Unfortunately, with all of our funds locked by Celsius we don't have the luxury of hiring a law firm.
+> At the time Celsius froze all accounts we only had a few thousand dollars that was not invested with Celsius. We are now in jeopardy of losing our home and everything we own not to mention having money for basic living, food, utilities, and medical care.
 
 -----
 [Doc 512](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908172280000000023.pdf), filed August 17, 2022:
@@ -322,7 +323,7 @@ My life savings are on Celsius (3 Bitcoin <span class="inserted-note">[~$68,800 
 
 > Due to the freezing of Celsius accounts on June 12th 2022, the above liquidations were forced upon me as I could not swap, transfer, pay-off or add collateral to protect the loans from liquidation during the market downturn. I had the capital to pay off these loans to release the collateral back into my Earn account, but this was not possible due to the freeze. Outside of the loan collateral I currently have in my Earn account wallet the following remaining assets;
 
-> * Bitcoin BTC = 0.412386 <span class="inserted-note">[~$10,000</span>
+> * Bitcoin BTC = 0.412386 <span class="inserted-note">[~$10,000]</span>
 > * Ethereum ETH = 3.106619 <span class="inserted-note">[~$5,900]</span>
 > * Tether USDT = $2,496.94
 
