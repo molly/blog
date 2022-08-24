@@ -30,6 +30,45 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 
 ## Excerpts
 
+[Doc 323](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308222280000000068.pdf), filed August 22, 2022:
+
+> Thank you for be willing to read the real stories of myself and so many other Voyager account holders who had our lives turned upside down with the unexpected notice that all of our assets in Voyager were no longer available to us. 
+
+> My wife and I are a married couple in South Florida and we are in our thirties. For the past years, we have been diligent in saving funds from our day jobs and we had our life savings invested in Voyager. We had researched Voyager and other crypto banks and Voyager seemed like the most well established and safest digital asset investment bank from what our research showed us.
+
+> We had $50,000 in USDC in Voyager and we were confident it was a safe investment. Voyager would constantly send us emails encouraging us that USDC was a safe place to store money and a good hedge against wavering crypto currency prices and inflation. ...
+
+> We now have $50,000 in USDC and tens of thousands more dollars stuck/frozen in Voyager and we are so scared of losing it.
+
+> This series of events from Voyager has caused a major upset in our lives and we are without YEARS of hard earned money. We did all the due diligence possible and we trusted Voyager's email campaigns and advertising that claimed USDC was a safe investment on their platform. We lost $50,000 in USDC which is a HUGE chunk of money for us and life changing.
+
+-----
+
+[Doc 260](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308102280000000044.pdf), filed August 8, 2022:
+
+> I am a newly retired senior citizen that has recently been hit hard from every side. Times have been tough recently. I listened to younger friends and family, who thought they were trying to help me. I was hopeful as I tried to learn and understand new technology and service.
+
+> Honorable Judge Michael E. Wiles, I am asking for my Assets to be returned to me, the market value is down and so It it less costly for Voyager to just release them. I would like to have my assets in-kind returned and hope that maybe, just maybe, I can recoup something back. My assets are (type and units) on Voyager:
+
+> * VGX 37.98 <span class="inserted-note">[~$13.28 on <a href="https://coinmarketcap.com/currencies/voyager-token/">date of filing</a>]</span>
+> * BTC 0.000525  <span class="inserted-note">[~$12.16 on <a href="https://coinmarketcap.com/currencies/voyager-token/">date of filing</a>]</span>
+> * DOT 36.634  <span class="inserted-note">[~$326.30 on <a href="https://coinmarketcap.com/currencies/polkadot-new/">date of filing</a>]</span>
+> * LUNC  230,296  <span class="inserted-note">[~$23.17 on <a href="https://coinmarketcap.com/currencies/terra-luna/">date of filing</a>]</span>
+> * LUNA  3.52  <span class="inserted-note">[~$6.09 on <a href="https://coinmarketcap.com/currencies/terra-luna-v2/">date of filing</a>]</span>
+> * USDC  2.93
+
+-----
+
+[Doc 232](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308042280000000075.pdf), filed August 4, 2022:
+
+> I had transferred $49,000 + from my bank savings to Voyager to act as CUSTODIAN of my account which was held in USDC (a stable crypto asset tethered to the US dollar). By no means was this any type of liquidity pool, staking nor capital liquidity program.
+
+> Voyager was to solely act in a custodial role to function as my securities intermediary. Therefore Voyager does not have any rights/claim to my crypto assets as precedent in re Joliet-Will County Community Action Agency and Article 8 of UCC mirrors these rules for financial assets held by such a securities intermediary.
+
+> In conclusion, I would Object to Voyager holding onto these customer assets as they have no claim to them, they were fraudulently solicited, and liquidating this broker-dealer would be most appropriate to protect the customer accounts.
+
+-----
+
 [Doc 224](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308032280000000082.pdf), filed August 3, 2022:
 
 > I am a loyal Voyager customer since April 2021. Specifically, a Navigator. Navigator is Voyager’s highest tier in their Loyalty Program...  I became a Navigator on June 29th, 2 days before the news got released via email and Voyager’s Twitter account of the platform being suspended for trades, deposits, withdrawals, and loyalty rewards. 
