@@ -25,6 +25,10 @@ $text-color: #444444;
 $heading-color: #444444;
 $link-color: #56784a; // color.scale($light-green, $lightness: -25%)
 
+$text-color-dark: rgba(256, 256, 256, 0.87);
+$heading-color-dark: $text-color-dark;
+$link-color-dark: #B0D1A4; 
+
 @import "ed";
 @import "syntax";
 
@@ -39,10 +43,7 @@ $link-color: #56784a; // color.scale($light-green, $lightness: -25%)
 
   .copyright-footer {
     background-color:#96B78A;
-    height: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
   } 
 
   .sidebar,
@@ -50,4 +51,35 @@ $link-color: #56784a; // color.scale($light-green, $lightness: -25%)
   #sidebar-checkbox:checked ~ .sidebar-toggle {
     background-color: #96B78A;
   }
+}
+
+@mixin darkModeBlog() {
+  .theme-base-molly {
+    .masthead {
+      border-bottom: 1px solid #666;
+    }
+
+    .copyright-footer {
+      background-color: #4E6446;
+      color: $text-color-dark;
+
+      a {
+        color: $text-color-dark
+      }
+    }
+
+    .sidebar,
+    .sidebar-toggle:active,
+    #sidebar-checkbox:checked ~ .sidebar-toggle {
+      background-color: #4E6446;
+    }
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  @include darkModeBlog;
+}
+
+.dark-mode {
+  @include darkModeBlog;
 }

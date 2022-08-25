@@ -149,7 +149,6 @@ hr {
   margin: 1.5rem 0;
   border: 0;
   border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
 }
 
 /* Search Highlihting*/
@@ -1012,7 +1011,8 @@ h3.title-text a {
   font-size: 0.8em;
   line-height: 1.2em;
   color: #000000;
-  padding: 0 1em;
+  padding: 1em;
+  height: auto;
 
   a {
     color: #000000;
@@ -1034,4 +1034,85 @@ h3.title-text a {
 .twitter-tweet {
   margin-left: auto;
   margin-right: auto;
+}
+
+@mixin darkMode() {
+  body {
+    background-color: #121212;
+    color: $text-color-dark;
+  }
+
+  a, .text-title a {
+    color: $link-color-dark;
+    text-decoration: underline;
+  }
+
+  h1, h2, h3, h4, h5, h6, .page-title {
+    color: $heading-color-dark;
+  }
+
+  hr {
+    border-top: 1px solid #666;
+  }
+
+  blockquote, li.attribution{
+    color: $text-color-dark;
+  }
+
+  tbody tr:nth-child(odd) td,
+  tbody tr:nth-child(odd) th {
+    background-color: #2c2c2c;
+  }
+
+  .masthead-title a {
+    color: $link-color-dark;
+  }
+
+  .sidebar-toggle {
+    position: absolute;
+    top:  .8rem;
+    left: 1rem;
+    display: block;
+    padding: .25rem .75rem;
+    color: #505050;
+    background-color: #fff;
+    border-radius: .25rem;
+    cursor: pointer;
+  }
+  
+  .sidebar-toggle {
+    color: $text-color-dark;
+    background-color: #121212;
+  }
+  
+  .sidebar-toggle:before {
+    background-image: -webkit-linear-gradient(to bottom, #96B78A, #96B78A 20%, #121212 20%, #121212 40%, #96B78A 40%, #96B78A 60%, #121212 60%, #121212 80%, #96B78A 80%, #96B78A 100%);
+    background-image:    -moz-linear-gradient(to bottom, #96B78A, #96B78A 20%, #121212 20%, #121212 40%, #96B78A 40%, #96B78A 60%, #121212 60%, #121212 80%, #96B78A 80%, #96B78A 100%);
+    background-image:     -ms-linear-gradient(to bottom, #96B78A, #96B78A 20%, #121212 20%, #121212 40%, #96B78A 40%, #96B78A 60%, #121212 60%, #121212 80%, #96B78A 80%, #96B78A 100%);
+    background-image:         linear-gradient(to bottom, #96B78A, #96B78A 20%, #121212 20%, #121212 40%, #96B78A 40%, #96B78A 60%, #121212 60%, #121212 80%, #96B78A 80%, #96B78A 100%);
+  }
+  
+  .sidebar-toggle:active,
+  #sidebar-checkbox:focus ~ .sidebar-toggle,
+  #sidebar-checkbox:checked ~ .sidebar-toggle {
+    color: #121212;
+    background-color: #96B78A;
+  }
+  
+  .sidebar-toggle:active:before,
+  #sidebar-checkbox:focus ~ .sidebar-toggle:before,
+  #sidebar-checkbox:checked ~ .sidebar-toggle:before {
+    background-image: -webkit-linear-gradient(to bottom, #121212, #121212 20%, #96B78A 20%, #96B78A 40%, #121212 40%, #121212 60%, #96B78A 60%, #96B78A 80%, #121212 80%, #121212 100%);
+    background-image:    -moz-linear-gradient(to bottom, #121212, #121212 20%, #96B78A 20%, #96B78A 40%, #121212 40%, #121212 60%, #96B78A 60%, #96B78A 80%, #121212 80%, #121212 100%);
+    background-image:     -ms-linear-gradient(to bottom, #121212, #121212 20%, #96B78A 20%, #96B78A 40%, #121212 40%, #121212 60%, #96B78A 60%, #96B78A 80%, #121212 80%, #121212 100%);
+    background-image:         linear-gradient(to bottom, #121212, #121212 20%, #96B78A 20%, #96B78A 40%, #121212 40%, #121212 60%, #96B78A 60%, #96B78A 80%, #121212 80%, #121212 100%);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  @include darkMode;
+}
+
+.dark-mode {
+  @include darkMode;
 }
