@@ -225,7 +225,6 @@ tbody tr:nth-child(odd) th {
   text-align: center;
   padding-top: 26px;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #eee;
 }
 
 .masthead-title {
@@ -425,33 +424,6 @@ a.sidebar-nav-item:focus {
   background-image:         linear-gradient(to bottom, #fff, #fff 20%, #96B78A 20%, #96B78A 40%, #fff 40%, #fff 60%, #96B78A 60%, #96B78A 80%, #fff 80%, #fff 100%);
 }
 
-.theme-base-whitespace .sidebar-toggle:before {
-  display: inline-block;
-  width: 1rem;
-  height: .75rem;
-  content: "";
-  background-image: -webkit-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
-  background-image:    -moz-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
-  background-image:     -ms-linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
-  background-image:         linear-gradient(to bottom, #444, #444 20%, #fff 20%, #fff 40%, #444 40%, #444 60%, #fff 60%, #fff 80%, #444 80%, #444 100%);
-}
-
-.theme-base-whitespace .sidebar-toggle:active,
-.theme-base-whitespace #sidebar-checkbox:focus ~ .sidebar-toggle,
-.theme-base-whitespace #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #fff;
-  background-color: #444;
-}
-
-.theme-base-whitespace .sidebar-toggle:active:before,
-.theme-base-whitespace #sidebar-checkbox:focus ~ .sidebar-toggle:before,
-.theme-base-whitespace #sidebar-checkbox:checked ~ .sidebar-toggle:before {
-  background-image: -webkit-linear-gradient(to bottom, #444, #444 20%, #eee 20%, #eee 40%, #444 40%, #444 60%, #eee 60%, #eee 80%, #444 80%, #444 100%);
-  background-image:    -moz-linear-gradient(to bottom, #444, #444 20%, #eee 20%, #eee 40%, #444 40%, #444 60%, #eee 60%, #eee 80%, #444 80%, #444 100%);
-  background-image:     -ms-linear-gradient(to bottom, #444, #444 20%, #eee 20%, #eee 40%, #444 40%, #444 60%, #eee 60%, #eee 80%, #444 80%, #444 100%);
-  background-image:         linear-gradient(to bottom, #444, #444 20%, #eee 20%, #eee 40%, #444 40%, #444 60%, #eee 60%, #eee 80%, #444 80%, #444 100%);
-}
-
 @media (min-width: 30.1em) {
   .sidebar-toggle {
     position: fixed;
@@ -565,23 +537,6 @@ a.sidebar-nav-item:focus {
   Applies custom color schemes by adding the appropriate class to the `body`. Based on colors from
   Base16: http://chriskempson.github.io/base16/#default.
 */
-/* Newsletter */
-.theme-base-whitespace .sidebar,
-.theme-base-whitespace .sidebar-toggle:active,
-.theme-base-whitespace #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #eeeeee;
-
-  a {
-    color: #444444;
-  }
-}
-
-/* Blog */
-.theme-base-molly .sidebar,
-.theme-base-molly .sidebar-toggle:active,
-.theme-base-molly #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #96B78A;
-}
 
 /* Red*/
 .theme-base-red .sidebar,
@@ -812,10 +767,6 @@ sup {
 a.footnote {
   padding-left: .1rem;
   font-size: .66rem;
-}
-
-*:target {
-  background-color: rgba(150, 183, 138, 0.3)
 }
 
 /*Bibliography styles*/

@@ -29,6 +29,14 @@ $link-color: #56784a; // color.scale($light-green, $lightness: -25%)
 @import "syntax";
 
 .theme-base-molly {
+  *:target {
+    background-color: rgba(150, 183, 138, 0.3)
+  }
+
+  .masthead {
+    border-bottom: 1px solid #eee;
+  }
+
   .copyright-footer {
     background-color:#96B78A;
     height: 30px;
@@ -36,4 +44,10 @@ $link-color: #56784a; // color.scale($light-green, $lightness: -25%)
     justify-content: center;
     align-items: center;
   } 
+
+  .sidebar,
+  .sidebar-toggle:active,
+  #sidebar-checkbox:checked ~ .sidebar-toggle {
+    background-color: #96B78A;
+  }
 }
