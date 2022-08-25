@@ -27,3 +27,13 @@ $link-color: #56784a; // color.scale($light-green, $lightness: -25%)
 
 @import "ed";
 @import "syntax";
+
+.theme-base-molly {
+  .copyright-footer {
+    background-color:#96B78A;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
+}
