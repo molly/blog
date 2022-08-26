@@ -53,33 +53,23 @@ $link-color-dark: #B0D1A4;
   }
 }
 
-@mixin darkModeBlog() {
-  .theme-base-molly {
-    .masthead {
-      border-bottom: 1px solid #666;
-    }
+.theme-base-molly.dark-mode {
+  .masthead {
+    border-bottom: 1px solid #666;
+  }
 
-    .copyright-footer {
-      background-color: #4E6446;
-      color: $text-color-dark;
+  .copyright-footer {
+    background-color: #4E6446;
+    color: $text-color-dark;
 
-      a {
-        color: $text-color-dark
-      }
-    }
-
-    .sidebar,
-    .sidebar-toggle:active,
-    #sidebar-checkbox:checked ~ .sidebar-toggle {
-      background-color: #4E6446;
+    a {
+      color: $text-color-dark
     }
   }
-}
 
-@media (prefers-color-scheme: dark) {
-  @include darkModeBlog;
-}
-
-.dark-mode {
-  @include darkModeBlog;
+  .sidebar,
+  .sidebar-toggle:active,
+  #sidebar-checkbox:checked ~ .sidebar-toggle {
+    background-color: #4E6446;
+  }
 }

@@ -1036,11 +1036,9 @@ h3.title-text a {
   margin-right: auto;
 }
 
-@mixin darkMode() {
-  body {
-    background-color: #121212;
-    color: $text-color-dark;
-  }
+body.dark-mode {
+  background-color: #121212;
+  color: $text-color-dark;
 
   a, .text-title a {
     color: $link-color-dark;
@@ -1115,12 +1113,4 @@ h3.title-text a {
     background-image:     -ms-linear-gradient(to bottom, #121212, #121212 20%, #96B78A 20%, #96B78A 40%, #121212 40%, #121212 60%, #96B78A 60%, #96B78A 80%, #121212 80%, #121212 100%);
     background-image:         linear-gradient(to bottom, #121212, #121212 20%, #96B78A 20%, #96B78A 40%, #121212 40%, #121212 60%, #96B78A 60%, #96B78A 80%, #121212 80%, #121212 100%);
   }
-}
-
-@media (prefers-color-scheme: dark) {
-  @include darkMode;
-}
-
-.dark-mode {
-  @include darkMode;
 }
