@@ -1055,6 +1055,10 @@ h3.title-text a {
     border-top: 1px solid #666;
   }
 
+  code {
+    background-color: #2c2c2c !important;
+  }
+
   blockquote, li.attribution{
     color: $text-color-dark;
   }
@@ -1066,6 +1070,10 @@ h3.title-text a {
 
   .masthead-title a {
     color: $link-color-dark;
+  }
+
+  .post-item:not(:last-child) {
+    border-bottom: 1px solid #666;
   }
 
   .sidebar-toggle {
