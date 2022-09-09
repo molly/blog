@@ -72,7 +72,7 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 [Doc 654](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000068.pdf), filed August 2, 2022:
 
-I am a customer who unfortunately trusted Celsius. I have sold all my stocks, withdrew all my savings and refinance my house to invest in Celsius for the future of my family and my own. In many interviews and articles, Alex consistently ensured and convinced everyone that Celsius was a transparent and legitimate option for long term life investments. Constantly advertising themselves to be a superior options to banks, this misdirection has caused myself and many others to befall a serious financial crisis in the middle of this economic downturn. 
+> I am a customer who unfortunately trusted Celsius. I have sold all my stocks, withdrew all my savings and refinance my house to invest in Celsius for the future of my family and my own. In many interviews and articles, Alex consistently ensured and convinced everyone that Celsius was a transparent and legitimate option for long term life investments. Constantly advertising themselves to be a superior options to banks, this misdirection has caused myself and many others to befall a serious financial crisis in the middle of this economic downturn. 
 
 -----
 
@@ -160,7 +160,7 @@ All this to say, I was fooled!... tricked by Alex in his AMAs where he assured m
 
 > However, I can’t stand idly by when there appears to be a significant deception being perpetrated on the court by the management of Celsius. The cryptocurrency lending/borrowing side is clearly insolvent and quite possibly an explicit Ponzi scheme (and certainly an investor in major and obvious Ponzi schemes like the Anchor protocol).
 
-> In an attempt to postpone liquidation, Celsius has tried to claim to the court that their cryptocurrency mining business has the potential to be substantially profitable. Unfortunately Celsius’s own filings and basic economic analysis of the cryptocurrency mining space shows this, at best, to be wishful thinking. And, at worst, a fraud on the court
+> In an attempt to postpone liquidation, Celsius has tried to claim to the court that their cryptocurrency mining business has the potential to be substantially profitable. Unfortunately Celsius’s own filings and basic economic analysis of the cryptocurrency mining space shows this, at best, to be wishful thinking. And, at worst, a fraud on the court.
 
 -----
 
