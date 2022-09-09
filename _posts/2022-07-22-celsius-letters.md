@@ -36,6 +36,134 @@ Celsius offered both "Earn" and "Custody" accounts. With Earn accounts, users re
 
 ## Excerpts
 
+[Doc 708](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174909022280000000051.pdf), filed August 2, 2022:
+
+> I am a 65 year old retired man writing this letter in the hopes that justice will be served for myself and many others who have lost their investments. The majority of my life savings were deposited in Celsius with the understanding my funds were secure. The rest of my life has been drastically changed because of of the misinformation and outright deception by Celsius CEO Alex Mashinsky.
+
+> I have worked since I was 15 years old, and have saved my earnings, sacrificing and pinching pennies for the last 50 years. Now, upon retirement I have found that most of my savings are being withheld from me by Celsius- just two weeks after my new marriage! Just as our honeymoon began with high hopes for the future, news came that my funds had been frozen. Since that fateful day (June 12, 2022) I have felt devastated and betrayed. The outcome of this case will have enormous long-term consequences for me, my family and my overall state of mind.
+
+-----
+
+[Doc 703](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174909022280000000041.pdf), filed August 24, 2022:
+
+> I’m a Celsius customer with a total of 4.47 BTC <span class="inserted-note">[~$90,000 on <a href="https://www.coindesk.com/price/bitcoin/">date of filing</a>]</span>, 53 ETH<span class="inserted-note">[~$84,000 on <a href="https://www.coindesk.com/price/ethereum/">date of filing</a>]</span>, and several other alt coins on the platform. I worked over 4 years to build up that amount and I trusted Alex with my lifesavings. As I’m sure you’ve heard from numerous customers, Alex had weekly AMAs and just days before freezing customer accounts, advised customers that everything was fine and there should be no problems withdrawing money. Telling customers, they were not making risky trades and that Celsius was safer than a bank account. This ended up not being the truth. As a licensed police officer who helps victims of fraud, I don’t see how this is any different than what happened with Enron.
+
+-----
+
+[Doc 698](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174909022280000000027.pdf), filed August 4, 2022:
+
+> I’m glad I didn’t put everything in Celsius but with what I did I stand to lose almost half of my retirement savings. 
+
+-----
+
+[Doc 661](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000106.pdf), filed August 25, 2022:
+
+> Between September and November, 2021 I put up 8.16 BTC as collateral for loans totaling $75,000. I made these informed financial decisions based on several factors, including social media messaging which I will highlight some examples of below...
+
+> For my sake, I have a son who was born this year, and have been living under very low income due to Chinese lockdown policies. Our only way of weathering the storm was taking out loans from Celsius, and now that the principle is nearly gone my wife and I are under and immense burden to make a living and take care of our baby.
+
+-----
+
+[Doc 659](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000081.pdf), filed August 31, 2022:
+
+> Currently, I have about $3,500 worth of BTC in my Celsius account. I will be okay and it won’t break me. But, I encouraged my father-in-law and mother to submit crypto to Celsius. They have a total of about $7,500 worth of crypto locked in Celsius. That is what really bothers me… I led my relatives down this path and I will pay them back every cent. But, this is truly a dishonest thing done by Alex and the Celsius team. They have ruined many lives and I pray to God that nobody has committed suicide over this.
+
+-----
+
+[Doc 654](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000068.pdf), filed August 2, 2022:
+
+I am a customer who unfortunately trusted Celsius. I have sold all my stocks, withdrew all my savings and refinance my house to invest in Celsius for the future of my family and my own. In many interviews and articles, Alex consistently ensured and convinced everyone that Celsius was a transparent and legitimate option for long term life investments. Constantly advertising themselves to be a superior options to banks, this misdirection has caused myself and many others to befall a serious financial crisis in the middle of this economic downturn. 
+
+-----
+
+[Doc 653](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000067.pdf), filed August 3, 2022:
+
+> I am a 69yo, widow, who deposited my crypto into Celsius. BTC 4 <span class="inserted-note">[~$91,300 on <a href="https://www.coindesk.com/price/bitcoin/">date of filing</a>]</span>, Eth 15 <span class="inserted-note">[~$24,300 on <a href="https://www.coindesk.com/price/ethereum/">date of filing</a>]</span>, Polygon 2200 <span class="inserted-note">[~$2,000 on <a href="https://www.coindesk.com/price/polygon/">date of filing</a>]</span>, etc., I understood the risk that the value could go down. The volatility of crypto currency is apparent. I didn’t sign up to be scammed, in a structured Ponzi scheme. I will never be able to accumulate any wealth at my age, I’m old. I will have to go back to work, if I can find work, if I can manage my health to be able to work. I cannot survive on $1500 a month social security check. The importance of this investment, would bridge the gap in my income for survival in high inflation and recession. The devastation to my life situation is irrepairable, its despair, hopelessness, its failure, a slow death, that eats at you every minute of every day. It takes your heart, mind, soul and body. I have become a shell of a person and obsess on how to fix it. Maybe I should go to the southern border and get a job. It’s crazy, I have never crossed to the dark side, but desperation can make you do and think strange things, especially when you are alone and in despair.
+
+-----
+
+[Doc 652](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000066.pdf), filed July 26, 2022:
+
+> Some of the Investors who invested with Celsius are the private-equity firms WestCap and the Canadian public-pension giant CDPQ which is one of the largest Pension Funds located in Montreal, Quebec Canada. CDPQ is valued at over $420 Billion dollars and has been in operation since 1965.
+
+> Seeing that companies of this magnitude invested with Celsius gave me the indication that Celsius is a good safe investment. I say this because these companies went through an extensive due diligence process to ensure that Celsius’s books are what they claim them to be and that their business model is sound in order to ensure that they would be given a greater and better return than investing elsewhere and the risk level would be extremely low as per what was being preached by Celsius. These investors had access to company records, reports, balance sheets…that the average customer like myself would never have access to. Upon completion of their due diligence process CDPQ investied $150 Million dollars with Celsius which would be a good indication that Celsius is what it claims to have been or so they mislead everyone to believe. Alex Mashinsky did an interview with CNBC on April 13, 2022 where he mentioned that they just finished a $750 million dollar round of funding and how Celsius is fully transparent. These investors went through a thorough due diligence process and everything is what Celsius claims it to be.
+
+>  I would like to provide you with an example of how some large Investors perform their due diligence process. There are a few Real Estate Moguls that I follow on Youtube by the names of Grant Cardone and Ben Mallah. Grant Cardone has a Real Estate portfolios worth about $3 Billion and Ben Mallah’s is around $250 million dollars. When Grant or Ben are looking to acquire Real Estate properties their “Modo” is that they let the banks do their due diligence process for them. ...
+
+> How I came about to investing into Celsius over traditional investing options. I have a 22 month old daughter, my first born child, and with the money we received from her first birthday, Christmas, Easter and other holidays we had it sitting in a bank account and decided that instead of having it sit gaining 0% interest we should invest it for her schooling so when the time comes she has enough to afford it. We had appointments with a few banks and other fund managers on different types of investments we could put it in like government funding programs and so on and the rate that we would receive. Now some of these investments had restrictions on when the money could be taken out and for what purposes and any penalties that went along with that. I then came across Celsius and as I mentioned above seen it as a great investment and a much better one with no penalties for early withdrawal or restrictions on what the money could be used for. So based on my overall assessment of Celsius we decided to invest her money not knowing that we were being drawn into a “Ponzi” scheme if I can use that term. I am torn because the amount of money that I have invested is not something I can recoup back from working and saving especially with the economic situation we are all facing right now.
+
+-----
+
+[Doc 650](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000059.pdf), filed August 25, 2022:
+
+> First a little about me, I am an almost 50 year old laborer with a high school education working in a small shop in Salt Lake City. I have been scrimping and saving for over 10 years now trying to plan and prepare for some semblance of a retirement. During that time I was able to save approximately $165,000 which cost me much sacrifice and toil.
+
+> I do not and have never owned my own home, I do not own a car, I shop at second hand stores to save money. I use the public transit system and a bicycle to commute. Just to give an idea of my extreme efforts to secure my future.
+
+> After I learned about Bitcoin, crypto and eventually Celsius I became a real believer. This looked to me my best and possibly only shot at becoming a homeowner and retiree. So, I put some BTC and ETH in Celsius and began earning rewards, it was the first and only time I had ever experienced passive income. I went all in ... 100% of my savings followed by everything I had left over after each check.
+
+> Once I started watching the AMAs (ask me anything) I became even more sold on Alex’s ideas and the Celsius mission. Told family and friends, convinced some coworkers to open accounts at Celsius. It was working and getting better all the time. Or so it seemed.
+
+> As I type this letter my $165K investment is worth approximately $240K! More money than anyone in my family has ever had. At the top of the market my account exceeded $750K! Today it all seems so unreal and I lament my ignorance in all this.
+
+> It’s very somber for me to look at my account knowing that I no longer have access to any of my savings and to hear all the heart wrenching stories like mine and worse.
+
+All this to say, I was fooled!... tricked by Alex in his AMAs where he assured me that my crypto was safe, safer than if it were held in a bank.
+
+-----
+
+[Doc 648](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000050.pdf), filed August 26, 2022:
+
+> I am writing to you in regards to the Celsius Network bankruptcy. I am 70 years old, retired and living on social security. In 2020 I opened an account with Celsius Network and deposited my Bitcoin and Etheiium into this account. It was my understanding that in return for depositing my coins with Celsius I would earn a certain percentage, paid out weekly in kind to my account. ...
+
+> Loosing access to my funds has taken a toll on me physically and mentally. Your Honor, I have worked hard all my life and it has taken me years to save this money. I don't understand how this can be allowed to happen. Celsius Network was operating in New York and New Jersey which are under SEC rulings. The SEC has been so stringent regarding cryptocurrency regulations yet this was allowed to happen.
+
+-----
+
+[Doc 646](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000048.pdf), filed August 31, 2022:
+
+> I have a mid-six figure cash amount of cryptocurrency ($401,540.63 plus $231,518.35 collateral minus $150,000.00 loan - at today's prices) stored on the Celsius wallet along with a $150,000.00 USDC loan secured by 10.88 Bitcoin as collateral. ...
+
+> The first issue is regarding my loan. After my account was frozen, Celsius began sending me emails that my collateral is close to being liquidated and that I need to send in $150,000.00 in either cash or USDC to payoff the loan so that my Bitcoin would not be liquidated. They told me that I could not use any cryptocurrency that I had on my account to pay the loan (because funds were frozen) and that I needed to send in fresh funds. I did not have $150,000.00 liquid, so I borrowed the money from my brother. He wired me $150,000.00 and I uploaded the funds to Coinbase to convert the funds to USDC to create a trail. Coinbase held the USDC for six days, then I was able to release the USDC to Celsius. During the six day waiting period, I was in communication with Celsius and they told me that there is a note on my account that the funds are on the way and my collateral would not be liquidated. Once the USDC arrived in my Celsius wallet, I was told that I was not close to liquidation of my collateral. Bitcoin was over $23,000.00 and my liquidation price was $17,223.12. I then asked for my USDC to be returned, since I didn't need to pay off the loan, and they told me that all transfers were frozen. I explained how my situation was different and then Celsius went silent. ...
+
+> Every week they would be "bragging" how Celsius was growing and opening offices throughout the world, hiring top financial and technical minds (who they introduced in the AMAs) and how they were in desperate need of more engineers, etc. to handle their growth. They had a huge presence at this years Bitcoin Conference in Miami plus had a tremendous afterparty when the Bitcoin Conference was completed. It all sounded and seemed amazing. The "NEW WAY TO BANK". It now seems to be nothing but a Ponzi scheme where management gambled our investments away on risky cryptocurrency coins like LUNA along with derivatives, etc. and lost their shirts... our shirts. They had no right to do that. It is a criminal act.
+
+> In these AMA chats, Alex Machinsky confidently described how "safe" our funds/property were in our Celsius wallets and that Celsius could immediately liquidate all funds/property to customers if necessary. That was an out and out lie and if every dollar is not returned to all customers, he should be criminally prosecuted for running a Ponzi scheme and I would be very happy to testify against him. If I don't receive my funds/property back, he will have destroyed my retirement.
+
+> I am 61 years old and this is a tremendous chunk of my retirement.
+
+-----
+
+[Doc 644](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908312280000000042.pdf), filed August 22, 2022:
+
+> I have 21 small loans with Celsius which I have listed below. ... Like many others, I admired [Mashinsky's] goal to help the 'little guy' so I deposited all my crypto funds I had amassed over several years of hard work. ...
+
+> As many others who believed in Celsius and Mr. Mashinsky's vision, I placed my trust in his words. Being a former housewife with very little social security coming to me, I worked for several years volunteering for overtime on my job to gain additional money to invest in cryptocurrencies. In hopes of having a retirement nest egg, I invested every portion of my income beyond living expenses. I trusted that Celsius was a safe place to store and protect my future retirement money. To now find out that my assets, which I worked so hard for over the past few years, may be lost due to mismanagement is devastating and like so many others, I often cannot sleep at night worrying how I will survive in the future.
+
+-----
+
+[Doc 623](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908292280000000091.pdf), filed August 18, 2022:
+
+> I am a beneficial owner of two Celsius accounts, one in my name ... and one in the name of an LLC I set up for my family's benefit... I am a US citizen and an accredited investor. I have never borrowed from Celsius. My funds were deployed on Celsius to earn yield. At the time Celsius paused withdrawals in mid-June, the total value across both accounts, expressed in US Dollar terms, was approximately $2,500,000. The bulk of the value is held in Bitcoin (BTC): I have about 100 BTC across the two Celsius accounts. Some Ethereum (ETH) and other assets make up the remainder.
+
+> In my day-to-day life, I am a technology and life sciences entrepreneur and investor. I attended Harvard Law School, where I have since taught for some years in the fields of privacy and venture capital. After law school, I clerked for Chief Judge Danny J. Boggs of the Sixth Circuit Court of Appeals in the 2005-2006 term, but I am not a lawyer; I never took the bar, as my mother reminded me many times. ...
+
+> By now you will be well aware that Mr. Mashinsky represented many times over the years, in public statements such as webinars, that Celsius was in a position of excellent financial health. You may also be interested to know that he made similar representations privately. For example, I sent him an email in June 2021 asking "Of course I read the rumors that Celsius has been 'endlessly rehypothecating.' Please tell me (us): are we safe with Celsius? You guys solid? Please give us a good, clear signal." He replied the next day saying "Yes you are safe. We are profitable and have no losses."
+
+-----
+
+[Doc 611](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908252280000000073.pdf), filed August 25, 2022:
+
+> I am writing this amicus letter as an expert in the cryptocurrency space, with nearly a decade of experience in the technology and criminality that infests it. ...
+
+> I hold no cryptocurrencies and do not have any economic interest in the Celsius bankruptcy proceedings.
+
+> However, I can’t stand idly by when there appears to be a significant deception being perpetrated on the court by the management of Celsius. The cryptocurrency lending/borrowing side is clearly insolvent and quite possibly an explicit Ponzi scheme (and certainly an investor in major and obvious Ponzi schemes like the Anchor protocol).
+
+> In an attempt to postpone liquidation, Celsius has tried to claim to the court that their cryptocurrency mining business has the potential to be substantially profitable. Unfortunately Celsius’s own filings and basic economic analysis of the cryptocurrency mining space shows this, at best, to be wishful thinking. And, at worst, a fraud on the court
+
+-----
+
 [Doc 575](https://cases.stretto.com/public/x191/11749/PLEADINGS/1174908222280000000075.pdf), filed August 22, 2022:
 
 > I live outside the US, in The Netherlands. I have put a part of my saved money in crypto at Celcius, because it was presented to us as a real save haven - “Unbank yourself”. Same for some family members and friends. However, it seems we were mislead, and all that was promised is not true. Can you please help us in getting our crypto back? Although for some people it seems not much, for us it is. It cannot happen that Celcius management will get their bonuses , paid from our saved money....
