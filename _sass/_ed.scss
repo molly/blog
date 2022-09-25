@@ -1124,4 +1124,23 @@ body.dark-mode {
     background-image:     -ms-linear-gradient(to bottom, #121212, #121212 20%, #96B78A 20%, #96B78A 40%, #121212 40%, #121212 60%, #96B78A 60%, #96B78A 80%, #121212 80%, #121212 100%);
     background-image:         linear-gradient(to bottom, #121212, #121212 20%, #96B78A 20%, #96B78A 40%, #121212 40%, #121212 60%, #96B78A 60%, #96B78A 80%, #121212 80%, #121212 100%);
   }
+
+  // Newsletter
+  #mc_embed_signup {
+    background: #242424;
+    padding-top: 5px;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+
+    #mc-embedded-subscribe-form {
+      .helper_text, .mce_inline_error {
+        background: #242424;
+      }
+
+      input[type="email"], input[type="text"] {
+        color: $text-color-dark;
+        background-color: #363636;
+      }
+    }
+  }
 }
