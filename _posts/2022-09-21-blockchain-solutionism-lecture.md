@@ -4,6 +4,10 @@ title: "Blockchain solutionism (Lecture transcript)"
 author: Molly White
 publication-date: 2022-03-07
 custom_excerpt: "\"Blockchain solutionism\". A guest lecture by Molly White at the University of Texas at Austin on September 21, 2022. This lecture was for a course in the School of Design and Creative Technologies called \"Anti-Solutionism\". There is also a Q&A portion at the end."
+social-image: "https://mollywhite.net/storage/slides/bs/bs-0.png"
+social-image-alt: "Blockchain solutionism. Molly White. September 21, 2022."
+social-image-width: 1500
+social-image-height: 844
 post_collection: "blockchain"
 ---
 
