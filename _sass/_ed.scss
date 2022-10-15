@@ -1047,6 +1047,12 @@ h3.title-text a {
   margin-right: auto;
 }
 
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  font-size: smaller;
+}
+
 body.dark-mode {
   background-color: #121212;
   color: $text-color-dark;
