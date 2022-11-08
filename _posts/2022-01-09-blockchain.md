@@ -38,5 +38,5 @@ I have written these with the assumption that people have a base understanding o
 * "[Excerpts from letters to the judge in the Voyager Network bankruptcy case]({{ site.baseurl }}{% post_url 2022-07-23-voyager-letters %})". July 23, 2022.
 * "[Statement to the Financial Stability Oversight Council: Regulating digital assets]({{ site.baseurl }}{% post_url 2022-07-27-fsoc-statement-regulating-digital-assets %})". July 27, 2022.
 * University of Texas at Austin: ["Blockchain solutionism" (Lecture transcript)]({{ site.baseurl }}{% post_url 2022-09-21-blockchain-solutionism-lecture %}). September 21, 2022.
-
+* ["Is web3 bullshit?" (Transcript)]({{ site.baseurl }}{% post_url 2022-11-04-is-web3-bullshit %}). November 4, 2022.
 {% include disclosure.html %}
