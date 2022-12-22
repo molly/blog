@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "The December 13, 2022 House Financial Services Committee hearing on FTX"
+title: "Livetweets of the December 13, 2022 House Financial Services Committee hearing on FTX"
 author: Molly White
 publication-date: 2022-12-13
 custom_excerpt: "My livetweets of the The December 13, 2022 House Financial Services Committee hearing on FTX"
