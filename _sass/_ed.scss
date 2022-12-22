@@ -908,7 +908,6 @@ h3.title-text a {
 .tweet {
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #ccc;
 
   a.tweet-link {
     text-decoration: none;
@@ -919,6 +918,10 @@ h3.title-text a {
 
   iframe {
     max-width: 100%;
+  }
+
+  p {
+    margin-bottom: 0.5rem;
   }
 }
 
@@ -1020,6 +1023,7 @@ h3.title-text a {
 }
 
 .inserted-note {
+  font-size: 80%;
   color: #999;
   a {
     color: #999;
@@ -1040,6 +1044,12 @@ h3.title-text a {
   font-size: 0.9rem;
   font-style: italic;
   color:#999;
+}
+
+.timestamp, .timestamp a {
+  font-size: 0.8rem;
+  color: #999;
+  text-decoration: none;
 }
 
 .twitter-tweet {
