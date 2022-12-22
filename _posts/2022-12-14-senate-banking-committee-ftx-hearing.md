@@ -3,7 +3,6 @@ layout: narrative
 title: "Livetweets of the December 14, 2022 Senate Banking Committee hearing on FTX"
 author: Molly White
 publication-date: 2022-12-14
-custom_excerpt: "My livetweets of the The December 14, 2022 Senate Banking XCommittee hearing on FTX"
 ---
 
 <div class="note">
