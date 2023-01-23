@@ -39,4 +39,5 @@ I have written these with the assumption that people have a base understanding o
 * "[Statement to the Financial Stability Oversight Council: Regulating digital assets]({{ site.baseurl }}{% post_url 2022-07-27-fsoc-statement-regulating-digital-assets %})". July 27, 2022.
 * University of Texas at Austin: ["Blockchain solutionism" (Lecture transcript)]({{ site.baseurl }}{% post_url 2022-09-21-blockchain-solutionism-lecture %}). September 21, 2022.
 * ["Is web3 bullshit?" (Transcript)]({{ site.baseurl }}{% post_url 2022-11-04-is-web3-bullshit %}). November 4, 2022.
+* "[Annotated: Sam Bankman-Fried's 'FTX Pre-Mortem Overview'](https://www.mollywhite.net/annotations/sbf-ftx-pre-mortem-overview)". January 23, 2023.
 {% include disclosure.html %}
