@@ -1,9 +1,10 @@
 ---
 layout: narrative
-title: 'Annotated: Sam Bankman-Fried's "FTX Pre-Mortem Overview"'
+title: >
+  Annotated: Sam Bankman-Fried's "FTX Pre-Mortem Overview"
 author: Molly White
 publication-date: 2023-01-23
-custom_excerpt: "Annotating Sam Bankman-Fried\'s attempts to explain the FTX collapse."
+custom_excerpt: "Annotating Sam Bankman-Fried's attempts to explain the FTX collapse."
 post_collection: "blockchain"
 social-image: "https://mollywhite.net/storage/annotated-sbf.png"
 social-image-alt: "Screenshot of the annotations page, showing a highlighted sentence with several comments."
