@@ -5,6 +5,10 @@ author: Molly White
 publication-date: 2023-01-23
 custom_excerpt: "Annotating Sam Bankman-Fried\'s attempts to explain the FTX collapse."
 post_collection: "blockchain"
+social-image: "https://mollywhite.net/storage/annotated-sbf.png"
+social-image-alt: "Screenshot of the annotations page, showing a highlighted sentence with several comments."
+social-image-width: 2516
+social-image-height: 1258
 ---
 
 Sam Bankman-Fried has apparently decided to fill his time spent confined to his parents' Palo Alto home with blogging, perhaps in the hopes that he can just blog his way out of the [massive criminal and civil penalties](https://newsletter.mollywhite.net/p/issue-13-dont-threaten-me-with-a) he's facing.
