@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-07-23
 custom_excerpt: "People with funds locked in Voyager Digital have been sending letters to the judge presiding over the Chapter 11 bankruptcy case. These are excerpts from those letters."
 post_collection: "blockchain"
+custom_class: excerpts
 ---
 
 -----
@@ -33,13 +34,13 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 323](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308222280000000068.pdf), filed August 22, 2022:
 
 > Thank you for be willing to read the real stories of myself and so many other Voyager account holders who had our lives turned upside down with the unexpected notice that all of our assets in Voyager were no longer available to us. 
-
+>
 > My wife and I are a married couple in South Florida and we are in our thirties. For the past years, we have been diligent in saving funds from our day jobs and we had our life savings invested in Voyager. We had researched Voyager and other crypto banks and Voyager seemed like the most well established and safest digital asset investment bank from what our research showed us.
-
+>
 > We had $50,000 in USDC in Voyager and we were confident it was a safe investment. Voyager would constantly send us emails encouraging us that USDC was a safe place to store money and a good hedge against wavering crypto currency prices and inflation. ...
-
+>
 > We now have $50,000 in USDC and tens of thousands more dollars stuck/frozen in Voyager and we are so scared of losing it.
-
+>
 > This series of events from Voyager has caused a major upset in our lives and we are without YEARS of hard earned money. We did all the due diligence possible and we trusted Voyager's email campaigns and advertising that claimed USDC was a safe investment on their platform. We lost $50,000 in USDC which is a HUGE chunk of money for us and life changing.
 
 -----
@@ -47,9 +48,9 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 260](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308102280000000044.pdf), filed August 8, 2022:
 
 > I am a newly retired senior citizen that has recently been hit hard from every side. Times have been tough recently. I listened to younger friends and family, who thought they were trying to help me. I was hopeful as I tried to learn and understand new technology and service.
-
+>
 > Honorable Judge Michael E. Wiles, I am asking for my Assets to be returned to me, the market value is down and so It it less costly for Voyager to just release them. I would like to have my assets in-kind returned and hope that maybe, just maybe, I can recoup something back. My assets are (type and units) on Voyager:
-
+>
 > * VGX 37.98 <span class="inserted-note">[~$13.28 on <a href="https://coinmarketcap.com/currencies/voyager-token/">date of filing</a>]</span>
 > * BTC 0.000525  <span class="inserted-note">[~$12.16 on <a href="https://coinmarketcap.com/currencies/voyager-token/">date of filing</a>]</span>
 > * DOT 36.634  <span class="inserted-note">[~$326.30 on <a href="https://coinmarketcap.com/currencies/polkadot-new/">date of filing</a>]</span>
@@ -62,9 +63,9 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 232](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308042280000000075.pdf), filed August 4, 2022:
 
 > I had transferred $49,000 + from my bank savings to Voyager to act as CUSTODIAN of my account which was held in USDC (a stable crypto asset tethered to the US dollar). By no means was this any type of liquidity pool, staking nor capital liquidity program.
-
+>
 > Voyager was to solely act in a custodial role to function as my securities intermediary. Therefore Voyager does not have any rights/claim to my crypto assets as precedent in re Joliet-Will County Community Action Agency and Article 8 of UCC mirrors these rules for financial assets held by such a securities intermediary.
-
+>
 > In conclusion, I would Object to Voyager holding onto these customer assets as they have no claim to them, they were fraudulently solicited, and liquidating this broker-dealer would be most appropriate to protect the customer accounts.
 
 -----
@@ -72,7 +73,7 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 224](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175308032280000000082.pdf), filed August 3, 2022:
 
 > I am a loyal Voyager customer since April 2021. Specifically, a Navigator. Navigator is Voyager’s highest tier in their Loyalty Program...  I became a Navigator on June 29th, 2 days before the news got released via email and Voyager’s Twitter account of the platform being suspended for trades, deposits, withdrawals, and loyalty rewards. 
-
+>
 > My intentions for buying/adding crypto assets were to hold all of them long term as I believe in blockchain technology and the projects associated with the assets I valued and bought in Voyager’s platform. The $54,000 + US Dollars I invested in platform to buy crypto assets was for future financial growth. I held that cash for a very long time before committing to invest it all in their platform while the market was down to increase the possibility of profitability while managing risk tolerance. I spent a great amount of time, patience, and strategy to build on my financial future and to learn that my work can potentially be taken away from me by a company I trusted, a publicly traded company, who has a great platform, a strong balance sheet, and had a great reputation, is highway robbery, and in a nutshell fraud.
 
 -----
@@ -110,7 +111,7 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 146](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307252280000000111.pdf), filed July 25, 2022:
 
 > I have spent years saving, investing, + trading crypto assets to build what was a life changing amount of money that I would one day sell to provide college + other needs for my family. I ... had deposited 100 ethereum <span class="inserted-note">[~$160,000 on <a href="https://ycharts.com/indicators/ethereum_price">date of filing</a>]</span> on to Voyager Digital's trading platform. ... My family's future is ruined if they just get to not return my assets. Even if I'm only given half back + then years later given or paid back the rest to me, this will ruin my future, my dauther's future + cost the government hundreds of thousands in capital gains I would pay when I do plan to sell. My plan was to stake my ETH when Eth 2.0 went live earning my family income to progress on.
-
+>
 > Losing 100 ETH will ruin my family. At market peak that was 480,000 dollars + I was waiting for next cycle to sell out. They are stealing basically at least 1/2 million dollars value from my family. Even if they work out a payment plan to pay us back. I'm on board with that, we just can't afford to lose 100 ETH that took 6 years + thousands of dollars of savings. My life's savings would be wiped out.
 
 
@@ -119,7 +120,7 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 142](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307252280000000019.pdf), filed July 21, 2022:
 
 > I am sincerely asking for the best possible remedy and “financial relief” and compensation due the severity & impact the organization Voyager has had & the negligence use of its customers' purchases and funds in addition to the restriction of access & withdrawals. My purchases are of crypto-currencies are a estimated worth of $ 100,000.
-
+>
 > I am a victim of crpto-currency fraud & believe Voyager Digital is operated by civil fraudulent criminals who lured customers with false advertising and since have altered all of their business information online & are strategically attempting to rob its account holders and investors and proclaims to be bankrupt but is still operating business while also paying its staff and lawyers. 
 
 -----
@@ -127,11 +128,11 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 124](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307212280000000016.pdf), filed July 20, 2022:
 
 > I write as a customer of Voyager, a technologist, and a believer in the mission and potential of blockchain technologies, particularly bitcoin and ethereum.
-
+>
 > ... I became fundamentally sold on the value proposition of bitcoin and ethereum and decided to invest a majority of my savings into both, in light of several sovereign countries introducing cryptocurrency securities as recognized securities.
-
+>
 > I made these purchases on exchanges other than Voyager. However, when I came across Voyager’s online marketing, YouTube video promotions and CEO Steven Ehrlich's interviews of promising FDIC guarantees, well vetted investments, being a publicly traded company; I opened up an account and gradually transferred nearly all of my assets to Voyager.
-
+>
 > I performed extensive due diligence prior to transferring my securities as millions as well did also. I ultimately chose Voyager for the following reasons: The company was publicly listed, implying responsible stewardship of my assets. CEO, Steven Ehrlich, positioned as an industry veteran, working in the capital markets for more than 25 years and achieving the role of CEO of E*Trade Financial’s Professional Trading division. Voyager claimed to have full FDIC protection on USD balances.
 
 -----
@@ -144,9 +145,9 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 122](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307212280000000013.pdf), filed July 21, 2022:
 
 > In the world I live in, I am a small person with mostly small pockets. ... I ask on behalf of my four children that still have college unpaid, that you are our voice and our ears throughout this court case and that the government fairly represent and hear us.
-
+>
 > My family worked for over 24 years to build a family business together that was all our blood, sweat, tears and that took us away from our families for years. We worked hard and long for those twenty-four years. In December of 2020, we sold our family business for a small share for each of us (five owners). I took about ½ of my proceeds from the sale of our company and put it into Voyager on their crypto application. I felt that the money, based on their claims, was safe, FDIC insured and that I was making an investment for the long term.
-
+>
 > I have four children aged 16 years, 12 years, 11 years and 8 years old currently. That money was an investment into their futures to pay for their college. I put over $350,000 into USD coin because of the promises of “safety and security,” from Voyager and 9% interest and “FDIC insured,” USD coin. I also put over $700,000 more in Bitcoin and Ethereum that are now decimated, but that’s on me. I take responsibility for investment and risk, but the Voyager leaders and Voyager Digital, LLC needs to take responsibility for giving us back what we are due, in full.
 
 -----
@@ -160,9 +161,9 @@ On July 1, 2022, the cryptocurrency broker Voyager Digital suspended customer wi
 [Doc 109](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307202280000000024.pdf), filed July 20, 2022:
 
 > I ... am a "small investor" & account holder of "Voyager Digital" crypto currency exchange platform and a victim of crypto-currency fraud. ... After signing up with the crypto currency exchange app and purchasing a variety of crypto currency coins such as “Bitcoin , Avalanche , Dogecoin, and Shiba ” on the crypto-currency Exchange platform.
-
+>
 > As a hard working single mother and small investor , I initially used the exchange as a form of a savings account and invested a substantial amount of my savings to purchase crypto currency on the Voyager exchange platform in hopes of saving up for a home, but the opposite has happened, I feel as though , I'm being strategically robbed in a civil way by Voyager Digital . The negligence of this organization has greatly impacted my life and the future of my child's life.
-
+>
 > I'm very worried that this will have an effect on the condition of my life and my state of living for a very long time. My cognition has declined rapidly due to depression because I’m barely able to afford the cost of living and have very little cash left in case of a financial emergency & As a single mother with no family support and without a lucrative career. I may never be able to financially recover from the losses this organization has caused.
 
 -----
@@ -206,7 +207,7 @@ dragged me on in the name of compliance review and locked my account.
 [Doc 75](https://cases.stretto.com/public/x193/11753/PLEADINGS/1175307152280000000015.pdf), filed July 14, 2022:
 
 > I, personally, did not simply deposit my hard earned funds into their custody on a 'whim' to 'gamble' in blond hopes of somehow 'magically' becoming a billionaire. In fact, I did my very best to perform 'due diligence' throughout the massive amounts of public information on the internet. From thoroughly reading dozens of "Best of Cryptocurrency platforms" 2021, 2022, etc. To "Pros and Cons of Voyager crypto". To "Why is Voyager Digital safe". To "Voyager Digital leadership". Throughout each and all of the many links, articles, information, reviews, and recommendations, it seemed like Voyager Digital was presented as "the closest, most safe, non traditional banking platform\_ but for the cryptocurrency world".
-
+>
 > Given the current horrible situation we are now facing with Voyager Digital, it seems evident, purposeful misleading advertisement from Voyager was regurgitated to us interested consumers...
-
+>
 > For me personally, Voyager, purposefully made it so that I was suddenly unable to withdrawal all of my holdings (usd, usdc StableCoins, and cryptocurrencies) rapidly & efficiently in accordance with my $100,000.00 daily withdrawal limit... allowing only $10,000.00 daily. Just prior to Voyager 'freezing' my account holdings, Voyager accepted, allowed, and processed 6 daily $10,000.00 withdrawals = only $60,000.00 versus the just prior 6 daily $100,000.00 daily withdrawals = up to $600,000.00... Manipulating/keeping $540,000.00 from rightfully being withdrawn.

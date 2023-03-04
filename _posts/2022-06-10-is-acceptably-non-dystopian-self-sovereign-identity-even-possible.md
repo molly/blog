@@ -22,15 +22,12 @@ So, increasingly, we're seeing conversations around topics like: how can we veri
 
 Ethereum co-founder Vitalik Buterin has been talking about "soulbound tokens".[^fn8] Jack Dorsey just launched "Web5", a buzzwordy project focused on decentralized identity.[^fn9] Projects like Proof of Humanity,[^fn10] BrightID,[^fn11] and WorldCoin[^fn2] are all tackling Sybil prevention in their own ways. Web3 companies like Spruce[^fn14] and Disco[^fn15] have emerged to try to tackle self-sovereign identity (that is, identifiers that are controlled by users rather than by central entities) in the blockchain world and elsewhere.
 
------
 
 ## Contents
 {:.no_toc}
 
 * ToC
 {:toc}
-
------
 
 ## Some context
 
@@ -52,12 +49,10 @@ Self-sovereign identity is not a field where "move fast, break things" is accept
 * **Soulbound tokens**: Vitalik Buterin and a group of others have been recently working on the idea of "soulbound tokens": non-transferable, unique tokens much like NFTs that are bound to "souls" belonging to unique individuals. They describe these being used to represent concepts like birth certificates or college diplomas, which unlike NFTs should not be transferable.
 * **Verifiable credentials**: a recommendation[^fn12] describing how digital credentials can be issued and proven. Someone might have a verifiable credential that represents things that we might normally think of when we think of "credentials": say, a college diploma, professional certification, or security clearance. But these can also be used to certify other things: proof that someone completed a course and earned a given grade, or attended a specific event, or purchased an item, or became a member of an organization. Someone could even issue a verifiable credential to describe themselves: for example, they could state their favorite color via VC.
 
------
-
 ## The trilemma of digital identity
 <div class="blog-images-float with-caption">
   <div class="image">
-    <img src="https://mollywhite.net/storage/blockchain-trilemma.png" alt="A triangle, with the three points labeled 'decentralization', 'security', and 'scalability'." />
+    <img class="light-background" src="https://mollywhite.net/storage/blockchain-trilemma.png" alt="A triangle, with the three points labeled 'decentralization', 'security', and 'scalability'." />
     <div class="caption">
       The blockchain trilemma
     </div>
@@ -70,7 +65,7 @@ Some crypto-literate readers will already be familiar with the blockchain trilem
 
 <div class="blog-images-float with-caption">
   <div class="image">
-    <img src="https://mollywhite.net/storage/identity-trilemma.png" alt="A triangle, with the three points labeled 'privacy', 'decentralization', and 'Sybil resistance'." />
+    <img class="light-background" src="https://mollywhite.net/storage/identity-trilemma.png" alt="A triangle, with the three points labeled 'privacy', 'decentralization', and 'Sybil resistance'." />
     <div class="caption">
       The digital identity trilemma<sup id="fnref:fn1"><a href="#fn:fn1" class="footnote">11</a></sup>
     </div>
@@ -83,8 +78,6 @@ Today's blockchain ecosystems almost universally sacrifice Sybil resistance for 
 Bitcoin, Ethereum, and most other cryptocurrency projects don't rely on a central authority to record identities, and users don't have to disclose any personal information when they create wallet addresses, but as a result, projects using those addresses as the sole identifiers are vulnerable to Sybil attacks.
 
 Some crypto projects seeking to avoid Sybil attacks require additional KYC checks, where users submit government-issued identification documents to prove their identity. This accomplishes Sybil resistance, but at the expense of privacy and with the added reliance on other forms of identification that are neither privacy-preserving nor decentralized.
-
------
 
 ## Proof of personhood
 
@@ -104,8 +97,6 @@ Other systems accumulate massive amounts of data from NFT collections to try to 
 
 Some projects dream of a future state where all achievements are represented on-chain, and so they can look at a wallet containing things like a college degree, mortgage loan, and history of attendance at real-world events and presume that one person is not widely duplicating all of these things. Though this might be reasonably Sybil-proof, this is simply not feasible today, and it sacrifices privacy to a horrifying degree.
 
------
-
 ## Verifiable attestations
 
 Much of the recent conversation around digital identity is not focused specifically on the Sybil problem, but instead on **verifiable attestations**: attestations from one verifiable party about another verifiable party that a statement is true. Though the term "credential" is frequently used by those familiar with W3C's Verifiable Credentials proposal, the concept might be more accurately described as a "verifiable statement" or "verifiable attestation". Actual implementations vary, from the W3C's Verifiable Credentials to Vitalik Buterin's "soulbound tokens". For now, I will refer to the broad concept encompassing both of these implementations as "verifiable attestations".
@@ -117,8 +108,6 @@ But others have talked about using verifiable attestations more broadly: An even
 The one thing these attestations have in common is that they should not be transferrable: if an entity attests that you earned a diploma or a driver's license or attended a concert, you shouldn't be able to transfer that attestation to the highest bidder to claim as though it applied to them.
 
 These attestations, proponents argue, would enable a much more robust level of interaction within the crypto world. These attestations, I argue, sound like a privacy nightmare.
-
------
 
 ## Soulbound tokens and negative attestations
 
@@ -140,8 +129,6 @@ Let's build on the example Buterin so graciously provided. For all the downsides
 
 Buterin's criminal records vision also exposes his intent for people to be able to send soulbound tokens without the consent of the recipient—given that it is unlikely people would consent to police departments recording their crimes for others to later use against them if they had the choice. This is perhaps an unsurprising vision of Buterin's, given that the current state of the Ethereum blockchain enables people to send NFTs without the receiver's consent, a horrifying state of affairs for anyone who's given more than about ten seconds of thought to [the enormous abuse potential](https://blog.mollywhite.net/abuse-and-harassment-on-the-blockchain/). However, this already bad state of affairs is now compounded by the fact that users would never be able to get rid of these SBTs, even if they contained content like doxxing, revenge porn, or child sexual abuse material.
 
------
-
 ## Verifiable credentials
 
 The system of verifiable credentials Disco's Evin McMullen waxes poetic about on *Bankless* seems at least preferable to soulbound tokens. The data isn't stored on-chain, there is consent required before a party can issue a token to you, and negative attestations (and the enormous amounts of on-chain data required for them) aren't a part of the vision. But to hear her speak of her goals with her Disco product is like watching someone act out the privacy paradox right in front of you.[^fn4] Web3 advocates, McMullen included, regularly speak of privacy, anonymity, and data ownership as a top priority. But she also says in an episode of *Digitally Rare*: 
@@ -151,10 +138,8 @@ The system of verifiable credentials Disco's Evin McMullen waxes poetic about on
 Her descriptions of this future world, where relationships are front-run by a deluge of data rather than formed more organically between individuals, are enormously reminiscient of Philip Sheldrake's fears about the "SSI century":
 
 > An acquaintance now quits those ‘old-fashioned' relationship-building niceties and gets straight to the SSI point. Where do you work? Which college did you go to? Which college did your parents go to? Republican or Democrat? What's your gender? Your ethnic origins? Do you have this gene or the other one?
-
+>
 > If you fail to offer up the requisite verifiable claims then you fail to get to ‘trust building' first base in the SSI century. (Note: this is in fact trust avoidance not trust building.) You are then ignored or indeed rejected. But it's worse. The new social norm now expects you, expects everyone, and more accurately expects your agents to perform similar examinations as a matter of course. And why not? We're told it's beneficial, that it's trust building, that it's the missing layer. It's frictionless. It works on an individual basis and government services have adopted it, so surely then it must be good for society as a whole?[^fn6]
-
------
 
 ## Data custody and security
 
@@ -177,8 +162,6 @@ It's bad enough when a person bungles their crypto wallet security practices and
 If I suddenly found myself tasked with doing so, I would probably implement some sort of expensive and technically complex system of backups, because I understand there's no recovering from a catastrophic loss when I am the source of truth on information that is absolutely necessary for me to participate in society. I would probably become one of those crypto people that outsiders look at like they're a bit nuts, as they hammer their private keys into blocks of steel and bury them in the backyard for safekeeping.
 
 This is not a reasonable thing for me, a technologically-savvy software engineer who can afford a spare hard drive, to have to do. It is not a reasonable thing for anyone to have to do.
-
------
 
 Let's be clear: I think people should have more control over what data they provide and to whom. I think people should understand what data companies are storing, and why, and they should be able to request its removal. Sensitive data should be protected carefully, with strict limitations on who can access or share it. Penalties for unauthorized sharing or sale of user data should be severe.
 

@@ -21,23 +21,15 @@ A crypto influencer on TikTok with 1.5 million followers produced a video with t
 
 Michael Saylor, one of the best-known faces in Bitcoin, advised, "Take all your money, buy Bitcoin. Then take all your time, figure out how to borrow more money to buy more Bitcoin." Sell your things to buy Bitcoin, he went on. Mortgage your house to buy Bitcoin. Finance your family business, put the proceeds into Bitcoin.[^fn18]
 
----
-
 Some dove in headfirst, but some tried to find what appeared to them to be the least risky cryptocurrencies and platforms.
 
 Some put their money into Bitcoin—it had been around the longest, and after all, they were told that "on average, Bitcoin goes up 200% per year".[^fn6] Others went with stablecoin-based lending protocols like the Anchor project built on the Terra protocol, that promised a whopping 19–20% APY just for keeping TerraUSD stablecoins (tokens that were meant to be volatility-free) with the project for a fixed period. Some used firms like Stablegains, which promised to deliver 15% returns while mitigating the risk of potential stablecoin instability by diversifying funds across multiple coins.[^fn10] Others took lower returns by putting their crypto in projects like Celsius, in exchange for promises that the platform was less risky than other crypto projects, and even less risky than traditional banks.[^fn9]
 
 Now, Bitcoin has cratered 67% since its November 2021 peak.[^fn19] The Anchor protocol collapsed right along with the stablecoin TerraUSD, which dropped below its $1 peg in early May and could not recover.[^fn20] Stablegains lost 99% of their users' holdings—$44 million altogether—because they'd put them all into TerraUSD rather than diversifying them as they'd promised.[^fn21] After consistently reassuring customers that their funds were safe, Celsius suddenly stopped allowing withdrawals from their platform in June, and filed for Chapter 11 bankruptcy a month later.[^fn22] They're not the only ones—Vauld and Voyager Digital both began bankruptcy proceedings in July, and an even larger number of crypto firms have indefinitely suspended or severely limited customer withdrawals.[^fn23]
 
----
-
 Some investors are distraught. Suicide helplines were pinned to the subreddits dedicated to various collapsing projects or companies as their denizens made despairing posts. Users shared stories of how badly they were impacted. "Now I don't even have enough money to pay my rent this month. I'm fucking ruined."[^fn12] "I cannot pay the bank. I will lose my home soon. I'll become homeless."[^fn13] Customer after customer sent letters to the judge presiding over Celsius's bankruptcy proceedings, pleading for him to consider their circumstances. "That's the money I'm planning to give to my daughter when I pass away". "We will need to delay our retirement plans and continue to be in the work force". "This is an EMERGENCY situation, simply to keep a roof over my family and food on their table".[^fn14]
 
----
-
 And along came the familiar refrain from others in the crypto community: **"They should have followed the number one rule in crypto: don't invest what you cant afford to lose."**
-
----
 
 In 2021, 49% of Americans characterized their level of debt as unmanageable. 37% worried about their ability to meet a $100 emergency expense, and 43% worried about a $500 emergency. One in three did not have enough money to pay their bills in full and on time.[^fn15] Increasing numbers of people are working multiple jobs.[^fn16] Those in the millenial generation have "almost no chance" of being able to afford a house.[^fn17] Looking beyond the boundaries of the U.S., people face dire financial straits for these reasons and many more.
 
@@ -53,7 +45,7 @@ It's apparently easy for some people to castigate those who've just lost everyth
 
 Doing this only excuses the messaging that we have been seeing everywhere we look—in crypto media but also in supposedly reputable news publications, in advertising, on social media and from influencers, and certainly from crypto companies themselves—that crypto is an "investment", or the future of money, or the democratized version of finance that will finally give the average person a fair shake.
 
----
+## Notes
 
 [^fn1]: Normal Guy. "Celsius CEO Alex Mashinksy's LIES to the community within 6 months prior to Bankruptcy." (YouTube video). July 20, 2022.
 [^fn2]: Lee, Spike. "[The Currency of Currency](https://www.youtube.com/watch?v=5XMFEUNut18)". (YouTube video). July 14, 2021.

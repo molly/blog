@@ -13,7 +13,7 @@ On Wednesday, I turned in a final paper titled "Addressing the gender gap in fre
 <h2 id="cplusequality">C Plus Equality</h2>
 
 When I saw the Github-then-Bitbucket<sup><a href="#ref2">2</a></sup> repository <a href="https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality">C Plus Equality</a>, published by a user named <a href="https://bitbucket.org/FeministSoftwareFoundation/">Feminist Software Foundation</a>, my shields went up. The repository's README explains:
-
+>
 > C+= (pronounced either C-plus-Equality, or See Equality) is a feminist programming language, created to smash the toxic Patriarchy that is inherent in and that permeates all current computer programming languages.
 
 The repository consists of some code, but the main event is the 2,000+ word README that outlines the programming language. It's full of quips about "objectification-oriented programming" and "in<em>her</em>preters".
@@ -21,7 +21,7 @@ The repository consists of some code, but the main event is the 2,000+ word READ
 <h2 id="_notabene_"><em>Nota bene</em></h2>
 
 Since its publication, the repository has attracted attention online, some of it negative. This apparently did not go unnoticed by the creators of the repository, as they briefly<sup><a href="#ref3">3</a></sup> added a "<a href="https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/commits/55cf92001a3188967e7adb7bd7b2ce2a9a6f225e/raw/"><em>nota bene</em></a>":
-
+>
 > Nota bene: In light of recent events, we'd like to express our concern as to the blatant hostility some people in the social media have against the original, old-school spirit of playfulness that same call the 'hacker spirit'.  The purpose of this software project is two-fold: one, to explore the implications of 'feminist-inspired logic' on computer programming languages; and two, to explore how much 'hacker playfulness' we could get out of this process.  However, too many people, it seems, are none the wiser and perceived our project as something that is unabashedly anti-women, some even accusing us of 'harassing' women.  How could a page so self-evidently playful be sincerely misogynistic is beyond all our comprehension, save for the lament that too many people nowadays lack the ability to understand other people before giving in to knee-jerk reactions of hatred and selfishness.  Indeed, we dare say, it is these so-called self-brandished 'feminists' who take offence at almost everything that is making females a hard time in the computing industry by perpetuating the stereotype of the eternal victimhood of a female programmer.  To this the Feminist Software Foundation is deeply disappointed, and would like to send a pull request to you all to remove that little chip on your shoulder, and enjoy the world a little bit more.
 
 Let's see. First they explain that their repository is no more than them displaying the "original, old-school spirit of playfulness that same call the 'hacker spirit'." They express horror that this playfulness could be interpreted as "sincere misogyny". They then insult "so-called self-brandished 'feminists' who take offence at almost everything" for the issues faced by women in tech.
@@ -35,19 +35,19 @@ I poked through the README to see what all the fuss was about. It would appear t
 The misandrist:<sup><a href="#ref4">4</a></sup>
 
 > ...Instead, C+= is interpreted, which fosters communication, itself a strong female trait....
-  
+>
 > ...Women are better than men with natural language....
 
 The cis- and/or heterophobic:
 
 > ...These are all real values greater than 0, the only exception is the value of <code>WHITE_HETEROSEXUAL_CISGENDER_MALE_PRIVILEGE</code> which is set to infinity, and also the value of <code>PATRIARCHY</code>, which is set to <code>sqrt(-1)</code>....
-  
+>
 > ...Since everyone is equal (with the exception of cishet men, who are already excluded as per the license), this always evaluates to true....
 
 The social justice warrior:<sup><a href="#ref5">5</a></sup>
 
 > ...Instead of "running" a program, which implies thin privilege and pressure to "work out", programs are "given birth"....
-  
+>
 > ...Not calling the preferred data type leads to a <code>PrivilegeNotCheckedException</code>, or <code>PrivilegeNotCheckedTriggerWarning</code>...
 
 The whiny and overemotional:
@@ -61,11 +61,11 @@ The whiny and overemotional:
 ... discussion of rape culture
 
 > ..."Forking" will henceforth be called "consenting", and it is entirely up to the program to decide if the consent stands valid, regardless of the progress of the system clock....
-  
+>
 > ...There is to be no encapsulation: don't tell me to protect my members, tell other functions not to access them!...
   
 > ...Every variable has a random percentage of consent associated to it. variable can be affected with a number if and only if it is consenting. Failure to do so will result in C+= throwing a <code>ForcedInsertionTriggerWarning</code>....
-  
+>
 > ...No means no, and yes could mean no as well. Stop raping women....
 
 ... people who are triggered by various issues
@@ -75,11 +75,11 @@ The whiny and overemotional:
 <h3 id="transphobia">Transphobia</h3>
 
 > ...Instead, the variable is free to choose its own type when it is utilised/-ized. This preserves the variable's right to self-identify as any datatype it feels that it is....
-  
+>
 > ...A number can be an integer or a a double or a long if xir so identifies xirself. All numerical values will thus be represented as xe, and it is up to the value xirself to choose to identify as whatever xir chooses to identify as....
   
 > ...Who's to say a number can't be a string if it believes it is?...
-  
+>
 > ...Data structures and variables of all kinds have a random chance of deciding that they don't "feel right", and are actually a different type, and must henceforth be referred to ONLY as its preferred data type....
 
 The code files, sufficed with <code>.cpp</code> or <code>.Xe</code>, are small, and contain similar transphobic and social justice warrior jokes. One even goes so far as to end with a rape-joke-turned-exception: <code>void set(trans value) {post_on_tumblr trigger("FORCING AN IDENTITY DOWN MY THROAT, RAPE, RAPE, RAPE, RAPE, RAPE\n");}</code>

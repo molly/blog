@@ -35,8 +35,6 @@ Randi Zuckerburg releases a parody music video titled "[We're All Gonna Make It]
 
 SXSW 2022 hosts panels and events titled "Black in Web3: Now and the Future"[^fn9] and "Women Rocking Web3"[^fn10] and "Breaking the Blockchain Boys Club".[^fn11] One event promises to discuss "segments of the population that could benefit but aren't being included [in web3]: underserved communities; from middle America to BIPOC to women, rural and the LGBTQ+ communities". It is titled, apparently unironically, "Web3 For the Rest of Us", despite the fact that "the rest of us" that they seem to be alluding to are probably not among the people who paid $1,400–$2,000 for a ticket to SXSW.[^fn12]
 
------
-
 In crypto, you will hear that "community" is everything. Fan clubs form around individual coins, and NFT projects nearly always have a Discord or Telegram chat room where their collectors (or hopefuls) gather. People wish each other "[gm](https://web3isgoinggreat.com/glossary#gm)" and "gn" and chat about their days, their families, and, of course, their crypto.
 
 <div class="blog-images-float with-caption">
@@ -104,8 +102,6 @@ This is only more true when you've been told that buying this NFT—your Boss Be
 The #bossbabe #girlboss lingo of MLMs feels right at home in the emerging women-in-crypto space these days, where groups of beautiful women "investors" take photos clinking mimosas at brunch, show off their CryptoChick profile pictures, and receive airdropped NFTs of friendship bracelets symbolizing their membership in the girls-only club.
 
 The rhetoric often echoes the same sort of "*[Lean In](https://en.wikipedia.org/wiki/Lean_In)* feminism" pushed by Sheryl Sandberg in the early 2010s that encouraged women to be assertive in the workplace and grab themselves seats at the metaphorical table—without upsetting the apple cart too much, of course. "We have watched a lot of these bros get together and earn a lot of money, and I think we deserve to be in this space just as much," said Gwyneth Paltrow, encouraging women to buy NFTs in January 2022. "I think that there's a high probability that crypto will really be the future, and even though some people are still skeptical I think it's here to stay and we should really be part of it," she said—only months before NFTs and crypto in general would experience a serious downturn, and Paltrow's crypto and NFT posts would trail off to nothing.[^fn19][^fn20]
-
------
 
 Some of these identity-based groups and projects are outright frauds. The interest in diversifying crypto has also caused a boom in projects focused around diversity, which have found interested buyers in members of marginalized groups as well as those hoping to support them. And this interest, of course, has drawn the scammers hoping to cash in as well: there are many instances now of men pretending to be women and promoting "women-led" NFT projects. [Affinity fraud](https://en.wikipedia.org/wiki/Affinity_fraud) has also become rampant—the practice where scammers appeal to specific groups that have formed around shared identity.
 

@@ -14,7 +14,7 @@ In order to responsibly develop new technologies, it is critical to ask "how wil
 
 In the frenzy to attract venture capital funding and draw new users and investors into blockchain technologies, this question is once again going unasked. While blockchain proponents speak about a "future of the web" based around public ledgers, anonymity, and immutability, those of us who have been harassed online look on in horror as obvious vectors for harassment and abuse are overlooked, if not outright touted as features. 
 
-# Public transactions
+## Public transactions
 
 Some cryptocurrency enthusiasts envision a world where cryptocurrencies have replaced dollars and euros (which they refer to as "fiat"; I prefer the term "real money"), and transactions are done on the blockchain rather than with physical cash or transactions through centralized banks. Cryptocurrencies allow for anonymity, and unlike with traditional banking, connecting one's real-life identity to a wallet address is purely optional. This works just fine when you're just trading ape pictures online or planting pixel sunflowers in a play-to-earn game, but falls apart a bit in the theoretical future where you're standing in the checkout line using cryptocurrency to pay for your gallon of milk.
 
@@ -22,9 +22,7 @@ People who keep their cryptocurrency wallet addresses private often do so with g
 
 "Just use a different anonymous wallet", people might say. This is much easier in theory than in practice, since funds in a wallet have to come from somewhere, and it's not difficult to infer what might be happening when your known wallet address suddenly transfers money off to a new, empty wallet. There are certainly ways to successfully and anonymously do it, typically using cryptocurrency tumblers, cryptocurrency ATMs, or even mining fresh coins, but they require technological acumen: knowing how to anonymize transfers, but even to know what can potentially be used to link two addresses to begin with. Even if one succeeds in setting up a separate and anonymous wallet, quite a lot of care must be taken to successfully maintain its anonymity. And as chain analysis technologies progress, tying various wallets and transactions together becomes more accessible to those who wish to do so. In the best case scenario, a person ends up with many different wallets with varying degrees of anonymity, and has to try to keep track of which is which and who's allowed to know about which wallet.
 
------
-
-# Immutability
+## Immutability
 
 We are seeing a much wider array of products built atop the blockchain these days: video games, social networks, dating applications, porn platforms. Although "blockchain" for many brings to mind cryptocurrency exchanges and NFT trading platforms, where most interaction between users is simple transactions, the space is increasingly including much more full-featured applications. And as applications add in features like commenting and messaging, they become vectors for harassment.
 
@@ -34,25 +32,21 @@ As a quick aside, the details of how images and other large data would be stored
 
 Even ignoring the doors that immutability opens for malicious actors, immutable social network content is horrifying given what people post themselves. Imagine if the cringy posts by a twelve-year-old were guaranteed to be available in perpetuity as soon as they were saved. Or if the ill-conceived, drunken ramblings of a person who had few too many were there forever, not deleteable the following day. Imagine if a person uploading a photo of the cookies they just baked didn't realize until after they hit "post" that the envelope on the table in the background showed their home address.
 
-## Airdrops
+### Airdrops
 
 Furthermore, tokens can be "airdropped" to specific addresses, with no consent required by the recipient. Often used as a way to distribute free NFTs for giveaways and other promotional campaigns, there is nothing stopping someone from airdropping NFTs with abusive content—doxing, revenge porn, child sexual abuse imagery, threats, etc.—into someone's wallet. Some platforms automatically display airdropped NFTs until they are manually hidden by users, increasing the impact of such an attack. And even if someone hides or burns an NFT of this sort, the transaction and its contents remain immutably on the blockchain for anyone to see.
 
------
-
-# 1 address ≠ 1 individual
+### 1 address ≠ 1 individual
 
 When I receive a harassing message on the social networks I use, it tends to be pretty straightforward to just block the user. Most social networks introduce barriers to creating armies of new harassment accounts to cycle through when one is blocked, typically requiring email or phone verification, and using this data along with device data to propagate any bans to new accounts created with the same details.
 
 With blockchains, the ability to easily create new addresses is a feature and intended use of the technology. When projects have tried to use wallet addresses to identify an individual user, such in the case of Adidas trying to limit an NFT drop to two per person, they have been trivially circumvented.[^fn7] While it's possible that blockchain-based social networks could rely on additional data and identity verification to limit account creation in similar ways to what major social media networks do today, the libertarian ethos behind many of the services springing up in this space make that seem unlikely to catch on.
 
------
+## Conclusion
 
 There is surprisingly little discussion of the enormous potential for abuse built in to blockchain-based technologies, and I've barely even scraped the surface here. Indeed, I did a search for "blockchain harassment" and found little more than promotional materials for some startup apparently solving workplace harassment  ~\*~ with the blockchain ~\*~ (god help me). Both the web3 space and its group of outspoken critics have, to date, struck me as *overwhelmingly* male, which I suspect plays a role in this. Though often described as though it will somehow solve all of the inequalities that are built in to society, the leaders in the blockchain space don't appear to actually be thinking about a lot of them.
 
------
-
-# Notes
+## Notes
 [^fn0]: [Ethical Source](https://ethicalsource.dev/principles/)
 [^fn1]: Ingram, David (December 23, 2021). ["A tracking device made by Apple is showing up in suspected crimes"](https://www.nbcnews.com/news/apple-airtag-showing-up-crimes-rcna9416). _NBC News_.
 [^fn2]: Wilson, Mark (April 29, 2021). ["Apple AirTags could enable domestic abuse in terrifying ways"](https://www.fastcompany.com/90630404/apple-airtags-could-enable-domestic-abuse-in-terrifying-ways). _Fast Company_.

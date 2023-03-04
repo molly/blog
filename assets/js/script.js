@@ -10,10 +10,10 @@ function makeTweetsDark() {
 (function () {
   console.log(document.body)
   if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    document.body.classList.add('dark-mode');
+    document.body.setAttribute('data-theme', 'dark');
   }
 
-  if (document.body.classList.contains('dark-mode')) {
+  if (document.body.getAttribute('data-theme') === 'dark') {
     var tick = 0;
     var interval = setInterval(function() {
       makeTweetsDark();

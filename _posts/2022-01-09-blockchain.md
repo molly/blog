@@ -11,7 +11,7 @@ Until mid-2021 or so, my feelings towards blockchains and cryptocurrency were on
 
 It was such a reevaluation that led me to shift my stance on blockchains and cryptocurrency. I had been hearing more and more about blockchains, cryptocurrencies, and some “web3” thing in conversations with friends, various technology spaces, the news... well, kind of everywhere. I knew my information and therefore my opinions were outdated and incomplete, so I did some research. As with Bluetooth headphones, my opinion changed. But instead of going from apathy to acceptance, I have instead come to believe that these technologies are so harmful that I cannot ethically continue to ignore them, and must instead do my best to educate and advocate against their wider adoption. I am picking my battles, and this is one of them.
 
-# Essays
+## Essays
 
 I have written these with the assumption that people have a base understanding of concepts including the blockchain, cryptocurrencies, and NFTs — the _Web3 is Going Just Great_ [glossary](https://web3isgoinggreat.com/glossary) may be a useful resource if a term is unfamiliar. 
 
@@ -30,7 +30,7 @@ I have written these with the assumption that people have a base understanding o
 * "[Cryptocurrency 'market caps' and notional value]({{ site.baseurl }}{% post_url 2022-07-17-cryptocurrency-market-caps-and-notional-value %})". July 17, 2022.
 * "[Stop saying 'They shouldn't have invested more than they could afford to lose']({{ site.baseurl }}{% post_url 2022-07-22-stop-saying-they-shouldnt-have-invested-more-than-they-can-afford-to-lose %})". July 22, 2022.
 
-## Related
+### Related
 * Wikipedia _Signpost_: ["The Wikimedia Foundation's acceptance of cryptocurrency donations"]({{ site.baseurl }}{% post_url 2022-01-30-wikimedia-foundation-cryptocurrency-donations %}). January 30, 2022.
 * Stanford University: ["Abuse on the blockchain" (Lecture transcript)]({{ site.baseurl }}{% post_url 2022-03-07-abuse-on-the-blockchain-lecture %}). March 7, 2022.
 * "[The Edited Latecomer's Guide to Crypto](https://www.mollywhite.net/annotations/latecomers-guide-to-crypto)". March 25, 2022.

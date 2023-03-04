@@ -68,13 +68,13 @@
 /* Code */
 code,
 pre {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family: var(--monospace-fonts);
 }
 code {
   padding: .25em .5em;
   font-size: 85%;
   color: #bf616a;
-  background-color: #f9f9f9;
+  background-color: var(--code-background-color); 
   border-radius: 3px;
 }
 pre {
@@ -99,7 +99,7 @@ pre code {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: Menlo, Monaco, "Courier New", monospace !important;
+  font-family: var(--monospace-fonts) !important;  
 }
 .gist .markdown-body {
   padding: 15px;

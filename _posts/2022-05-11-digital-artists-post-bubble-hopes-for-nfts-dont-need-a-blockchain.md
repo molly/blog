@@ -47,7 +47,7 @@ Both Lukashov and Mann also seem relatively uninterested by cryptocurrency *itse
 
 So, it seems to me that there is this group of artists who are yearning for the technical ability to create and sell digitally unique objects with verifiable authenticity in a way that mirrors the traditional art world. They've been told NFTs can be the solution to it, but are also having to swallow the speculation, scams, environmental impact, and financial exploitation that comes along with NFTs.
 
-# Could there be another way?
+## Could there be another way?
 
 What is it about blockchains that solves the problems that artists are facing? Is it the distributed network or decentralized system? No, not really—a centralized server controlled by the artist or by a shared platform could achieve the same goal of processing sales and storing and displaying provenance data. Is it the associated cryptocurrency? No—if anything the cryptocurrency aspect is often a technical hurdle that must be overcome, rather than a feature.
 
@@ -61,7 +61,7 @@ And artists like Lukashov, Mann, and Condon argue that it was NFTs that finally 
 
 If we accept, then, that some technical complexity is acceptable, that consumers have embraced the concept of a digitally scarce object, and that the bits of the NFT world (like the speculative mania) introduced by blockchains are not particularly necessary or even desirable, is it possible that blockchains are not required at all for digital artists to achieve this new future of art that they are understandably excited about? 
 
-# Blockchainless digital scarcity
+## Blockchainless digital scarcity
 
 Rather than creating a crypto wallet, an artist can create a [PGP key pair](https://en.wikipedia.org/wiki/Pretty_Good_Privacy). A PGP key pair consists of two pieces: the public key and the private key. The public key is not unlike a cryptocurrency wallet address, in that it can be freely shared and used to verify data actually came from the person with that key. The private key is not unlike a cryptocurrency seed phrase, in that it must be carefully secured, because access to the private key would allow anyone to sign a transaction as though they were the true holder of that key.
 
@@ -71,13 +71,13 @@ We can envision, now, a centralized platform like OpenSea. (For those who prefer
 
 When an interested buyer decides to buy a copy of the artwork, they send a payment through the platform along with their own public key. The artist then signs a message including data like the purchase price, timestamp, parties involved, and any other data that might be relevant or interesting. Any legal agreements or copyright transfer details can also be included as desired. This is all collected together, signed, and publicly displayed, and voila! Ownership transferred. The platform and buyer can then both store their own copy of the signed file. If the buyer later wishes to sell, the process repeats, this time with the new owner signing the transaction. The platform (or the artist, in the platformless example) maintains the log of transactions, but each can be independently verified using the public keys. These messages are somewhat like the paper trail of records that are used to establish provenance with physical artwork.
 
-## Limitations
+### Limitations
 
 Some may point out that there's nothing preventing an artist from creating the same "numbered print" of a digital artwork more than once, or selling the same print multiple times. But there's nothing preventing an artist from printing multiple copies of a digital artwork and giving them all the same number, either, nor is there anything stopping someone from creating more NFTs of a single piece of source artwork than they promised. As it always has, this all comes down to trust in the artist. A platform could feasibly take steps to add trust, like by adding limits or rules on NFT creation, but these types of social problems are typically more reasonably solved through legal contracts or trusted authorities than with attempts at technological kludges.
 
 Others may argue that this is an inferior solution as it requires trust in another party—either the platform where these transactions are recorded or the artist who self-hosts such records has to be trusted to keep them available. But this is not distinct from blockchains either—if one day there are no miners or validators left to maintain a blockchain, any NFTs on that chain die with it. As it turns out, all records are ephemeral when it comes down to it.
 
-# So why isn't this happening?
+## So why isn't this happening?
 
 So, the big question: if there is a reasonably elegant solution to the problems these digital artists have outlined, that doesn't require high gas fees or suffer from the other irritating aspects of NFTs, why isn't everyone using some platform based on it?
 
