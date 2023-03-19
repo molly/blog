@@ -15,7 +15,6 @@
   To apply a different color scheme to the whole scroll down to the themes section for instructions
 */
 
-
 /*
   General
 
@@ -24,8 +23,8 @@
 
 * {
   -webkit-box-sizing: border-box;
-     -moz-box-sizing: border-box;
-          box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html {
@@ -39,7 +38,7 @@ body {
   color: var(--main-text-color);
   background-color: var(--bg-color);
   -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
   margin: 0;
 }
 
@@ -63,7 +62,6 @@ body {
   width: 100%;
 }
 
-
 /*
   Container
 
@@ -74,14 +72,15 @@ body {
   max-width: 700px;
   max-width: 35rem;
   max-width: 70ch;
-  padding-left:  1rem;
+  padding-left: 1rem;
   padding-right: 1rem;
-  margin-left:  auto;
+  margin-left: auto;
   margin-right: auto;
 }
 
 /* Links*/
-a, .text-title a {
+a,
+.text-title a {
   color: var(--main-text-color);
   text-decoration: underline;
 }
@@ -94,33 +93,31 @@ a:focus {
 }
 
 /* Headings*/
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--sans-serif-fonts);
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
   font-weight: 600;
-  letter-spacing: -.025rem;
+  letter-spacing: -0.025rem;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
 
-h1 {
-  font-size: 2rem;
-}
-
 h2 {
-  font-size: 1.6rem;
   margin-top: 2rem;
-}
-
-h3, h4, h5 {
-  font-size: 1.3rem;
 }
 
 h3 {
   margin-top: 1.5rem;
 }
 
-h4, h5, h6 {
+h4,
+h5,
+h6 {
   margin-top: 1rem;
 }
 
@@ -135,7 +132,8 @@ ul {
   list-style: circle;
 }
 
-ul, ol {
+ul,
+ol {
   margin-top: 0;
   margin-bottom: 1rem;
 }
@@ -153,7 +151,8 @@ blockquote {
   color: var(--main-text-color);
   border-left: none;
 
-  &::before, &::after {
+  &::before,
+  &::after {
     position: absolute;
     font-size: 3rem;
     font-style: normal;
@@ -177,8 +176,9 @@ blockquote {
 
 .excerpts blockquote {
   font-style: normal;
-  
-  &:before, &:after {
+
+  &:before,
+  &:after {
     content: none;
   }
 }
@@ -205,7 +205,7 @@ table {
 
 td,
 th {
-  padding: .25rem .5rem;
+  padding: 0.25rem 0.5rem;
   border: 1px solid var(--table-border-color);
 }
 
@@ -229,7 +229,7 @@ th {
   font-size: 2rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
- 
+
   a {
     color: var(--accent-color-purple);
     text-decoration: none;
@@ -277,8 +277,8 @@ th {
   color: var(--main-text-color);
   border-right: 1px solid var(--hr-color);
   background-color: var(--bg-color);
-  -webkit-transition: all .3s ease-in-out;
-          transition: all .3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 /* Sidebar content*/
@@ -311,7 +311,7 @@ th {
   }
 
   .sidebar-nav-item {
-    padding-left:  1.5rem;
+    padding-left: 1.5rem;
     padding-right: 1.5rem;
   }
 }
@@ -324,23 +324,71 @@ th {
 /* Style the `label` that we use to target the `.sidebar-checkbox`*/
 .sidebar-toggle {
   position: absolute;
-  top:  .8rem;
+  top: 0.8rem;
   left: 1rem;
   display: block;
-  padding: .25rem .75rem;
-  border-radius: .25rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.25rem;
   cursor: pointer;
 }
 
 .sidebar-toggle:before {
   display: inline-block;
   width: 1rem;
-  height: .75rem;
+  height: 0.75rem;
   content: "";
-  background-image: -webkit-linear-gradient(to bottom, var(--main-text-color), var(--main-text-color) 20%, var(--bg-color) 20%, var(--bg-color) 40%, var(--main-text-color) 40%, var(--main-text-color) 60%, var(--bg-color) 60%, var(--bg-color) 80%, var(--main-text-color) 80%, var(--main-text-color) 100%);
-  background-image:    -moz-linear-gradient(to bottom, var(--main-text-color), var(--main-text-color) 20%, var(--bg-color) 20%, var(--bg-color) 40%, var(--main-text-color) 40%, var(--main-text-color) 60%, var(--bg-color) 60%, var(--bg-color) 80%, var(--main-text-color) 80%, var(--main-text-color) 100%);
-  background-image:     -ms-linear-gradient(to bottom, var(--main-text-color), var(--main-text-color) 20%, var(--bg-color) 20%, var(--bg-color) 40%, var(--main-text-color) 40%, var(--main-text-color) 60%, var(--bg-color) 60%, var(--bg-color) 80%, var(--main-text-color) 80%, var(--main-text-color) 100%);
-  background-image:         linear-gradient(to bottom, var(--main-text-color), var(--main-text-color) 20%, var(--bg-color) 20%, var(--bg-color) 40%, var(--main-text-color) 40%, var(--main-text-color) 60%, var(--bg-color) 60%, var(--bg-color) 80%, var(--main-text-color) 80%, var(--main-text-color) 100%);
+  background-image: -webkit-linear-gradient(
+    to bottom,
+    var(--main-text-color),
+    var(--main-text-color) 20%,
+    var(--bg-color) 20%,
+    var(--bg-color) 40%,
+    var(--main-text-color) 40%,
+    var(--main-text-color) 60%,
+    var(--bg-color) 60%,
+    var(--bg-color) 80%,
+    var(--main-text-color) 80%,
+    var(--main-text-color) 100%
+  );
+  background-image: -moz-linear-gradient(
+    to bottom,
+    var(--main-text-color),
+    var(--main-text-color) 20%,
+    var(--bg-color) 20%,
+    var(--bg-color) 40%,
+    var(--main-text-color) 40%,
+    var(--main-text-color) 60%,
+    var(--bg-color) 60%,
+    var(--bg-color) 80%,
+    var(--main-text-color) 80%,
+    var(--main-text-color) 100%
+  );
+  background-image: -ms-linear-gradient(
+    to bottom,
+    var(--main-text-color),
+    var(--main-text-color) 20%,
+    var(--bg-color) 20%,
+    var(--bg-color) 40%,
+    var(--main-text-color) 40%,
+    var(--main-text-color) 60%,
+    var(--bg-color) 60%,
+    var(--bg-color) 80%,
+    var(--main-text-color) 80%,
+    var(--main-text-color) 100%
+  );
+  background-image: linear-gradient(
+    to bottom,
+    var(--main-text-color),
+    var(--main-text-color) 20%,
+    var(--bg-color) 20%,
+    var(--bg-color) 40%,
+    var(--main-text-color) 40%,
+    var(--main-text-color) 60%,
+    var(--bg-color) 60%,
+    var(--bg-color) 80%,
+    var(--main-text-color) 80%,
+    var(--main-text-color) 100%
+  );
 }
 
 .sidebar-toggle:active,
@@ -353,10 +401,58 @@ th {
 .sidebar-toggle:active:before,
 #sidebar-checkbox:focus ~ .sidebar-toggle:before,
 #sidebar-checkbox:checked ~ .sidebar-toggle:before {
-  background-image: -webkit-linear-gradient(to bottom, var(--bg-color), var(--bg-color) 20%, var(--main-text-color) 20%, var(--main-text-color) 40%, var(--bg-color) 40%, var(--bg-color) 60%, var(--main-text-color) 60%, var(--main-text-color) 80%, var(--bg-color) 80%, var(--bg-color) 100%);
-  background-image:    -moz-linear-gradient(to bottom, var(--bg-color), var(--bg-color) 20%, var(--main-text-color) 20%, var(--main-text-color) 40%, var(--bg-color) 40%, var(--bg-color) 60%, var(--main-text-color) 60%, var(--main-text-color) 80%, var(--bg-color) 80%, var(--bg-color) 100%);
-  background-image:     -ms-linear-gradient(to bottom, var(--bg-color), var(--bg-color) 20%, var(--main-text-color) 20%, var(--main-text-color) 40%, var(--bg-color) 40%, var(--bg-color) 60%, var(--main-text-color) 60%, var(--main-text-color) 80%, var(--bg-color) 80%, var(--bg-color) 100%);
-  background-image:         linear-gradient(to bottom, var(--bg-color), var(--bg-color) 20%, var(--main-text-color) 20%, var(--main-text-color) 40%, var(--bg-color) 40%, var(--bg-color) 60%, var(--main-text-color) 60%, var(--main-text-color) 80%, var(--bg-color) 80%, var(--bg-color) 100%);
+  background-image: -webkit-linear-gradient(
+    to bottom,
+    var(--bg-color),
+    var(--bg-color) 20%,
+    var(--main-text-color) 20%,
+    var(--main-text-color) 40%,
+    var(--bg-color) 40%,
+    var(--bg-color) 60%,
+    var(--main-text-color) 60%,
+    var(--main-text-color) 80%,
+    var(--bg-color) 80%,
+    var(--bg-color) 100%
+  );
+  background-image: -moz-linear-gradient(
+    to bottom,
+    var(--bg-color),
+    var(--bg-color) 20%,
+    var(--main-text-color) 20%,
+    var(--main-text-color) 40%,
+    var(--bg-color) 40%,
+    var(--bg-color) 60%,
+    var(--main-text-color) 60%,
+    var(--main-text-color) 80%,
+    var(--bg-color) 80%,
+    var(--bg-color) 100%
+  );
+  background-image: -ms-linear-gradient(
+    to bottom,
+    var(--bg-color),
+    var(--bg-color) 20%,
+    var(--main-text-color) 20%,
+    var(--main-text-color) 40%,
+    var(--bg-color) 40%,
+    var(--bg-color) 60%,
+    var(--main-text-color) 60%,
+    var(--main-text-color) 80%,
+    var(--bg-color) 80%,
+    var(--bg-color) 100%
+  );
+  background-image: linear-gradient(
+    to bottom,
+    var(--bg-color),
+    var(--bg-color) 20%,
+    var(--main-text-color) 20%,
+    var(--main-text-color) 40%,
+    var(--bg-color) 40%,
+    var(--bg-color) 60%,
+    var(--main-text-color) 60%,
+    var(--main-text-color) 80%,
+    var(--bg-color) 80%,
+    var(--bg-color) 100%
+  );
 }
 
 @media (min-width: 30.1em) {
@@ -370,7 +466,6 @@ th {
     display: none;
   }
 }
-
 
 /*
   Slide effect
@@ -389,14 +484,14 @@ th {
 .sidebar,
 .sidebar-toggle {
   -webkit-backface-visibility: hidden;
-      -ms-backface-visibility: hidden;
-          backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 
 .wrap,
 .sidebar-toggle {
-  -webkit-transition: -webkit-transform .3s ease-in-out;
-          transition: transform .3s ease-in-out;
+  -webkit-transition: -webkit-transform 0.3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
 }
 
 #sidebar-checkbox:checked + .sidebar {
@@ -408,10 +503,9 @@ th {
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
   -webkit-transform: translateX(14rem);
-      -ms-transform: translateX(14rem);
-          transform: translateX(14rem);
+  -ms-transform: translateX(14rem);
+  transform: translateX(14rem);
 }
-
 
 /*
   Reverse layout
@@ -434,10 +528,9 @@ th {
 .layout-reverse #sidebar-checkbox:checked ~ .wrap,
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
   -webkit-transform: translateX(-14rem);
-      -ms-transform: translateX(-14rem);
-          transform: translateX(-14rem);
+  -ms-transform: translateX(-14rem);
+  transform: translateX(-14rem);
 }
-
 
 /*
   Overlay sidebar
@@ -448,8 +541,8 @@ th {
 
 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
   -webkit-transform: translateX(0);
-      -ms-transform: translateX(0);
-          transform: translateX(0);
+  -ms-transform: translateX(0);
+  transform: translateX(0);
 }
 
 /*
@@ -544,7 +637,6 @@ th {
   color: #8f5536;
 }
 
-
 /*
  ED SPECIAL LAYOUTS
 */
@@ -558,7 +650,7 @@ p.larger {
 }
 
 p.large {
-  font-size: 1.4rem
+  font-size: 1.4rem;
 }
 
 p.small {
@@ -573,7 +665,6 @@ div.narrative {
 div.toc {
   margin-bottom: 4rem;
 }
-
 
 /*
   Poem styles
@@ -590,12 +681,10 @@ ul.poetry {
   text-indent: -1rem;
 }
 
-
 /* This snippet helps us reset the margin for all spans with the indent- class*/
-.poetry span[class^='indent-']{
-  margin: 0;/* reset browsers default margin styles*/
+.poetry span[class^="indent-"] {
+  margin: 0; /* reset browsers default margin styles*/
 }
-
 
 /*
   To set line indentation for poetry wrap the line in a span, with a class="indent-x" attribute.
@@ -673,12 +762,12 @@ sup {
 .footnotes .foot-block {
   display: inline-block;
   padding: 0 4rem 0 2rem;
-  margin-bottom: .8rem;
+  margin-bottom: 0.8rem;
   font-style: italic;
 }
 
 a.footnote {
-  padding-left: .1rem;
+  padding-left: 0.1rem;
   font-size: 0.8rem;
 }
 
@@ -691,13 +780,13 @@ ol.bibliography {
 
 /* Diplomatic editions*/
 .add {
-  color:#288828;
+  color: #288828;
   font-style: italic;
 }
 
 .delete {
   text-decoration: line-through;
-  color: #AA3232;
+  color: #aa3232;
 }
 
 .underline {
@@ -752,10 +841,11 @@ li.prose-indent {
 }
 
 .post-list {
-  h2, h3 {
+  h2,
+  h3 {
     font-family: var(--serif-fonts);
   }
-  
+
   h3.title-text {
     margin: 0 20px 0 0;
     display: inline;
@@ -811,7 +901,7 @@ li.prose-indent {
   margin-right: 5px;
 
   a {
-    color: var(--main-text-color)
+    color: var(--main-text-color);
   }
 }
 
@@ -856,12 +946,14 @@ li.prose-indent {
   }
 }
 
-.blog-images-horizontal, .blog-images-single {
+.blog-images-horizontal,
+.blog-images-single {
   display: flex;
   margin-top: 20px;
   margin-bottom: 10px;
 
-  .image, .image img {
+  .image,
+  .image img {
     object-fit: contain;
     max-height: 300px;
   }
@@ -871,23 +963,27 @@ li.prose-indent {
   }
 }
 
-.blog-images-horizontal.wide, .blog-images-single.wide {
+.blog-images-horizontal.wide,
+.blog-images-single.wide {
   flex-direction: column;
-  
+
   .image:not(:first-child) {
     margin-left: 0px;
     margin-top: 10px;
   }
 }
 
-.blog-images-horizontal.tall, .blog-images-single.tall {
-  .image, .image img {
+.blog-images-horizontal.tall,
+.blog-images-single.tall {
+  .image,
+  .image img {
     max-height: 500px;
   }
 }
 
 .blog-images-single.full-width {
-  .image, .image img {
+  .image,
+  .image img {
     width: 100%;
     max-height: none;
   }
@@ -897,10 +993,10 @@ li.prose-indent {
   float: right;
   margin-left: 20px;
   margin-bottom: 20px;
-  
+
   .image {
     max-width: 300px;
-    
+
     img {
       max-height: 300px;
     }
@@ -912,7 +1008,8 @@ li.prose-indent {
     float: none;
     margin-left: 0;
 
-    .image, .image img {
+    .image,
+    .image img {
       max-width: none;
       width: 100%;
       margin: 0 auto;
@@ -955,7 +1052,7 @@ li.prose-indent {
 
   a {
     color: var(--note-text-color);
-    
+
     &:hover {
       color: var(--note-text-hover-color);
     }
@@ -978,11 +1075,12 @@ li.prose-indent {
   color: var(--note-text-color);
 
   a:hover {
-    color: var(--note-text-hover-color)
+    color: var(--note-text-hover-color);
   }
 }
 
-.timestamp, .timestamp a {
+.timestamp,
+.timestamp a {
   font-size: 0.8rem;
   color: var(--timestamp-color);
   text-decoration: none;
@@ -1001,4 +1099,4 @@ li.prose-indent {
 
 .copyright-footer {
   text-align: center;
-} 
+}
