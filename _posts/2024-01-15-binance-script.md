@@ -5,6 +5,7 @@ author: Molly White
 publication-date: 2022-07-27
 custom_excerpt: "A written version of my video, 'The charges against Binance'."
 post_collection: "blockchain"
+cc: true
 ---
 
 _This is the script for "The charges against Binance", a video about the legal actions against Binance and its former CEO, Changpeng Zhao._
