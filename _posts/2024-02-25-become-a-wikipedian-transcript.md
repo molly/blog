@@ -13,6 +13,16 @@ _This is the transcript for "Become a Wikipedian in 30 minutes", a video about h
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bRRHR1NEOqE?si=MWxZ1-HAITidexlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+-----
+
+## Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+
+-----
+
 Have you ever thought about getting started editing Wikipedia, but then decided not to because you were just overwhelmed by the number of policies it felt like you needed to understand? Or you didn't know where to get started, what to start writing about, what to even edit? Or you were just worried you might break something and mess everything up?
 
 I encourage people to edit Wikipedia all the time, for so many different reasons, and I hear that a lot: that they wanted to start editing, and they maybe even made an account to get started, but then once they went to actually edit something they got scared or overwhelmed by the policies. Or they they read a couple of pages and felt like they just couldn't possibly do it.
